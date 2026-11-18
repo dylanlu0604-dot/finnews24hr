@@ -1,7 +1,52 @@
 {
-  "updated": "2026-11-18 11:08:47",
-  "count": 9530,
+  "updated": "2026-11-18 11:12:33",
+  "count": 9533,
   "items": [
+    {
+      "id": "5221785",
+      "time": "2026-11-18 11:11:59",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【阿波羅全球管理CEO稱保險資金將支撐規模高達8萬億美元的AI建設熱潮】阿波羅全球管理執行長Marc Rowan表示，人工智慧(AI)基礎設施建設可能需要高達8萬億美元融資，保險和退休資金將成為重要資金來源。Rowan週二在奧斯汀舉行的TomorrowX峰會上表示，如果企業希望透過複雜專案融資把資產移到表外並形成長期資產，就會轉向私人市場。他認為，在這一過程中，保險業將成為比銀行更強大的融資力量。“未來三到四年，債券市場可能發生重大變化。目前這個市場由十大銀行主導，屆時十大債券發行人中可能有六家是科技公司，”Rowan說。“這是我們前所未見的轉變。”不過，Rowan也警告所謂“新雲”公司的風險正在上升。這類AI新興企業大量採購晶片，再出租算力。Rowan稱，一些公司的市值可達500億至600億美元，但債券收益率高達15%。他說：“這類公司或許能提供高回報，但未必能提供足夠的安全保障。”"
+    },
+    {
+      "id": "5221778",
+      "time": "2026-11-18 11:10:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華中數控等成立科技新公司 含光學儀器相關業務】企查查APP顯示，近日，武漢華數光儀科技有限公司成立，經營範圍包含電子測量儀器製造；光學儀器製造；光學儀器銷售；光電子器件銷售等。企查查股權穿透顯示，該公司由華中數控等共同持股。"
+    },
+    {
+      "id": "5221777",
+      "time": "2026-11-18 11:10:14",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國臺辦：實現祖國完全統一功在當下 利在千秋 福澤萬代】國務院臺辦舉行例行新聞釋出會，有記者問：民進黨當局稱，大陸宣傳統一利好及形塑“議統”氛圍，面對大陸加大“對臺施壓及促統力度”，將捍衛所謂“國家主權安全”。請問對此有何評論？發言人陳斌華表示，實現祖國完全統一是中華兒女的共同願望，是兩岸同胞根本福祉所在。功在當代、利在千秋、福澤萬代。祖國必須統一，也必然統一，這是任何人任何勢力都無法阻擋的歷史大勢。我們團結兩岸同胞，共同推動兩岸關係和平發展、推進祖國統一程序，是為了維護中華民族根本利益，實現兩岸同胞對美好生活的嚮往。越來越多臺灣同胞認識到，越早實現統一，越有利於臺灣發展，越有利於臺灣同胞過上更好日子。近期，數百名臺灣各界人士發出兩岸和平倡議，為改善和發展兩岸關係建言獻策。奉勸民進黨當局早日認清形勢，順應民心民意，不要逆流而動。"
+    },
+    {
+      "id": "mkt:01a1eca1-e25b-7bbc-ac34-179c46f33d74",
+      "time": "2026-11-18 11:09:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【AI boom prompts South Korean think tank to sharply raise 2027 growth forecast】South Korea’s Korea Development Institute (KDI) raised its 2027 growth forecast to 3.9% from 2.2%, citing continued support for semiconductor exports and investment from the global AI boom. It lifted this year’s forecast to 3.8% from 3.2%. The 2027 estimate is more optimistic than the IMF’s 3.3% forecast and the Bank of Korea’s 2.9% projection from August. The Bank of Korea is due to update its forecasts at its Nov. 26 policy meeting."
+    },
+    {
+      "id": "5221776",
+      "time": "2026-11-18 11:08:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本汽車工業協會將推動各車企實現關鍵材料與零部件的標準化，以提升產業競爭力。"
+    },
     {
       "id": "5221775",
       "time": "2026-11-18 11:08:08",
@@ -85474,27 +85519,6 @@
         "Importance 1"
       ],
       "text": "Japan 10-Year Yield Tracks US Treasury Yields Higher — Japan’s 10-year government bond yield rose to around 2.77% on Wednesday, reaching a one-week high as it followed the upward movement in US Treasury yields. The rise came as hawkish comments from Federal Reserve officials and stronger-than-expected US inflation data reinforced expectations of further Fed rate hikes. Markets are now pricing in roughly a 91% probability of a Fed rate increase next month, up from 84% a day earlier, with additional hikes in January and potentially April also being considered. Meanwhile, the Bank of Japan’s latest Summary of Opinions showed broad agreement among policymakers that interest rates should continue rising, as underlying inflation has reached levels generally consistent with the central bank’s 2% price stability target. BOJ Chief Economist Seisaku Kameda also indicated on Monday that the central bank is likely to raise rates in December and maintain its monetary tightening path throughout next year."
-    },
-    {
-      "id": "te:markets:600232",
-      "time": "2026-11-11 11:11:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Weakens on Fed Rate Hike Expectations — The Japanese yen weakened toward 159 per dollar on Wednesday, approaching a two-month low as the US dollar strengthened following hawkish comments from Federal Reserve officials and stronger-than-expected US inflation data. Markets are now assigning approximately a 91% probability to a Fed rate hike next month, up from 84% a day earlier, while additional increases in January and potentially April are also being factored in. The yen remained under pressure despite increasingly hawkish signals from the Bank of Japan, as policymakers broadly agreed that interest rates should continue moving higher, with underlying inflation reaching levels generally consistent with the central bank’s 2% price stability target. BOJ Chief Economist Seisaku Kameda also indicated on Monday that the central bank is likely to raise interest rates in December and continue its monetary tightening cycle into next year."
-    },
-    {
-      "id": "em:qqyh_mlc:202611113928249869",
-      "time": "2026-11-11 11:10:43",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【高盛料美聯儲明年3月第三度升息 降息預測則推遲一季】高盛表示，美國10月CPI意外大幅高於預期。該公司美國首席經濟學家DavidMericle在報告寫道，仍預計美聯儲將在12月第二度升息25個基點，並在預測中新增2027年3月第三度升息25個基點，第三次升息也可能提前至1月，但3月的可能性略高，因為11月和12月的通脹資料料將較為溫和，但在成本壓力持續之下，年初較大幅度的漲價料將推高1月通脹。"
     }
   ]
 }
