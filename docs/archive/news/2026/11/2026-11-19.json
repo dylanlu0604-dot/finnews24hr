@@ -1,7 +1,80 @@
 {
   "date": "2026-11-19",
-  "count": 228,
+  "count": 235,
   "items": [
+    {
+      "id": "5223530",
+      "time": "2026-11-19 03:09:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥比索跌幅擴大，兌美元貶值2%。"
+    },
+    {
+      "id": "5223529",
+      "time": "2026-11-19 03:09:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數漲幅收窄至0.2%，標普500指數下跌0.2%。"
+    },
+    {
+      "id": "5223528",
+      "time": "2026-11-19 03:08:45",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美元現貨指數在美聯儲公開市場委員會會議紀要公佈後觸及日內高點。"
+    },
+    {
+      "id": "mkt:01a1f00f-5cff-7bbc-ac51-3f4a1e0e0848",
+      "time": "2026-11-19 03:08:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "WTI"
+      ],
+      "text": "【Fed minutes: 'A vast majority' of officials see upside risks to inflation】Most FOMC members expected inflation to remain elevated in the near term before gradually returning to 2% over time. With energy prices high and refined fuel supplies still constrained, a vast majority saw upside risks to the inflation outlook. Many officials viewed AI infrastructure spending as a significant source of inflation risk, saying related costs could broadly feed through to consumer goods and business services prices and persist for an extended period."
+    },
+    {
+      "id": "5223527",
+      "time": "2026-11-19 03:08:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟擴大與Factory在AI軟體工程領域的合作。"
+    },
+    {
+      "id": "mkt:01a1f00f-0e7d-7bbc-ac51-30add2ab7a6d",
+      "time": "2026-11-19 03:08:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed minutes: Some officials saw potential need for further 50-bp hike】Minutes of the Fed’s October meeting showed officials increasingly concerned that stronger action may be needed to curb inflation, despite agreeing to hold rates steady. Almost all policymakers said further hikes would be needed if the economy evolved as expected. A few warned that more persistent inflation could require a more restrictive stance than currently anticipated; some said the Fed might have to raise rates by 50 bps if subsequent inflation data disappointed. Recent data have met that trigger, with price increases above expectations. A few officials who supported holding the policy rate at 3.75%-4.00% called the decision difficult and said the Fed should make clear that keeping rates unchanged did not weaken its commitment to 2% inflation."
+    },
+    {
+      "id": "5223526",
+      "time": "2026-11-19 03:07:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲釋放訊號：通脹持續，不排除加息50個基點】10月美聯儲會議紀要顯示，部分官員支援進一步收緊政策，少數官員認為12月加息幅度可超過25個基點。但利率預測市場僅定價9%的大幅加息機率。美聯儲仍將激進緊縮納入政策選項。"
+    },
     {
       "id": "5223525",
       "time": "2026-11-19 03:06:05",
