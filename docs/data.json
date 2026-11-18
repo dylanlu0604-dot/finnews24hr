@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-18 10:19:29",
-  "count": 9451,
+  "updated": "2026-11-18 10:23:14",
+  "count": 9454,
   "items": [
+    {
+      "id": "5221548",
+      "time": "2026-11-18 10:21:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月份河南省社會消費品零售總額增長2.9％】11月18日，河南省統計局釋出的資料顯示，10月份，全省社會消費品零售總額2751.08億元，同比增長2.9%，高於全國2.5個百分點。其中，限額以上單位消費品零售額684.77億元，下降0.3%。"
+    },
+    {
+      "id": "5221547",
+      "time": "2026-11-18 10:20:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華為算力概念持續走高 卡萊特20cm連板】華為算力概念盤中持續走高，卡萊特走出20cm2連板，星華新材逼近20cm漲停，此前真視通、四川長虹、常山北明漲停，盛景微、先進數通、中貝通訊、潤和軟體、亞康股份等跟漲。"
+    },
+    {
+      "id": "5221546",
+      "time": "2026-11-18 10:20:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國臺辦：兩岸應在一箇中國原則和“九二共識”基礎上恢復協商談判】國務院臺辦舉行例行新聞釋出會，有記者問：海基會前副董事長邱進益近日呼籲民進黨放棄“臺獨”黨綱，並且提出兩岸應談判協商在2030年建立共同市場，2032年統一貨幣，請問對此有何評論？發言人陳斌華表示，只要有利於兩岸關係和平發展的主張，我們都歡迎。只要有利於兩岸關係和平發展的事，我們都會盡力去做。兩岸經濟結構優勢互補，交流合作理所當然，我們始終主張兩岸應在一箇中國原則和“九二共識”基礎上恢復協商談判。民進黨當局頑固堅持“臺獨”分裂，拒不承認“九二共識”，破壞兩岸共同政治基礎，是兩岸協商談判無法恢復、兩岸經濟合作制度化無法推進的罪魁禍首。兩岸同胞應攜手同心，為臺海和平、兩岸交流合作破除障礙，讓兩岸關係重回和平發展正軌。"
+    },
+    {
+      "id": "mkt:01a1ec73-f27a-7bbc-ac33-3d5fdf155a27",
+      "time": "2026-11-18 10:19:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "KOSPI",
+        "Impact bearish"
+      ],
+      "text": "South Korea's KOSPI turns lower after rising more than 3% earlier."
+    },
     {
       "id": "5221545",
       "time": "2026-11-18 10:18:40",
@@ -84809,18 +84845,6 @@
         "Importance 1"
       ],
       "text": "Gold Pressured by Fed Rate Hike Bets — Gold held below $4,050 an ounce on Wednesday after tumbling nearly 3% in the previous session, as hawkish comments from Federal Reserve officials and stronger-than-expected US inflation data strengthened expectations of a rate hike in December. US headline inflation slowed to 0.4% MoM in October from 0.6% in September, but came in above market forecasts of 0.3%. Meanwhile, core inflation remained unchanged at 0.3% for the third consecutive month, exceeding expectations of 0.2% and signaling persistent underlying price pressures. Fed Governor Christopher Waller expressed support for further monetary tightening in December, adding that he would favor a half-percentage-point increase if inflation continues to accelerate. Dallas Fed President Lorie Logan also indicated that more aggressive rate hikes may be necessary to bring inflation under control. Consequently, markets are now pricing in approximately a 91% probability of a rate increase next month, up from 84% in the previous session."
-    },
-    {
-      "id": "te:markets:600208",
-      "time": "2026-11-11 10:22:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Slip on Investor Unease — The Shanghai Composite edged down 0.1% to 3,661 on Wednesday, while the Shenzhen Component fell 0.5% to 11,184, reversing gains from the previous session as investor unease grew over China's dependence on foreign markets in the face of soft domestic consumption. Although robust export growth pushed China's year-to-date trade surplus past $1 trillion for the second time on record, domestic demand remained subdued. Consumer inflation slowed to 0.7% in October 2026 from 0.9% in the prior month, reaching its lowest level since June, driven largely by falling food prices. While authorities have introduced targeted support measures, such as mortgage relief and credit easing, these have yet to show a tangible impact. Notable decliners included Kweichow Moutai (-1%), Zijin Mining Group (-2.2%), CATL (-1.1%) and BYD (-1.6%). In contrast, technology stocks bucked the broader weakness, with Zhongji Innolight (6.2%) and Eoptolink Technology (7.2%) posting strong gains."
     }
   ]
 }
