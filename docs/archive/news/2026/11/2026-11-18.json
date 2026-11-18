@@ -1,7 +1,143 @@
 {
   "date": "2026-11-18",
-  "count": 741,
+  "count": 756,
   "items": [
+    {
+      "id": "5221750",
+      "time": "2026-11-18 11:03:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平會見韓國總統李在明】11月18日上午，國家主席習近平在深圳會見來華出席亞太經合組織領導人非正式會議的韓國總統李在明。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1ec9c-1bac-7bbc-ac34-033d2730e06b",
+      "time": "2026-11-18 11:03:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China meets South Korea's Lee】China met South Korea's Lee in Shenzhen on the morning of Nov. 18, during Lee's visit to attend the APEC Economic Leaders' Meeting."
+    },
+    {
+      "id": "5221741",
+      "time": "2026-11-18 11:02:29",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【國家發改委副主任沈竹林會見寶馬集團董事長聶科維】國家發展改革委副主任沈竹林11月16日下午在委內會見寶馬集團董事長聶科維，雙方就中歐汽車產業發展情況以及寶馬在華髮展進行了交流。沈竹林表示，近年來中國汽車產業實現快速發展，擁有大規模市場和完備的汽車產業鏈配套優勢。國家發展改革委支援寶馬集團在華髮展，與中國企業深化務實合作，共享新能源汽車產業發展紅利。聶科維表示，寶馬在華三十餘載，看好中國經濟和汽車產業發展前景，寶馬將立足創新生態，持續深化與上下游企業產業鏈協同，深耕中國市場，拓展合作新空間。"
+    },
+    {
+      "id": "mkt:01a1ec9a-e165-7bbc-ac33-fe4a2d332175",
+      "time": "2026-11-18 11:02:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Korea Development Institute expects inf to average 2.7% in 2026, unchanged from its previous forecast, and 2.4% in 2027, up from 2.2%."
+    },
+    {
+      "id": "mkt:01a1ec9a-d193-7bbc-ac33-f42769398bbb",
+      "time": "2026-11-18 11:02:11",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "HSI extends losses to 1%; Hang Seng Tech Index falls 1.16%."
+    },
+    {
+      "id": "5221737",
+      "time": "2026-11-18 11:01:55",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩部門聯合釋出十大計量重點攻關專案】記者今日瞭解到，市場監管總局、工業和資訊化部聯合釋出十大計量重點攻關專案，覆蓋新一代資訊科技、人工智慧、航空航天、新能源、新材料、高階裝備、生物醫藥、量子科技、積體電路、儀器儀表十大領域。集中國內優勢計量資源協同攻關，著力打破產業“測不了、測不全、測不準”的關鍵計量瓶頸。這些重點專案緊扣產業發展迫切計量需求，既解決當前企業的現實難題，又提前佈局未來產業的計量能力。一是向“卡脖子”處攻堅，一批專案直面國外技術禁運和傳統測量原理侷限，在計量基標準層面實現自主突破，為高階製造提供國際領先的“量值源頭”；二是向未來產業提前佈局，氫能、低空經濟、量子科技、生物醫藥、電力—算力—碳排放協同計量等專案從源頭填補計量測試能力；三是為產業鏈安全兜底，積體電路、稀土永磁材料、高階油氣鑽採裝備等領域的計量短板加快補齊。專案實施後，將系統填補我國高階計量測試領域空白。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1ec9a-8c31-7bbc-ac33-ea5e6b4d0ba2",
+      "time": "2026-11-18 11:01:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "The Korea Development Institute raised its South Korea GDP growth forecasts to 3.8% for 2026 from 3.2%, and to 3.9% for 2027 from 2.2%."
+    },
+    {
+      "id": "5221736",
+      "time": "2026-11-18 11:01:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報23272.650點；恒生科技指數現跌1.164%。"
+    },
+    {
+      "id": "5221731",
+      "time": "2026-11-18 11:01:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國總統李在明抵達會見現場】11月18日上午，國家主席習近平將在深圳會見來華出席亞太經合組織領導人非正式會議的韓國總統李在明。李在明一行抵達會見現場。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1ec9a-4588-7bbc-ac33-e22e81ca5124",
+      "time": "2026-11-18 11:01:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【China launches 10 priority metrology R&D projects】China’s State Administration for Market Regulation and Ministry of Industry and Information Technology jointly launched 10 priority metrology R&D projects across sectors including AI, aerospace, new energy, semiconductors, quantum technology and biomedicine. The projects aim to address measurement bottlenecks, achieve domestic breakthroughs in core measurement standards amid foreign technology restrictions, build testing capabilities for emerging industries such as hydrogen and the low-altitude economy, and strengthen supply-chain resilience in semiconductors, rare-earth magnets and oil and gas equipment."
+    },
+    {
+      "id": "mkt:01a1ec9a-2da1-7bbc-ac33-dce6f21fc58f",
+      "time": "2026-11-18 11:01:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: South Korean household credit rose 0.5% QoQ at end-September, versus 1.3% at end-June, and 3.3% YoY, versus 3.6%."
+    },
+    {
+      "id": "5221725",
+      "time": "2026-11-18 11:01:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "KDI預計2027年韓國平均通脹率為2.4%，此前預估為2.2%。"
+    },
+    {
+      "id": "5221724",
+      "time": "2026-11-18 11:01:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國智庫KDI預計2026年平均通脹率為2.7%，與此前預估持平。"
+    },
+    {
+      "id": "5221723",
+      "time": "2026-11-18 11:00:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國智庫KDI預計2027年GDP增速為3.9%，此前預計為2.2%。"
+    },
+    {
+      "id": "5221722",
+      "time": "2026-11-18 11:00:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國國家智庫KDI上調GDP預期，預計2026年GDP增速為3.8%，此前預期為3.2%。"
+    },
     {
       "id": "5221721",
       "time": "2026-11-18 11:00:25",
