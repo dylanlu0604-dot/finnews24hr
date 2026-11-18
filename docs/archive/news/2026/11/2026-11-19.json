@@ -1,7 +1,140 @@
 {
   "date": "2026-11-19",
-  "count": 157,
+  "count": 169,
   "items": [
+    {
+      "id": "5223490",
+      "time": "2026-11-19 02:35:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：及時將通脹率降至2%對美聯儲至關重要。"
+    },
+    {
+      "id": "5223489",
+      "time": "2026-11-19 02:35:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：將關注資料以確定美聯儲下一步行動。"
+    },
+    {
+      "id": "5223488",
+      "time": "2026-11-19 02:35:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：經濟強勁，失業率處於低位。"
+    },
+    {
+      "id": "mkt:01a1eff1-48a1-7bbc-ac50-65cf3f12f49a",
+      "time": "2026-11-19 02:35:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve Governor Barr says the economy is strong and unemployment is low."
+    },
+    {
+      "id": "mkt:01a1eff1-44dc-7bbc-ac50-5f11a5371b26",
+      "time": "2026-11-19 02:35:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor Barr: Inf is too high, weighing on many households."
+    },
+    {
+      "id": "mkt:01a1eff1-34b1-7bbc-ac50-52f345adf956",
+      "time": "2026-11-19 02:35:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed Governor Barr: It is critical that the Fed bring inf down to 2% in a timely manner."
+    },
+    {
+      "id": "5223487",
+      "time": "2026-11-19 02:35:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：通脹水平過高，許多家庭正面臨困難。"
+    },
+    {
+      "id": "mkt:01a1eff1-267e-7bbc-ac50-4d1530eccf74",
+      "time": "2026-11-19 02:35:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Barr: The Fed will watch the data to determine its next move."
+    },
+    {
+      "id": "mkt:01a1eff1-1995-7bbc-ac50-40f312698d8a",
+      "time": "2026-11-19 02:35:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed Governor Barr: If the economy performs as expected, he supports further rate hikes."
+    },
+    {
+      "id": "5223486",
+      "time": "2026-11-19 02:35:15",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：進一步加息可能是適當的。"
+    },
+    {
+      "id": "mkt:01a1eff0-a9f1-7bbc-ac50-3b2eee4b1630",
+      "time": "2026-11-19 02:34:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The AI fund Situational Awareness is planning a relaunch, considering a return to leveraged trading and seeking external financing next year, the Financial Times reported."
+    },
+    {
+      "id": "5223485",
+      "time": "2026-11-19 02:34:13",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "ARM 執行長雷內・哈斯收到英偉達董事會接洽，納入新任 CEO 遴選範圍。"
+    },
     {
       "id": "mkt:01a1efed-5e9f-7bbc-ac50-33653c0e6ebf",
       "time": "2026-11-19 02:31:13",
