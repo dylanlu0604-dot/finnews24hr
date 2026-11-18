@@ -1,7 +1,73 @@
 {
   "date": "2026-11-19",
-  "count": 150,
+  "count": 157,
   "items": [
+    {
+      "id": "mkt:01a1efed-5e9f-7bbc-ac50-33653c0e6ebf",
+      "time": "2026-11-19 02:31:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night-session main contracts settle】At the 2:30 a.m. close, the most-active Shanghai gold contract fell 2.40% to 804 yuan per gram, Shanghai silver fell 4.23% to 10,767 yuan per kg, and the most-active SC crude oil contract fell 4.80% to 561 yuan per barrel."
+    },
+    {
+      "id": "mkt:01a1efec-b89a-7bbc-ac50-28c25c5a540e",
+      "time": "2026-11-19 02:30:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 1.67% to 804.5 yuan per gram at Wednesday’s evening close. Silver T+D fell 2.94% to 10,742 yuan per kg."
+    },
+    {
+      "id": "5223484",
+      "time": "2026-11-19 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌4.80%，報561.10元人民幣/桶。滬金夜盤收跌2.30%，滬銀收跌4.23%。"
+    },
+    {
+      "id": "5223483",
+      "time": "2026-11-19 02:29:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "PHP：安全團隊宣佈將於11月19日釋出安全版本。安全版本將修復影響所有受支援PHP版本的安全漏洞。"
+    },
+    {
+      "id": "mkt:01a1efeb-5dd6-7bbc-ac50-22e9acf765fc",
+      "time": "2026-11-19 02:29:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Minister Hegseth: Signed a new agreement with Venezuela on joint military training, partnership and intelligence sharing."
+    },
+    {
+      "id": "5223482",
+      "time": "2026-11-19 02:28:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思：美方已與委內瑞拉簽署新協議，內容涵蓋聯合軍事訓練、夥伴合作以及情報共享。"
+    },
+    {
+      "id": "mkt:01a1efea-f093-7bbc-ac50-184b5540d88f",
+      "time": "2026-11-19 02:28:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The PHP security team will release security updates on Nov. 19 to fix a vulnerability affecting all supported PHP versions."
+    },
     {
       "id": "mkt:01a1efe7-b74c-7bbc-ac50-1572e18c9d46",
       "time": "2026-11-19 02:25:02",
