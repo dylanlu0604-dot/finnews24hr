@@ -1,7 +1,66 @@
 {
-  "updated": "2026-11-18 10:23:14",
-  "count": 9454,
+  "updated": "2026-11-18 10:27:01",
+  "count": 9458,
   "items": [
+    {
+      "id": "5221553",
+      "time": "2026-11-18 10:26:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南10月份規模以上工業增加值同比增長9.3%】河南省統計局釋出的資料顯示，10月份，規模以上工業增加值同比增長9.3%，比上月加快2.5個百分點，高於全國4.5個百分點。分三大門類看，採礦業增加值下降5.2%，製造業增長12.1%，電力、熱力、燃氣及水生產和供應業下降1.3%。"
+    },
+    {
+      "id": "mkt:01a1ec79-44c0-7bbc-ac33-55089bbaca97",
+      "time": "2026-11-18 10:25:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "【Henan industrial output up 9.3% y/y in October】Henan's industrial value added at above-designated-size companies rose 9.3% y/y in October, accelerating 2.5 percentage points from September and outpacing the national rate by 4.5 points, provincial statistics bureau data showed. Mining output fell 5.2%, manufacturing rose 12.1%, and utilities output fell 1.3%. Retail sales rose 2.9% to 275.1 bln yuan, accelerating 0.4 points from September and exceeding the national rate by 2.5 points. In January-October, retail sales increased 2.6% to 2.43 tln yuan, while foreign trade rose 26.1% to a record 937.2 bln yuan for the period. Exports grew 13.6% and imports 50.2%."
+    },
+    {
+      "id": "mkt:01a1ec78-9308-7bbc-ac33-49b8415d2c55",
+      "time": "2026-11-18 10:24:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude futures are down more than 1% on the day at $83.80/bbl."
+    },
+    {
+      "id": "5221552",
+      "time": "2026-11-18 10:24:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價回吐早盤漲幅；最新下跌0.5%，報189,400韓元。"
+    },
+    {
+      "id": "5221551",
+      "time": "2026-11-18 10:23:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報83.80美元/桶。"
+    },
+    {
+      "id": "mkt:01a1ec76-e416-7bbc-ac33-42dbe715cc87",
+      "time": "2026-11-18 10:22:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's Taiwan Affairs Office: Cross-strait talks should resume on basis of One China principle and 1992 Consensus】China welcomes proposals that promote peaceful cross-strait ties, Taiwan Affairs Office spokesman Chen Binhua said, responding to former Straits Exchange Foundation vice chairman Qiu Jinyi's call for the Democratic Progressive Party to drop its independence platform and for talks on a common market by 2030 and a common currency by 2032. Beijing supports resuming negotiations on the basis of the One China principle and the 1992 Consensus, Chen said, blaming the DPP authorities' rejection of the consensus for blocking talks and institutionalized economic cooperation."
+    },
     {
       "id": "5221548",
       "time": "2026-11-18 10:21:02",
@@ -84823,28 +84882,6 @@
         "Importance 1"
       ],
       "text": "Bonds Update: Japan 10Y Bond Yield Gains by 8 bps — Government bonds yields are higher on Wednesday. Top gainers are Japan 10Y (7.59bps), South Korea 10Y (6.80bps) and New Zealand 10Y (5.80bps)."
-    },
-    {
-      "id": "te:markets:600213",
-      "time": "2026-11-11 10:24:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Pressured by Fed Rate Hike Bets — Silver traded around $52 an ounce on Wednesday after tumbling over 3% in the previous session, as hawkish comments from Federal Reserve officials and stronger-than-expected US inflation data strengthened expectations of a rate hike in December. US headline inflation slowed to 0.4% MoM in October from 0.6% in September, but came in above market forecasts of 0.3%. Meanwhile, core inflation remained unchanged at 0.3% for the third consecutive month, exceeding expectations of 0.2% and signaling persistent underlying price pressures. Fed Governor Christopher Waller expressed support for further monetary tightening in December, adding that he would favor a half-percentage-point increase if inflation continues to accelerate. Dallas Fed President Lorie Logan also indicated that more aggressive rate hikes may be necessary to bring inflation under control. Consequently, markets are now pricing in approximately a 91% probability of a rate increase next month, up from 84% in the previous session."
-    },
-    {
-      "id": "te:markets:600212",
-      "time": "2026-11-11 10:24:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Pressured by Fed Rate Hike Bets — Gold held below $4,050 an ounce on Wednesday after tumbling nearly 3% in the previous session, as hawkish comments from Federal Reserve officials and stronger-than-expected US inflation data strengthened expectations of a rate hike in December. US headline inflation slowed to 0.4% MoM in October from 0.6% in September, but came in above market forecasts of 0.3%. Meanwhile, core inflation remained unchanged at 0.3% for the third consecutive month, exceeding expectations of 0.2% and signaling persistent underlying price pressures. Fed Governor Christopher Waller expressed support for further monetary tightening in December, adding that he would favor a half-percentage-point increase if inflation continues to accelerate. Dallas Fed President Lorie Logan also indicated that more aggressive rate hikes may be necessary to bring inflation under control. Consequently, markets are now pricing in approximately a 91% probability of a rate increase next month, up from 84% in the previous session."
     }
   ]
 }
