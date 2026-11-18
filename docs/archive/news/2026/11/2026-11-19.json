@@ -1,7 +1,81 @@
 {
   "date": "2026-11-19",
-  "count": 235,
+  "count": 243,
   "items": [
+    {
+      "id": "5223535",
+      "time": "2026-11-19 03:17:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【對沖基金第三季重新擁抱阿里和富途 傳奇投資人清倉百度】對沖基金第三季度重燃對阿里巴巴的興趣，同時轉而減持百度。彙總了1191家對沖基金的13F申報發現，它們第三季淨增持阿里巴巴ADR共計550萬份，扭轉了前兩個季度的連續減倉。與此同時，對沖基金第三季減持百度384萬份（第二季增持350萬份）。美國知名對沖基金管理人David Tepper旗下Appaloosa LP在報告期內減持了前季增持的百度。傳奇投資人Stanley Druckenmiller旗下的家族辦公室Duquesne Family Office LLC也清倉前季建倉的百度。醫藥股繼續獲得對沖基金增持，包括再鼎醫藥和百濟神州。蔚來和小鵬等電動汽車股遭減持。"
+    },
+    {
+      "id": "mkt:01a1f017-c007-7bbc-ac51-508385ad6129",
+      "time": "2026-11-19 03:17:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran and Oman discuss preventing renewed war, independent regional security framework】Iranian Foreign Minister Abbas Araghchi said he held productive talks in Oman with the foreign minister and sultan on bilateral ties, regional developments, what he called U.S. aggression, and efforts to prevent a renewed war. He said the two countries were closely aligned and that diplomatic efforts should continue. The sides also discussed an independent regional security framework, with regional countries increasingly agreeing that security should be maintained without external interference. Araghchi, Oman’s and Uzbekistan’s foreign ministers also discussed boosting connectivity, transit and logistics cooperation between Central Asia and the Gulf, agreeing to continue consultations and advance cooperation."
+    },
+    {
+      "id": "mkt:01a1f015-c557-7bbc-ac51-4bdd8fca3afc",
+      "time": "2026-11-19 03:15:20",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Fed minutes: Almost all officials expected further rate hikes】Almost all Federal Reserve officials judged in October that further rate hikes could be needed in coming months to return inf to the 2% target in a timely manner, minutes showed. A few said a December increase of more than 25 bps could be warranted if incoming inf data disappointed. The Fed held rates last month and reiterated its commitment to curbing inf, without signaling whether it would hike at its next meeting in December. Among officials who favored a hike at the meeting, a few said they could also support holding the federal funds rate steady if market participants clearly understood that further tightening was likely. Several officials who backed holding rates said market pricing for hikes in December and 2027 was broadly consistent with their view of appropriate policy. Fed funds futures show investors expect 25-bp hikes in December and January, with another increase by April."
+    },
+    {
+      "id": "5223534",
+      "time": "2026-11-19 03:14:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：在阿曼舉行的會談重點在於防止與美國重啟衝突，並建立排除外國軍事介入的地區安全框架。"
+    },
+    {
+      "id": "mkt:01a1f015-1983-7bbc-ac51-4218a1522c76",
+      "time": "2026-11-19 03:14:36",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures fell 0.54% in the overnight session to 23,100, trading 195 points below spot."
+    },
+    {
+      "id": "5223533",
+      "time": "2026-11-19 03:13:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：儘管資本投資增加，企業槓桿前景仍穩定。"
+    },
+    {
+      "id": "5223532",
+      "time": "2026-11-19 03:11:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3730美元/盎司，日內跌3.47%。"
+    },
+    {
+      "id": "5223531",
+      "time": "2026-11-19 03:11:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行：巴貝多在一項具有里程碑意義的協作性債務換韌性倡議中獲得6億美元擔保。"
+    },
     {
       "id": "5223530",
       "time": "2026-11-19 03:09:12",
