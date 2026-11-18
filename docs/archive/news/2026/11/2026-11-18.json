@@ -1,7 +1,33 @@
 {
   "date": "2026-11-18",
-  "count": 756,
+  "count": 759,
   "items": [
+    {
+      "id": "5221775",
+      "time": "2026-11-18 11:08:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國10月份稀土及其製品出口11,090噸，同比增5.5%。"
+    },
+    {
+      "id": "5221774",
+      "time": "2026-11-18 11:07:32",
+      "tags": [
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【韓國智庫上調今明兩年經濟增長預期】韓國國營智庫上調了今明兩年的經濟增長預期，理由是晶片出口強勁以及對AI基礎設施的投資。韓國開發研究院(KDI)在週三釋出的經濟展望報告中表示，預計2026年國內生產總值(GDP)將增長3.8%，高於其8月份預測的3.2%。預計2027年GDP將增長3.9%，遠高於此前預估的2.2%。KDI表示，在半導體繁榮持續提振出口和資本投資的推動下，韓國經濟在2026年和2027年料將保持穩健增長。該智庫表示，AI驅動的晶片繁榮帶來更高收入，加之國際油價企穩，民間消費正逐漸從中受益。在半導體行業強勁投資的帶動下，多個行業的裝置投資也出現改善。不過，KDI警告稱，韓國對半導體的依賴日益加深，這使得該國經濟越來越容易受到全球AI基礎設施投資波動的影響。該智庫表示，大型AI公司盈利能力增強，以及國內晶片製造商產能擴張快於預期，可能會推動經濟增速高於當前的預測；而AI基礎設施支出的急劇萎縮則可能對增長造成沉重拖累。"
+    },
+    {
+      "id": "mkt:01a1ec9e-fdd9-7bbc-ac34-0fd0de9d90ae",
+      "time": "2026-11-18 11:06:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy says Starshield speed limits persist in Russian-occupied Ukraine】Ukrainian President Zelenskiy said on Tuesday that U.S. satellite service Starshield continues to operate at restricted speeds in Russian-occupied parts of Ukraine, weakening the country’s defenses against Russia. Kyiv is discussing the issue with Washington, he said. Zelenskiy said some attacks had breached defenses because Ukrainian interception systems could not reach targets in time. Drones flying at about 100 mph or faster lose Starshield connectivity and can sometimes fall from the sky."
+    },
     {
       "id": "5221750",
       "time": "2026-11-18 11:03:49",
