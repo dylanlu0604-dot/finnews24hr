@@ -1,7 +1,282 @@
 {
-  "updated": "2026-11-18 10:04:23",
-  "count": 9431,
+  "updated": "2026-11-18 10:11:34",
+  "count": 9441,
   "items": [
+    {
+      "id": "5221503",
+      "time": "2026-11-18 10:07:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國特別檢察官要求判處Coupang CFS執行長兩年監禁。"
+    },
+    {
+      "id": "mkt:01a1ec68-4c0f-7bbc-ac33-06df60cc1de0",
+      "time": "2026-11-18 10:07:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "New York gold futures fell to $3,800/oz, down 1.67% on the day."
+    },
+    {
+      "id": "5221495",
+      "time": "2026-11-18 10:06:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "星展銀行與 Circle 達成合作，共同構建亞洲穩定幣基礎設施。"
+    },
+    {
+      "id": "mkt:01a1ec67-cec9-7bbc-ac32-f8c8f1dacd9b",
+      "time": "2026-11-18 10:06:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "【Several STAR Market chip ETFs rise more than 2%】Fullgoal, China Universal and E Fund STAR Market chip ETFs are among those up more than 2%."
+    },
+    {
+      "id": "mkt:01a1ec67-93a8-7bbc-ac32-f279334be660",
+      "time": "2026-11-18 10:06:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold falls below $3,800】Spot gold fell below $3,800/oz for the first time since Sept. 30, 2025, and was down 1.2% on the day."
+    },
+    {
+      "id": "5221489",
+      "time": "2026-11-18 10:06:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3800美元/盎司，日內跌1.30%。"
+    },
+    {
+      "id": "5221488",
+      "time": "2026-11-18 10:06:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3800美元/盎司，日內跌1.67%。"
+    },
+    {
+      "id": "5221483",
+      "time": "2026-11-18 10:05:26",
+      "tags": [
+        "國際",
+        "兩會"
+      ],
+      "text": "【北京市政府召開常務會議 研究《關於增加農民收入工作情況的報告》等事項】昨天下午，北京市政府召開常務會議，研究《關於增加農民收入工作情況的報告》等事項。市委副書記、市長殷勇主持會議。會議強調，要堅決守住耕地保護紅線，嚴防“大棚房”、亂佔耕地建房等問題反彈，堅決防止耕地“非農化”、基本農田“非糧化”，加強農村集體“三資”規範化管理，提升高標準農田建設質效。要健全完善農業發展指標體系，以農業中關村建設為牽引推動農業科技創新，著力把農業建成現代化大產業。立足大城市帶動大京郊、大京郊服務大城市，推動農文旅體深度融合，同時不斷完善聯農帶農機制，讓農民更多分享產業鏈增值收益。要紮實推進“百千工程”，以點帶線、以線拓面，因地制宜打造各具特色的美麗鄉村。要認真辦理好人大代表議案，把辦理成效轉化為促進農民增收的政策舉措，確保農民有實實在在的獲得感。"
+    },
+    {
+      "id": "5221482",
+      "time": "2026-11-18 10:05:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【特銳德等在福建石獅投資成立新能源公司】企查查APP顯示，近日，石獅市福獅特來電新能源有限責任公司成立，經營範圍包含電動汽車充電基礎設施運營；集中式快速充電站；機動車充電銷售；充電樁銷售等。企查查股權穿透顯示，該公司由特銳德下特來電新能源股份有限公司等共同持股。"
+    },
+    {
+      "id": "5221471",
+      "time": "2026-11-18 10:03:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "5221470",
+      "time": "2026-11-18 10:02:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多隻科創晶片ETF漲超2%】科創晶片ETF富國、科創晶片ETF匯添富、科創晶片ETF易方達等多隻科創晶片ETF漲超2%，摩爾執行緒漲超11%，寒武紀、沐曦股份漲超6%。"
+    },
+    {
+      "id": "5221469",
+      "time": "2026-11-18 10:02:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紫金礦業盤中跌超5%】A股紫金礦業盤中跌超5%，現報24.72元。"
+    },
+    {
+      "id": "5221466",
+      "time": "2026-11-18 10:02:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數上漲1%，至5359.03點。"
+    },
+    {
+      "id": "5221462",
+      "time": "2026-11-18 10:01:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國農業發展銀行原黨委委員、副行長徐一丁被提起公訴】記者今天（18日）從最高人民檢察院獲悉，中國農業發展銀行原黨委委員、副行長徐一丁涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。經最高人民檢察院指定管轄，上海市人民檢察院依法以涉嫌受賄罪對徐一丁作出逮捕決定。近日，上海市人民檢察院第三分院已向上海市第三中級人民法院提起公訴。檢察機關在審查起訴階段，依法告知了被告人徐一丁享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人徐一丁利用擔任中國農業發展銀行原扶貧金融事業部副總裁兼原扶貧綜合業務部（易地扶貧搬遷部）總經理，中國農業發展銀行黨委委員、副行長等職務上的便利，為有關單位和個人謀取利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。 (央視新聞)"
+    },
+    {
+      "id": "mkt:01a1ec63-5ee3-7bbc-ac32-ebb473c53d96",
+      "time": "2026-11-18 10:01:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver is down 2.00% on the day at $46.44/oz."
+    },
+    {
+      "id": "5221453",
+      "time": "2026-11-18 10:01:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌0.77%，報58,409.94點。"
+    },
+    {
+      "id": "mkt:01a1ec62-4bb1-7bbc-ac32-e757f84efab4",
+      "time": "2026-11-18 10:00:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "The MSCI Asia-Pacific ex-Japan index gave back earlier gains and fell 0.1%."
+    },
+    {
+      "id": "5221449",
+      "time": "2026-11-18 09:59:57",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【習近平出席亞太經合組織工商領導人峰會開幕式並發表主旨演講】11月18日上午，國家主席習近平在深圳前海國際會議中心出席2026年亞太經合組織工商領導人峰會開幕式並發表主旨演講。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1ec61-d562-7bbc-ac32-d8a5cabaf14e",
+      "time": "2026-11-18 09:59:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China attends APEC CEO Summit opening and delivers keynote address】China attended the opening of the 2026 APEC CEO Summit in Shenzhen on the morning of Nov. 18 and delivered a keynote address."
+    },
+    {
+      "id": "5221448",
+      "time": "2026-11-18 09:59:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴林稱防空系統攔截伊朗襲擊】巴林王國國防軍稱，巴林防空系統週三攔截了伊朗的空中襲擊，並指責德黑蘭對這一駐有美國海軍第五艦隊的國家採取“系統性的敵對做法”。美伊敵對態勢升級。週二，伊朗革命衛隊稱，他們向巴林謝赫伊薩空軍基地的一處美軍雷達系統發射了無人機，以回應其所謂美軍無人機持續侵犯伊朗領空。巴林和美國稱，伊朗的襲擊已被攔截。週二晚些時候，美國打擊了一處伊朗導彈發射場。這些打擊發生在伊朗與調解方阿曼和卡達進行談判之際。巴林內政部週三釋出了兩則威脅警報，敦促居民前往最近的安全地點，並在每次警報後宣佈解除警報。"
+    },
+    {
+      "id": "5221447",
+      "time": "2026-11-18 09:59:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊直線拉昇，摩爾執行緒、盛合晶微漲超10%】半導體板塊直線拉昇，摩爾執行緒、盛合晶微漲超10%，燧原科技、沐曦股份、通富微電、東芯股份、甬矽電子等跟漲。"
+    },
+    {
+      "id": "5221446",
+      "time": "2026-11-18 09:59:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數（TOPIX）下跌1%，至3,801.56點。"
+    },
+    {
+      "id": "5221444",
+      "time": "2026-11-18 09:59:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "MSCI亞太除日本指數回吐早前漲幅，最新下跌0.1%，至 769.28 點。"
+    },
+    {
+      "id": "mkt:01a1ec61-2aee-7bbc-ac32-d0cb229d55cc",
+      "time": "2026-11-18 09:59:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ANT.O",
+        "Impact bullish"
+      ],
+      "text": "【Anthropic said to price IPO above range】Anthropic is expected to price its IPO above the previously announced range amid strong investor demand, the Wall Street Journal reported, citing people familiar with the matter. The company may price shares above $80, versus the initial range of $70-$78. Advisers have discussed pricing options implying valuations of about $1.5 trillion or $1.6 trillion, up from roughly $1.33 trillion at the original range. Market volatility and internal personnel turmoil at NVIDIA have not dampened investor enthusiasm for AI, the report said. Anthropic is set to list on Nasdaq on Thursday under ticker ANT."
+    },
+    {
+      "id": "5221440",
+      "time": "2026-11-18 09:58:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陽光電源新設子公司 含先進電力電子裝置業務】企查查APP顯示，近日，東營陽光電源有限公司成立，經營範圍包含電力電子元器件銷售；電力電子元器件製造；先進電力電子裝置銷售；智慧輸配電及控制裝置銷售等。企查查股權穿透顯示，該公司由陽光電源全資持股。"
+    },
+    {
+      "id": "5221439",
+      "time": "2026-11-18 09:58:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "摩爾執行緒盤中漲超10%，現報340.00元。"
+    },
+    {
+      "id": "mkt:01a1ec60-6587-7bbc-ac32-caa1c69a6eec",
+      "time": "2026-11-18 09:58:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The STAR 50 Index extended gains to 2%. Moore Threads-U and Shenghe Jingwei rose more than 9%, while Cambricon and Shengyi Electronics gained more than 7%."
+    },
+    {
+      "id": "5221438",
+      "time": "2026-11-18 09:58:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力晶片概念震盪回升 旋極資訊漲超10%】算力晶片概念盤中震盪回升，旋極資訊漲超10%，此前華東重機走出4連板，摩爾執行緒、寒武紀、海光資訊、沐曦股份、龍芯中科跟漲。"
+    },
+    {
+      "id": "5221437",
+      "time": "2026-11-18 09:58:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達臨時CEO說客戶和員工不會流失】英偉達臨時 CEO 科萊特・克雷斯（Colette Kress）表示，儘管黃仁勳已經辭職，但公司主要客戶依然高度支援英偉達。 克雷斯強調，主要客戶持續對英偉達的產品表達了興趣。“有很多這些客戶聯絡我，說‘看到一切都完好無損，真好。很高興看到供應更多了。我需要更多產能’”。 然而，客戶需求並不是英偉達面臨的唯一問題。黃仁勳的離職也引發了外界質疑，即英偉達是否能留住那些幫助其在 AI 領域建立主導地位的工程師和其他員工。 克雷斯否認了對潛在員工流失的擔憂，並強調：“公司是在員工視英偉達為畢生事業的理念下建立的，許多人在這裡工作了數十年，從技術角度或業務運營角度與我們合作。”“我們高度相信員工們肯定仍在努力工作，仍在與我們共事，並且享受在英偉達的工作。”"
+    },
+    {
+      "id": "5221436",
+      "time": "2026-11-18 09:57:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.04%，成分股中，摩爾執行緒漲9.03%，盛合晶微漲8.99%，寒武紀漲6.87%，生益電子漲6.77%。"
+    },
     {
       "id": "mkt:01a1ec5f-3cd5-7bbc-ac32-c2be84621409",
       "time": "2026-11-18 09:57:06",
@@ -84445,180 +84720,6 @@
         "國際"
       ],
       "text": "木原稔：將密切關注美國中期選舉結果對經濟的影響。"
-    },
-    {
-      "id": "mkt:01a1c85f-d9ec-7bbc-ab99-4775b28366d7",
-      "time": "2026-11-11 10:11:27",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "JD.com",
-        "JD.O"
-      ],
-      "text": "【JD.com testing standalone short-drama product】JD.com is internally testing a standalone short-drama product called \"JD Drama Benefits Club\" on a free model; core mechanics promise watch-to-claim rewards and shoppable in-show items fulfilled by JD. Testers report the feature is still under development and no active e-commerce redirect was found in the current experience."
-    },
-    {
-      "id": "5207281",
-      "time": "2026-11-11 10:11:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東內測獨立短劇產品】記者獲悉，京東內測獨立短劇產品“京東追劇福利社”，採用免費模式，核心玩法是“看劇領福利、劇中同款直接買，京東發貨”。不過根據記者測試發現，目前相關功能尚處在測試完善階段，實際體驗中暫未發現對應的電商跳轉入口。截至發稿，京東方面尚未回應。 (澎湃新聞)"
-    },
-    {
-      "id": "5207280",
-      "time": "2026-11-11 10:11:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【物理AI概念反覆走強 漢王科技漲停】物理AI概念近期反覆走強，漢王科技漲停，福萊新材一度逼近漲停，續創歷史新高，風語築、海天瑞聲、世紀恆通、傑克科技均漲超5%。"
-    },
-    {
-      "id": "5207279",
-      "time": "2026-11-11 10:10:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國科研人員破解玉米鎳元素“運輸密碼”】鎳元素在植物中如何被運輸、對作物產量具體有何影響，一直是困擾科學家的謎題。我國科研人員找到了答案。 中國科學院分子植物科學卓越創新中心、上海張江智種中心晁代印研究團隊聯合華中農業大學嚴建兵教授團隊，透過比較1404份玉米材料的基因差異和籽粒鎳含量，首次鑑定出控制禾本科作物籽粒鎳積累的關鍵轉運蛋白ZmNAET1，揭示了鎳在玉米中的運輸機制，並展現了鎳對於作物產量和種子萌發的影響。相關成果11日在國際學術期刊《細胞》線上發表。 據研究團隊介紹，玉米要把鎳從莖節中送進籽粒和生長點，需要一套精巧的運輸系統，而ZmNAET1就是這套運輸系統的關鍵“出口”，負責把植物體內一種叫煙胺的小分子送到細胞外，而煙胺再像小夾子一樣抓住鎳，透過後續運輸蛋白將其送進通往籽粒的管道。 研究發現，在生長點和籽粒中，鎳是關鍵零件：鎳不夠，尿素不能正常代謝，後續氨基酸、蛋白質形成就會受影響，從而影響玉米生長和種子萌發。這也意味著，對一些本身籽粒鎳含量偏低的玉米品種，或種植在鹼性土壤等容易缺鎳環境中的玉米，如果出現產量下降、種子發芽率低或萌發不齊等問題，或可透過補鎳來解決。 長期以來，學界認為禾本科植物鎳需求低、鎳缺乏罕見。這項研究首次提供了鎳作為作物生長必需元素的遺傳學證據，鑑定出禾本科植物控制鎳長距離運輸的基因，為透過營養調控和分子育種等方式提升禾本科作物產量與種子活力開闢了新方向。"
-    },
-    {
-      "id": "5207278",
-      "time": "2026-11-11 10:10:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【燃氣板塊短線拉昇，勝通能源漲停】燃氣板塊短線拉昇，勝通能源漲停，水發燃氣、佛燃能源、德龍匯能、升達林業、洪通燃氣等紛紛走高。"
-    },
-    {
-      "id": "mkt:01a1c85e-763a-7bbc-ab99-395934182c0d",
-      "time": "2026-11-11 10:09:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share PV processing-equipment stocks rallied then pulled back; Maiwei Co. shares fell over 10%. Laplace, Aotewei, Jiejia Weichuang and Jingsheng Jidian also declined."
-    },
-    {
-      "id": "mkt:01a1c85e-6630-7bbc-ab99-3444eae7cc67",
-      "time": "2026-11-11 10:09:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thai baht weakened to 33.570 per US dollar."
-    },
-    {
-      "id": "5207277",
-      "time": "2026-11-11 10:09:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：整體信貸增長加速，主要受大型企業貸款推動。"
-    },
-    {
-      "id": "mkt:01a1c85e-518a-7bbc-ab99-2df20c796b4a",
-      "time": "2026-11-11 10:09:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "BOT minutes said the baht's depreciation outpaced regional peers, reflecting Thailand's economic structure and heavy reliance on energy imports."
-    },
-    {
-      "id": "5207276",
-      "time": "2026-11-11 10:09:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：泰銖貶值幅度超過區域貨幣，反映出經濟結構和對能源進口的嚴重依賴。"
-    },
-    {
-      "id": "5207275",
-      "time": "2026-11-11 10:08:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光伏加工裝置板塊短線走低，邁為股份跌超10%】光伏加工裝置板塊短線走低，邁為股份跌超10%，拉普拉斯、奧特維、捷佳偉創、晶盛機電等跟跌。"
-    },
-    {
-      "id": "5207274",
-      "time": "2026-11-11 10:08:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "泰銖兌美元匯率走弱至33.570。"
-    },
-    {
-      "id": "5207273",
-      "time": "2026-11-11 10:07:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "明治將在泰國投資227億日元新建工廠。"
-    },
-    {
-      "id": "mkt:01a1c85c-1678-7bbc-ab99-20751640e9e7",
-      "time": "2026-11-11 10:07:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOT minutes: staff expect Thailand inf to rise through the remainder of this year into early next year. Upside inf risks merit close monitoring, driven by heightened uncertainty."
-    },
-    {
-      "id": "5207272",
-      "time": "2026-11-11 10:07:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026世界旅遊聯盟·湘湖對話在安徽合肥開幕】2026世界旅遊聯盟·湘湖對話今天（11日）在安徽合肥開幕，來自近30個國家和地區的政府部門、國際組織、重點企業及科研機構的代表參加本次活動。本屆湘湖對話以“數智賦能·塑造未來旅遊新形態”為主題，參會代表圍繞“數字浪潮，重塑全球旅遊格局”“科技賦能，煥新文旅場景實踐”“綠色共生，探索可持續旅行路徑”等議題展開探討。“湘湖對話”迄今已舉辦七屆，旨在推動全球旅遊業可持續、包容性發展。"
-    },
-    {
-      "id": "5207271",
-      "time": "2026-11-11 10:06:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行會議紀要：通脹上行風險值得密切關注，源於不確定性上升。"
-    },
-    {
-      "id": "5207270",
-      "time": "2026-11-11 10:06:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行會議紀要：預計今年剩餘時間至明年年初，泰國通脹將上升。"
-    },
-    {
-      "id": "5207269",
-      "time": "2026-11-11 10:06:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【10萬臺！張雪機車本年目標達成】11月11日，張雪機車第10萬臺整車在重慶生產基地正式下線，提前實現今年9月摩博會提出的年末10萬臺產量目標。"
-    },
-    {
-      "id": "mkt:01a1c85a-7b92-7bbc-ab99-19e7202e9d30",
-      "time": "2026-11-11 10:05:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOT minutes: assessment of Thailand's economy should place greater emphasis on indicators measuring the breadth of recovery across sectors."
-    },
-    {
-      "id": "5207268",
-      "time": "2026-11-11 10:05:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行會議紀要：對泰國經濟狀況的評估應更加重視各經濟領域復甦的廣泛性指標。"
     }
   ]
 }
