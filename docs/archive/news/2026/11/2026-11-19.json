@@ -1,7 +1,292 @@
 {
   "date": "2026-11-19",
-  "count": 708,
+  "count": 739,
   "items": [
+    {
+      "id": "5224015",
+      "time": "2026-11-19 09:34:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.04%，成分股中，沐曦股份跌13.67%，芯原股份跌11.02%，海光資訊跌10.51%，盛科通訊跌10.11%。"
+    },
+    {
+      "id": "mkt:01a1f170-7da7-7bbc-ac58-49594e1285b8",
+      "time": "2026-11-19 09:34:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite",
+        "CSI300"
+      ],
+      "text": "China A-share indexes fell at the open, with the Shenzhen Composite Index and ChiNext down more than 1% and China's Shanghai Composite Index off 0.77%."
+    },
+    {
+      "id": "mkt:01a1f170-5c90-7bbc-ac58-46ed5b1de847",
+      "time": "2026-11-19 09:33:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "AUD/USD falls 0.50% intraday to 0.6676."
+    },
+    {
+      "id": "5224012",
+      "time": "2026-11-19 09:33:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中證1000股指期貨(IM)主力合約日內跌超1%】中證1000股指期貨(IM)主力合約日內跌超1%，現報5932.4點。"
+    },
+    {
+      "id": "5224011",
+      "time": "2026-11-19 09:33:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光刻膠板塊短線拉昇，格林達漲停】光刻膠板塊短線拉昇，格林達漲停，怡達股份、寶麗迪、西隴科學、興業股份、雙樂股份等紛紛走高。"
+    },
+    {
+      "id": "5224010",
+      "time": "2026-11-19 09:33:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：整體來看，消費支出具有韌性。"
+    },
+    {
+      "id": "mkt:01a1f16f-e57d-7bbc-ac58-3f8d4e19c407",
+      "time": "2026-11-19 09:33:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Trump arrives at APEC leaders’ meeting venue】The 33rd APEC Economic Leaders’ Meeting is scheduled to be held at Shenzhen International Exchange Center on the morning of Nov. 19. U.S. President Trump arrived at the venue."
+    },
+    {
+      "id": "5224009",
+      "time": "2026-11-19 09:33:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大至1%。"
+    },
+    {
+      "id": "5224008",
+      "time": "2026-11-19 09:33:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.02%，現報10550.812點；上證指數跌0.76%，現報3560.469點；創業板指跌1.60%，現報2274.594點。"
+    },
+    {
+      "id": "5224007",
+      "time": "2026-11-19 09:33:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌1%，現報5926.00點。"
+    },
+    {
+      "id": "5224006",
+      "time": "2026-11-19 09:33:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數回吐早前漲幅，最新下跌0.21%。"
+    },
+    {
+      "id": "5224002",
+      "time": "2026-11-19 09:33:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國亞利桑那州表示正在調查OpenAI及其他公司可能存在的失控智慧體問題。"
+    },
+    {
+      "id": "5224001",
+      "time": "2026-11-19 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股廚衛電器板塊短線走低】日出東方觸及跌停"
+    },
+    {
+      "id": "5224000",
+      "time": "2026-11-19 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股福建國資板塊短線走低】福建水泥跌8.67%，福能股份、廈門象嶼、華映科技跟跌。"
+    },
+    {
+      "id": "5223999",
+      "time": "2026-11-19 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股百度概念板塊短線走低】芯原股份跌10.07%，華陽集團、愛瑪科技、重慶銀行、上海汽配、德賽西威、中聯重科跟跌。"
+    },
+    {
+      "id": "5223998",
+      "time": "2026-11-19 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股水利建設板塊短線走低】國統股份、飛樂音響、龍建股份觸及跌停，大華股份、電科網安、德林海、柳工跟跌。"
+    },
+    {
+      "id": "mkt:01a1f16f-753c-7bbc-ac58-315125565b52",
+      "time": "2026-11-19 09:32:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's MetaX shares fell more than 10% intraday to 432.77 yuan."
+    },
+    {
+      "id": "5223997",
+      "time": "2026-11-19 09:32:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國總統特朗普抵達APEC領導人非正式會議現場】11月19日上午，亞太經合組織第三十三次領導人非正式會議將在深圳國際交流中心舉行。美國總統特朗普抵達會議現場。（央視新聞）"
+    },
+    {
+      "id": "5223996",
+      "time": "2026-11-19 09:32:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.17%，成分股中，蘅東光跌5.06%，並行科技跌4.25%，曙光數創跌1.94%，戈碧迦跌1.88%。"
+    },
+    {
+      "id": "5223993",
+      "time": "2026-11-19 09:32:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【冰雪產業板塊盤初下挫，冰山冷熱跌停】冰雪產業板塊盤初下挫，冰山冷熱跌停，晶雪節能、龍建股份、吉視傳媒、大連聖亞、雪人集團、長白山等跟跌。"
+    },
+    {
+      "id": "5223991",
+      "time": "2026-11-19 09:32:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【沐曦股份盤中跌超10%】A股沐曦股份盤中跌超10%，現報432.77元。"
+    },
+    {
+      "id": "5223990",
+      "time": "2026-11-19 09:32:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1%至242.38點。"
+    },
+    {
+      "id": "5223987",
+      "time": "2026-11-19 09:32:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機械裝置板塊盤初走弱，林州重機跌停】機械裝置板塊盤初走弱，林州重機跌停，冰山冷熱、哈空調、泰嘉股份、雪人集團、ST新元、華東數控等跟跌。"
+    },
+    {
+      "id": "mkt:01a1f16e-45a2-7bbc-ac58-2ee204789591",
+      "time": "2026-11-19 09:31:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China bond futures open】The most-active 2-year contract was flat, the 5-year contract rose 0.02%, the 10-year contract gained 0.04% and the 30-year contract advanced 0.13%."
+    },
+    {
+      "id": "mkt:01a1f16e-3e02-7bbc-ac58-2352326d785c",
+      "time": "2026-11-19 09:31:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China stock index futures open lower】The most-active CSI 300 (IF) contract fell 0.32%, the SSE 50 (IH) fell 0.31%, the CSI 500 (IC) fell 0.24% and the CSI 1000 (IM) fell 0.48%."
+    },
+    {
+      "id": "mkt:01a1f16d-e9d7-7bbc-ac58-1f52772e5a9a",
+      "time": "2026-11-19 09:31:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "A-share computing power leasing stocks jumped at the open. Qunxing Toys hit the 10% daily limit, Zhongjia Bochuang rose for a second straight session, while Litong Electronics, Meili Cloud and Hongjing Technology also advanced."
+    },
+    {
+      "id": "5223977",
+      "time": "2026-11-19 09:31:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.12%，成分股中，海光資訊跌9.16%，沐曦股份跌9.11%，芯原股份跌7.88%，摩爾執行緒跌6.15%。"
+    },
+    {
+      "id": "5223976",
+      "time": "2026-11-19 09:30:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工銀投資、上海國際資管等成立未來智造私募投資基金】企查查APP顯示，近日，上海金浦工融未來智造私募投資基金合夥企業（有限合夥）成立，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由上海國際集團資產管理有限公司、工銀金融資產投資有限公司等共同出資。"
+    },
+    {
+      "id": "mkt:01a1f16d-6560-7bbc-ac58-122151347e6b",
+      "time": "2026-11-19 09:30:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China’s A-share gaming stocks extended losses, with Dasheng Culture and Electronic Soul Network hitting the 10% daily downside limit. Kaiser Culture, Xunyou Network, Fuchun Technology, Ourpalm and Youzu Interactive also fell."
+    },
+    {
+      "id": "5223975",
+      "time": "2026-11-19 09:30:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃概念反覆活躍 群興玩具漲停】算力租賃概念反覆活躍，群興玩具漲停，中嘉博創2連板，利通電子、美利雲、宏景科技跟漲。"
+    },
     {
       "id": "mkt:01a1f16d-381f-7bbc-ac58-0d079dd53645",
       "time": "2026-11-19 09:30:29",
@@ -9,6 +294,14 @@
         "MKT News"
       ],
       "text": "China’s A-share small-appliance sector opened lower. Joyoung and Bear Electric hit the daily limit down, while Hongzhi Technology, Beiding Technology, Dehao Runda, Delmar and Rainbow Group also fell."
+    },
+    {
+      "id": "5223974",
+      "time": "2026-11-19 09:30:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "AI漫劇概念繼續下挫，慈文傳媒、橫店影視、文投控股、大晟文化3連跌停，金逸影視2連跌停，凱撒文化、吉視傳媒跌幅居前。"
     },
     {
       "id": "mkt:01a1f16d-2fe6-7bbc-ac58-04eb72baf17a",
