@@ -1,7 +1,134 @@
 {
   "date": "2026-11-19",
-  "count": 669,
+  "count": 683,
   "items": [
+    {
+      "id": "5223945",
+      "time": "2026-11-19 09:26:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我們將仔細研究加息可能對企業和家庭活動產生的影響。"
+    },
+    {
+      "id": "5223944",
+      "time": "2026-11-19 09:26:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：金融環境依然寬鬆，支援經濟活動。"
+    },
+    {
+      "id": "mkt:01a1f169-2fcb-7bbc-ac57-c7b51c7318e9",
+      "time": "2026-11-19 09:26:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Where to park cash? Yield tracker】The 7-day annualized yield ranged from 0.704% to 1.337% for LiCaiTong Current+, 0.849% to 1.003% for WeChat Change Tong and 0.901% to 1.018% for Alipay Yu'e Bao."
+    },
+    {
+      "id": "mkt:01a1f169-2847-7bbc-ac57-bd9e0b522a74",
+      "time": "2026-11-19 09:26:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor Ueda: Despite multiple rate hikes, real interest rates remain low at shorter maturities, which have the greatest impact on economic activity."
+    },
+    {
+      "id": "5223943",
+      "time": "2026-11-19 09:25:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：將繼續密切關注加息的影響。"
+    },
+    {
+      "id": "mkt:01a1f168-ffc2-7bbc-ac57-b0c55504faf5",
+      "time": "2026-11-19 09:25:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China’s A-share market opened lower, with the Shanghai Composite down 0.13%, the Shenzhen Composite Index down 0.63% and the ChiNext Index down 0.93%."
+    },
+    {
+      "id": "5223939",
+      "time": "2026-11-19 09:25:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：即便在加息之後，實際利率仍處於低位。"
+    },
+    {
+      "id": "mkt:01a1f168-b1ba-7bbc-ac57-aaf8908aa1fb",
+      "time": "2026-11-19 09:25:32",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "BOJ Governor Kazuo Ueda: Rate hikes raise companies’ financing costs, but their economic impact must also be assessed against strong corporate earnings and rising wages."
+    },
+    {
+      "id": "5223936",
+      "time": "2026-11-19 09:25:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊跌，上證指數跌0.13%，深證成指跌0.63%，創業板指跌0.93%。"
+    },
+    {
+      "id": "5223930",
+      "time": "2026-11-19 09:24:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Zip股東批准5合1股票合併。"
+    },
+    {
+      "id": "mkt:01a1f167-3c51-7bbc-ac57-a17a888ee2bb",
+      "time": "2026-11-19 09:23:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan's Taiex extends losses to more than 2%."
+    },
+    {
+      "id": "5223922",
+      "time": "2026-11-19 09:23:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌2%至39,385.72點。"
+    },
+    {
+      "id": "5223918",
+      "time": "2026-11-19 09:23:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【柯力感測戰略投資知行機器人】近日，柯力感測完成對知行機器人科技（蘇州）有限公司的戰略投資。據柯力感測介紹，本輪投資完成後，雙方將圍繞靈巧手與末端執行器產品的感測融合、供應鏈協同及場景應用共創展開深度合作，共同推動機器人末端感知與執行能力的一體化升級。"
+    },
     {
       "id": "5223914",
       "time": "2026-11-19 09:22:14",
@@ -19,6 +146,15 @@
         "Impact bearish"
       ],
       "text": "Hong Kong’s HSI opened down 1.05% at 23,049.65 on Thursday. The Hang Seng Tech Index fell 0.97% to 3,699.93, the Hang Seng China Enterprises Index dropped 0.95% to 7,762.21, and the Hang Seng China-Affiliated Corporations Index declined 0.7% to 3,889.92."
+    },
+    {
+      "id": "em:qqyh_zgyh:202611193934853781",
+      "time": "2026-11-19 09:21:51",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展7675億元隔夜逆回購操作，操作利率為1.25%。"
     },
     {
       "id": "mkt:01a1f165-45ee-7bbc-ac57-954526cd4ed6",
