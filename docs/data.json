@@ -1,7 +1,251 @@
 {
-  "updated": "2026-11-20 07:38:18",
-  "count": 9531,
+  "updated": "2026-11-20 07:42:08",
+  "count": 9555,
   "items": [
+    {
+      "id": "mkt:01a1f62e-e85b-7bbc-ac7a-5f7d390d71d4",
+      "time": "2026-11-20 07:40:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Paulson: The Fed's communications should clearly state its views."
+    },
+    {
+      "id": "mkt:01a1f62e-e548-7bbc-ac7a-51950feef586",
+      "time": "2026-11-20 07:40:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Paulson: The usefulness of interest-rate path guidance varies with circumstances."
+    },
+    {
+      "id": "mkt:01a1f62e-9f0c-7bbc-ac7a-4f99ff37877f",
+      "time": "2026-11-20 07:40:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Paulson: Forward guidance has limited value in normal times."
+    },
+    {
+      "id": "mkt:01a1f62e-9235-7bbc-ac7a-475333fc71c5",
+      "time": "2026-11-20 07:40:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Paulson: It is crucial for the public to understand why the Fed takes each action."
+    },
+    {
+      "id": "5226638",
+      "time": "2026-11-20 07:39:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【基金淨值透露調倉方向 機構探尋下階段確定性】11月以來，海外市場波動及事件性因素擾動，A股科技板塊震盪未止，機構投資者近期的調倉動作也隨之浮出水面。Wind統計資料顯示：截至11月19日收盤，光模組、PCB兩大市場熱點板塊本月以來跌幅均在10%上下，但區間振幅均超過25%；與此同時，以中芯國際、華虹宏力、寒武紀為代表的國產半導體產業鏈個股紛紛上漲，長江半導體裝置指數上漲19.8%，區間振幅高達29.70%。寬幅震盪中，主動基金的分化一覽無餘：部分基金仍堅守“那束光”，部分基金則轉向國產晶片、物理AI以及AI應用等方向。值得注意的是，即將上市的主動ETF亦有“抄底”科技的動作。對整體依然重倉科技方向的公募而言，如何透過調結構尋找下一階段的確定性，已經成為了年末的“壓軸難題”。（上海證券報）"
+    },
+    {
+      "id": "5226637",
+      "time": "2026-11-20 07:39:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：不對貨幣政策的近期前景發表看法。"
+    },
+    {
+      "id": "5226636",
+      "time": "2026-11-20 07:39:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：公眾理解美聯儲行動背後的原因至關重要。"
+    },
+    {
+      "id": "5226635",
+      "time": "2026-11-20 07:39:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員保爾森：在正常時期，貨幣政策前瞻指引的價值會降低。"
+    },
+    {
+      "id": "5226634",
+      "time": "2026-11-20 07:39:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員保爾森：利率路徑指引的效用會隨情況變化。"
+    },
+    {
+      "id": "5226633",
+      "time": "2026-11-20 07:39:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員保爾森：美聯儲的溝通應清晰傳達觀點。"
+    },
+    {
+      "id": "mkt:01a1f62d-db82-7bbc-ac7a-3baa34a4cd22",
+      "time": "2026-11-20 07:39:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Paulson offered no view on the near-term monetary policy outlook."
+    },
+    {
+      "id": "mkt:01a1f62d-94b6-7bbc-ac7a-3661f2ee24bc",
+      "time": "2026-11-20 07:39:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver falls 1% intraday to $42.42/oz."
+    },
+    {
+      "id": "5226632",
+      "time": "2026-11-20 07:38:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3600美元/盎司，日內跌0.70%。"
+    },
+    {
+      "id": "5226631",
+      "time": "2026-11-20 07:38:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報42.42美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1f62d-2b75-7bbc-ac7a-28b3a60c52c9",
+      "time": "2026-11-20 07:38:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium fell to $900/oz, down 0.89% on the day."
+    },
+    {
+      "id": "mkt:01a1f62d-0c0a-7bbc-ac7a-2362f10c24e5",
+      "time": "2026-11-20 07:38:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold falls nearly $2,000 from peak】Spot gold fell below $3,600/oz, down nearly $2,000 from its record high of $5,596 set earlier this year. Its year-to-date loss widened to 16%."
+    },
+    {
+      "id": "5226630",
+      "time": "2026-11-20 07:38:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3600美元/盎司，日內跌2.32%。"
+    },
+    {
+      "id": "5226629",
+      "time": "2026-11-20 07:37:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌4%，現報43.07美元/盎司。"
+    },
+    {
+      "id": "5226628",
+      "time": "2026-11-20 07:37:47",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本CPI漲幅創年內最快，支援日本央行加息預期】日本消費者物價漲幅加速至年內最快水平，進一步鞏固了日本央行下月上調基準利率的理由。日本總務省週五公佈的資料顯示，10月剔除生鮮食品的消費者物價指數（CPI）連續第二個月上升，同比上漲2.2%。儘管這是自去年12月以來的最大漲幅，但仍略低於經濟學家預測中值的2.3%。剔除生鮮食品和能源、被日本央行密切關注的衡量基礎通脹的指標同樣上漲2.2%，而整體CPI則上漲2.3%。週五的資料將為日本央行在12月會議上上調基準利率提供有力支撐。日本央行已明確表示，其政策目標不再是推動基礎通脹向2%的目標攀升，而是將其穩定在該水平附近。上個月，日本央行指出，基礎通脹自2013年設立該目標以來首次達到目標水平。截至週五東京早盤，掉期合約顯示，市場預計日本央行在12月18日上調政策利率的機率約為86%。"
+    },
+    {
+      "id": "5226627",
+      "time": "2026-11-20 07:37:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【行業淡季疊加成本抬升 水泥企業被動提價】11月以來，水泥行業漲價函頻發。11月16日，浙江金華、衢州、麗水市場部分主流品牌水泥企業釋出通知，計劃將P·O42.5散裝水泥價格上漲20元/噸。前一日，河南多地水泥企業也陸續釋出通知，上調水泥價格。但本輪漲價行情並非由需求端回暖驅動，而是在行業淡季疊加成本抬升的雙重壓力下，企業無奈被動提價。國盛證券指出，水泥存量產能退出速度難匹配需求回落幅度，產能過剩與低利用率並存。供需弱勢下，水泥價格持續低位執行，雖近期行業普遍有所提價，但更多基於煤炭價格上漲帶來的成本壓力加劇，實際行業經營承壓狀況不改。"
+    },
+    {
+      "id": "mkt:01a1f62b-3133-7bbc-ac7a-1fa64cc5ae16",
+      "time": "2026-11-20 07:36:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold falls below $3,610/oz, down 0.42% on the day."
+    },
+    {
+      "id": "5226626",
+      "time": "2026-11-20 07:36:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3610美元/盎司，日內跌0.47%。"
+    },
+    {
+      "id": "5226625",
+      "time": "2026-11-20 07:36:15",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【受金價下跌影響，澳洲金礦股跌至三個月低點】澳洲金礦股指數早盤交易中跌幅一度達到 2.8%，創下自 8 月 5 日以來的最低水平。 該指數本週預計將下跌約 13%，創下自 2022 年 6 月下旬以來的最大單週跌幅。受強勢美元以及市場強烈預期美聯儲下月將加息的雙重壓力影響，現貨黃金價格隔夜跌至 14 個月低點。行業龍頭 Northern Star Resources（NST.AX）和 Evolution Mining（EVN.AX）股價跌幅分別高達 3.5% 和 2.9%。 Evolution Mining 股價跌至自 7 月下旬以來的最低點。算上今日的跌幅，該指數年初至今累計下跌 16.2%，表現落後於大盤僅 0.9% 的輕微跌幅。"
+    },
+    {
+      "id": "5226624",
+      "time": "2026-11-20 07:36:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3610美元/盎司，日內跌2.05%。"
+    },
+    {
+      "id": "5226623",
+      "time": "2026-11-20 07:36:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報3611.55美元/盎司。"
+    },
+    {
+      "id": "5226622",
+      "time": "2026-11-20 07:35:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3620美元/盎司，日內跌1.78%。"
+    },
     {
       "id": "mkt:01a1f628-a803-7bbc-ac7a-08c66d274b2e",
       "time": "2026-11-20 07:33:41",
@@ -347,6 +591,17 @@
         "DXY"
       ],
       "text": "Philadelphia Fed President and 2026 FOMC voter Paulson is scheduled to speak in 10 minutes; Japan’s October core CPI is due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a1f62a-7f69-7bbc-ac7a-150baacfd37f",
+      "time": "2026-11-20 07:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Zimbabwe revises lithium export tax rules, mandates local procurement by miners】Zimbabwe will tax lithium concentrate exports based on the fair market value of the lithium sulfate they could produce, rather than the concentrate’s sale price, Finance Minister Mthuli Ncube said Friday. For concentrate graded at 6% lithium, the tax calculation will use a conversion ratio of 5 tonnes of concentrate to 1 tonne of lithium sulfate. Zimbabwe will continue to apply a zero export tax to lithium sulfate. Ncube did not say whether a planned ban on lithium concentrate exports will take effect in January 2027; producers have asked to delay it until July 2027."
     },
     {
       "id": "5226602",
@@ -85358,36 +85613,6 @@
         "其他"
       ],
       "text": "【軌道資源日趨擁擠、巨型星座批次組網 軌道空間碎片治理成剛需】作為國內首顆空間碎片監測商業衛星，“甘德一號01星”此前因追蹤並記錄SpaceX“獵鷹9號”火箭殘骸撞擊月球的軌跡引發行業關注。這顆搭載星上AI算力、主打“天感天算”的衛星，填補了國內商業天基碎片監測空白。“空間碎片監測與態勢感知服務，是整個太空經濟大產業的基礎。”國際宇航科學院（IAA）院士、中國遙感應用協會理事長、國家航天局原副局長羅格在甘德星座首星出征儀式上表示，“沒有精準的感知，就沒有安全的軌道，再宏偉的星座、再繁榮的太空經濟都是空中樓閣”。在軌道資源日趨擁擠、巨型星座批次組網背景下，以AI賦能為核心路徑的空間碎片治理，正在從遠期構想轉向產業剛需，由遨天科技抓總建設的甘德星座，正成為我國自主可控太空交管體系的重要載體。"
-    },
-    {
-      "id": "mkt:01a1d223-31b0-7bbc-abc0-d2f809505fbd",
-      "time": "2026-11-13 07:41:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Nasdaq-100 futures rose 0.56%; S&P 500 futures rose 0.31%."
-    },
-    {
-      "id": "5211907",
-      "time": "2026-11-13 07:40:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國白宮將CFTC與SEC人選提交參議院審批】週四，白宮將針對美國商品期貨交易委員會（CFTC）和美國證券交易委員會（SEC）的兩黨提名名單正式提交給參議院，等待批准。此舉正值上週中期選舉失利後，總統唐納德·特朗普所在的共和黨即將於明年1月失去參議院控制權之際。民主黨人克里斯汀·約翰遜（Kristin Johnson）被提名為SEC委員，其任期將於2029年屆滿。她此前曾擔任CFTC委員，由時任民主黨總統喬·拜登任命。週四公佈的另一位SEC提名人是共和黨人史蒂文·萊文（Steven Levine），他將出任該機構委員，任期至2030年屆滿。民主黨人馬修·羅蘭（Matthew Rowland）被提名為CFTC委員，以填補剩餘任期至2028年屆滿的空缺。共和黨人內森·阿諾尼克（Nathan Anonick）同樣被提名為CFTC委員，其任期將於2031年屆滿。由特朗普挑選並於2025年獲參議院確認的CFTC主席邁克·塞利格（Mike Selig）在社交平臺X上發帖稱，羅蘭和阿諾尼克是“兩位強有力的跨黨派人選”，並表示期待與他們共事。"
-    },
-    {
-      "id": "5211906",
-      "time": "2026-11-13 07:40:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100期貨上漲0.56%，標普500期貨上漲0.31%。"
     }
   ]
 }
