@@ -1,7 +1,49 @@
 {
   "date": "2026-11-20",
-  "count": 231,
+  "count": 236,
   "items": [
+    {
+      "id": "5226327",
+      "time": "2026-11-20 01:24:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，未來48小時內，美國東南海岸外的風暴形成氣旋的機率為30%。"
+    },
+    {
+      "id": "5226325",
+      "time": "2026-11-20 01:24:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌幅收窄至1%。"
+    },
+    {
+      "id": "mkt:01a1f4d6-311a-7bbc-ac74-297b9962bed0",
+      "time": "2026-11-20 01:24:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "German Chancellor Merz, on his “Yalta model” remarks: We will not accept Europe being divided again."
+    },
+    {
+      "id": "5226323",
+      "time": "2026-11-20 01:23:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數下跌1%。"
+    },
+    {
+      "id": "mkt:01a1f4d4-9c70-7bbc-ac74-219c85628b4e",
+      "time": "2026-11-20 01:22:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump to hold news conference Friday】U.S. President Trump said he will hold a news conference at the White House at noon local time Friday (1 a.m. Beijing time on Nov. 21). He called the trip a major success and said he would discuss trade deals with Thailand, the Philippines and other countries."
+    },
     {
       "id": "5226322",
       "time": "2026-11-20 01:20:47",
