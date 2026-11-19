@@ -1,7 +1,147 @@
 {
   "date": "2026-11-19",
-  "count": 1145,
+  "count": 1159,
   "items": [
+    {
+      "id": "mkt:01a1f2d6-f44d-7bbc-ac62-6c05ab13dc69",
+      "time": "2026-11-19 16:05:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UniCredit shares rose 1.8% after the bank reached an agreement with Germany on its acquisition of Commerzbank."
+    },
+    {
+      "id": "mkt:01a1f2d6-b24b-7bbc-ac62-65077f0d87a7",
+      "time": "2026-11-19 16:05:18",
+      "tags": [
+        "MKT News",
+        "TM.O",
+        "Impact bearish"
+      ],
+      "text": "The U.S. National Highway Traffic Safety Administration said Toyota is recalling certain vehicles in the U.S. because an inflator rupture could send sharp metal fragments into drivers or other occupants, causing serious injury or death."
+    },
+    {
+      "id": "5225036",
+      "time": "2026-11-19 16:05:06",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【三星高管回應AI泡沫爭議：NeoCloud風險有限，AI投資源於真實需求】針對市場擔憂企業過度舉債可能催生 AI 泡沫，三星電子 DS 部門資料中心事業部總裁兼負責人金容寬（音譯）近日在新加坡舉辦的摩根士丹利會議上指出：“NeoCloud（新雲廠商）在整個市場中體量相對有限，僅佔約 8%。並不認為這類風險會對整體 AI 增長曲線構成重大威脅。”CoreWeave、Nebius 等 NeoCloud 廠商依靠舉債擴張建設資料中心，市場一直擔憂，一旦 AI 需求降溫，高額債務將成為沉重負擔，相關企業股價也曾因此出現波動。此外，英偉達前 CEO 黃仁勳卸任，或進一步加大這類企業的融資壓力。金容寬判斷，當前這一輪 AI 投資熱潮並非週期性行情，而是結構性增長。半導體廠商和客戶之間簽訂大量長期合約，讓供需關係變得更可預判。他強調，本輪和過去那些投機性投資最終演變為供給過剩的週期不一樣：“當下的投資並非投機，而是依託真實、有形的需求。”"
+    },
+    {
+      "id": "mkt:01a1f2d6-6266-7bbc-ac62-594af506bf8a",
+      "time": "2026-11-19 16:04:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "STM.PA",
+        "Impact bullish",
+        "ASML.AS",
+        "ASMI.AS"
+      ],
+      "text": "Semiconductor stocks in France and the Benelux region rose, with STMicroelectronics, BE Semiconductor Industries, ASMI and ASML up 3.3%-4.5%."
+    },
+    {
+      "id": "5225035",
+      "time": "2026-11-19 16:04:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克說深圳建築很酷】馬斯克還告訴與會者，他現在正在中國深圳，“這是一座非常巨大的城市，有很多很酷的建築，我覺得這裡是中國最大的科技中心。”（中新網）"
+    },
+    {
+      "id": "5225034",
+      "time": "2026-11-19 16:04:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局（NHTSA）：豐田汽車工程與製造公司正在召回 314,029 輛美國汽車，原因是安全氣囊充氣裝置可能發生破裂，導致尖銳金屬碎片擊中駕駛員或其他乘員，造成嚴重傷亡。"
+    },
+    {
+      "id": "mkt:01a1f2d5-960b-7bbc-ac62-52cd0c9d925e",
+      "time": "2026-11-19 16:04:05",
+      "tags": [
+        "MKT News",
+        "TM.O",
+        "Impact bearish"
+      ],
+      "text": "The U.S. National Highway Traffic Safety Administration said Toyota is recalling 314,029 vehicles in the United States."
+    },
+    {
+      "id": "5225033",
+      "time": "2026-11-19 16:03:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中核科技：海陽、漳州專案交付的36臺核級閥門交付在公司Q4收入中佔比不大】有投資者向中核科技（000777.SZ）提問，公司11月初披露海陽、漳州核電專案36臺核級閥門已完成出廠驗收，請問本次交付的主給水隔離閥、地坑閥、卸壓閥等產品對應的合同金額約多少？在Q4收入中預計佔比多大？11月19日，公司在互動平臺回答表示，本次海陽、漳州專案交付的36臺核級閥門（主給水隔離閥、地坑閥、卸壓閥、閘閥等）系公司前期已簽訂單的批次交付。"
+    },
+    {
+      "id": "5225032",
+      "time": "2026-11-19 16:03:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利裕信銀行股價上漲1.8%，此前與德國就收購德國商業銀行達成協議。"
+    },
+    {
+      "id": "5225031",
+      "time": "2026-11-19 16:02:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利Technoprobe公司股價早盤上漲5%，意法半導體上漲4.7%。"
+    },
+    {
+      "id": "mkt:01a1f2d4-392c-7bbc-ac62-480b38f72b29",
+      "time": "2026-11-19 16:02:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Enterprise Singapore: Fuel oil stocks rose 1.271 mln barrels to 20.805 mln barrels in the week ended Nov. 18, the highest in nearly six months."
+    },
+    {
+      "id": "mkt:01a1f2d4-23cf-7bbc-ac62-47dd0a3ff451",
+      "time": "2026-11-19 16:02:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "0992.HK",
+        "Impact bullish"
+      ],
+      "text": "【Yang Yuanqing: Device market offers huge growth opportunity; up to 80% of compute to be generated on-device and at the edge】Lenovo Chairman and CEO Yang Yuanqing said at the company’s Q2 FY2026/27 results briefing that mass AI adoption is only beginning and the device market offers significant growth potential. In the agentic AI era, devices will be where AI data is generated and use cases emerge, as well as a platform for on-device computing. Up to 80% of computing is expected to be generated on-device and at the edge, he said. Lenovo’s end-to-end device, edge and cloud footprint and patent portfolio position it to benefit from the next wave of device transformation."
+    },
+    {
+      "id": "mkt:01a1f2d4-064e-7bbc-ac62-3e570509a06f",
+      "time": "2026-11-19 16:02:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Singapore's Enterprise Development Board: Middle distillate inventories fell 503,000 barrels to 8.325 mln barrels in the week to Nov. 18, a two-week low."
+    },
+    {
+      "id": "5225030",
+      "time": "2026-11-19 16:02:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾華製藥<NOVN.S>股價在設定新的中期目標後下跌1.5%。"
+    },
     {
       "id": "mkt:01a1f2d3-7e6f-7bbc-ac62-31a23d3044ab",
       "time": "2026-11-19 16:01:49",
