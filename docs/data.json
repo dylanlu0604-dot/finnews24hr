@@ -1,7 +1,46 @@
 {
-  "updated": "2026-11-20 01:34:10",
+  "updated": "2026-11-20 01:37:59",
   "count": 9642,
   "items": [
+    {
+      "id": "mkt:01a1f4e2-4227-7bbc-ac74-59107d4dc2d3",
+      "time": "2026-11-20 01:37:11",
+      "tags": [
+        "MKT News",
+        "NYT.O",
+        "Impact bearish"
+      ],
+      "text": "A Florida judge ruled that U.S. President Trump’s defamation lawsuit against The New York Times and Penguin Random House can proceed."
+    },
+    {
+      "id": "mkt:01a1f4e1-6765-7bbc-ac74-52ef023eb892",
+      "time": "2026-11-20 01:36:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【Trump's latest financial disclosure shows September purchases of up to $580,000 in Nvidia and SpaceX shares】U.S. President Donald Trump bought up to $265,000 in Nvidia shares and up to $315,000 in SpaceX shares in September, while selling up to $15,000 in Nvidia, according to a financial disclosure signed Nov. 1 and released Thursday by the U.S. Office of Government Ethics. Exact amounts are unclear because the filing reports asset values in ranges. Trump previously reported buying up to $1.6 million and selling up to $1 million in Nvidia shares in August. The trades come as his administration considers changes to export rules for advanced AI chips that could affect Nvidia. The White House has said an independent financial institution manages Trump's portfolio, which tracks indexes including the Schwab 1000, and that there are no conflicts of interest. Lawmakers are also questioning whether Trump had advance knowledge of Jensen Huang's personal ties; Trump said he was surprised by the allegations."
+    },
+    {
+      "id": "5226350",
+      "time": "2026-11-20 01:35:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "Bessemer Venture Partners合夥人：Anthropic上市是這家前沿AI公司發展歷程中的“谷歌時刻”。"
+    },
+    {
+      "id": "5226348",
+      "time": "2026-11-20 01:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "法官就《紐約時報》提出的駁回動議作出部分支援、部分反對的裁決，允許美國總統特朗普針對該報提起的大部分誹謗訴訟繼續進行。"
+    },
     {
       "id": "5226344",
       "time": "2026-11-20 01:33:24",
@@ -86485,40 +86524,6 @@
         "公司"
       ],
       "text": "【Hugging Face執行長就黃仁勳離職事件置評：令人難過的一天】Hugging Face執行長克萊芒·德朗格週四對英偉達執行長黃仁勳的離職簡短置評，稱這是“非常令人難過的一天”。英偉達曾於9月宣佈計劃以129億美元收購這家開源人工智慧模型平臺，這將成為該公司歷史上第二大收購，僅次於2025年12月以200億美元收購晶片製造商Groq的資產。德朗格寫道：“整件事糟透了，我希望這一切從未發生。這真是非常令人難過的一天！但我想明確一點：我們將繼續為開源人工智慧而戰，比以往更加努力。現在這件事太重要了，不能放慢腳步。加油！”"
-    },
-    {
-      "id": "5211607",
-      "time": "2026-11-13 01:37:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲天然氣期貨漲約8%】週四（11月12日）歐市尾盤，ICE英國天然氣期貨漲8.09%，報233.520便士/千卡，亞太中午以來持續上漲。TTF基準荷蘭天然氣期貨漲7.88%，報93.693歐元/兆瓦時，北京時間13:04微跌至86.045歐元重新整理日低，隨後持續上漲。ICE歐盟碳排放交易許可（期貨價格）漲0.93%，報90.39歐元/噸。"
-    },
-    {
-      "id": "5211606",
-      "time": "2026-11-13 01:37:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：黃仁勳聘請Paul Weiss律師事務所。"
-    },
-    {
-      "id": "5211605",
-      "time": "2026-11-13 01:36:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【法媒稱法德兩國同意由de Cos出任歐洲央行行長 德國否認該報道】德國否認法國《Le Point》雜誌的一篇報道。該報道稱，德國總理弗里德里希·默茨和法國總統埃馬紐埃爾·馬克龍已同意，由Pablo Hernandez de Cos於明年接替克里斯蒂娜·拉加德出任歐洲央行行長。德國政府一名發言人表示，這篇法國雜誌的報道不實。拉加德上月表示，她將提前結束行長任期，於明年2月離任，以便能夠就政治事務公開發聲。來自荷蘭的Klaas Knot正與西班牙的de Cos競爭這一職位，兩人都曾擔任各自國家的央行行長。《Le Point》還援引一名外交訊息人士的話稱，其他國家將會追隨法德之間達成的安排。"
-    },
-    {
-      "id": "5211604",
-      "time": "2026-11-13 01:34:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "義大利國家電力公司首席財務官：集團將在更新後的商業計劃中納入資料中心服務。"
     }
   ]
 }

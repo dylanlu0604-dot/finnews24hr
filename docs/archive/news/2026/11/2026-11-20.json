@@ -1,7 +1,46 @@
 {
   "date": "2026-11-20",
-  "count": 251,
+  "count": 255,
   "items": [
+    {
+      "id": "mkt:01a1f4e2-4227-7bbc-ac74-59107d4dc2d3",
+      "time": "2026-11-20 01:37:11",
+      "tags": [
+        "MKT News",
+        "NYT.O",
+        "Impact bearish"
+      ],
+      "text": "A Florida judge ruled that U.S. President Trump’s defamation lawsuit against The New York Times and Penguin Random House can proceed."
+    },
+    {
+      "id": "mkt:01a1f4e1-6765-7bbc-ac74-52ef023eb892",
+      "time": "2026-11-20 01:36:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【Trump's latest financial disclosure shows September purchases of up to $580,000 in Nvidia and SpaceX shares】U.S. President Donald Trump bought up to $265,000 in Nvidia shares and up to $315,000 in SpaceX shares in September, while selling up to $15,000 in Nvidia, according to a financial disclosure signed Nov. 1 and released Thursday by the U.S. Office of Government Ethics. Exact amounts are unclear because the filing reports asset values in ranges. Trump previously reported buying up to $1.6 million and selling up to $1 million in Nvidia shares in August. The trades come as his administration considers changes to export rules for advanced AI chips that could affect Nvidia. The White House has said an independent financial institution manages Trump's portfolio, which tracks indexes including the Schwab 1000, and that there are no conflicts of interest. Lawmakers are also questioning whether Trump had advance knowledge of Jensen Huang's personal ties; Trump said he was surprised by the allegations."
+    },
+    {
+      "id": "5226350",
+      "time": "2026-11-20 01:35:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "Bessemer Venture Partners合夥人：Anthropic上市是這家前沿AI公司發展歷程中的“谷歌時刻”。"
+    },
+    {
+      "id": "5226348",
+      "time": "2026-11-20 01:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "法官就《紐約時報》提出的駁回動議作出部分支援、部分反對的裁決，允許美國總統特朗普針對該報提起的大部分誹謗訴訟繼續進行。"
+    },
     {
       "id": "5226344",
       "time": "2026-11-20 01:33:24",
