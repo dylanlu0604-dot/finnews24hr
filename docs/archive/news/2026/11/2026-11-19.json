@@ -1,7 +1,199 @@
 {
   "date": "2026-11-19",
-  "count": 739,
+  "count": 758,
   "items": [
+    {
+      "id": "mkt:01a1f174-2b98-7bbc-ac58-ad788f02fe2b",
+      "time": "2026-11-19 09:38:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ueda: Financial conditions remain accommodative despite rate hikes】Bank of Japan Governor Kazuo Ueda reiterated the bank’s resolve to continue raising rates, saying financial conditions remain accommodative despite previous hikes. He told parliament that anchoring underlying inflation near the 2% target is crucial to prevent an overshoot from materializing and damaging the economy."
+    },
+    {
+      "id": "mkt:01a1f173-78ab-7bbc-ac58-a540a4cba484",
+      "time": "2026-11-19 09:37:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300"
+      ],
+      "text": "China A-share liquor stocks slid, with Huangtai Wine nearing its daily limit down. Jinzhongzi Wine, Shunxin Agriculture, Tianyoude and Jinhui Liquor also fell."
+    },
+    {
+      "id": "5224041",
+      "time": "2026-11-19 09:36:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【白酒板塊短線下挫，皇臺酒業逼近跌停】白酒板塊短線下挫，皇臺酒業逼近跌停，金種子酒、順鑫農業、天佑德酒、金徽酒跟跌。"
+    },
+    {
+      "id": "mkt:01a1f172-a0a7-7bbc-ac58-9f28df669c6e",
+      "time": "2026-11-19 09:36:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rises more than 1% intraday to $92.32/bbl."
+    },
+    {
+      "id": "mkt:01a1f172-64d7-7bbc-ac58-9506f763ab50",
+      "time": "2026-11-19 09:36:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor Ueda: Japan’s labor market is tight, wages are rising steadily and consumption is broadly stable."
+    },
+    {
+      "id": "mkt:01a1f172-0e14-7bbc-ac58-8face5265b24",
+      "time": "2026-11-19 09:35:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "Photoresist-related A-shares surged in morning trading, with Gred and Hongbaoli hitting the 10% limit-up; Yida, Baolidi, Xilong Scientific, ShuangLe and Guangxin Materials also gained."
+    },
+    {
+      "id": "5224033",
+      "time": "2026-11-19 09:35:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體概念港股走強 華虹宏力一度漲超6%】半導體概念港股逆市走高。截至發稿，華虹宏力（01347.HK）漲4.84%，中芯國際（00981.HK）漲3.66%，愛芯元智（00600.HK）漲3.10%，壁仞科技（06082.HK）漲2.68%，雲英谷科技（03310.HK）漲2.04%。"
+    },
+    {
+      "id": "mkt:01a1f171-de70-7bbc-ac58-87b5ad34fc6a",
+      "time": "2026-11-19 09:35:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China's most-active coking coal futures contract fell 2.00% intraday to 1,349.50 yuan per ton."
+    },
+    {
+      "id": "mkt:01a1f171-d4dd-7bbc-ac58-7d962dae3540",
+      "time": "2026-11-19 09:35:31",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's A-share winter sports sector fell sharply. Longjiang Transport, Bingshan Refrigeration & Heat Transfer and Longjian Road & Bridge hit the 10% limit down; Jingxue Energy-Saving fell more than 15%. Snowman Group, Dalian Sunasia, Changbaishan Tourism, Aucma and Ousen Electric also declined."
+    },
+    {
+      "id": "5224031",
+      "time": "2026-11-19 09:35:18",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：由於就業市場緊張，工資穩步上漲，消費總體保持韌性。"
+    },
+    {
+      "id": "mkt:01a1f171-99b9-7bbc-ac58-74e80ad534ca",
+      "time": "2026-11-19 09:35:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan Governor Ueda: The decline in consumption reflected in July-September GDP data was in line with our expectations."
+    },
+    {
+      "id": "mkt:01a1f171-7e37-7bbc-ac58-6fe7775ceac9",
+      "time": "2026-11-19 09:35:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "The STAR 50 Index extended losses to 2%. MetaX-U had earlier fallen more than 10%, while VeriSilicon, China’s CPU maker Haiguang and Centec Communications were also down more than 10%."
+    },
+    {
+      "id": "mkt:01a1f171-55b6-7bbc-ac58-66283f594261",
+      "time": "2026-11-19 09:34:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea’s KOSPI fell 2.00% intraday."
+    },
+    {
+      "id": "mkt:01a1f171-4d37-7bbc-ac58-59df3df5ee69",
+      "time": "2026-11-19 09:34:56",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei index erased earlier gains, falling 0.4% and slipping below 59,000."
+    },
+    {
+      "id": "5224023",
+      "time": "2026-11-19 09:34:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【實探線下數碼賣場：高階顯示卡降幅最高超萬元 ，中端型號波動不大】近日，關於英偉達RTX50系列顯示卡價格回落的訊息引發不少裝機玩家關注。11月17日，走訪武漢廣埠屯電腦數碼市場發現，線下報價隨渠道持續波動，高階型號回落幅度相對明顯，中端型號整體橫盤、降幅有限；受貨源、品牌和配置影響，同一張卡在不同商家處報價也有出入。市場內，一位店主介紹，RTX5090Dv224G近期價格高點曾達到三萬七八千元，目前回落至兩萬六千元左右。高階陣營中，國內有售的RTX5080在11月初還在兩萬元上下，目前報價一萬六千元左右。有渠道資料顯示，該卡發售價為8299元，目前價格仍高出發售價近一倍。與高階相比，走量的中端型號整體呈橫盤態勢，降幅並不明顯。多位商家表示，這輪降價主要集中在高階型號，中端走量產品波動有限。“個人使用者剛需，該買就買。”（每經）"
+    },
+    {
+      "id": "mkt:01a1f171-28ee-7bbc-ac58-501ab68017a8",
+      "time": "2026-11-19 09:34:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "【High-end graphics card prices fall by more than 10,000 yuan; midrange models largely steady】NVIDIA RTX 50-series graphics card prices have retreated, with the biggest declines in high-end models, while midrange prices have been largely flat, a Nov. 17 visit to Wuhan’s Guangbutun computer market found. Retailers quoted the RTX 5090D V2 24GB at around 26,000 yuan, down from a recent peak of 37,000-38,000 yuan. The RTX 5080 was priced at about 16,000 yuan, versus around 20,000 yuan in early November and a launch price of 8,299 yuan. Retailers said midrange, high-volume models had seen limited price movement; quotes varied by supply, brand and configuration."
+    },
+    {
+      "id": "5224021",
+      "time": "2026-11-19 09:34:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數下跌2%，報4965.89點。"
+    },
+    {
+      "id": "5224020",
+      "time": "2026-11-19 09:34:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5224017",
+      "time": "2026-11-19 09:34:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：GDP中消費支出的下降符合預期。"
+    },
     {
       "id": "5224015",
       "time": "2026-11-19 09:34:05",
