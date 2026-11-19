@@ -1,7 +1,318 @@
 {
-  "updated": "2026-11-19 16:58:55",
-  "count": 9967,
+  "updated": "2026-11-19 17:02:43",
+  "count": 10000,
   "items": [
+    {
+      "id": "5225180",
+      "time": "2026-11-19 17:01:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "波蘭奧倫石油公司將與凱雷集團簽署合作諒解備忘錄。"
+    },
+    {
+      "id": "mkt:01a1f30a-82ce-7bbc-ac64-097e15cd3d2b",
+      "time": "2026-11-19 17:01:54",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME aluminum inventories fell 1,725 tonnes, copper rose 125 tonnes, zinc fell 575 tonnes, tin fell 45 tonnes, lead fell 2,675 tonnes and nickel rose 1,002 tonnes."
+    },
+    {
+      "id": "5225179",
+      "time": "2026-11-19 17:01:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "科倫坡全股指數收盤上漲0.7%，報21543.91點。"
+    },
+    {
+      "id": "mkt:01a1f309-ed7a-7bbc-ac64-00369cfd53e2",
+      "time": "2026-11-19 17:01:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME zinc inventory change (Nov.19) | actual -575 | previous -1600"
+    },
+    {
+      "id": "mkt:01a1f309-e125-7bbc-ac63-ffd06ad48c45",
+      "time": "2026-11-19 17:01:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【China projects 12.99 mln university graduates in 2027】China expects 12.99 mln university graduates in 2027. Authorities will coordinate efforts to keep overall graduate employment stable, strengthen policy support and recruitment, and expand hiring across key regions and industries, including advanced manufacturing and services. They will also encourage state-owned enterprises and small and medium-sized businesses to maintain or increase hiring and support entrepreneurship."
+    },
+    {
+      "id": "mkt:01a1f309-d72b-7bbc-ac63-f744df210aba",
+      "time": "2026-11-19 17:01:10",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Euro zone September unadjusted current account surplus €27.5 bln vs. €7.7 bln previously."
+    },
+    {
+      "id": "mkt:01a1f309-d52b-7bbc-ac63-eb409bd03369",
+      "time": "2026-11-19 17:01:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME nickel inventory change (Nov.19) | actual 1002 | previous -24"
+    },
+    {
+      "id": "mkt:01a1f309-d294-7bbc-ac63-e58d8ac146b3",
+      "time": "2026-11-19 17:01:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME tin inventory change (Nov.19) | actual -45 | previous 150"
+    },
+    {
+      "id": "mkt:01a1f309-c5d0-7bbc-ac63-dfe0ad628fc9",
+      "time": "2026-11-19 17:01:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Current Account NSA (Sep) | actual 27500000000B | previous 7700000000B"
+    },
+    {
+      "id": "mkt:01a1f309-bfd2-7bbc-ac63-d2ca8f830c48",
+      "time": "2026-11-19 17:01:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME lead inventory change (Nov.19) | actual -2675 | previous -1800"
+    },
+    {
+      "id": "5225178",
+      "time": "2026-11-19 17:01:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SK海力士美股盤前漲超4%】SK海力士美股盤前漲超4%，現報128.56美元。"
+    },
+    {
+      "id": "5225177",
+      "time": "2026-11-19 17:01:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利9月份經常賬戶盈餘15.7億歐元。"
+    },
+    {
+      "id": "mkt:01a1f309-b087-7bbc-ac63-ce09d5751e22",
+      "time": "2026-11-19 17:01:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Euro zone September seasonally adjusted current account: €12.47 bln, vs. €8.71 bln previously."
+    },
+    {
+      "id": "mkt:01a1f309-abdc-7bbc-ac63-c1a7b410bac9",
+      "time": "2026-11-19 17:00:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME aluminum inventory change (Nov.19) | actual -1725 | previous 5800"
+    },
+    {
+      "id": "mkt:01a1f309-9ea9-7bbc-ac63-b941d61906f0",
+      "time": "2026-11-19 17:00:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME aluminum alloy inventory change (Nov.19) | actual 0 | previous 0"
+    },
+    {
+      "id": "mkt:01a1f309-9d8e-7bbc-ac63-b040b36e4801",
+      "time": "2026-11-19 17:00:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Current Account SA (Sep) | actual 12474000000B | previous 8709000000B"
+    },
+    {
+      "id": "5225176",
+      "time": "2026-11-19 17:00:53",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行執委施泰恩·科赫爾表示，可能需要進一步加息。"
+    },
+    {
+      "id": "5225175",
+      "time": "2026-11-19 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股算力雲相關股票盤前普漲】甲骨文漲2.29%，CoreWeave漲3.29%，Nebius漲3.92%，IREN漲4.08%，Applied Digital漲3.81%。"
+    },
+    {
+      "id": "5225174",
+      "time": "2026-11-19 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股太空概念股盤前普漲】SpaceX漲2.08%，Rocket Lab漲3.21%，Planet Labs漲3.15%，AST SpaceMobile漲3.40%，Intuitive Machines漲2.79%。"
+    },
+    {
+      "id": "5225173",
+      "time": "2026-11-19 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前普漲】美光漲3.96%，閃迪漲3.91%，SK海力士漲5.01%，西部資料漲3.56%，希捷科技漲3.68%。"
+    },
+    {
+      "id": "5225172",
+      "time": "2026-11-19 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤前普漲】Lumentum漲4.07%，康寧漲2.47%，Coherent漲4.15%，應用光電漲4.25%，Ciena漲2.83%，博通漲2.52%，邁威爾科技漲3.55%。"
+    },
+    {
+      "id": "5225171",
+      "time": "2026-11-19 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前：“七姐妹”普漲】英偉達漲1.67%，蘋果漲0.58%，微軟漲1.29%，谷歌漲2.66%，亞馬遜漲2.18%，Meta漲0.82%，特斯拉漲1.39%。"
+    },
+    {
+      "id": "5225170",
+      "time": "2026-11-19 17:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤前普跌】禮來跌0.47%，強生跌0.37%，Moderna漲0.82%，諾和諾德漲0.86%，艾伯維跌0.19%，默沙東跌0.90%。"
+    },
+    {
+      "id": "mkt:01a1f309-88b5-7bbc-ac63-aa5d274c0a0c",
+      "time": "2026-11-19 17:00:50",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME copper inventory change (Nov.19) | actual 125 | previous -200"
+    },
+    {
+      "id": "5225169",
+      "time": "2026-11-19 17:00:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊利諾伊州檔案顯示，雪佛龍萊蒙特煉油廠存在排放問題。"
+    },
+    {
+      "id": "5225168",
+      "time": "2026-11-19 17:00:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "保加利亞9月份經常賬戶赤字為8.265億歐元。"
+    },
+    {
+      "id": "5225167",
+      "time": "2026-11-19 17:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元區9月份經常賬戶盈餘124.74億歐元。"
+    },
+    {
+      "id": "5225166",
+      "time": "2026-11-19 16:59:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "香港恒生港美科技指數將新增Anthropic至指定美國上市成份股名單，9只美國上市成份股的比重將於11月30日市後重新計算至等權重。"
+    },
+    {
+      "id": "mkt:01a1f308-7122-7bbc-ac63-a22247a55537",
+      "time": "2026-11-19 16:59:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ANTH.O"
+      ],
+      "text": "The Hang Seng Hong Kong-US Technology Index will add Anthropic to its designated U.S.-listed constituents. The nine U.S.-listed constituents will be reweighted equally after the market close on Nov. 30."
+    },
+    {
+      "id": "mkt:01a1f307-e7d3-7bbc-ac63-9be59c715c5c",
+      "time": "2026-11-19 16:59:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Colder weather outlook and low inventories support rebound in European TTF gas prices】European gas prices rebounded in early trade after falling in the previous session. Benchmark Dutch TTF futures rose 3.7% to 83.80 euros per MWh. ANZ analysts said recent price declines were driven by higher U.S. LNG exports and weaker demand from some major Asian importers, freeing more cargoes for Europe. Forecast lower temperatures could boost heating demand and strain supply. European gas storage remains relatively low, at 69.9% full versus about 81.9% at the same time last year, leaving the market more vulnerable to tight supply as winter demand rises."
+    },
+    {
+      "id": "5225164",
+      "time": "2026-11-19 16:58:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【周杰倫肖像維權案即將開庭】天眼查顯示，近日，周杰倫與上海融興置地有限公司、上海金樹街商業管理有限公司肖像權糾紛的案件新增開庭公告，周杰倫為原告，案件將於2026年12月3日在上海市靜安區人民法院開庭審理。"
+    },
+    {
+      "id": "5225163",
+      "time": "2026-11-19 16:58:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中廣天擇：股票交易異常波動 無應披露未披露重大事項】中廣天擇公告稱，公司股票於2026年11月17日、11月18日、11月19日連續三個交易日收盤價格跌幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查並向控股股東長沙城發文化旅遊集團有限公司徵詢，截至公告披露日，公司生產經營正常，不存在應披露而未披露的重大事項，董事、高管及控股股東在異常交易期間不存在買賣公司股票的情形。敬請廣大投資者注意二級市場交易風險，理性決策，審慎投資。"
+    },
+    {
+      "id": "5225162",
+      "time": "2026-11-19 16:58:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃山旅遊：擬參與競買國有建設用地使用權】黃山旅遊公告稱，公司董事會審議透過議案，擬參與競買黃山市屯溪區柏山單元BS-01（原新麗園酒店）地塊的國有建設用地使用權，該地塊出讓面積15547.18平方米，土地用途為商業用地相容商務金融用地，使用年期40年，競買起始價2915.0963萬元，競買保證金585萬元，資金來源為公司自籌資金。本次交易不構成關聯交易及重大資產重組，公開競買能否成功存在不確定性，競買成功後專案亦存在開發運營及收益不達預期的風險。"
+    },
+    {
+      "id": "5225161",
+      "time": "2026-11-19 16:58:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【無錫振華：鄭州君潤競得71416.67平方米工業用地，成交金額4757萬元】無錫振華公告，公司全資子公司鄭州振華君潤汽車部件有限公司此前披露擬以自有資金或自籌資金在鄭州經開區購買土地使用權，投資建設以車身分拼總成焊接業務為主的鄭州君潤三期工程，專案總投資金額為5億元。近日，鄭州君潤已競得土地使用權，並與河南省中牟縣自然資源和規劃局簽訂《國有建設用地使用權出讓合同》，宗地總面積71416.67平方米，用途為工業用地，出讓年限50年，總成交金額4757萬元。"
+    },
     {
       "id": "5225160",
       "time": "2026-11-19 16:58:04",
@@ -89433,17 +89744,6 @@
         "Importance 0"
       ],
       "text": "Oman Inflation Slows for 2nd Month — Oman's annual inflation rate eased to 2.9% in October 2026, down from 3.2% in September, marking a second consecutive month of slowing price growth. Inflation moderated in food (7.6% vs 8%), education (0.4% vs 2.2%) and restaurants and hotels (3.4% vs 3.6%). In contrast, price growth accelerated in transport (5.6% vs 4.8%), clothing and footwear (0.2% vs 0.1%), health (1.8% vs 1.7%) and recreation and culture (0.5% vs 0.4%). Inflation stood at 0.1% for housing and utilities."
-    },
-    {
-      "id": "te:markets:600692",
-      "time": "2026-11-12 17:00:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Increases by 0.45% — Top currency gainers are South Korean Won (0.45%), Polish Zloty (0.29%) and Japanese Yen (0.07%). Biggest losers are Australian Dollar (-0.37%) and Indian Rupee (-0.32%). Meanwhile, Euro, British Pound and Dollar Index were little changed."
     }
   ]
 }
