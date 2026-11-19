@@ -1,7 +1,39 @@
 {
   "date": "2026-11-20",
-  "count": 271,
+  "count": 274,
   "items": [
+    {
+      "id": "mkt:01a1f4ef-e0cf-7bbc-ac74-86bc46284536",
+      "time": "2026-11-20 01:52:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Fed's Goolsbee: Concerned tariff effects on inf may prove more persistent than expected."
+    },
+    {
+      "id": "5226369",
+      "time": "2026-11-20 01:51:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "古爾斯比：擔心關稅對通脹的影響比預期更持久。"
+    },
+    {
+      "id": "5226367",
+      "time": "2026-11-20 01:50:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦重申堅決反對並強烈譴責持續針對沙烏地阿拉伯平民及民用和經濟設施的公然襲擊。"
+    },
     {
       "id": "5226363",
       "time": "2026-11-20 01:48:24",
