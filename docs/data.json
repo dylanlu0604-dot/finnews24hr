@@ -1,7 +1,121 @@
 {
-  "updated": "2026-11-19 08:40:52",
-  "count": 9569,
+  "updated": "2026-11-19 08:44:45",
+  "count": 9580,
   "items": [
+    {
+      "id": "5223798",
+      "time": "2026-11-19 08:44:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗簽署的諒解備忘錄只是延緩了事情，並非錯誤。"
+    },
+    {
+      "id": "5223797",
+      "time": "2026-11-19 08:43:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們在伊朗所做的事情是正確的。"
+    },
+    {
+      "id": "5223796",
+      "time": "2026-11-19 08:42:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：封鎖是我們採取過的最有效的措施。"
+    },
+    {
+      "id": "5223795",
+      "time": "2026-11-19 08:42:06",
+      "tags": [
+        "央行"
+      ],
+      "text": "【澳大利亞失業率意外升至4.9% 央行激進加息後就業市場進一步降溫】澳大利亞10月失業率意外上升，顯示在澳大利亞央行為遏制通脹而激進加息後，勞動力市場進一步降溫。澳大利亞統計局週四公佈的資料顯示，失業率升至4.9%，高於市場預期的4.7%。就業人數減少4.35萬，而分析師原本預計增加2.5萬。澳大利亞央行本月初將利率上調至4.85%，創18年來最高水平，以遏制通脹。最新就業資料顯示，更高的借貸成本正日益對勞動力市場構成壓力，這可能有助於緩解令決策者擔憂的通脹壓力。根據澳大利亞央行最新經濟預測，失業率預計將在2028年晚些時候升至5.1%的峰值，從而幫助緩解通脹壓力。儘管今年失業率已經上升，但央行在11月3日釋出的貨幣政策宣告中仍認為勞動力市場“略偏緊”。"
+    },
+    {
+      "id": "5223794",
+      "time": "2026-11-19 08:41:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望就伊朗達成一項永續性協議。"
+    },
+    {
+      "id": "5223793",
+      "time": "2026-11-19 08:41:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃隆·馬斯克談 Neuralink 的 BlindSight： 我們的下一個產品是我們稱之為 BlindSight 的東西。所以 BlindSight 是一種神經植入物，它直接與視覺皮層介面，使完全失明的人能夠看到。所以你戴著眼鏡或類似的東西，有一個攝像頭，那個攝像頭傳輸到 Neuralink 裝置，然後將訊號傳輸到你的視覺皮層，使完全失明的人——意思是雙眼失明或視神經丟失，甚至可能是從出生就失明的人——能夠看到。"
+    },
+    {
+      "id": "mkt:01a1f13f-ecc3-7bbc-ac56-8b2dea763e15",
+      "time": "2026-11-19 08:41:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. President Trump says the United States has full control of the Strait of Hormuz, with commercial activity and oil exports in the region hitting records last week."
+    },
+    {
+      "id": "5223792",
+      "time": "2026-11-19 08:40:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "“放鬆”，美國總統特朗普告訴美國民眾，在最近的大規模停電和他的電網緊急宣告之後，無需恐慌搶購食品或水。“如果有問題，我會讓你們知道，”特朗普表示。他稱外國對手不敢針對美國的電網，因為他們將面臨的後果。"
+    },
+    {
+      "id": "5223791",
+      "time": "2026-11-19 08:40:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破3750美元/盎司，日內漲0.69%。"
+    },
+    {
+      "id": "mkt:01a1f13f-5a41-7bbc-ac56-831e5d25aff6",
+      "time": "2026-11-19 08:40:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump: I very much hope we can resolve the Russia-Ukraine conflict."
+    },
+    {
+      "id": "mkt:01a1f13f-5a02-7bbc-ac56-7a0743673498",
+      "time": "2026-11-19 08:40:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump: No deal will be reached without Ukraine."
+    },
+    {
+      "id": "mkt:01a1f13f-24f6-7bbc-ac56-7530f25de6d1",
+      "time": "2026-11-19 08:40:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. President Trump: There is deep hostility between Russian President Putin and Ukrainian President Zelenskiy."
+    },
+    {
+      "id": "5223790",
+      "time": "2026-11-19 08:39:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "華為今日官宣旗下最薄 Mate 直板機 —— 華為 Mate90 Air 輕薄旗艦，新機將於 11 月 24 日 14:30 舉行的 HUAWEI Mate X8 及全場景新品釋出會亮相。"
+    },
     {
       "id": "mkt:01a1f13c-7d94-7bbc-ac56-6a6447c6c1a2",
       "time": "2026-11-19 08:37:15",
@@ -85856,28 +85970,6 @@
         "其他"
       ],
       "text": "據《華盛頓郵報》報道：白宮不會干預英偉達董事會的決定。"
-    },
-    {
-      "id": "te:markets:600538",
-      "time": "2026-11-12 08:43:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Stocks Slip from 11-Week Peak — Australian shares fell 40 points, or 0.4%, to 9,114 in early Thursday trading, ending a three-session run of strength and retreating from an 11-week high as traders booked profits. Sentiment weakened as U.S. equity futures fell amid turmoil at Nvidia, where reports of a possible leadership shake-up involving CEO Jensen Huang rattled the AI sector. Locally, weak Q3 lending indicators and consumer inflation expectations holding at a four-month high also weighed. Still, losses were capped by China's trade surplus exceeding USD 1 trillion for a second consecutive year in the first ten months of 2026, supported by strong AI-related demand. Tech, non-energy minerals, and consumer services led declines, while logistics, financials, and healthcare offered some support. Aristocrat Leisure (-5.9%), Genesis Minerals (-4.5%), and PLS Group (-3.4%) led losses. Meantime, BHP fell 1.2%, and Rio Tinto lost 1.4%. Among major banks, ANZ lost 2.0%, while CBA and Westpac rose 1.6% and 1.3%, respectively."
-    },
-    {
-      "id": "5209054",
-      "time": "2026-11-12 08:42:25",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【英偉達執行長黃仁勳前景不明 亞洲晶片股走勢分化】在媒體報道英偉達董事會正準備在黃仁勳發生多段婚外情後將其罷免之際，亞洲晶片相關股票走勢漲跌互現。據一位知情人士透露，英偉達董事會一直在與一家外部機構合作，以尋找黃仁勳的潛在繼任者。英偉達股價在盤後交易中一度下跌約10%，隨後跌幅有所收窄。在亞洲市場，部分英偉達供應商股價走低，而更廣泛的晶片供應鏈則因美國同行週三的上漲而獲得提振。在日本，英偉達供應商揖斐電（Ibiden）股價大跌，跌幅高達7.8%；愛德萬測試（Advantest）下跌5%。資料顯示，揖斐電29%的銷售額來自英偉達，愛德萬測試為22%。在其他晶片股中，鎧俠上漲，漲幅高達3.7%；東京電子上漲3.5%。在韓國，英偉達主要供應商SK海力士在抹去早盤1.8%的跌幅後股價上漲；ISC下跌3.3%，Leeno Industrial下跌1.4%。SK海力士27%的銷售額來自英偉達，Leeno為17%。在其他個股中，三星電子股價上漲，漲幅高達3%。"
     }
   ]
 }
