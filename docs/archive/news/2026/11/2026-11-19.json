@@ -1,7 +1,165 @@
 {
   "date": "2026-11-19",
-  "count": 1173,
+  "count": 1190,
   "items": [
+    {
+      "id": "mkt:01a1f2dd-f675-7bbc-ac62-bf84ca5edfc3",
+      "time": "2026-11-19 16:13:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan military says 22 militants killed】Pakistan’s military said security forces killed 22 militants in multiple counterterrorism operations in the northwestern province of Khyber Pakhtunkhwa on the 16th and 17th. Operations are ongoing."
+    },
+    {
+      "id": "5225057",
+      "time": "2026-11-19 16:13:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "安聯投資：法國債務市場並未出現恐慌性拋售。"
+    },
+    {
+      "id": "mkt:01a1f2dd-7bbb-7bbc-ac62-b04a0c75085f",
+      "time": "2026-11-19 16:12:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "European technology stocks rose 1.5%, leading sector gains."
+    },
+    {
+      "id": "5225055",
+      "time": "2026-11-19 16:12:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合利華大中華區“一把手”落定：陳戈繼續掌舵，統管全品類】11月19日，聯合利華中國方面向21世紀經濟報道記者確認，陳戈（Grace Chen）將出任聯合利華大中華區總經理，繼續執掌中國市場業務。在新的組織架構下，陳戈將全面承擔大中華區所有品類的損益（P&L）責任。目前，陳戈擔任聯合利華大中華區總裁、美妝與健康事業部大中華區總經理。也就是說，陳戈將從兼任事業部管理者轉為大中華區“第一責任人”，職責範圍進一步擴大。"
+    },
+    {
+      "id": "5225054",
+      "time": "2026-11-19 16:12:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中核科技：公司密切關注聚變領域技術與專案進展】有投資者在互動平臺向中核科技（000777.SZ）提問，公司在投資者互動中提及＂正積極進行聚變堆相關技術積累，對接核聚變閥門裝置需求部門＂，請問目前是否有具體產品已透過樣機鑑定或送樣？預計何時能形成第一批訂單？11月19日，公司回答表示，公司密切關注聚變領域技術與專案進展，關注氘氚介質相關閥門需求，穩步推進相關預研工作。"
+    },
+    {
+      "id": "5225053",
+      "time": "2026-11-19 16:11:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫光股份：公司存貨主要為ICT產品及相關原材料、備件】有投資者向紫光股份（000938.SZ）提問，公司有什麼計劃和有什麼訂單可以消化巨大的存貨？11月19日，公司回答表示，公司存貨主要為ICT產品及相關原材料、備件，公司前三季度的訂單增長快於收入的增長，能夠為第四季度及明年一季度的交付提供較為充足的支撐，公司將重點做好交付保障。"
+    },
+    {
+      "id": "5225052",
+      "time": "2026-11-19 16:11:37",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：英偉達業績強化核心投資論點，維持“買入”評級及目標價225美元】花旗發表研報指，英偉達10月底止第三財季業績延續“勝預期並上調指引”節奏，強化該行核心投資論點，即需求仍然非常強勁、供應瓶頸正在紓緩，而臨時管理層有足夠信心上調長遠增長預期。該行指出，英偉達對人工智慧基建專案融資採取更審慎取態，若資金受限，或令部分新雲端服務商(neocloud)營運商增長放緩。綜合而言，該行上調2026/2027/2028年每股盈利預測分別4%、6%及2%，維持“買入”評級及目標價225美元；較高盈利預測被略為下調的估值倍數(14倍，先前為15倍)所抵銷，因公司重申不計劃讓黃仁勳迴歸。"
+    },
+    {
+      "id": "5225051",
+      "time": "2026-11-19 16:11:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦軍方說打死22名恐怖分子】巴基斯坦三軍新聞局19日發表宣告說，巴安全部隊16日至17日在該國西北部開伯爾－普什圖省開展多次反恐行動，共打死22名恐怖分子。（新華社）"
+    },
+    {
+      "id": "5225050",
+      "time": "2026-11-19 16:11:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "安聯投資莫蒂耶：以美元計價的晶片需求激增。"
+    },
+    {
+      "id": "mkt:01a1f2dc-338c-7bbc-ac62-afc87cca8c99",
+      "time": "2026-11-19 16:11:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "Hang Seng China Enterprises Index"
+      ],
+      "text": "Hong Kong's HSI fell 453.13 points, or 1.95%, to 22,841.62 at Thursday's close. The Hang Seng Tech Index dropped 87.19 points, or 2.33%, to 3,649.14; the Hang Seng China Enterprises Index fell 145.93 points, or 1.86%, to 7,690.34; and the Hang Seng China-Affiliated Corporations Index lost 56.63 points, or 1.45%, to 3,860.79."
+    },
+    {
+      "id": "mkt:01a1f2db-e170-7bbc-ac62-a47781a22415",
+      "time": "2026-11-19 16:10:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hubei to step up development of next-generation communications and computing networks】Hubei will strengthen planning and development of next-generation communications and computing networks to support economic and social digitalization, Governor Li Dianxun said at an industrial internet conference in Wuhan on Nov. 19. The province will also accelerate industrial digitalization and growth of the digital economy, with advanced manufacturing at the core of its industrial development."
+    },
+    {
+      "id": "5225049",
+      "time": "2026-11-19 16:10:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "安聯投資莫蒂耶：對Anthropic的中長期前景存疑。"
+    },
+    {
+      "id": "5225048",
+      "time": "2026-11-19 16:10:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "安聯投資莫蒂耶：Anthropic上市短期來看是利好訊息。"
+    },
+    {
+      "id": "5225047",
+      "time": "2026-11-19 16:10:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國航天集團等成立航天時代低空安全技術創新中心】企查查APP顯示，近日，北京航天時代低空安全技術創新中心有限公司成立，經營範圍包含：資訊系統整合服務；資訊系統執行維護服務；大資料服務；網際網路資料服務等。企查查股權穿透顯示，該公司由中國航天科技集團有限公司全資子公司中國航天時代電子有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:01a1f2db-90ad-7bbc-ac62-999f7c6e03d8",
+      "time": "2026-11-19 16:10:37",
+      "tags": [
+        "MKT News",
+        "PAY.L",
+        "Impact bearish"
+      ],
+      "text": "PayPoint shares fell 10% after its 1H results."
+    },
+    {
+      "id": "mkt:01a1f2db-4885-7bbc-ac62-905aa83b26dd",
+      "time": "2026-11-19 16:10:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "0700.HK",
+        "BABA.N"
+      ],
+      "text": "Hong Kong shares closed lower, with the HSI down 1.95% and the Hang Seng Tech Index off 2.33%. Most internet stocks fell; Tencent dropped more than 6% and Alibaba fell more than 5%."
+    },
+    {
+      "id": "5225046",
+      "time": "2026-11-19 16:09:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北：將進一步加強新一代通訊網和算力網規劃建設】以“網聯萬物 智興千業”為主題的2026中國5G＋工業網際網路大會11月19日上午在武漢開幕。湖北省委副書記、省長李殿勳出席並致辭表示，將進一步加強新一代通訊網和算力網規劃建設，系統重塑支撐經濟社會數字化轉型的現代化基礎設施體系；將堅持產業數字化與數字產業化雙向發力，加快構建以先進製造業為骨幹、充分體現湖北優勢的現代化產業體系；將持續打造國內一流創新生態和營商環境，努力為國內外各類創新創業者到湖北投資興業提供根本保障。 (湖北日報)"
+    },
     {
       "id": "5225045",
       "time": "2026-11-19 16:09:03",
