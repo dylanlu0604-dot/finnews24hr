@@ -1,7 +1,168 @@
 {
   "date": "2026-11-19",
-  "count": 786,
+  "count": 803,
   "items": [
+    {
+      "id": "mkt:01a1f17e-9f39-7bbc-ac59-513d3f75fe76",
+      "time": "2026-11-19 09:49:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Tencent Holdings (00700.HK) extended losses to 5%, hitting its lowest level since February 2025."
+    },
+    {
+      "id": "5224109",
+      "time": "2026-11-19 09:49:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴港股跌超5%."
+    },
+    {
+      "id": "mkt:01a1f17d-7672-7bbc-ac59-4fb47abe586f",
+      "time": "2026-11-19 09:48:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Hosts 33rd APEC Economic Leaders’ Informal Meeting】China chaired the 33rd APEC Economic Leaders’ Informal Meeting at the Shenzhen International Exchange Center on the morning of Nov. 19."
+    },
+    {
+      "id": "5224103",
+      "time": "2026-11-19 09:47:53",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【習近平主持亞太經合組織第三十三次領導人非正式會議】11月19日上午，國家主席習近平在深圳國際交流中心主持亞太經合組織第三十三次領導人非正式會議。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1f17c-f645-7bbc-ac59-459abfc64ef9",
+      "time": "2026-11-19 09:47:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank of Japan Governor Kazuo Ueda: Exchange-rate fluctuations may have a greater impact on inf than in the past, as companies have become more proactive in passing on costs."
+    },
+    {
+      "id": "5224099",
+      "time": "2026-11-19 09:47:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:01a1f17c-ab9f-7bbc-ac59-3a5529c6722a",
+      "time": "2026-11-19 09:47:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【LNG exports through Strait of Hormuz appear to slow as attacks mount】Only about two LNG carriers passed through the Strait of Hormuz in the week through Tuesday, down from a weekly average of eight over the past two months, according to Bloomberg and Kpler data and satellite imagery. The decline suggests shipowners are becoming more cautious after a series of attacks. Traffic is at its lowest since early September, when Qatar began ramping up exports to recoup profits and meet demand from customers facing gas shortages."
+    },
+    {
+      "id": "5224098",
+      "time": "2026-11-19 09:46:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為終端：鴻蒙智行 享界V8及星芒品牌釋出會】華為終端發文稱，鴻蒙智行享界V8及星芒品牌釋出會將於11月20日14:30分召開。"
+    },
+    {
+      "id": "mkt:01a1f17b-b992-7bbc-ac59-342e35d9e45f",
+      "time": "2026-11-19 09:46:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Huawei: HIMA Shangjie V8 and Xingmang brand launch event】Huawei's consumer business said the HIMA Shangjie V8 and Xingmang brand launch event will be held on Nov. 20 at 2:30 p.m."
+    },
+    {
+      "id": "5224097",
+      "time": "2026-11-19 09:46:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平同與會嘉賓集體合影】11月19日上午，亞太經合組織第三十三次領導人非正式會議在深圳國際交流中心舉行。會議開始前，國家主席習近平同與會嘉賓親切握手並集體合影。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1f17b-a5ab-7bbc-ac59-2d85c5b014eb",
+      "time": "2026-11-19 09:46:14",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor Ueda: Yen weakness could push up prices across a range of goods and cause inflation to overshoot."
+    },
+    {
+      "id": "mkt:01a1f17b-86ee-7bbc-ac59-2504f2cff252",
+      "time": "2026-11-19 09:46:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor Kazuo Ueda: FX fluctuations have a greater impact on inflation than in the past."
+    },
+    {
+      "id": "mkt:01a1f17b-72bb-7bbc-ac59-1a16072c74a0",
+      "time": "2026-11-19 09:46:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "BOJ Governor Kazuo Ueda: The pace and timing of rate hikes will depend on assessments of the likelihood of the baseline outlook being realized and the associated risks."
+    },
+    {
+      "id": "mkt:01a1f17b-4d3e-7bbc-ac59-16df06e77440",
+      "time": "2026-11-19 09:45:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia’s Civil Defense issued an alert warning of potential danger in Riyadh."
+    },
+    {
+      "id": "5224096",
+      "time": "2026-11-19 09:45:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：由於企業在轉嫁成本方面變得更加積極，匯率波動對通脹的影響可能比過去更大。"
+    },
+    {
+      "id": "5224095",
+      "time": "2026-11-19 09:45:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日元疲軟可能會推高各類商品價格，從而導致通脹超調。"
+    },
+    {
+      "id": "5224094",
+      "time": "2026-11-19 09:45:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "植田和男：外匯波動對通脹的影響比以往更大。"
+    },
     {
       "id": "5224092",
       "time": "2026-11-19 09:45:12",

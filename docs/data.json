@@ -1,7 +1,168 @@
 {
-  "updated": "2026-11-19 09:46:07",
-  "count": 9689,
+  "updated": "2026-11-19 09:49:54",
+  "count": 9698,
   "items": [
+    {
+      "id": "mkt:01a1f17e-9f39-7bbc-ac59-513d3f75fe76",
+      "time": "2026-11-19 09:49:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Tencent Holdings (00700.HK) extended losses to 5%, hitting its lowest level since February 2025."
+    },
+    {
+      "id": "5224109",
+      "time": "2026-11-19 09:49:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴港股跌超5%."
+    },
+    {
+      "id": "mkt:01a1f17d-7672-7bbc-ac59-4fb47abe586f",
+      "time": "2026-11-19 09:48:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Hosts 33rd APEC Economic Leaders’ Informal Meeting】China chaired the 33rd APEC Economic Leaders’ Informal Meeting at the Shenzhen International Exchange Center on the morning of Nov. 19."
+    },
+    {
+      "id": "5224103",
+      "time": "2026-11-19 09:47:53",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【習近平主持亞太經合組織第三十三次領導人非正式會議】11月19日上午，國家主席習近平在深圳國際交流中心主持亞太經合組織第三十三次領導人非正式會議。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1f17c-f645-7bbc-ac59-459abfc64ef9",
+      "time": "2026-11-19 09:47:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank of Japan Governor Kazuo Ueda: Exchange-rate fluctuations may have a greater impact on inf than in the past, as companies have become more proactive in passing on costs."
+    },
+    {
+      "id": "5224099",
+      "time": "2026-11-19 09:47:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:01a1f17c-ab9f-7bbc-ac59-3a5529c6722a",
+      "time": "2026-11-19 09:47:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【LNG exports through Strait of Hormuz appear to slow as attacks mount】Only about two LNG carriers passed through the Strait of Hormuz in the week through Tuesday, down from a weekly average of eight over the past two months, according to Bloomberg and Kpler data and satellite imagery. The decline suggests shipowners are becoming more cautious after a series of attacks. Traffic is at its lowest since early September, when Qatar began ramping up exports to recoup profits and meet demand from customers facing gas shortages."
+    },
+    {
+      "id": "5224098",
+      "time": "2026-11-19 09:46:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為終端：鴻蒙智行 享界V8及星芒品牌釋出會】華為終端發文稱，鴻蒙智行享界V8及星芒品牌釋出會將於11月20日14:30分召開。"
+    },
+    {
+      "id": "mkt:01a1f17b-b992-7bbc-ac59-342e35d9e45f",
+      "time": "2026-11-19 09:46:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Huawei: HIMA Shangjie V8 and Xingmang brand launch event】Huawei's consumer business said the HIMA Shangjie V8 and Xingmang brand launch event will be held on Nov. 20 at 2:30 p.m."
+    },
+    {
+      "id": "5224097",
+      "time": "2026-11-19 09:46:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平同與會嘉賓集體合影】11月19日上午，亞太經合組織第三十三次領導人非正式會議在深圳國際交流中心舉行。會議開始前，國家主席習近平同與會嘉賓親切握手並集體合影。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1f17b-a5ab-7bbc-ac59-2d85c5b014eb",
+      "time": "2026-11-19 09:46:14",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor Ueda: Yen weakness could push up prices across a range of goods and cause inflation to overshoot."
+    },
+    {
+      "id": "mkt:01a1f17b-86ee-7bbc-ac59-2504f2cff252",
+      "time": "2026-11-19 09:46:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor Kazuo Ueda: FX fluctuations have a greater impact on inflation than in the past."
+    },
+    {
+      "id": "mkt:01a1f17b-72bb-7bbc-ac59-1a16072c74a0",
+      "time": "2026-11-19 09:46:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "BOJ Governor Kazuo Ueda: The pace and timing of rate hikes will depend on assessments of the likelihood of the baseline outlook being realized and the associated risks."
+    },
+    {
+      "id": "mkt:01a1f17b-4d3e-7bbc-ac59-16df06e77440",
+      "time": "2026-11-19 09:45:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia’s Civil Defense issued an alert warning of potential danger in Riyadh."
+    },
+    {
+      "id": "5224096",
+      "time": "2026-11-19 09:45:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：由於企業在轉嫁成本方面變得更加積極，匯率波動對通脹的影響可能比過去更大。"
+    },
+    {
+      "id": "5224095",
+      "time": "2026-11-19 09:45:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日元疲軟可能會推高各類商品價格，從而導致通脹超調。"
+    },
+    {
+      "id": "5224094",
+      "time": "2026-11-19 09:45:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "植田和男：外匯波動對通脹的影響比以往更大。"
+    },
     {
       "id": "5224092",
       "time": "2026-11-19 09:45:12",
@@ -87025,74 +87186,6 @@
         "其他"
       ],
       "text": "【全國冬小麥播種過八成 秋冬種進展順利】當前，我國糧食主產區正搶抓農時，加緊推進秋冬種。農業農村部最新農情排程顯示，冬小麥播種過八成。秋冬種面積佔全年糧食播種面積的近四分之一，主要作物是冬小麥，播種面積和質量關係到明年夏糧產量。在全國最大的冬小麥主產區黃淮海，今年，為應對超強厄爾尼諾可能造成的暖冬，冬小麥播期比常年推遲5到7天，防止冬前旺長。（央視）"
-    },
-    {
-      "id": "5209296",
-      "time": "2026-11-12 09:49:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【燃氣板塊直線拉昇，洪通燃氣漲停】燃氣板塊直線拉昇，洪通燃氣漲停，東方環宇、凱添燃氣、新疆火炬、升達林業、美能能源等紛紛走高。"
-    },
-    {
-      "id": "5209294",
-      "time": "2026-11-12 09:49:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【知名科技分析師郭明錤評黃仁勳事件】郭明錤在社交平臺發文：黃仁勳對英偉達很重要，因為他能將工程師們認為可行的技術轉化為整個公司投入資源、承擔風險並必須交付的產品。這就是為什麼供應鏈能獲得如此強大的訂單可見度，並願意跟上激進的規格升級步伐。這也迫使競爭對手跟進，從而推動整個AI行業的技術升級和供應鏈投資。兩者之間，與賦予供應鏈訂單可見度相比，決定激進的規格升級並使其實現是更難的部分。黃仁勳不必是英偉達最瞭解HVDC、CPO/NPO或CCL/PTFE等新技術的人。他的價值在於，他能同時權衡戰略、組織、技術和供應鏈，然後快速做出決定並投入資源支援。根據目前公開的資訊來看，黃仁勳很難毫髮無損地度過這一關。如果是這樣，務實的做法可能是逐步減少英偉達對黃仁勳個人決策的依賴，同時準備繼任計劃。在此過程中，有兩件事值得關注，以判斷AI技術和投資的走向：英偉達是否能像以往一樣高效地繼續開發新產品和技術，以及競爭對手如何回應。供應鏈研究將是這一判斷的重要依據。"
-    },
-    {
-      "id": "5209290",
-      "time": "2026-11-12 09:47:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼棕櫚油協會負責人：厄爾尼諾現象可能導致產量減少多達 300 萬噸，預計 2027 年受影響最嚴重。"
-    },
-    {
-      "id": "5209289",
-      "time": "2026-11-12 09:47:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達3.08%，成分股中，盛科通訊漲11.11%，寒武紀漲9.00%，沐曦股份漲8.60%，華豐科技漲8.05%。"
-    },
-    {
-      "id": "5209288",
-      "time": "2026-11-12 09:47:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多隻半導體、晶片ETF漲超3%】半導體裝置ETF廣發、半導體裝置ETF國泰、半導體裝置ETF易方達等多隻半導體裝置ETF漲超3%，實現三連陽。科創晶片ETF富國、科創晶片ETF匯添富、科創晶片ETF易方達等多隻科創晶片ETF漲超3%，實現四連陽。"
-    },
-    {
-      "id": "5209287",
-      "time": "2026-11-12 09:47:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李彥宏：AI下一幕是智慧組織】11月12日舉辦的百度世界2026開幕式上，百度創始人李彥宏表示，2016年到2026年這十年，正是人工智慧技術形成獨立技術棧的十年，“芯雲模體”四層架構就是在這十年逐步形成的。如果AI技術的上游是能源，那麼AI技術的下游，“我認為是組織能力，是一個不同於現在通行的科層制的AI原生組織體系，我們把它叫做智慧組織。”李彥宏判斷，人工智慧的下一幕是智慧組織。“如果說人工智慧是新電能，那麼，智慧組織就是AI時代新的廠房，是生產力真正發生的地方。只有匹配AI各種新能力的組織方式落地了，生產力才會大幅度提升，經濟才能加速成長。”"
-    },
-    {
-      "id": "te:markets:600552",
-      "time": "2026-11-12 09:46:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Losses on Hawkish Fed View — Silver traded below $52 an ounce on Thursday, holding recent losses as a stronger US dollar weighed on the precious metal. The dollar gained support from hotter-than-expected US inflation figures and increasingly hawkish comments from Federal Reserve officials, reinforcing expectations of further interest rate increases. Fed Governor Christopher Waller indicated that a 50-basis-point hike in December may be necessary, while Dallas Fed President Lorie Logan supported at least two additional 25-basis-point increases to address persistent inflationary pressures. Markets are currently pricing in approximately a 91% probability of a rate hike next month, with further increases in January and potentially April also being factored in. Investors are now turning their attention to upcoming US economic releases, including weekly jobless claims, existing home sales and producer inflation data, for further indications of the Fed’s monetary policy outlook."
-    },
-    {
-      "id": "5209286",
-      "time": "2026-11-12 09:46:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為新品牌OSTA星芒將獨立運營】11月12日，華為正式官宣全新子品牌OSTA星芒，系面向先鋒者的科技品牌，記者獲悉，該品牌將以獨立品牌身份運營，將於11月20日舉辦的華為新品釋出會上正式釋出。"
     }
   ]
 }
