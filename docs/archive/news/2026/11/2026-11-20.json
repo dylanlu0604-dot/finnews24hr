@@ -1,7 +1,81 @@
 {
   "date": "2026-11-20",
-  "count": 304,
+  "count": 312,
   "items": [
+    {
+      "id": "mkt:01a1f502-532f-7bbc-ac74-f4cf5d701f27",
+      "time": "2026-11-20 02:12:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Energy Secretary Wright: Oil flows through the Strait of Hormuz yesterday were the highest to date."
+    },
+    {
+      "id": "mkt:01a1f502-06d3-7bbc-ac74-ed31313cd415",
+      "time": "2026-11-20 02:11:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said tensions over Iran have not escalated."
+    },
+    {
+      "id": "mkt:01a1f501-bc17-7bbc-ac74-e3f11af14ef3",
+      "time": "2026-11-20 02:11:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Goolsbee: Unless AI proves it can boost productivity beyond the tech sector, the AI boom may ultimately prove a flash in the pan."
+    },
+    {
+      "id": "5226395",
+      "time": "2026-11-20 02:11:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1.5%。"
+    },
+    {
+      "id": "5226394",
+      "time": "2026-11-20 02:10:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "古爾斯比：美聯儲仍在尋找證據，證明人工智慧驅動的生產力提升正開始超越科技行業。除非人工智慧能夠證明它可以提高科技行業以外的生產力，否則它可能被證明是“曇花一現”。"
+    },
+    {
+      "id": "mkt:01a1f501-0071-7bbc-ac74-db9da269cc2b",
+      "time": "2026-11-20 02:10:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Goolsbee: The Fed is still looking for evidence that AI-driven productivity gains are beginning to spread beyond the tech sector."
+    },
+    {
+      "id": "5226393",
+      "time": "2026-11-20 02:10:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "賴特談伊朗問題：緊張局勢並未加劇。"
+    },
+    {
+      "id": "5226392",
+      "time": "2026-11-20 02:10:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：昨日霍爾木茲海峽的流出量迄今最大。"
+    },
     {
       "id": "5226391",
       "time": "2026-11-20 02:07:58",
