@@ -1,7 +1,326 @@
 {
-  "updated": "2026-11-20 01:02:52",
-  "count": 9549,
+  "updated": "2026-11-20 01:06:46",
+  "count": 9581,
   "items": [
+    {
+      "id": "mkt:01a1f4c5-e6f8-7bbc-ac73-772832295098",
+      "time": "2026-11-20 01:06:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GBP/USD fell below 1.31, down 0.37% on the day."
+    },
+    {
+      "id": "5226270",
+      "time": "2026-11-20 01:06:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3670美元/盎司，日內跌1.53%。"
+    },
+    {
+      "id": "5226269",
+      "time": "2026-11-20 01:06:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【費城半導體指數日內跌2%】費城半導體指數日內跌2.05%，現報9455.37點。英偉達跌1.77%，博通跌1.51%，美光跌1.29%，英特爾漲1.02%，AMD跌8.97%，高通漲1.23%，臺積電跌2.87%，阿斯麥跌1.28%。"
+    },
+    {
+      "id": "5226268",
+      "time": "2026-11-20 01:05:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3670美元/盎司，日內跌1.92%。"
+    },
+    {
+      "id": "mkt:01a1f4c5-8b0d-7bbc-ac73-6e2633210920",
+      "time": "2026-11-20 01:05:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham: The aggressor should not be making sweeping and unrealistic demands in this conflict."
+    },
+    {
+      "id": "5226267",
+      "time": "2026-11-20 01:05:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所波動率指數升至近八個月高位，最新上漲3.75點至28.31。"
+    },
+    {
+      "id": "5226266",
+      "time": "2026-11-20 01:05:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報44.11美元/盎司。"
+    },
+    {
+      "id": "5226265",
+      "time": "2026-11-20 01:05:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "ANTHROPIC股票開盤漲幅收窄至21%。"
+    },
+    {
+      "id": "5226264",
+      "time": "2026-11-20 01:05:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守44美元/盎司，日內跌2.35%。"
+    },
+    {
+      "id": "5226263",
+      "time": "2026-11-20 01:05:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆表示，歐洲在談判中擁有“清晰且一致”的立場。"
+    },
+    {
+      "id": "5226262",
+      "time": "2026-11-20 01:05:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Chrome瀏覽器推出“映象維度”功能。"
+    },
+    {
+      "id": "5226261",
+      "time": "2026-11-20 01:05:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員們力促重新授權糖尿病專項計劃。"
+    },
+    {
+      "id": "5226260",
+      "time": "2026-11-20 01:05:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌2%】費城半導體指數日內跌2.05%，現報9455.37點。英偉達跌1.77%，博通跌1.51%，美光跌1.29%，英特爾漲1.02%，AMD跌8.97%，高通漲1.23%，臺積電跌2.87%，阿斯麥跌1.28%。"
+    },
+    {
+      "id": "mkt:01a1f4c4-e748-7bbc-ac73-60e6fab47a2d",
+      "time": "2026-11-20 01:05:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures fell more than 2% intraday to $44.16/oz."
+    },
+    {
+      "id": "5226259",
+      "time": "2026-11-20 01:05:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆：烏克蘭局勢的決心“比以往任何時候都更加堅定”。"
+    },
+    {
+      "id": "5226258",
+      "time": "2026-11-20 01:05:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌2%，現報10588.00元。"
+    },
+    {
+      "id": "mkt:01a1f4c4-caff-7bbc-ac73-5c49217ded3e",
+      "time": "2026-11-20 01:05:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Spot palladium is down 4.00% on the day at $912.70/oz."
+    },
+    {
+      "id": "5226256",
+      "time": "2026-11-20 01:04:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Chrome推出合成網路以測試AI智慧體。"
+    },
+    {
+      "id": "5226255",
+      "time": "2026-11-20 01:04:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克100指數跌幅擴大至1.5%。"
+    },
+    {
+      "id": "5226254",
+      "time": "2026-11-20 01:04:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指跌2.03%，現報49177.738點；納指跌1.43%，現報24079.746點；標普500指數跌1.54%，現報7211.060點。"
+    },
+    {
+      "id": "mkt:01a1f4c3-fc54-7bbc-ac73-57b79d03f9e7",
+      "time": "2026-11-20 01:04:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump: I will hold a news conference tomorrow at noon."
+    },
+    {
+      "id": "5226253",
+      "time": "2026-11-20 01:03:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報44.16美元/盎司。"
+    },
+    {
+      "id": "5226252",
+      "time": "2026-11-20 01:03:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌4%，現報913.55美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1f4c3-5c1b-7bbc-ac73-4a85a423fcf0",
+      "time": "2026-11-20 01:03:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron: The coming weeks are crucial for Ukraine."
+    },
+    {
+      "id": "5226251",
+      "time": "2026-11-20 01:03:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：未來幾周對烏克蘭至關重要。"
+    },
+    {
+      "id": "mkt:01a1f4c2-ca72-7bbc-ac73-46d0b552c1c4",
+      "time": "2026-11-20 01:02:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he will discuss trade agreements with Thailand, the Philippines and other countries."
+    },
+    {
+      "id": "5226250",
+      "time": "2026-11-20 01:02:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司（BP）就懷廷煉油廠談判表示：工會談判委員會已同意於11月20日（週五）重返談判桌，這令英國石油公司備受鼓舞。"
+    },
+    {
+      "id": "mkt:01a1f4c2-9dec-7bbc-ac73-3c99afbbcf0b",
+      "time": "2026-11-20 01:02:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron: We must revisit the question of Ukraine joining NATO."
+    },
+    {
+      "id": "5226249",
+      "time": "2026-11-20 01:02:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD表示，公司維持嚴格的流程以確保合規。"
+    },
+    {
+      "id": "5226248",
+      "time": "2026-11-20 01:02:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD表示，公司維持嚴格的流程以確保合規。"
+    },
+    {
+      "id": "5226247",
+      "time": "2026-11-20 01:02:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1%，創盤中新低。"
+    },
+    {
+      "id": "5226246",
+      "time": "2026-11-20 01:02:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股三大指數均跌超1%】道指跌1.59%，現報49401.012點；納指跌1.00%，現報24184.422點；標普500指數跌1.02%，現報7248.760點。"
+    },
+    {
+      "id": "mkt:01a1f4c2-1c5a-7bbc-ac73-353a979bfe29",
+      "time": "2026-11-20 01:02:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. stocks fell after Anthropic (ANT.O) went public, with the S&P 500 down 1%, the Nasdaq 0.9% and the Dow 1.6% intraday."
+    },
+    {
+      "id": "5226245",
+      "time": "2026-11-20 01:02:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將與各方商討貿易協議。"
+    },
+    {
+      "id": "5226244",
+      "time": "2026-11-20 01:01:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "AMD表示，公司遵守美國出口管制法律。"
+    },
+    {
+      "id": "5226243",
+      "time": "2026-11-20 01:01:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：將討論泰國貿易協議。"
+    },
+    {
+      "id": "5226242",
+      "time": "2026-11-20 01:01:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數跌1.04%，現報7247.280點；道指跌1.59%，現報49400.570點；納指跌0.85%，現報24222.987點。"
+    },
     {
       "id": "5226241",
       "time": "2026-11-20 01:01:25",
@@ -85692,51 +86011,6 @@
         "Importance 1"
       ],
       "text": "The FTSE 100 Index Closes 0.29% Higher — The FTSE 100 Index gained 32 points or 0.29 percent on Thursday to close at 10867 points. Gains were led by Burberry (8.14%), 3i (5.79%) and Rentokil Initial (2.19%). Biggest losers were Endeavour (-7.92%), Babcock International (-5.06%) and Fresnillo (-3.45%)."
-    },
-    {
-      "id": "5211591",
-      "time": "2026-11-13 01:06:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）資料顯示，上週美國原油庫存意外增加，美國原油期貨<CLc1>和布倫特原油期貨<LCOc1>小幅走低。"
-    },
-    {
-      "id": "5211590",
-      "time": "2026-11-13 01:06:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）資料顯示，上週美國柴油庫存意外增加，美國柴油期貨<HOc1>轉跌。"
-    },
-    {
-      "id": "5211589",
-      "time": "2026-11-13 01:04:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所11月柴油期貨結算價為每噸1341.25美元。"
-    },
-    {
-      "id": "te:markets:600828",
-      "time": "2026-11-13 01:03:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Cocoa Futures Cross $5,200 — Cocoa futures rose above $5,200 a tonne, pulling away from four-month lows hit on November 10, as supply concerns in top grower Ivory Coast intensified. The country's national weather agency (Sodexam) warned that cocoa production could fall between 21% and 25% in the 2026/27 season due to an exceptionally strong El Niño event. Annual rainfall is expected to decline by 10%–27%, shortening the rainy season and extending dry periods. Near-term supply flows are also facing disruption, as heavy rains have reportedly damaged roads in Ivory Coast, hampering bean deliveries to collection centres. Port arrivals remain well below year-ago levels, although dealers suggested that increased smuggling into neighbouring countries may partly explain the decline. However, subdued chocolate demand has contributed to a build-up in exchange inventories. ICE-monitored cocoa stocks have been rising since the start of the year, recently reaching a fresh 2.5-year high of 3,751,670 bags."
-    },
-    {
-      "id": "5211588",
-      "time": "2026-11-13 01:03:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄總統助理：俄方願立即與美國就歐洲安全問題展開討論】當地時間12日，俄羅斯總統助理烏沙科夫表示，俄方願立即與美國共同就歐洲安全問題的相關提議展開討論。烏沙科夫還說，美方談判代表積極支援普京提出的在康斯坦丁諾夫卡開展人道主義行動的建議。他表示，俄方已準備好立即啟動排雷工作，以便在康斯坦丁諾夫卡開展人道主義行動。俄羅斯將邀請來自烏克蘭、美國及其他國家的記者參與在康斯坦丁諾夫卡開展的人道主義行動。目前各方正在就迄今為止最大規模的戰俘交換行動的具體安排進行協調。普京當天在莫斯科會見了美國總統特使威特科夫和總統特朗普的女婿庫什納。為期兩天的俄羅斯、美國和烏克蘭三方會談11日在阿聯酋首都阿布扎比結束，各方就大規模交換被俘人員達成協議，但在結束衝突、領土爭議、烏克蘭安全保障及歐洲未來安全架構等關鍵問題上仍存“重大分歧”。（央視新聞）"
     }
   ]
 }
