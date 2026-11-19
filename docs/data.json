@@ -1,7 +1,226 @@
 {
-  "updated": "2026-11-19 09:42:19",
-  "count": 9680,
+  "updated": "2026-11-19 09:46:07",
+  "count": 9689,
   "items": [
+    {
+      "id": "5224092",
+      "time": "2026-11-19 09:45:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【沐曦股份盤中跌超15%】A股沐曦股份盤中跌超15%，現報408.18元。"
+    },
+    {
+      "id": "mkt:01a1f17a-ad88-7bbc-ac59-0b0c400aae7c",
+      "time": "2026-11-19 09:45:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Malaysia and the U.S. plan to cooperate on a sovereign AI cloud for Southeast Asian countries, with $50 mln in U.S. support."
+    },
+    {
+      "id": "5224091",
+      "time": "2026-11-19 09:44:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門在X平臺發帖，就利雅得可能存在的危險釋出警報。"
+    },
+    {
+      "id": "5224084",
+      "time": "2026-11-19 09:44:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男表示，加息的節奏與時機將取決於對基準預測實現可能性以及相關風險的評估  。"
+    },
+    {
+      "id": "mkt:01a1f179-9f8a-7bbc-ac59-076b896b4b5e",
+      "time": "2026-11-19 09:44:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "CNH",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Caixin Securities: A-share policy floor confirmed, market still bottoming】Caixin Securities said the A-share policy floor is confirmed, but the market remains in a bottoming phase, while U.S. stocks may extend their correction. Its asset allocation ranking is yuan, U.S. dollar, China government bonds, U.S. Treasuries, A-shares, crude oil, gold and U.S. stocks. The dollar is expected to remain broadly firm and the yuan to trade rangebound with an upward bias. Oil faces the risk of a retreat in its risk premium, while gold is under near-term pressure. The U.S. Treasury curve’s bear-flattening trend may not be over. The recommendation for China government bonds is to stay defensive near term, with a modest tilt toward right-side positioning."
+    },
+    {
+      "id": "5224083",
+      "time": "2026-11-19 09:43:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【上證50股指期貨(IH)主力合約日內跌超1%】上證50股指期貨(IH)主力合約日內跌超1%，現報2702.2點。"
+    },
+    {
+      "id": "mkt:01a1f179-819d-7bbc-ac58-fbb53afe3b5c",
+      "time": "2026-11-19 09:43:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude’s intraday gain widened to 1%, pushing prices above $84/bbl."
+    },
+    {
+      "id": "5224081",
+      "time": "2026-11-19 09:43:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數下跌1%至3,943.71點。"
+    },
+    {
+      "id": "mkt:01a1f178-ddee-7bbc-ac58-f52e3706878d",
+      "time": "2026-11-19 09:43:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "USDJPY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Bank of Japan Governor Ueda is watching the impact of higher oil prices and yen weakness on household spending."
+    },
+    {
+      "id": "5224078",
+      "time": "2026-11-19 09:43:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "mkt:01a1f178-c4a5-7bbc-ac58-ee509c25f57f",
+      "time": "2026-11-19 09:43:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Bank of Japan Governor Ueda: Higher crude prices and a weaker yen may hurt household real income, weighing on spending more than expected; this risk is rising."
+    },
+    {
+      "id": "mkt:01a1f178-a60f-7bbc-ac58-e13fe58b026c",
+      "time": "2026-11-19 09:42:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【CITIC Securities: New energy storage policy expands demand, favoring leading companies】CITIC Securities said a new plan from China’s National Development and Reform Commission and National Energy Administration targets 300 GW of new energy storage capacity by 2030, with an average duration of about three hours. It also calls for studying changes to the allocation of system operating costs and promoting sodium-ion battery storage. Alongside improvements to capacity pricing and falling system costs, the plan supports expectations for continued growth in domestic storage installations and opportunities for leading companies. CITIC highlighted the 300-GW target as a floor, longer storage duration as a source of additional demand, and the elevation of system operating cost reform to the national planning level as a driver of faster provincial policy rollout and improved standalone storage economics. The explicit push to promote sodium-ion storage signals faster commercialization and potential rapid scaling."
+    },
+    {
+      "id": "mkt:01a1f178-8992-7bbc-ac58-d9d652400706",
+      "time": "2026-11-19 09:42:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share semiconductor packaging and testing stocks rallied again, with Dagang Holdings limit-up and Blue Arrow Electronics up more than 10%. Hualing, Huatian Technology, Huicheng, YongSi Electronics and JCET also rose."
+    },
+    {
+      "id": "5224074",
+      "time": "2026-11-19 09:42:49",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：原油價格上漲存在風險，日元疲軟可能損害家庭實際收入，導致消費支出降幅超出預期。"
+    },
+    {
+      "id": "mkt:01a1f178-6f78-7bbc-ac58-d2b7c7046d21",
+      "time": "2026-11-19 09:42:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China's A-share power stocks jump, with Mengdian Huaneng hitting the daily limit. Qianyuan Power, Lixin Energy and Guiguan Electric Power also gain."
+    },
+    {
+      "id": "mkt:01a1f178-49f4-7bbc-ac58-c855067fde1d",
+      "time": "2026-11-19 09:42:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Lenovo Group visits Hongjing Technology to discuss cooperation on heterogeneous AI computing and token factory ecosystem】On Nov. 18, Lenovo Group Vice President and head of its China enterprise business group Wang Liping led a delegation to Hongjing Technology for talks on heterogeneous AI computing clusters, joint operation of token factories, computing-power subscriptions, infrastructure for industry-specific AI model training and inference, liquid-cooled computing and hybrid-cloud scheduling. The companies said their capabilities are complementary and will work together to develop flexible, secure and controllable token-computing services and bring products to market."
+    },
+    {
+      "id": "5224073",
+      "time": "2026-11-19 09:42:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊短線拉昇，華能蒙電漲停】電力板塊短線拉昇，華能蒙電漲停，黔源電力、立新能源、桂冠電力跟漲。"
+    },
+    {
+      "id": "5224068",
+      "time": "2026-11-19 09:42:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：隨著名義工資穩步上升，消費有望恢復溫和上升趨勢，通脹可能逐步放緩。"
+    },
+    {
+      "id": "mkt:01a1f177-ea5e-7bbc-ac58-c18a86c74abc",
+      "time": "2026-11-19 09:42:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Securities: Semiconductor manufacturing investment to keep rising, creating opportunities for domestic equipment and materials】China Securities said on Nov. 19 that strong memory-sector demand is driving continued capacity expansion, while growth in advanced logic foundries and advanced packaging is also lifting global semiconductor manufacturing investment. China’s semiconductor industry is catching up and upgrading, expanding growth opportunities for domestic equipment makers. Fab capacity additions and memory producers’ process upgrades are creating ongoing opportunities for equipment qualification and adoption. Chinese suppliers have established product bases in etch, deposition, cleaning, CMP and testing, and are moving from single-tool breakthroughs toward broader portfolios and coverage of key processes."
+    },
+    {
+      "id": "5224067",
+      "time": "2026-11-19 09:42:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "儲存晶片板塊逆勢拉昇，大港股份直線漲停，藍箭電子、華虹宏力、江化微、康強電子、時空科技漲幅居前。"
+    },
+    {
+      "id": "5224066",
+      "time": "2026-11-19 09:41:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：預計消費支出將重回上升軌道。"
+    },
     {
       "id": "5224065",
       "time": "2026-11-19 09:41:44",
@@ -86874,107 +87093,6 @@
         "其他"
       ],
       "text": "【華為新品牌OSTA星芒將獨立運營】11月12日，華為正式官宣全新子品牌OSTA星芒，系面向先鋒者的科技品牌，記者獲悉，該品牌將以獨立品牌身份運營，將於11月20日舉辦的華為新品釋出會上正式釋出。"
-    },
-    {
-      "id": "5209285",
-      "time": "2026-11-12 09:46:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【印製電路板板塊短線拉昇，超穎電子漲停】印製電路板板塊短線拉昇，超穎電子漲停，東山精密、深南電路、生益電子、興森科技、南亞新材等紛紛走高。"
-    },
-    {
-      "id": "5209284",
-      "time": "2026-11-12 09:45:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【陸慷會見荷蘭新任駐華大使魏耀普】11月11日下午，中共中央對外聯絡部副部長陸慷在北京會見荷蘭新任駐華大使魏耀普。陸慷歡迎魏耀普來華履新，並表示，在習近平主席和威廉-亞歷山大國王戰略引領下，中荷關係穩步發展，各領域合作持續深化。面對複雜多變的國際形勢，中歐應堅持夥伴定位，透過對話協商妥處分歧。中國實施“十五五”規劃、推動高質量發展，將為荷蘭和歐洲發展提供新機遇。中方願同荷方、歐方一道，共同維護和踐行真正的多邊主義，推動構建開放型世界經濟。中國共產黨願同荷蘭各主要政黨加強溝通交流，增進相互瞭解和信任，助力中荷、中歐關係發展。魏耀普表示，荷方高度重視發展荷中關係，願以明年荷中建交55週年為契機，深化雙方在經貿、科技、農業等領域務實合作，推動荷中開放務實的全面合作伙伴關係不斷發展。荷方樂見歐中貿易投資磋商近期取得新進展。黨際交往有助於增進荷方對華認知，荷蘭駐華使館願積極支援兩國政黨、議會加強交流對話。"
-    },
-    {
-      "id": "te:markets:600551",
-      "time": "2026-11-12 09:45:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Holds Decline on Hawkish Fed View — Gold held below $4,000 an ounce on Thursday after sliding for two straight sessions, as a stronger US dollar weighed on the precious metal. The dollar gained support from hotter-than-expected US inflation figures and increasingly hawkish comments from Federal Reserve officials, reinforcing expectations of further interest rate increases. Fed Governor Christopher Waller indicated that a 50-basis-point hike in December may be necessary, while Dallas Fed President Lorie Logan supported at least two additional 25-basis-point increases to address persistent inflationary pressures. Markets are currently pricing in approximately a 91% probability of a rate hike next month, with further increases in January and potentially April also being factored in. Investors are now turning their attention to upcoming US economic releases, including weekly jobless claims, existing home sales and producer inflation data, for further indications of the Fed’s monetary policy outlook."
-    },
-    {
-      "id": "5209281",
-      "time": "2026-11-12 09:45:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力晶片概念延續強勢 天普股份觸及漲停】早盤算力晶片概念延續此前強勢，天普股份觸及漲停，本週累計上漲超40%，沐曦股份、寒武紀、摩爾執行緒、燧原科技、海光資訊、艾布魯等漲幅靠前。"
-    },
-    {
-      "id": "5209280",
-      "time": "2026-11-12 09:45:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【梁鈞出任華興香港總裁】11月12日，華興資本宣佈，梁鈞正式加入公司，出任華興證券（香港）有限公司（簡稱“華興香港”）總裁。未來，梁鈞將全面領導華興香港的整體業務，統籌經營全域性及業務發展，負責制定並落實華興香港的戰略發展規劃，加強各業務部門之間的協作，並推動華興香港與集團其他業務板塊形成更緊密的協同，同時確保華興香港各項業務在符合相關監管要求的前提下穩健開展。"
-    },
-    {
-      "id": "5209275",
-      "time": "2026-11-12 09:44:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "長和<0001.HK>股價下跌3%。"
-    },
-    {
-      "id": "5209274",
-      "time": "2026-11-12 09:44:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【醫療服務板塊短線拉昇，澳洋健康漲停】醫療服務板塊短線拉昇，澳洋健康漲停，大東方、萬邦醫藥、南模生物、百花醫藥、成都先導等紛紛走高。"
-    },
-    {
-      "id": "5209273",
-      "time": "2026-11-12 09:44:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO概念持續走強，劍橋科技漲停】CPO概念持續走強，劍橋科技漲停，銳捷網路、通富微電、長芯博創、宇特光電、光庫科技、光迅科技等跟漲。"
-    },
-    {
-      "id": "5209271",
-      "time": "2026-11-12 09:44:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "電子特氣概念震盪反彈，中船特氣漲超10%，廣鋼氣體、雅克科技、華特氣體、僑源股份、昊華科技跟漲。"
-    },
-    {
-      "id": "5209270",
-      "time": "2026-11-12 09:43:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行淺田：私人消費未顯示出強勁的增長勢頭。"
-    },
-    {
-      "id": "5209268",
-      "time": "2026-11-12 09:43:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國海油：在渤海中部海域取得超深層油氣勘探重大突破】中國海洋石油有限公司在渤海超5000米的超深層地層鑽探發現一口火山岩高產油氣井，標誌著中國在海上超深層天然氣勘探領域取得重大突破。該井位於渤海中部海域，緊鄰渤海最大的富烴凹陷—渤中凹陷，在火山岩地層中累計鑽遇超120米天然氣層，完鑽井深5770米。經測試，該井日產天然氣約80萬立方米（約2800萬立方英尺），展現了海上超深層火山岩領域廣闊的勘探前景，有力推動了渤中凹陷天然氣勘探程序。中國海洋石油集團首席科學家、總地質師徐長貴表示，近年來，中國海油持續加大高熱流強活動盆地深層—超深層油氣富集理論創新與關鍵技術攻關力度，中國海域勘探實現了從淺層到深層—超深層的重大跨越。該井的成功鑽探開闢了海上超深層天然氣勘探新區帶，拓展了渤海海域深層油氣勘探空間，對加快渤海超深層勘探程序、建設渤海萬億方大氣區具有積極意義。"
-    },
-    {
-      "id": "5209266",
-      "time": "2026-11-12 09:43:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【資料中心概念活躍 日海智慧漲停】資料中心概念活躍，截至發稿，日海智慧漲停，盈新發展等跟漲。"
     }
   ]
 }
