@@ -1,7 +1,67 @@
 {
   "date": "2026-11-19",
-  "count": 758,
+  "count": 765,
   "items": [
+    {
+      "id": "5224065",
+      "time": "2026-11-19 09:41:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "騰訊港股跌超4%。"
+    },
+    {
+      "id": "mkt:01a1f176-2477-7bbc-ac58-ba74e4e51474",
+      "time": "2026-11-19 09:40:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China’s A-share semiconductor sector rallied in pockets, with Yandong Micro and CanSemi Technology up more than 10%. Nexchip Semiconductor, Hua Hong Semiconductor, Kede Quartz, Yuexin Semiconductor and Torence also rose."
+    },
+    {
+      "id": "5224052",
+      "time": "2026-11-19 09:39:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：正在尋找硬核工程師加入Terafab。"
+    },
+    {
+      "id": "5224050",
+      "time": "2026-11-19 09:39:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊區域性拉昇，燕東微、燦芯股份漲超10%】半導體板塊區域性拉昇，燕東微、燦芯股份漲超10%，晶合整合、華虹宏力、凱德石英、粵芯半導體、託倫斯跟漲。"
+    },
+    {
+      "id": "mkt:01a1f174-71da-7bbc-ac58-b56b6666237d",
+      "time": "2026-11-19 09:38:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Putin arrives at APEC leaders’ informal meeting venue】Russian President Putin arrived at the Shenzhen International Exchange Center on the morning of Nov. 19, ahead of the 33rd APEC Economic Leaders’ Meeting."
+    },
+    {
+      "id": "5224043",
+      "time": "2026-11-19 09:38:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想集團到訪宏景科技共商異構智算及Token工廠生態合作】據宏景科技訊息，11月18日，聯想集團副總裁、聯想中國政企業務群總經理王立平帶隊到訪宏景科技開展業務交流座談。座談會上，雙方圍繞異構智算叢集建設、Token工廠聯合運營、臻算算力訂閱服務、行業大模型訓推底座、綠色液冷算力、混合雲算力排程等方向深入研討。雙方認為，彼此業務能力高度互補，將攜手打造彈性、安全可控的詞元算力服務體系，合力推進算力服務產品化、商業化落地。"
+    },
+    {
+      "id": "5224042",
+      "time": "2026-11-19 09:38:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯總統普京抵達APEC領導人非正式會議現場】11月19日上午，亞太經合組織第三十三次領導人非正式會議將在深圳國際交流中心舉行。俄羅斯總統普京抵達會議現場。（央視新聞）"
+    },
     {
       "id": "mkt:01a1f174-2b98-7bbc-ac58-ad788f02fe2b",
       "time": "2026-11-19 09:38:04",
