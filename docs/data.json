@@ -1,7 +1,79 @@
 {
-  "updated": "2026-11-20 01:37:59",
-  "count": 9642,
+  "updated": "2026-11-20 01:41:49",
+  "count": 9646,
   "items": [
+    {
+      "id": "mkt:01a1f4e5-bc12-7bbc-ac74-7504d13471b3",
+      "time": "2026-11-20 01:40:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Goolsbee: Labor market is stable, but inf is well above the Fed's 2% target."
+    },
+    {
+      "id": "5226356",
+      "time": "2026-11-20 01:40:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨日內下跌3.00%，現報3.270美元/百萬英熱。"
+    },
+    {
+      "id": "mkt:01a1f4e5-6f04-7bbc-ac74-6ade9d0bc2f5",
+      "time": "2026-11-20 01:40:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures fell 3.00% intraday to $3.270 per MMBtu."
+    },
+    {
+      "id": "mkt:01a1f4e5-50bd-7bbc-ac74-6253ecc499fe",
+      "time": "2026-11-20 01:40:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) is reconsidering its 2030 net-zero emissions target as it expands its AI infrastructure."
+    },
+    {
+      "id": "5226354",
+      "time": "2026-11-20 01:40:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員古爾斯比：就業市場穩定，但通脹率遠高於美聯儲設定的2%目標。"
+    },
+    {
+      "id": "5226353",
+      "time": "2026-11-20 01:40:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta正重新評估其2030年淨零排放目標，因人工智慧基礎設施建設導致能耗激增。"
+    },
+    {
+      "id": "5226351",
+      "time": "2026-11-20 01:38:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟計劃修訂石油儲備規則防範油品短缺】中東衝突震動能源市場，暴露歐盟燃料進口的脆弱性，歐盟計劃修訂石油儲備規則，防範柴油、煤油等油品短缺。草案檔案顯示，歐盟委員會擬將應急儲備的油品結構和各國消費結構掛鉤。現行規則並未強制成員國應急儲備的油品品類配比貼合本國消費情況，新規將強化相關要求。"
+    },
     {
       "id": "mkt:01a1f4e2-4227-7bbc-ac74-59107d4dc2d3",
       "time": "2026-11-20 01:37:11",
@@ -86497,33 +86569,6 @@
         "國際"
       ],
       "text": "豐田：約31.4萬輛汽車在美國被召回。"
-    },
-    {
-      "id": "5211609",
-      "time": "2026-11-13 01:40:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：預計消費者韌性將持續，但股市低迷、利率上升和持續通脹仍是消費者前景面臨的風險。"
-    },
-    {
-      "id": "te:markets:600844",
-      "time": "2026-11-13 01:40:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Lumber Slides Further as Housing Weakness Persists — Lumber futures fell below $490 per thousand board feet, reaching their lowest level since July 2024, amid persistent weakness in the US housing market. Existing-home sales fell to their lowest level in 16 years, as mortgage rates above 7% and stubbornly high inflation continued to deter buyers. Although mortgage rates declined for a fourth consecutive week to 7.11%, affordability remains strained. Construction activity is also weak, with spending on lumber-intensive single-family homes falling 2.4% year-on-year in September, while builder sentiment dropped to its lowest level since 2012 amid high input costs. Mill closures across North America could tighten supply as prolonged US-Canada tariff uncertainty remains a headwind. A Democratic sweep of Congress has raised prospects for repealing duties on Canadian lumber, although the Trump administration has yet to secure a trade agreement amid ongoing negotiations."
-    },
-    {
-      "id": "5211608",
-      "time": "2026-11-13 01:40:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Hugging Face執行長就黃仁勳離職事件置評：令人難過的一天】Hugging Face執行長克萊芒·德朗格週四對英偉達執行長黃仁勳的離職簡短置評，稱這是“非常令人難過的一天”。英偉達曾於9月宣佈計劃以129億美元收購這家開源人工智慧模型平臺，這將成為該公司歷史上第二大收購，僅次於2025年12月以200億美元收購晶片製造商Groq的資產。德朗格寫道：“整件事糟透了，我希望這一切從未發生。這真是非常令人難過的一天！但我想明確一點：我們將繼續為開源人工智慧而戰，比以往更加努力。現在這件事太重要了，不能放慢腳步。加油！”"
     }
   ]
 }

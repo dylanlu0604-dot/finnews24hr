@@ -1,7 +1,79 @@
 {
   "date": "2026-11-20",
-  "count": 255,
+  "count": 262,
   "items": [
+    {
+      "id": "mkt:01a1f4e5-bc12-7bbc-ac74-7504d13471b3",
+      "time": "2026-11-20 01:40:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Goolsbee: Labor market is stable, but inf is well above the Fed's 2% target."
+    },
+    {
+      "id": "5226356",
+      "time": "2026-11-20 01:40:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨日內下跌3.00%，現報3.270美元/百萬英熱。"
+    },
+    {
+      "id": "mkt:01a1f4e5-6f04-7bbc-ac74-6ade9d0bc2f5",
+      "time": "2026-11-20 01:40:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures fell 3.00% intraday to $3.270 per MMBtu."
+    },
+    {
+      "id": "mkt:01a1f4e5-50bd-7bbc-ac74-6253ecc499fe",
+      "time": "2026-11-20 01:40:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) is reconsidering its 2030 net-zero emissions target as it expands its AI infrastructure."
+    },
+    {
+      "id": "5226354",
+      "time": "2026-11-20 01:40:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員古爾斯比：就業市場穩定，但通脹率遠高於美聯儲設定的2%目標。"
+    },
+    {
+      "id": "5226353",
+      "time": "2026-11-20 01:40:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta正重新評估其2030年淨零排放目標，因人工智慧基礎設施建設導致能耗激增。"
+    },
+    {
+      "id": "5226351",
+      "time": "2026-11-20 01:38:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟計劃修訂石油儲備規則防範油品短缺】中東衝突震動能源市場，暴露歐盟燃料進口的脆弱性，歐盟計劃修訂石油儲備規則，防範柴油、煤油等油品短缺。草案檔案顯示，歐盟委員會擬將應急儲備的油品結構和各國消費結構掛鉤。現行規則並未強制成員國應急儲備的油品品類配比貼合本國消費情況，新規將強化相關要求。"
+    },
     {
       "id": "mkt:01a1f4e2-4227-7bbc-ac74-59107d4dc2d3",
       "time": "2026-11-20 01:37:11",
