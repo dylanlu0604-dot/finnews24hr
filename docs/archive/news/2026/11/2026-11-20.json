@@ -1,7 +1,87 @@
 {
   "date": "2026-11-20",
-  "count": 282,
+  "count": 289,
   "items": [
+    {
+      "id": "5226379",
+      "time": "2026-11-20 02:00:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行帕內塔：必須在抑制通脹的同時避免對經濟增長造成過大損害。"
+    },
+    {
+      "id": "mkt:01a1f4f7-16a7-7bbc-ac74-bbdde417522a",
+      "time": "2026-11-20 01:59:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA-backed SB Energy updates IPO filing."
+    },
+    {
+      "id": "5226378",
+      "time": "2026-11-20 01:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達支援的 SB Energy 更新 IPO 申請檔案。"
+    },
+    {
+      "id": "mkt:01a1f4f5-7106-7bbc-ac74-b6179bc89e49",
+      "time": "2026-11-20 01:58:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's Goolsbee: Not seeing signs of stagflation; labor market remains stable."
+    },
+    {
+      "id": "5226377",
+      "time": "2026-11-20 01:57:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "芝加哥聯儲主席古爾斯比：目前未看到滯脹跡象，就業市場保持穩定。"
+    },
+    {
+      "id": "mkt:01a1f4f4-cd1d-7bbc-ac74-ab69ff9279f4",
+      "time": "2026-11-20 01:57:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Goolsbee: The labor market is stable; the Fed's mistake was on inf."
+    },
+    {
+      "id": "mkt:01a1f4f4-add4-7bbc-ac74-a523a9a0b666",
+      "time": "2026-11-20 01:57:18",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Panetta: We must prevent inf from becoming entrenched."
+    },
     {
       "id": "mkt:01a1f4f3-8f8f-7bbc-ac74-9fd558664a4d",
       "time": "2026-11-20 01:56:04",

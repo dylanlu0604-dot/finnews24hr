@@ -1,7 +1,87 @@
 {
-  "updated": "2026-11-20 01:57:14",
-  "count": 9659,
+  "updated": "2026-11-20 02:01:03",
+  "count": 9661,
   "items": [
+    {
+      "id": "5226379",
+      "time": "2026-11-20 02:00:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行帕內塔：必須在抑制通脹的同時避免對經濟增長造成過大損害。"
+    },
+    {
+      "id": "mkt:01a1f4f7-16a7-7bbc-ac74-bbdde417522a",
+      "time": "2026-11-20 01:59:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA-backed SB Energy updates IPO filing."
+    },
+    {
+      "id": "5226378",
+      "time": "2026-11-20 01:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達支援的 SB Energy 更新 IPO 申請檔案。"
+    },
+    {
+      "id": "mkt:01a1f4f5-7106-7bbc-ac74-b6179bc89e49",
+      "time": "2026-11-20 01:58:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's Goolsbee: Not seeing signs of stagflation; labor market remains stable."
+    },
+    {
+      "id": "5226377",
+      "time": "2026-11-20 01:57:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "芝加哥聯儲主席古爾斯比：目前未看到滯脹跡象，就業市場保持穩定。"
+    },
+    {
+      "id": "mkt:01a1f4f4-cd1d-7bbc-ac74-ab69ff9279f4",
+      "time": "2026-11-20 01:57:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Goolsbee: The labor market is stable; the Fed's mistake was on inf."
+    },
+    {
+      "id": "mkt:01a1f4f4-add4-7bbc-ac74-a523a9a0b666",
+      "time": "2026-11-20 01:57:18",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Panetta: We must prevent inf from becoming entrenched."
+    },
     {
       "id": "mkt:01a1f4f3-8f8f-7bbc-ac74-9fd558664a4d",
       "time": "2026-11-20 01:56:04",
@@ -86661,49 +86741,6 @@
         "國際"
       ],
       "text": "美國至11月12日30年期國債競拍-得標利率 5.441%，前值5.618%。美國至11月12日30年期國債競拍-投標倍數 2.36，前值2.54。美國至11月12日30年期國債競拍-得標利率配置百分比 21.29%，前值26.77%。"
-    },
-    {
-      "id": "5211620",
-      "time": "2026-11-13 02:00:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國30年期國債收益率在250億美元拍賣前報5.437%。"
-    },
-    {
-      "id": "5211619",
-      "time": "2026-11-13 01:58:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報88.28美元/桶。"
-    },
-    {
-      "id": "5211618",
-      "time": "2026-11-13 01:58:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破95美元/桶，日內漲2.44%。"
-    },
-    {
-      "id": "5211617",
-      "time": "2026-11-13 01:58:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破88美元/桶，日內漲1.71%。"
-    },
-    {
-      "id": "5211616",
-      "time": "2026-11-13 01:57:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟365：正在調查美洲地區使用者透過多種連線方式訪問Exchange Online郵箱時遇到問題的報告。"
     }
   ]
 }
