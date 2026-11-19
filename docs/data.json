@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20 02:12:37",
-  "count": 9666,
+  "updated": "2026-11-20 02:16:26",
+  "count": 9660,
   "items": [
     {
       "id": "mkt:01a1f502-532f-7bbc-ac74-f4cf5d701f27",
@@ -86728,74 +86728,6 @@
         "其他"
       ],
       "text": "據知情人士透露，白宮正在討論霍華德·盧特尼克（Howard Lutnick）未來是否繼續擔任商務部長的問題。"
-    },
-    {
-      "id": "5211638",
-      "time": "2026-11-13 02:16:00",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐約聯儲11月12日接受逆回購工具提交的2.5億美元，全額接納。"
-    },
-    {
-      "id": "mkt:01a1d102-f644-7bbc-abbd-578d94788a6f",
-      "time": "2026-11-13 02:15:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "The Federal Reserve accepted $250 mln from one counterparty in its fixed-rate reverse repo operation."
-    },
-    {
-      "id": "te:markets:600851",
-      "time": "2026-11-13 02:15:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Spikes by 8.95% — Top commodity gainers are Natural Gas EU (8.95%), Natural Gas UK (8.10%), Germany Natural Gas THE (6.31%), Brent Oil (2.54%) and Crude Oil (1.87%). Biggest loser is Methanol (-5.95%)."
-    },
-    {
-      "id": "5211637",
-      "time": "2026-11-13 02:14:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "舊金山聯邦儲備銀行行長戴利：人工智慧相關專案儲備深厚，因此即便有所放緩也會繼續推進。"
-    },
-    {
-      "id": "mkt:01a1d0f7-e696-7bbc-abbc-f63c2a359cc1",
-      "time": "2026-11-13 02:14:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "DALY of the Federal Reserve said the economy is being driven by a tech boom."
-    },
-    {
-      "id": "5211636",
-      "time": "2026-11-13 02:13:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利表示，經濟正受到科技繁榮的推動。"
     }
   ]
 }
