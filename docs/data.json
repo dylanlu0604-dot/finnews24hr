@@ -1,7 +1,137 @@
 {
-  "updated": "2026-11-19 16:28:52",
-  "count": 9886,
+  "updated": "2026-11-19 16:32:45",
+  "count": 9897,
   "items": [
+    {
+      "id": "mkt:01a1f2ef-1faa-7bbc-ac63-3f1e4c56cc5c",
+      "time": "2026-11-19 16:31:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The onshore yuan closed at 6.6651 per dollar at 16:30 on Nov. 19, up 2 pips from the previous session."
+    },
+    {
+      "id": "mkt:01a1f2ef-1869-7bbc-ac63-32a5f1b08c5c",
+      "time": "2026-11-19 16:31:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "NTES.O"
+      ],
+      "text": "NetEase reported third-quarter EPS of 2.61 yuan."
+    },
+    {
+      "id": "mkt:01a1f2ee-f282-7bbc-ac63-2fc2523ee61c",
+      "time": "2026-11-19 16:31:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NTES.O"
+      ],
+      "text": "NetEase's third-quarter net profit was 8.4 bln yuan."
+    },
+    {
+      "id": "5225094",
+      "time": "2026-11-19 16:31:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行行長特登：我們預計未來政策利率將逐步迴歸正常化。"
+    },
+    {
+      "id": "mkt:01a1f2ee-b0a5-7bbc-ac63-227530d701dc",
+      "time": "2026-11-19 16:31:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NTES.O"
+      ],
+      "text": "NetEase reported third-quarter revenue of 27.9 bln yuan."
+    },
+    {
+      "id": "5225093",
+      "time": "2026-11-19 16:31:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "瑞典央行行長特登：與此同時，由於中東衝突以及對人工智慧的大規模投資，燃料、電力和半導體等成本已經上升。"
+    },
+    {
+      "id": "mkt:01a1f2ee-8eeb-7bbc-ac63-1db34acbfe03",
+      "time": "2026-11-19 16:31:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "Market Regions",
+        "Greater China",
+        "9999.HK",
+        "Impact bearish"
+      ],
+      "text": "NetEase (9999.HK): Q3 revenue was 27.9 bln yuan, below the 30.38 bln yuan estimate. Adjusted net income from continuing operations was 14.21 yuan per ADS, versus an estimate of 16.36 yuan."
+    },
+    {
+      "id": "5225092",
+      "time": "2026-11-19 16:31:06",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "波蘭11月消費者信心指數跌至-14.2，預期為-13.8。"
+    },
+    {
+      "id": "5225091",
+      "time": "2026-11-19 16:30:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元收盤報6.6651，較上一交易日上漲2點。"
+    },
+    {
+      "id": "5225090",
+      "time": "2026-11-19 16:30:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "德意志銀行 <DBKGn.DE> 股價上漲 2%，在經歷了自 2 月以來最大的兩日跌幅後反彈。"
+    },
+    {
+      "id": "5225088",
+      "time": "2026-11-19 16:30:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "網易第三季度經調整每股ADS持續經營淨收益為14.21元人民幣，低於市場預期的16.36元人民幣。"
+    },
+    {
+      "id": "5225087",
+      "time": "2026-11-19 16:30:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "網易股份有限公司第三季度毛利為190億元人民幣，低於市場預估的210.2億元人民幣。"
+    },
+    {
+      "id": "5225086",
+      "time": "2026-11-19 16:30:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "網易股份有限公司第三季度線上遊戲服務淨收入為229億元人民幣。"
+    },
+    {
+      "id": "5225085",
+      "time": "2026-11-19 16:30:09",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "網易第三季度營收279億元人民幣，低於市場預估的303.8億元人民幣。"
+    },
     {
       "id": "5225084",
       "time": "2026-11-19 16:28:19",
@@ -88730,42 +88860,6 @@
         "Importance 1"
       ],
       "text": "DAX Hits New Peak — Frankfurt's DAX 40 rose over 1% to surpass 26,900 on Thursday, setting a fresh record high and extending gains for the fourth straight session. Strong corporate earnings and falling oil prices supported sentiment, offsetting renewed tech-sector concerns. Nvidia was at the centre of the turmoil, after reports emerged that the company's board was considering Jensen Huang's removal as CEO following allegations of a second affair with an executive at his company. Industrials and insurers were among the strongest performers. Siemens climbed 4.5%, topping the index, after beating fourth-quarter expectations on record order intake and raising its medium-term targets. Merck gained around 3% after lifting its full-year guidance for the third time this year. Allianz rose 2.2% after raising the upper end of its 2026 operating profit outlook, while Munich Re advanced 1.5% on better-than-expected third-quarter results. Infineon Technologies was the biggest laggard, dropping nearly 2%."
-    },
-    {
-      "id": "te:markets:600676",
-      "time": "2026-11-12 16:32:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.21% Higher — The FTSE 100 Index is gaining 23 points or 0.21 percent on Thursday. Leading the gains are Burberry (7.09%), 3i (3.82%) and Barratt Redrow (2.99%). Top losers are Endeavour (-9.33%), Fresnillo (-3.41%) and ICG (-2.76%)."
-    },
-    {
-      "id": "te:markets:600675",
-      "time": "2026-11-12 16:31:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 1.16% Higher — The DAX Index is picking up 309 points or 1.16 percent on Thursday. Gains are led by Siemens (4.68%), Zalando (3.66%) and Merck (2.51%)."
-    },
-    {
-      "id": "te:markets:600674",
-      "time": "2026-11-12 16:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.55% Higher — The CAC 40 Index is up by 46 points or 0.55 percent on Thursday. Top gainers are Sanofi (1.94%), LVMH (1.43%) and Michelin (1.43%). Biggest losses came from STMicroelectronics (-2.73%), ArcelorMittal (-1.29%) and TP (-1.01%)."
     }
   ]
 }
