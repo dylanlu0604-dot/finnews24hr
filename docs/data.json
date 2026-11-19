@@ -1,7 +1,71 @@
 {
-  "updated": "2026-11-20 07:45:53",
-  "count": 9552,
+  "updated": "2026-11-20 07:49:38",
+  "count": 9556,
   "items": [
+    {
+      "id": "mkt:01a1f635-df6e-7bbc-ac7a-6c25d06f7d12",
+      "time": "2026-11-20 07:48:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed's Paulson: Effective communication hinges on mutual understanding, not policy guidance】Philadelphia Fed President Anna Paulson said on Thursday that effective central bank communication depends on mutual understanding with the public, not explicit forecasts of future policy. A shared understanding of the Fed's reaction function means officials need to say less after data releases, as the public can anticipate their response, she said. Credibility matters because people act on information they trust. Understanding what the Fed is doing and why helped markets navigate its October decision to hold rates steady."
+    },
+    {
+      "id": "5226647",
+      "time": "2026-11-20 07:48:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下降1個基點至2.81%。"
+    },
+    {
+      "id": "5226646",
+      "time": "2026-11-20 07:47:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家算力、半導體裝置上市公司在手訂單儲備充足】近期，“兩創板”（科創板和創業板）上市公司密集舉辦2026年三季度業績說明會，集中解讀公司生產經營情況、分析行業變化、制定發展規劃。記者梳理發現，訂單與產能情況成為投資者關注的重要議題。從今年四季度的訂單和產能交付節奏，到2027年客戶需求能見度，相關公司以重要合同訂單、戰略合作協議、業績向好預期積極回應市場關切，傳遞出高質量發展的澎湃動能和暖意。受訪專家表示，訂單回暖根植於長期產業升級邏輯，充足的在手訂單與可落地產能，正推動“兩創板”定價邏輯轉向盈利兌現，以持續可驗證的基本面，為硬科技資產錨定長期價值座標。（證券日報）"
+    },
+    {
+      "id": "5226645",
+      "time": "2026-11-20 07:47:23",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：玻璃基板有望成為封裝材料升級重要方向 產業化初期重點把握裝置先行機會】中信建投研報稱，AI算力需求推動先進封裝向多芯粒、多HBM與大尺寸演進，玻璃基板有望成為封裝材料升級的重要方向，產業化初期重點把握裝置先行機會。隨著單一封裝整合的芯粒與HBM數量增加，封裝面積、互連密度和供電需求同步提升，玻璃憑藉較高剛性、良好平整度和尺寸穩定性，為大尺寸、高密度封裝提供新的材料選擇，並具備向玻璃中介層及光電共封裝拓展的潛力。當前行業仍處於產業化初期，中試線建設、工藝驗證及產能佈局持續推進，裝置採購有望先於玻璃基板規模化出貨放量。TGV成孔、孔內金屬化及鍍銅、精細曝光和檢測等關鍵環節，有望率先受益於新產線建設與工藝升級。"
+    },
+    {
+      "id": "5226644",
+      "time": "2026-11-20 07:46:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.15點。"
+    },
+    {
+      "id": "mkt:01a1f634-4557-7bbc-ac7a-661ebf18aa0b",
+      "time": "2026-11-20 07:46:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Japan's October core CPI accelerates, bolstering expectations for a rate hike】Japan's core CPI rose 2.2% YoY in October, up from 2.1% in September but below the 2.3% median forecast, strengthening the case for a near-term Bank of Japan rate hike. The data will be among the factors assessed at the BOJ's December policy meeting, where markets broadly expect a move to 1.5% from 1.25%. A gauge excluding fresh food and fuel rose 2.2% YoY, slowing from 2.4% in September; the BOJ closely monitors it as a measure of demand-driven price pressures."
+    },
+    {
+      "id": "5226643",
+      "time": "2026-11-20 07:46:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數期貨早盤下跌3.63%。"
+    },
     {
       "id": "5226642",
       "time": "2026-11-20 07:44:17",
@@ -85551,37 +85615,6 @@
         "Importance 2"
       ],
       "text": "Oil Holds Advance as Trump Downplays Iran Deal — Crude oil prices hovered near $89 per barrel on Friday after rising in the previous session, as President Donald Trump stated that the US no longer needs a deal with Iran, dampening hopes for a diplomatic resolution to the war. Trump also directed Vice President JD Vance to prioritize domestic matters over negotiations with Tehran. Meanwhile, Iran maintained its position that Washington must lift its naval blockade and sanctions against the country before any direct peace talks can take place. Mohsen Rezaee, secretary of Iran's Supreme National Security Council, further emphasized that Tehran has no intention of removing its enriched nuclear materials from the country. Despite these developments, oil prices remain on track for a second consecutive weekly decline as Middle Eastern crude exports continue to recover. Hopes for a faster resolution to the conflict have also been supported by a Democratic victory in the US midterm elections."
-    },
-    {
-      "id": "te:markets:600890",
-      "time": "2026-11-13 07:47:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Hou Hai Precision earnings above expectations at 5.51 TWD — Hou Hai Precision (2317) released earnings per share at 5.51 TWD, compared to market expectations of 4.71 TWD."
-    },
-    {
-      "id": "5211915",
-      "time": "2026-11-13 07:46:51",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【訊息稱三星正洽談收購資料中心冷卻裝置製造商摩丁】據知情人士透露，三星電子正在洽談收購資料中心冷卻系統製造商摩丁製造公司（Modine Manufacturing Co.）。這些知情人士稱，雙方正在討論一項潛在交易，該交易最快可能在未來幾周內達成。由於資訊保密，這些人士要求匿名。摩丁目前的市值約為56億美元。自11月3日釋出令投資者失望的季度財報以來，其股價已下跌約15%。知情人士稱，目前尚未做出最終決定，談判仍有可能破裂。他們還補充說，其他潛在競購者也可能出現。此次談判凸顯了圍繞服務蓬勃發展的AI市場的企業併購活動正在升溫。美國企業及其海外競爭對手正透過加大投資和交易力度，努力把握資料中心帶來的增長機遇。參與其中的企業包括三星在亞洲的競爭對手大金工業株式會社和LG電子，以及美國企業維諦技術。三星和摩丁的代表均拒絕置評。"
-    },
-    {
-      "id": "5211914",
-      "time": "2026-11-13 07:46:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤下跌0.66點。"
     }
   ]
 }
