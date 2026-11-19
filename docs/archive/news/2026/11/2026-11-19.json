@@ -1,7 +1,232 @@
 {
   "date": "2026-11-19",
-  "count": 683,
+  "count": 708,
   "items": [
+    {
+      "id": "mkt:01a1f16d-381f-7bbc-ac58-0d079dd53645",
+      "time": "2026-11-19 09:30:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China’s A-share small-appliance sector opened lower. Joyoung and Bear Electric hit the daily limit down, while Hongzhi Technology, Beiding Technology, Dehao Runda, Delmar and Rainbow Group also fell."
+    },
+    {
+      "id": "mkt:01a1f16d-2fe6-7bbc-ac58-04eb72baf17a",
+      "time": "2026-11-19 09:30:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China to chair 33rd APEC Economic Leaders’ Meeting】China will chair the 33rd APEC Economic Leaders’ Meeting at the Shenzhen International Conference Center on the morning of Nov. 19."
+    },
+    {
+      "id": "5223973",
+      "time": "2026-11-19 09:30:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國Kospi指數最新下跌1.4%，報4998.25點。"
+    },
+    {
+      "id": "mkt:01a1f16d-06ba-7bbc-ac57-fb06c4c4ca3f",
+      "time": "2026-11-19 09:30:16",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY falls 16 pips to 159.32."
+    },
+    {
+      "id": "5223968",
+      "time": "2026-11-19 09:30:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【遊戲板塊延續調整，大晟文化、電魂網路觸及跌停】遊戲板塊延續調整，大晟文化、電魂網路觸及跌停，凱撒文化、迅遊科技、富春股份、掌趣科技、遊族網路跟跌。"
+    },
+    {
+      "id": "5223967",
+      "time": "2026-11-19 09:30:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.01%，現報2288.355點；上證指數跌0.30%，現報3576.982點；深證成指跌0.68%，現報10587.116點。"
+    },
+    {
+      "id": "5223966",
+      "time": "2026-11-19 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.17%， 10年期主力合約漲0.03%， 5年期主力合約漲0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5223965",
+      "time": "2026-11-19 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.46%， 滬深300指數期貨連續跌0.09%， 中證500指數期貨連續跌0.30%， 上證50指數期貨連續跌0.06%。"
+    },
+    {
+      "id": "5223964",
+      "time": "2026-11-19 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報23009.900點；恒生科技指數現跌1.285%。"
+    },
+    {
+      "id": "5223963",
+      "time": "2026-11-19 09:30:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【習近平將主持亞太經合組織第三十三次領導人非正式會議】11月19日上午，國家主席習近平將在深圳國際交流中心主持亞太經合組織第三十三次領導人非正式會議。（央視新聞）"
+    },
+    {
+      "id": "5223961",
+      "time": "2026-11-19 09:29:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌4%，現報10791.00元。"
+    },
+    {
+      "id": "5223956",
+      "time": "2026-11-19 09:29:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊大幅低開】影視院線板塊大幅低開，慈文傳媒、橫店影視、金逸影視、文投控股跌停，幸福藍海、博納影業、中國電影跟跌。"
+    },
+    {
+      "id": "5223955",
+      "time": "2026-11-19 09:29:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津第二家山姆門店正式開業】11月19日，紅橋山姆會員商店正式開業，這是天津第二家、賣場規模最大的山姆門店。隨著11月19日紅橋店正式開業，山姆全國門店總數也增至73家。"
+    },
+    {
+      "id": "mkt:01a1f16b-da73-7bbc-ac57-f67fa058e7cd",
+      "time": "2026-11-19 09:28:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "6702.T"
+      ],
+      "text": "Fujitsu: The partnership aims to accelerate the secure adoption of AI and cloud technologies and advance AI transformation."
+    },
+    {
+      "id": "mkt:01a1f16b-a7dd-7bbc-ac57-ef865eb55669",
+      "time": "2026-11-19 09:28:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Samsung Electronics plays down neocloud, AI bubble concerns】Samsung Electronics, the South Korean memory chipmaker, said concerns that highly leveraged neocloud firms could fuel a broader AI bubble were overblown, as they account for only a small share of the market. Kim Yong-kwan, president of Samsung’s component business and head of corporate management, strategy and operations, said neocloud firms make up about 8% of the overall market and the concerns do not pose a significant threat to the broader AI growth trajectory."
+    },
+    {
+      "id": "mkt:01a1f16b-958d-7bbc-ac57-e05ab6411088",
+      "time": "2026-11-19 09:28:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index opened down 0.13% at 3,583.12 on Thursday, Nov. 19. The Shenzhen Composite Index fell 0.63% to 10,591.73, the CSI 300 Index lost 0.28% to 3,972.43, the ChiNext Index dropped 0.93% to 2,290.21 and the STAR 50 Index declined 0.46% to 1,242.28."
+    },
+    {
+      "id": "mkt:01a1f16b-9370-7bbc-ac57-db94f924808f",
+      "time": "2026-11-19 09:28:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Fujitsu expands strategic partnership with Google Cloud."
+    },
+    {
+      "id": "5223951",
+      "time": "2026-11-19 09:28:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "富士通：合作旨在加速AI、雲技術的安全應用及AI轉型。"
+    },
+    {
+      "id": "5223950",
+      "time": "2026-11-19 09:28:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "富士通擴大與谷歌雲的戰略合作。"
+    },
+    {
+      "id": "mkt:01a1f16b-158f-7bbc-ac57-d48b2d21e988",
+      "time": "2026-11-19 09:28:09",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor Ueda: We will assess the potential impact of rate hikes on business and household activity."
+    },
+    {
+      "id": "mkt:01a1f16b-02b4-7bbc-ac57-cbf6ac0c064a",
+      "time": "2026-11-19 09:28:04",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan Governor Kazuo Ueda: Financial conditions remain accommodative, supporting economic activity."
+    },
+    {
+      "id": "5223949",
+      "time": "2026-11-19 09:27:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "家電板塊開盤調整，九陽股份、小熊電器雙雙跌停，鴻智科技、北鼎股份、彩虹集團、富佳股份紛紛低開。"
+    },
+    {
+      "id": "5223948",
+      "time": "2026-11-19 09:27:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF開盤：港股通消費ETF領漲2.29%，雲端計算ETF領跌3.42%】ETF開盤漲跌不一，港股通消費ETF（513590）領漲2.29%，基本面50ETF（512750）漲1.46%，資訊保安ETF（159613）漲1.31%，雲端計算ETF（517130）領跌3.42%，巴西ETF（520870）跌2.45%，巴西ETF（159100）跌2.44%。"
+    },
+    {
+      "id": "5223947",
+      "time": "2026-11-19 09:26:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新國都等成立科技新公司 含多項AI業務】企查查APP顯示，近日，深圳市新國都凌壹科技有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧基礎軟體開發；人工智慧應用軟體開發；半導體分立器件製造等。企查查股權穿透顯示，該公司由新國都等共同持股。"
+    },
+    {
+      "id": "5223946",
+      "time": "2026-11-19 09:26:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：債券市場功能已穩步改善。"
+    },
     {
       "id": "5223945",
       "time": "2026-11-19 09:26:34",
