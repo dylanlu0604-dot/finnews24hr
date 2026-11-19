@@ -1,7 +1,57 @@
 {
-  "updated": "2026-11-20 07:53:26",
-  "count": 9552,
+  "updated": "2026-11-20 07:57:13",
+  "count": 9553,
   "items": [
+    {
+      "id": "5226653",
+      "time": "2026-11-20 07:55:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "金融街證券董事長祝豔輝接受調查並被實施留置措施。"
+    },
+    {
+      "id": "mkt:01a1f63c-60da-7bbc-ac7a-827d1c7e09c1",
+      "time": "2026-11-20 07:55:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【CITIC Securities: Real estate equities may bottom out and turn higher in 2027】CITIC Securities expects home prices to stabilize and recover across a broader range in 2027, as all segments of China’s property market shift toward more refined operations and deliver greater value to consumers. Real estate-related equities may bottom out and turn higher that year. The persistent discount on companies combining core-asset ownership with development may gradually disappear. The brokerage favors developers with ample impairment provisions and strong products, as well as leading operators and service providers gaining market share."
+    },
+    {
+      "id": "mkt:01a1f63c-015e-7bbc-ac7a-78f1066b55dd",
+      "time": "2026-11-20 07:54:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【Fed's Paulson: October rate pause is only an adjustment in pace】Philadelphia Fed President Anna Paulson said she supported the Fed holding rates steady in October, calling it an adjustment in the pace of hikes rather than a change in policy direction. She said the policy reaction function is conditional, indicating both the likely direction of policy and what could prompt a shift. Paulson said she would favor faster action if inf expectations rise, wage pressures intensify or underlying inf increases further."
+    },
+    {
+      "id": "5226652",
+      "time": "2026-11-20 07:54:13",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：房地產相關權益資產價值可能在2027年見底向上】中信證券研報稱，預計2027年房價將在更廣闊的範圍止跌回升，房地產市場的各個細分領域都將走向精細化運營，併為消費者帶來更多的價值。房地產相關權益資產價值可能在2027年見底向上。核心資產持有和開發混業的地產企業持續的折價可能逐漸消失。看好減值計提充分、產品力出色的開發企業，也看好市佔率不斷提升的運營和服務龍頭。"
+    },
+    {
+      "id": "5226651",
+      "time": "2026-11-20 07:54:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本京瓷公司：出售債務和權益證券長期投資獲利1089億日元。不會對公司2027財年的合併財務業績產生影響。"
+    },
     {
       "id": "5226650",
       "time": "2026-11-20 07:51:19",
@@ -85542,42 +85592,6 @@
         "Impact mixed"
       ],
       "text": "WILLIAMS: The economy has remained resilient and growth strong. The US economy is strengthening but not overheating. Inf is too high."
-    },
-    {
-      "id": "5211922",
-      "time": "2026-11-13 07:56:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：通脹過高。"
-    },
-    {
-      "id": "5211921",
-      "time": "2026-11-13 07:56:25",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：美國經濟正在走強，但並未過熱。"
-    },
-    {
-      "id": "5211920",
-      "time": "2026-11-13 07:56:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：經濟一直具有韌性，增長一直強勁。"
-    },
-    {
-      "id": "mkt:01a1d22e-bd3a-7bbc-abc0-ea42ed4328c3",
-      "time": "2026-11-13 07:54:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he will veto any initial bills from Democrats that he considers detrimental to the country."
     }
   ]
 }
