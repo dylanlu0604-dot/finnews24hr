@@ -1,7 +1,126 @@
 {
   "date": "2026-11-19",
-  "count": 622,
+  "count": 634,
   "items": [
+    {
+      "id": "mkt:01a1f15b-1f51-7bbc-ac57-436661bb9630",
+      "time": "2026-11-19 09:10:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan’s 40-year Bond yield falls 4.5 bps to 4.185%."
+    },
+    {
+      "id": "5223847",
+      "time": "2026-11-19 09:10:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【長江證券：建議把握本輪生豬養殖大週期】長江證券釋出研報稱，產能出清週期大幅拉長，建議把握本輪生豬養殖大週期。在長江證券看來，10月以來豬價旺季不旺，行業現金流虧損週期再次拉長。生豬價格、斷奶仔豬價格下跌，淘汰母豬價格同樣大幅回落，持續低迷的豬價疊加日益增加的現金流壓力或帶動市場化出清明顯加速。長江證券預計，本輪產能去化週期或延續到明年上半年，能繁母豬的累計去化幅度或達到15%以上。"
+    },
+    {
+      "id": "5223846",
+      "time": "2026-11-19 09:10:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌1%至39,786.16點。"
+    },
+    {
+      "id": "5223845",
+      "time": "2026-11-19 09:09:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：小幅上調石藥集團目標價 稱三季度業績超預期且核心業務復甦】花旗上調石藥集團盈利預測與目標價，稱其第三季度業績超預期，得益於授權許可收入增長及核心業務復甦。分析師John Yung等人在報告中表示，鑑於藥品銷售增速好於預期，將石藥2026財年營收及淨利潤預測分別上調2%和3%。明年預計將有超過10款新產品/新適應症獲批上市，為管理層對整體實現正增長的預期提供堅實支撐。將目標價由14.6港元上調至15港元，並維持“買入”評級。"
+    },
+    {
+      "id": "mkt:01a1f15a-6c7b-7bbc-ac57-39ab1698f3ae",
+      "time": "2026-11-19 09:09:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor Kazuo Ueda said the BOJ will continue to raise rates depending on economic, price and financial conditions."
+    },
+    {
+      "id": "5223844",
+      "time": "2026-11-19 09:09:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：需關注AI需求、中東局勢和外匯市場。"
+    },
+    {
+      "id": "mkt:01a1f159-ba71-7bbc-ac57-32e4dfe200b1",
+      "time": "2026-11-19 09:09:11",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan Governor Kazuo Ueda: Consumption is resilient"
+    },
+    {
+      "id": "5223843",
+      "time": "2026-11-19 09:08:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破92美元/桶，日內漲0.05%。"
+    },
+    {
+      "id": "5223842",
+      "time": "2026-11-19 09:08:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：將繼續根據經濟和物價狀況提高利率，將根據前景和風險來決定加息速度。"
+    },
+    {
+      "id": "mkt:01a1f158-d9ed-7bbc-ac57-2bd1df3c531c",
+      "time": "2026-11-19 09:08:14",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor Ueda: It is important to anchor underlying inflation around 2% to prevent the risk of an inflation overshoot from materializing."
+    },
+    {
+      "id": "mkt:01a1f158-960d-7bbc-ac57-24766ebe67fc",
+      "time": "2026-11-19 09:07:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BOJ Governor Kazuo Ueda: We expect to continue raising interest rates as monetary conditions remain accommodative."
+    },
+    {
+      "id": "5223841",
+      "time": "2026-11-19 09:07:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米汽車：2026年廣州車展打卡預告，小米汽車全系亮相， SU7、SU7 Ultra、YU7、YU7 GT、澎程N70、澎程N90、澎程N90探索版一次看全。"
+    },
     {
       "id": "mkt:01a1f157-f2b2-7bbc-ac57-1dbd6452e5b2",
       "time": "2026-11-19 09:07:15",
