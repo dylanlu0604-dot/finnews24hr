@@ -1,7 +1,131 @@
 {
   "date": "2026-11-19",
-  "count": 657,
+  "count": 669,
   "items": [
+    {
+      "id": "5223914",
+      "time": "2026-11-19 09:22:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞意旭聯完成近億元Pre-A+輪融資】11月19日，據星橋資本訊息，蘇州瑞意旭聯醫療科技有限公司完成近億元Pre-A+輪融資。本輪融資由普華資本、復容投資聯合領投，松禾資本、北工投資跟投，後續融資由星橋資本擔任獨家財務顧問。本輪募集資金將主要用於推進核心產品腦脊介面（BSI）進入臨床試驗；支撐模組化植入式讀腦寫腦雙向腦機介面平臺完成量產；同時依託該平臺，拓展語言解碼、視覺重建、抑鬱症等新增適應症進入臨床研究階段。"
+    },
+    {
+      "id": "mkt:01a1f165-6ef0-7bbc-ac57-9ab01875e2e4",
+      "time": "2026-11-19 09:21:58",
+      "tags": [
+        "MKT News",
+        "HSI",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong’s HSI opened down 1.05% at 23,049.65 on Thursday. The Hang Seng Tech Index fell 0.97% to 3,699.93, the Hang Seng China Enterprises Index dropped 0.95% to 7,762.21, and the Hang Seng China-Affiliated Corporations Index declined 0.7% to 3,889.92."
+    },
+    {
+      "id": "mkt:01a1f165-45ee-7bbc-ac57-954526cd4ed6",
+      "time": "2026-11-19 09:21:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China had 592 operational virtual power plant projects at end-June 2026, up 78.9% YoY: NEA】China’s National Energy Administration said in a report that 592 virtual power plant projects were operational nationwide at end-June 2026, up 78.9% YoY. Maximum adjustable capacity reached 20.428 GW, up 62.7%, exceeding the 2027 target of more than 20 GW ahead of schedule. In 1H 2026, project numbers rose by 122 from end-2025 and capacity increased by 3.572 GW, or 21.2%. Resource capacity comprised adjustable load (80.2%), distributed generation (4.4%), storage (3.6%) and EV charging and battery-swapping infrastructure (11.8%)."
+    },
+    {
+      "id": "mkt:01a1f165-3c75-7bbc-ac57-8bee6175f054",
+      "time": "2026-11-19 09:21:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC makes net 67.3 bln yuan injection via open-market operations】The PBOC conducted 767.5 bln yuan in overnight reverse repos, with 700.2 bln yuan maturing, for a net injection of 67.3 bln yuan."
+    },
+    {
+      "id": "5223908",
+      "time": "2026-11-19 09:21:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放673.0億元人民幣。"
+    },
+    {
+      "id": "5223906",
+      "time": "2026-11-19 09:21:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：2026年11月19日中國人民銀行以固定利率、數量招標方式開展了7675億元隔夜逆回購操作，全額滿足了一級交易商需求。"
+    },
+    {
+      "id": "mkt:01a1f164-c030-7bbc-ac57-80e6899e6222",
+      "time": "2026-11-19 09:21:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "The PBOC conducted 767.5 bln yuan of overnight reverse repos on Nov. 19, 2026, using a fixed-rate, quantity-based tender and fully meeting demand from primary dealers."
+    },
+    {
+      "id": "5223902",
+      "time": "2026-11-19 09:21:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌1%，報5016.39點。"
+    },
+    {
+      "id": "mkt:01a1f164-8bc7-7bbc-ac57-7d648da09b4e",
+      "time": "2026-11-19 09:21:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "Tencent",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "0700.HK",
+        "9988.HK"
+      ],
+      "text": "Hong Kong stocks opened lower, with the HSI down 1.05% and the Hang Seng Tech Index down 0.97%. Tencent fell nearly 3%, while Alibaba dropped 3.52%."
+    },
+    {
+      "id": "5223901",
+      "time": "2026-11-19 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數跌1.05％，恒生科技指數跌0.97％】洛陽鉬業跌2.83％，騰訊控股跌2.95％，MINIMAX-W跌2.97％，百度集團-W跌2.99％，蔚來-SW跌3.17％，阿里巴巴-W跌3.58％，天數智芯跌5.33％。"
+    },
+    {
+      "id": "mkt:01a1f164-5adb-7bbc-ac57-736026db48ba",
+      "time": "2026-11-19 09:20:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI fell 1.00% intraday."
+    },
+    {
+      "id": "5223900",
+      "time": "2026-11-19 09:18:47",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【馬斯克稱後悔中期選舉投入打水漂，預測Anthropic會額外租用10吉瓦算力】馬斯克週三在一次影片講話中表示，在共和黨遭遇慘敗後，他對自己今年在美國中期選舉中投入鉅額資金的行為感到“相當愚蠢”。“我感到相當愚蠢，花了這麼多錢，卻沒看到什麼成效，”“如果時光能夠倒流，我大概會少花些錢，”他說。馬斯克還表示，Anthropic“極有可能”繼續向SpaceX租用算力，而且需求量還會大幅增加。他說，最可能出現的情況是，Anthropic會向SpaceX尋求額外的10吉瓦（GW）算力。"
+    },
     {
       "id": "5223899",
       "time": "2026-11-19 09:18:38",
