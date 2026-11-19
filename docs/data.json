@@ -1,7 +1,87 @@
 {
-  "updated": "2026-11-20 01:18:31",
-  "count": 9623,
+  "updated": "2026-11-20 01:22:27",
+  "count": 9628,
   "items": [
+    {
+      "id": "5226322",
+      "time": "2026-11-20 01:20:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "BP表示正在考慮剝離其位於西非的關鍵液化天然氣工廠GTA。"
+    },
+    {
+      "id": "5226321",
+      "time": "2026-11-20 01:20:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "Anthropic漲幅持續回落。"
+    },
+    {
+      "id": "mkt:01a1f4d2-912b-7bbc-ac74-1c0a900a18e7",
+      "time": "2026-11-20 01:20:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Chicago Fed President Austan Goolsbee, a 2027 FOMC voter, is due to speak in 10 minutes."
+    },
+    {
+      "id": "5226320",
+      "time": "2026-11-20 01:19:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率隨股市下跌而走低；10年期國債收益率最新下跌1.38個基點，報5.052%。"
+    },
+    {
+      "id": "5226319",
+      "time": "2026-11-20 01:19:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股跌幅擴大；標普500指數和納斯達克指數均下跌1.6%，道瓊斯指數下跌2%。"
+    },
+    {
+      "id": "mkt:01a1f4d1-e3f4-7bbc-ac74-143af828d92c",
+      "time": "2026-11-20 01:19:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said he hoped Russia would also be willing to negotiate now, possibly in the UAE."
+    },
+    {
+      "id": "mkt:01a1f4d1-7ba5-7bbc-ac74-0c7ed6031eb9",
+      "time": "2026-11-20 01:18:51",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "European Commission President Ursula von der Leyen said peace depends on putting Ukraine in a position of strength. The additional €45 bln in loan support advances that goal. The EU will keep increasing pressure on Russia until it returns to the negotiating table, with a 22nd sanctions package due soon."
+    },
+    {
+      "id": "5226316",
+      "time": "2026-11-20 01:18:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【SpaceX股價跌幅擴大至5%】SpaceX股價跌幅擴大至5%，總市值報1.85萬億美元。"
+    },
+    {
+      "id": "5226315",
+      "time": "2026-11-20 01:18:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "德國總理默茨：與俄羅斯、烏克蘭、美國及歐盟的談判可在阿聯酋舉行。"
+    },
     {
       "id": "5226313",
       "time": "2026-11-20 01:17:41",
@@ -86319,44 +86399,6 @@
         "公司"
       ],
       "text": "義大利國家電力公司首席財務官：集團將於2月公佈最新業務計劃。"
-    },
-    {
-      "id": "5211598",
-      "time": "2026-11-13 01:20:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲2%，現報94.62美元/桶。"
-    },
-    {
-      "id": "te:markets:600841",
-      "time": "2026-11-13 01:20:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Rises from 10-Week Low — Brent crude rose above $94 a barrel on Thursday, extending gains for a second consecutive session as prices attempted to recover from a ten-week low of $91.5 on November 10. Investors weighed escalating tensions between Washington and Tehran against signs of recovering supply from Saudi Arabia. President Donald Trump said the US no longer needs a deal with Iran, signalling a shift away from recent diplomatic efforts. Tehran also maintained a hardline position, with senior official Mohsen Rezaee ruling out the removal of any enriched nuclear material from the country. Still, Saudi Arabia reported a 26% increase in oil production in October, bringing output to one of its highest monthly levels in years, while Iraq also raised production to a wartime record. Adding to supply-side pressure, EIA data showed US crude inventories rose by 4.657 million barrels in the week ended November 6, the largest increase since August and a reversal of five consecutive weekly declines."
-    },
-    {
-      "id": "te:markets:600840",
-      "time": "2026-11-13 01:19:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Edges Up for 2nd Session — Crude oil rose above $87 a barrel on Thursday, extending gains for a second consecutive session as prices attempted to recover from a ten-week low of $86 on November 10. Investors weighed escalating tensions between Washington and Tehran against signs of recovering supply from Saudi Arabia. President Donald Trump said the US no longer needs a deal with Iran, signalling a shift away from recent diplomatic efforts. Tehran also maintained a hardline position, with senior official Mohsen Rezaee ruling out the removal of any enriched nuclear material from the country. Still, Saudi Arabia reported a 26% increase in oil production in October, bringing output to one of its highest monthly levels in years, while Iraq also raised production to a wartime record. Adding to supply-side pressure, EIA data showed US crude inventories rose by 4.657 million barrels in the week ended November 6, the largest increase since August and a reversal of five consecutive weekly declines."
-    },
-    {
-      "id": "5211597",
-      "time": "2026-11-13 01:18:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：長期以來，華盛頓將美國工業衰退視為不可避免。美國總統特朗普認識到，這是政策選擇的結果，因此可以逆轉。在特朗普的貿易政策重置及其歷史性減稅法案實施後，該行業重獲增長勢頭，這表明正確的政策能夠扭轉數十年的工業衰退。該行業已連續十個月擴張，今年迄今新增10.1萬個就業崗位。9月產出再次上升，職位空缺攀升至58.4萬個，為新冠疫情前時代有記錄以來的最高水平。"
     }
   ]
 }
