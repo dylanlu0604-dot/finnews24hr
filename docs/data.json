@@ -1,7 +1,51 @@
 {
-  "updated": "2026-11-19 08:52:16",
+  "updated": "2026-11-19 08:55:59",
   "count": 9587,
   "items": [
+    {
+      "id": "mkt:01a1f14b-d88c-7bbc-ac56-bea1852691d4",
+      "time": "2026-11-19 08:54:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bearish"
+      ],
+      "text": "【Morgan Stanley Cuts Tencent PT, Maintains Overweight】Higher AI investment will weigh on Tencent’s near-term earnings, Morgan Stanley said, cutting its PT by nearly 13% to HK$480 while maintaining an Overweight rating. Management sees limited impact from related restrictions on cloud revenue, saying efficient inference can run on domestically produced chips and WorkBuddy can access diversified token supply from model partners. Weak consumption, microdramas and earlier memory-price increases are expected to constrain core margins over the next few quarters. Morgan Stanley said Tencent’s core businesses remain among the strongest in China’s internet sector, while AI investment will weigh on near-term earnings but AI productivity products and small businesses offer significant long-term potential."
+    },
+    {
+      "id": "mkt:01a1f14b-20d6-7bbc-ac56-b66dca027b89",
+      "time": "2026-11-19 08:53:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei index gained 1.00% intraday."
+    },
+    {
+      "id": "mkt:01a1f14a-fdde-7bbc-ac56-ae39e6a78cdd",
+      "time": "2026-11-19 08:53:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump on potential Iranian dirty bomb threat: If Washington is attacked, 'we will completely wipe them out'】U.S. President Donald Trump told Fox News on Thursday Beijing time that there were indications Iran was pursuing chemical and biological weapons after being blocked from developing nuclear weapons. 'They are now turning to chemical and biological weapons. That is not good. We’ll see what happens,' he said. Trump said the public should not panic, adding that if such an attack occurred, 'we would completely wipe them out.'"
+    },
+    {
+      "id": "5223808",
+      "time": "2026-11-19 08:52:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中證報：治理“小作文”不能只靠闢謠 更要靠法治合力形成震懾】中證報頭版文章表示，治理“小作文”，不能只靠一次次闢謠，更要靠法治合力形成震懾。闢謠廓清迷霧之後，更重要的是持續提升政策透明度、強化違法震懾、培育理性投資文化，方能讓“小作文”失去生存土壤，讓資本市場在公開公平公正的軌道上行穩致遠。近期有關“監管要求基金公司上報全部產品AI敞口”和“國常會上有人表態不會再頻繁救市了”等傳言均被闢謠。兩則謠言都是借“內部訊息”的外殼，在政策訊號與市場預期之間打時間差、製造預期差。透明、可預期、法治化的市場環境，既需要監管部門及時發聲、依法亮劍，也需要市場各方和投資者共同維護。另據證券日報引述廣東天梭律師事務所律師李銘顏建議，一方面，進一步明確編造、傳播虛假資訊的認定標準與處罰細則；推動《人工智慧生成合成內容標識辦法》在財經內容領域嚴格落實。另一方面，持續深化“行民刑”立體化追責體系，落實民事賠償機制，降低投資者維權門檻；對借傳言配合交易牟利的行為，堅持“一案雙查”，同時查資訊、查交易。"
+    },
     {
       "id": "5223807",
       "time": "2026-11-19 08:50:21",
@@ -85998,46 +86042,6 @@
         "市場"
       ],
       "text": "【英偉達股票再遭評級下調 Bernstein稱傾向於觀望】Bernstein將英偉達股票評級從“跑贏大盤”下調至“與大盤持平”，是這家晶片製造商當天第二個下調評級。此前有報道稱，英偉達董事會正準備罷免執行長黃仁勳，後者承認自己有婚外情。分析師Stacy Rasgon週三晚些時候在給客戶的報告中寫道，“直覺告訴我們，我們可能還沒有完全瞭解這件事究竟有多深。我們就此打住，寧願暫時退到場邊觀望”。目標價從400美元下調至200美元；週三盤後交易中，該股下跌8%至160美元。Baird早些時候下調英偉達評級至中性。"
-    },
-    {
-      "id": "5209062",
-      "time": "2026-11-12 08:55:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "NAVER：目前正在與十多家AI資料中心客戶進行洽談，其中許多客戶位於北美和亞洲以外的其他地區。"
-    },
-    {
-      "id": "5209061",
-      "time": "2026-11-12 08:55:31",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "澳大利亞聯邦銀行策略師Carol Kong：美元/日元最近的上漲凸顯出，日元仍在很大程度上受制於美聯儲利率路徑的變化。即使日本央行加快加息步伐，在鷹派程度上仍難以壓過美聯儲。如果匯率迅速突破160這一關鍵關口，東京將會拉響警報。幾乎可以肯定，日本官員很快會加大對日元貶值的警告。"
-    },
-    {
-      "id": "5209060",
-      "time": "2026-11-12 08:55:05",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信期貨：談判預期給黃金帶來修復，利率約束仍佔主導】美伊外交接觸釋放積極訊號，特朗普表示再次對伊朗發動襲擊的可能性較低，魯比奧亦稱當前無需開展大規模軍事行動。衝突緩和預期限制美元進一步走強，黃金在前一交易日下跌後，一度回升至4050美元/盎司上方。不過，談判進展尚未轉化為能源供應全面恢復，對通脹和政策預期的改善仍有限。 美國10月CPI環比上漲0.4%，高於預期0.3%；核心CPI環比上漲0.3%，高於預期0.2%，連續三個月維持這一增速。總體價格漲幅有所放緩，核心通脹卻未明顯降溫。沃勒支援12月加息，並提出加息50個基點的可能性；保爾森強調維持限制性政策，洛根亦提示可能需要加快加息。政策討論進一步轉向收緊幅度和節奏，美元維持相對強勢，黃金反彈仍受持有成本約束。 能源價格回落能否支撐黃金，關鍵在於能否帶動利率預期下降。若核心通脹持續偏強，美聯儲仍有理由維持緊縮，油價下跌帶來的利多便難以充分兌現。央行購金與儲備多元化繼續支撐中長期配置需求，但短期價格仍取決於美元、實際利率及投資資金流向。（中信期貨）"
-    },
-    {
-      "id": "5209059",
-      "time": "2026-11-12 08:54:56",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日元兌美元逼近160關口 東京當局或再度面臨出手干預的壓力】日元兌美元逼近關鍵的160關口，再度加大東京當局出手支撐本幣的壓力。日元隔夜一度下跌0.8%至159.94，突破近幾周維持的窄幅波動區間。美國10月份CPI資料顯示通脹超過預期，市場押注美聯儲將加大加息力度，推動美元指數走高。日元在週四亞洲早盤小幅反彈0.1%至159.63。日本匯率事務最高官員三村淳表示，他強烈感覺過去幾天外匯市場的波動過大。"
     }
   ]
 }

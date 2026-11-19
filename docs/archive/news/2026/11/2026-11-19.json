@@ -1,7 +1,51 @@
 {
   "date": "2026-11-19",
-  "count": 575,
+  "count": 579,
   "items": [
+    {
+      "id": "mkt:01a1f14b-d88c-7bbc-ac56-bea1852691d4",
+      "time": "2026-11-19 08:54:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bearish"
+      ],
+      "text": "【Morgan Stanley Cuts Tencent PT, Maintains Overweight】Higher AI investment will weigh on Tencent’s near-term earnings, Morgan Stanley said, cutting its PT by nearly 13% to HK$480 while maintaining an Overweight rating. Management sees limited impact from related restrictions on cloud revenue, saying efficient inference can run on domestically produced chips and WorkBuddy can access diversified token supply from model partners. Weak consumption, microdramas and earlier memory-price increases are expected to constrain core margins over the next few quarters. Morgan Stanley said Tencent’s core businesses remain among the strongest in China’s internet sector, while AI investment will weigh on near-term earnings but AI productivity products and small businesses offer significant long-term potential."
+    },
+    {
+      "id": "mkt:01a1f14b-20d6-7bbc-ac56-b66dca027b89",
+      "time": "2026-11-19 08:53:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei index gained 1.00% intraday."
+    },
+    {
+      "id": "mkt:01a1f14a-fdde-7bbc-ac56-ae39e6a78cdd",
+      "time": "2026-11-19 08:53:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump on potential Iranian dirty bomb threat: If Washington is attacked, 'we will completely wipe them out'】U.S. President Donald Trump told Fox News on Thursday Beijing time that there were indications Iran was pursuing chemical and biological weapons after being blocked from developing nuclear weapons. 'They are now turning to chemical and biological weapons. That is not good. We’ll see what happens,' he said. Trump said the public should not panic, adding that if such an attack occurred, 'we would completely wipe them out.'"
+    },
+    {
+      "id": "5223808",
+      "time": "2026-11-19 08:52:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中證報：治理“小作文”不能只靠闢謠 更要靠法治合力形成震懾】中證報頭版文章表示，治理“小作文”，不能只靠一次次闢謠，更要靠法治合力形成震懾。闢謠廓清迷霧之後，更重要的是持續提升政策透明度、強化違法震懾、培育理性投資文化，方能讓“小作文”失去生存土壤，讓資本市場在公開公平公正的軌道上行穩致遠。近期有關“監管要求基金公司上報全部產品AI敞口”和“國常會上有人表態不會再頻繁救市了”等傳言均被闢謠。兩則謠言都是借“內部訊息”的外殼，在政策訊號與市場預期之間打時間差、製造預期差。透明、可預期、法治化的市場環境，既需要監管部門及時發聲、依法亮劍，也需要市場各方和投資者共同維護。另據證券日報引述廣東天梭律師事務所律師李銘顏建議，一方面，進一步明確編造、傳播虛假資訊的認定標準與處罰細則；推動《人工智慧生成合成內容標識辦法》在財經內容領域嚴格落實。另一方面，持續深化“行民刑”立體化追責體系，落實民事賠償機制，降低投資者維權門檻；對借傳言配合交易牟利的行為，堅持“一案雙查”，同時查資訊、查交易。"
+    },
     {
       "id": "5223807",
       "time": "2026-11-19 08:50:21",
