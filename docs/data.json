@@ -1,7 +1,45 @@
 {
-  "updated": "2026-11-19 08:48:30",
-  "count": 9585,
+  "updated": "2026-11-19 08:52:16",
+  "count": 9587,
   "items": [
+    {
+      "id": "5223807",
+      "time": "2026-11-19 08:50:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數上漲1%，至59617.94點。"
+    },
+    {
+      "id": "mkt:01a1f148-2f0b-7bbc-ac56-a1f54851c148",
+      "time": "2026-11-19 08:50:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "China's October yuan share of global payments via SWIFT is due in 10 minutes."
+    },
+    {
+      "id": "5223806",
+      "time": "2026-11-19 08:48:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報961.50美元/盎司。"
+    },
+    {
+      "id": "5223805",
+      "time": "2026-11-19 08:48:52",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根士丹利：下調騰訊港股目標價 維持超配評級】摩根士丹利稱，更高的人工智慧投資將對騰訊的短期盈利施加壓力，將公司目標價下調近13%至480港元，但維持超配評級。分析師Gary Yu等在報告中指出，管理層認為，相關限制對雲業務收入影響有限，高效推理可以使用國產晶片執行，而WorkBuddy可從模型合作伙伴獲得“多元化的token供應”。消費疲軟、微短劇業務以及此前儲存價格上漲，預計會在未來幾個季度限制公司的核心業務利潤率。不過騰訊的核心業務仍是中國網際網路行業中實力最強的之一。AI投資增加將拖累短期盈利，但AI生產力產品和小微具有可觀的長期潛力。"
+    },
     {
       "id": "5223804",
       "time": "2026-11-19 08:47:51",
@@ -86000,28 +86038,6 @@
         "國際"
       ],
       "text": "【日元兌美元逼近160關口 東京當局或再度面臨出手干預的壓力】日元兌美元逼近關鍵的160關口，再度加大東京當局出手支撐本幣的壓力。日元隔夜一度下跌0.8%至159.94，突破近幾周維持的窄幅波動區間。美國10月份CPI資料顯示通脹超過預期，市場押注美聯儲將加大加息力度，推動美元指數走高。日元在週四亞洲早盤小幅反彈0.1%至159.63。日本匯率事務最高官員三村淳表示，他強烈感覺過去幾天外匯市場的波動過大。"
-    },
-    {
-      "id": "te:markets:600540",
-      "time": "2026-11-12 08:52:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Climb for Fourth Session — The Nikkei 225 Index climbed 0.4% to around 61,500 on Thursday, extending its winning streak to four sessions as technology stocks continued to recover from a recent selloff amid improving sentiment toward the artificial intelligence sector. Those moves followed an upbeat outlook from AI computing provider CoreWeave, while anticipation surrounding Anthropic’s planned IPO provided an additional boost. However, market participants remained cautious after Nvidia shares plunged as much as 10% in after-hours trading following reports that its board was preparing to remove CEO Jensen Huang. The developments have raised concerns about potential spillover effects across global markets, particularly among Asian suppliers, given Nvidia’s prominent role in the AI industry. Among the notable gainers in Japan were Kioxia Holdings (+2.8%), SoftBank Group (+3.5%), Taiyo Yuden (+1%), Tokyo Electron (+2.7%) and Disco Corp (+1.4%)."
-    },
-    {
-      "id": "5209058",
-      "time": "2026-11-12 08:51:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【英偉達董事會正權衡黃仁勳去留 媒體：白宮不干預英偉達董事會的決定】據兩位知情人士透露，在英偉達執行長黃仁勳承認與一名女子發生婚外情數日後，這家市值數萬億美元的晶片製造商的董事會將召開會議，商討這位深陷風波的CEO的未來。此前，週三有報道稱黃仁勳還發生了第二段婚外情，物件是一名向其彙報工作的英偉達高管，董事會隨後開始考慮可能將其罷免。據一位政府官員和另一位要求匿名以討論內部資訊的知情人士透露，自去年連任以來便與特朗普總統保持密切盟友關係的黃仁勳，其命運將在週三晚些時候的英偉達董事會會議上被評估。上述知情人士稱，白宮不會干預董事會的決定。在有關董事會會議及黃仁勳疑似第二段婚外情的報道傳出後，英偉達股價在週三盤後交易中下跌了8%。"
     }
   ]
 }
