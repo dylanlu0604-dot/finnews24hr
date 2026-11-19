@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-20 01:45:37",
-  "count": 9649,
+  "updated": "2026-11-20 01:49:32",
+  "count": 9651,
   "items": [
+    {
+      "id": "5226363",
+      "time": "2026-11-20 01:48:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國官員稱對伊朗的戰爭已使美國付出超過480億美元的代價。"
+    },
+    {
+      "id": "5226362",
+      "time": "2026-11-20 01:45:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1.1%。"
+    },
+    {
+      "id": "5226361",
+      "time": "2026-11-20 01:45:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【冰雪消費持續升溫 國產“冷裝備”迎來出口熱】冰雪季臨近，冰雪消費持續升溫，滑雪杖、踏雪板、防滑鞋套這些“冷裝備”正迎來出口熱。據寧波海關統計，今年1月到10月，寧波市出口冰雪類產品5.1億元，同比增長30.1%。（央視新聞）"
+    },
+    {
+      "id": "5226360",
+      "time": "2026-11-20 01:45:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "道明銀行宣佈投入20億美元，幫助民眾增強財務實力、改善生活品質、"
+    },
     {
       "id": "5226359",
       "time": "2026-11-20 01:44:15",
@@ -86582,26 +86614,6 @@
         "市場"
       ],
       "text": "【LME金屬期貨收盤漲跌不一】LME金屬期貨收盤漲跌不一。倫鋁收跌1.58%，報3030美元； 倫銅收跌1.35%，報13608.5美元； 倫鎳收漲0.12%，報16220美元； 倫鉛收漲0.08%，報1885.5美元； 倫錫收跌0.30%，報46350美元； 倫鋅收跌0.92%，報3725.5美元。"
-    },
-    {
-      "id": "te:markets:600848",
-      "time": "2026-11-13 01:46:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline Futures Rise — US gasoline futures edged up to $2.64 per gallon but remained close to an eight-month low, as traders weighed Middle East tensions against recovering inventories. EIA data showed gasoline stocks rose by 1.8 million barrels in the week ending November 6, lifting domestic supplies to 1% above seasonal norms for the first time since April. Seasonal declines in driving demand ahead of winter and near-capacity refinery operations have supported the recovery. Still, uncertainty over a prolonged US-Iran conflict remains an upside risk. President Trump has downplayed the need for a deal with Iran, further dampening hopes of an imminent resolution, although crude continues to flow through the waterway. A shift by US refiners away from gasoline towards higher-margin middle distillates, alongside seasonal refinery maintenance, could further constrain supply. Escalating Ukrainian attacks on Russian refineries and lower Chinese exports are also contributing to tighter global fuel markets."
-    },
-    {
-      "id": "5211612",
-      "time": "2026-11-13 01:45:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國非競爭性投標以6.949億美元競購四個月期國債,美國非競爭性債券承銷商出價5990萬美元競購30年期債券。"
     }
   ]
 }
