@@ -1,7 +1,2469 @@
 {
   "date": "2026-11-20",
-  "count": 312,
+  "count": 586,
   "items": [
+    {
+      "id": "mkt:01a1f628-a803-7bbc-ac7a-08c66d274b2e",
+      "time": "2026-11-20 07:33:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Debate over taxing government bond interest intensifies; experts say near-term rollout is unlikely】The PBOC said in its Q3 2026 monetary policy report that China exempts government bond interest from income tax, allowing taxable investors to accept lower yields than on taxable bonds. The remarks have fueled debate over taxing government bond interest. Such a move could narrow tax disparities across bonds and strengthen the government bond yield curve’s role as a pricing benchmark, but would require statutory procedures, including tax law amendments, and different tax and bond categories may require different approaches. Experts also cautioned that the systemic market impact needs to be assessed and the fiscal effects may not be positive. Whether and how to levy the tax requires further study; near-term implementation is unlikely."
+    },
+    {
+      "id": "mkt:01a1f627-aa7b-7bbc-ac7a-06b76d7c9dd5",
+      "time": "2026-11-20 07:32:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan's headline CPI rose at its fastest pace since November 2025 in October, while core CPI posted its fastest increase since December 2025."
+    },
+    {
+      "id": "5226621",
+      "time": "2026-11-20 07:32:28",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本核心CPI增速創2025年12月以來最快，整體CPI漲幅創2025年11月以來最快。"
+    },
+    {
+      "id": "5226620",
+      "time": "2026-11-20 07:32:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【徵收政府債券利息所得稅議題升溫 專家稱短期不具備落地條件】國債等政府債券利息收入恢復徵收增值稅一年多後，關於稅收制度如何影響債券市場定價的討論，正從增值稅延伸到所得稅。近日，中國人民銀行在2026年三季度貨幣政策執行報告中提出，“國內目前對國債利息收入免徵所得稅，使納稅投資者願意接受低於應稅債券的收益率”，這一表述讓市場對於是否徵收政府債券利息所得稅的討論進一步升溫。對政府債券利息徵收所得稅，雖有助於縮小不同債券之間的稅負差異、更好發揮國債收益率曲線的定價基準作用，但推動其落地並不簡單。多位受訪專家指出，相關調整涉及稅法修改等法定程式，不同稅種、券種調整路徑不一致，且需要考量對金融市場的系統性影響，對財政體系的影響也未必正向。未來是否徵收、如何徵收仍需審慎研究。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202611203935484824",
+      "time": "2026-11-20 07:31:26",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本10月全國CPI同比增長2.3%，預期2.50%，前值2.10%。"
+    },
+    {
+      "id": "mkt:01a1f626-3ebb-7bbc-ac79-fdfd6f615aee",
+      "time": "2026-11-20 07:31:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's national CPI rose 0.8% MoM in October, unadjusted, versus 0% previously."
+    },
+    {
+      "id": "mkt:01a1f626-2d89-7bbc-ac79-f639360495c4",
+      "time": "2026-11-20 07:30:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | National CPI NSA (MoM) (Oct) | actual 0.8% | previous 0%"
+    },
+    {
+      "id": "em:jjsj_rbsj:202611203935484672",
+      "time": "2026-11-20 07:30:45",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本10月核心CPI同比增長2.2%，預期2.30%，前值2.10%。"
+    },
+    {
+      "id": "5226619",
+      "time": "2026-11-20 07:30:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【樂天證券收到日本金融廳命令，要求其報告客戶資訊洩露事件】樂天證券於19日宣佈，由於第三方未經授權訪問導致客戶資訊洩露，該公司已收到日本金融廳根據《金融工具及交易法》提出的報告要求。"
+    },
+    {
+      "id": "5226618",
+      "time": "2026-11-20 07:30:32",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "日本10月核心CPI同比上漲2.2%，預計2.3%。日本10月CPI（不含生鮮食品和能源）同比上漲2.2%，預期上漲2.3%。日本10月整體CPI同比上漲2.3%，預期上漲2.5%。"
+    },
+    {
+      "id": "mkt:01a1f625-7a3c-7bbc-ac79-ec761d11ac3d",
+      "time": "2026-11-20 07:30:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan’s national CPI rose 2.3% YoY in October, below expectations of 2.5% and up from 2.1% previously."
+    },
+    {
+      "id": "mkt:01a1f625-6a37-7bbc-ac79-e2c1c19ae2a8",
+      "time": "2026-11-20 07:30:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (YoY) (Oct) | actual 2.3% | consensus 2.50% | previous 2.10%"
+    },
+    {
+      "id": "mkt:01a1f625-6092-7bbc-ac79-ddeebcb082a7",
+      "time": "2026-11-20 07:30:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan’s core CPI rose 2.2% YoY in October, versus a 2.30% forecast and 2.10% previously."
+    },
+    {
+      "id": "mkt:01a1f625-5074-7bbc-ac79-d2192ebfb643",
+      "time": "2026-11-20 07:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core CPI (YoY) (Oct) | actual 2.2% | consensus 2.30% | previous 2.10%"
+    },
+    {
+      "id": "em:qqyh_mlc:202611203935484518",
+      "time": "2026-11-20 07:29:41",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【法國巴黎銀行上調美聯儲加息預期 料連續三次加息25個基點】法國巴黎銀行在利率預測中新增美聯儲明年3月加息的預期，預計繼今年12月和明年1月之後，美聯儲將連續第三次加息25個基點。"
+    },
+    {
+      "id": "mkt:01a1f624-9c67-7bbc-ac79-cede22822aa8",
+      "time": "2026-11-20 07:29:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. envoy says Berlin Coalition of the Willing talks were candid, but key work remains】U.S. Middle East envoy Steve Witkoff said he and Trump adviser Jared Kushner attended the Coalition of the Willing meeting in Berlin with European allies at President Donald Trump’s direction. He described the talks as candid and productive, saying Washington aimed to engage directly with European partners and discuss a path forward. Important work remains, Witkoff said, adding that efforts would continue in close coordination with allies to achieve lasting peace."
+    },
+    {
+      "id": "5226617",
+      "time": "2026-11-20 07:29:16",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "訊息人士稱，花旗集團低估了約350億美元的風險加權資產。"
+    },
+    {
+      "id": "5226616",
+      "time": "2026-11-20 07:29:07",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗表示，已解決一家歐洲子公司的內部資本建模問題；在此期間始終完全符合監管最低要求。"
+    },
+    {
+      "id": "5226615",
+      "time": "2026-11-20 07:28:59",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "訊息人士稱，花旗集團在一家歐洲子公司錯誤記賬，低估了其風險加權資產。"
+    },
+    {
+      "id": "5226614",
+      "time": "2026-11-20 07:28:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英特爾與微軟宣佈擴大合作，應對日益增長的雲與AI需求】據“英特爾中國”公眾號訊息，11月19日，英特爾與微軟宣佈，雙方已達成一項長期協議，擴大持續數十年的合作，在Azure基礎設施的若干特定領域攜手推進，以應對日益增長的雲與AI需求。微軟是首家宣佈採用英特爾代工的EMIB （嵌入式多晶片互連橋接）先進封裝技術的公司，將用於Azure自研晶片。該協議將英特爾的晶片及EMIB能力與微軟的雲工程能力相結合。協議確認了多年期的英特爾 至強產能供應，其中包括代號為Diamond Rapids的下一代伺服器CPU的相關例項，並進一步擴大了雙方在Azure路線圖以及基於英特爾的Azure硬體系統方面的合作。"
+    },
+    {
+      "id": "5226613",
+      "time": "2026-11-20 07:28:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果關閉全球最大粉絲社群】今日，蘋果旗下Apple支援社群正式永久關閉，結束近28年的運營歷程。 蘋果表示，使用者仍可前往官方Apple支援網站，獲取產品使用指導和技術幫助。 同時，蘋果對多年來貢獻時間和專業知識、幫助其他使用者解決Apple產品問題的社群成員表示感謝。"
+    },
+    {
+      "id": "5226612",
+      "time": "2026-11-20 07:26:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【行業標準落地 國產化向多工序拓展 半導體材料裝置板塊觸底回升】近期，半導體材料裝置板塊震盪回升，產業端也迎來新進展。行業專屬質量管理體系標準獲批，前期擴產訂單陸續轉化為收入，國產裝置新品加快匯入客戶產線，零部件企業持續拓展供貨。分析人士認為，國內晶圓廠新建產能與儲存廠工藝升級同步推進，有望帶動裝置採購及配套耗材需求增長。國內廠商正從供應單一機型向覆蓋多道關鍵工序拓展，國產化有望加速。後續可關注擴產專案進度、裝置訂單落地及新品驗證情況，把握裝置、材料與先進封裝等領域的投資機會。（中國證券報）"
+    },
+    {
+      "id": "5226611",
+      "time": "2026-11-20 07:26:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【推動資金“願意來留得住” FOF需夯實長期競爭力建設】今年以來，FOF迎來發行熱潮，但產品清盤數量同步攀升。一邊是新成立產品數量與發行份額雙雙創下近十年新高，基金公司佈局熱情不減；另一邊清盤數量同步攀升至歷史峰值，三年前成立的發起式產品在“三年考核”關口集中出清。與此同時，上半年多隻募集超20億元的FOF產品，在三季度出現了明顯資金流出跡象。發行數量增長固然體現出基金公司對FOF業務的重視，但產品能否在成立後留住資金、透過持續的資產配置為投資者獲取收益，正成為長期發展的關鍵問題。業內人士認為，基金公司的FOF業務需要逐步從發行驅動轉向長期經營，圍繞產品定位、投研能力、風險管理和持有人服務等建立可持續的競爭力。（中國證券報）"
+    },
+    {
+      "id": "mkt:01a1f621-ddc4-7bbc-ac79-c1587e92293e",
+      "time": "2026-11-20 07:26:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, UK defense ministers hold talks】China’s Defense Minister Dong Jun met with his UK counterpart on Nov. 19, discussing bilateral military ties and international and regional issues. Both sides said they would implement agreements reached by their leaders and promote stable, healthy military relations."
+    },
+    {
+      "id": "5226610",
+      "time": "2026-11-20 07:26:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【法國巴黎銀行上調美聯儲加息預期 料連續三次加息25個基點】法國巴黎銀行在利率預測中新增美聯儲明年3月加息的預期，預計繼今年12月和明年1月之後，美聯儲將連續第三次加息25個基點。“美國經濟對利率的敏感度非常低，表明需要更大幅度的利率調整，才能撤出貨幣刺激措施，使政策立場迴歸中性，”經濟學家James Egelhof在致客戶的報告中寫道。Egelhof表示，如果3月之後繼續大幅加息，貨幣政策將進入限制性區間，“導致就業崗位減少和經濟增長放緩”。他寫道，美聯儲“無意採取這樣的政策”。"
+    },
+    {
+      "id": "5226609",
+      "time": "2026-11-20 07:25:40",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【恒生科技指數將迎重大調整 寧德時代和中際旭創等股票或被納入】 寧德時代和中際旭創等股票預計將在香港科技股基準指數的一次重大調整中被納入。恒生指數公司預計將在週五收市後公佈季度檢討結果，勢將把恒生科技指數成份股數量從30只擴大至50只。分析師表示，在一批高科技製造企業赴港上市後，新納入的股票可能包括先進硬體相關公司。 根據瑞穗和中金公司的分析，其他潛在獲納入的包括晶片設計公司壁仞科技、印製電路板製造商勝宏科技、人形機器人生產商優必選，以及電商運營商希音國際。"
+    },
+    {
+      "id": "5226608",
+      "time": "2026-11-20 07:24:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國參議院民主黨人就《平價醫療法案》參保人數削減問題向10家保險公司施壓。"
+    },
+    {
+      "id": "5226607",
+      "time": "2026-11-20 07:23:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【基金經理同步校準標尺 AI投資迎來“重構”時刻】 科創50、創業板指近期波動幅度加大。三季度科技板塊回撥時加倉的資金，在短期回撤與長期產業趨勢向上的“錯位”中陷入糾結。從近期一些知名基金經理對於重倉科技品種的操作來看，有的保持定力甚至逆勢加倉，有的轉向防守、降低敞口。操作分歧的背後，或許並不意味著基金經理對AI長週期共識的瓦解，而是AI產業估值體系正在發生重構。在他們看來，關鍵是重新核對企業需求、競爭優勢、盈利預期，AI產業鏈的業績測算已經從評估產能轉向政策環境、融資能力、模型公司實際收入。（中國證券報）"
+    },
+    {
+      "id": "mkt:01a1f61f-1ebb-7bbc-ac79-ba757d82c3fa",
+      "time": "2026-11-20 07:23:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Witnesses report explosions in Kyiv, Ukraine."
+    },
+    {
+      "id": "5226606",
+      "time": "2026-11-20 07:23:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Anthropic IPO 後成為全球第七大市值公司】Anthropic 的首次公開募股（IPO）大獲成功，使其躋身全球市值最高企業之列——其股價收盤較發行價高出 17%，完全稀釋市值達到 1.8 萬億美元。\n以下是全球市值最高的上市公司：\n蘋果公司（Apple Inc.）：5.1 萬億美元\n微軟公司（Microsoft Corp.）：3.7 萬億美元\n英偉達公司（Nvidia Corp.）：3.5 萬億美元\nAlphabet 公司（谷歌母公司）：3.3 萬億美元\n亞馬遜公司（Amazon.com Inc.）：2.8 萬億美元\n太空探索技術公司（SpaceX）：1.9 萬億美元\nAnthropic：1.8 萬億美元\n沙特阿美（Saudi Aramco）：1.7 萬億美元\n博通公司（Broadcom Inc.）：1.7 萬億美元\n臺灣積體電路製造公司（臺積電，TSMC）：1.7 萬億美元"
+    },
+    {
+      "id": "mkt:01a1f61e-e904-7bbc-ac79-b354196d2ac0",
+      "time": "2026-11-20 07:23:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A White House official said Sean Cairncross will step down as National Cyber Director."
+    },
+    {
+      "id": "mkt:01a1f61e-7b6c-7bbc-ac79-aa270d9b9083",
+      "time": "2026-11-20 07:22:35",
+      "tags": [
+        "MKT News",
+        "DIS.N",
+        "Impact bearish"
+      ],
+      "text": "The Wall Street Journal reports that several U.S. states are moving to block Disney’s (DIS.N) acquisition of Character.AI assets."
+    },
+    {
+      "id": "5226605",
+      "time": "2026-11-20 07:22:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮官員表示，肖恩·凱恩克羅斯將卸任國家網路主任一職。"
+    },
+    {
+      "id": "5226604",
+      "time": "2026-11-20 07:21:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【加州正調查英偉達是否誤導投資者】加州官員正在對英偉達公司展開調查。加州總檢察長羅布·邦塔（Rob Bonta）在週四的一份宣告中表示，其辦公室還在調查該公司是否就相關情況誤導了投資者。他表示，英偉達已收到傳票，要求提供相關資訊，以確定該公司是否違反了加州的企業證券法。上週，黃仁勳披露了自己的一段婚外情，將英偉達推入了一場前所未有的危機。這不僅導致公司股價大幅下挫，還致使他被迫辭去執行長一職。邦塔表示：“英偉達及其前執行長的行為亮起了明顯的紅燈，其中包括公司可能誤導投資者的方式。英偉達目前陷入了一個混亂的跨國危機，但我們企業證券法的基本原則十分明確：公司絕不能誤導其投資者。”總部位於加州聖克拉拉的英偉達沒有立即回覆置評請求。英偉達是全球最大的晶片製造商，直到不久前還是全球市值最高的上市公司。在黃仁勳的領導下，其產品成為人工智慧基礎設施大規模建設的核心。"
+    },
+    {
+      "id": "5226603",
+      "time": "2026-11-20 07:20:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國聯邦能源監管委員會批准五個能源專案】美國聯邦能源監管委員會週四批准了五個能源專案和設施，試圖為關鍵天然氣基礎設施專案掃清障礙。獲批專案包括授權Sabine Pass在路易斯安那州卡梅倫堂區一處現有碼頭運營另外三條液化生產線。該委員會還向Mountain Valley Pipeline頒發運營證書，批准其運營位於弗吉尼亞州和西弗吉尼亞州的一個專案，以新增每日600,000 dekatherms的固定運輸能力。批准事項還包括弗吉尼亞州東南部的能源儲存專案、Forza Pipeline在新墨西哥州和得克薩斯州的建設證書，以及Texas Eastern在密西西比州專案的擴建。"
+    },
+    {
+      "id": "mkt:01a1f61c-34e5-7bbc-ac79-a040fbeeeb09",
+      "time": "2026-11-20 07:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "USDJPY",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Philadelphia Fed President and 2026 FOMC voter Paulson is scheduled to speak in 10 minutes; Japan’s October core CPI is due in 10 minutes."
+    },
+    {
+      "id": "5226602",
+      "time": "2026-11-20 07:19:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI Codex產品負責人Tibo：注意，我們開始對少量 ChatGPT Plus 使用者測試 dots。期待在擴充套件過程中繼續收到反饋，最近我看到很多關於改進後主動性表現的正面評價，感覺越來越好了。我們還將為所有 ChatGPT Business Standard 使用者推出 dots。今天就開始逐步上線。"
+    },
+    {
+      "id": "5226601",
+      "time": "2026-11-20 07:15:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達正就收購Inception進行深入談判】據媒體引述三位知情人士報道，英偉達正就收購初創公司Inception展開深入談判。其中一位知情人士稱，擬議交易價值至少5億美元，外加這些新員工的業績達標獎勵。報道稱，英偉達與Inception的談判是在黃仁勳離職之前開始的，此前微軟也曾表達過對類似交易的興趣。英偉達和Inception的代表均未立即回應置評請求。"
+    },
+    {
+      "id": "5226600",
+      "time": "2026-11-20 07:12:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數下跌1%，至8643.10。"
+    },
+    {
+      "id": "5226599",
+      "time": "2026-11-20 07:10:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國副總統萬斯：黃金時代就在當下。"
+    },
+    {
+      "id": "5226598",
+      "time": "2026-11-20 07:09:43",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【11月20日隔夜要聞一覽】\n1、Anthropic登陸華爾街首日大漲17%，收盤約97美元。按週四收盤價計算，這家成立近六年的AI實驗室市值達1.3萬億美元，完全攤薄估值1.75萬億美元，躋身萬億市值企業俱樂部，但首日收盤估值低於SpaceX。\n2、標普500指數連續第六個交易日下跌，Anthropic PBC上市後帶動的科技股漲勢未能持續，道指自6月以來首次收盤跌破5萬點。\n3、根據一份新近披露的財務申報檔案，美國總統唐納德·特朗普名下投資賬戶在9月買入了英偉達、帕蘭提爾以及埃隆·馬斯克旗下SpaceX的股份，交易時段恰逢這幾家企業拿到大額聯邦合同、高管與總統會面前後。\n4、美國能源部長克里斯·賴特表示，隨著波斯灣成品油重返市場、未受制裁的俄羅斯柴油進一步增加供給壓力，美國柴油價格有望從歷史高點持續回落。\n5、芝加哥聯儲行長奧斯坦·古爾斯比表示，決策者下個月開會制定利率政策時，他將考慮所有選項，他也沒有反駁加息幅度高於通常水平的可能性。\n6、美聯儲副主席菲利普·傑斐遜表示，人工智慧熱潮正在推動經濟需求，從而加劇短期通脹。\n7、據知情人士透露，馬斯克旗下SpaceX計劃週四進行至少320億美元的債務融資，作為其最近敲定的一項更大規模晶片融資交易的一部分。\n8、據知情人士透露，奈飛、亞馬遜、YouTube以及福克斯均計劃在今日截止日前提交報價，角逐2030年男足世界盃美國地區轉播權，而迪士尼不會參與競標。\n9、交易員押注，主要央行在2027年底結束加息後，將在數年內基本維持利率不變。"
+    },
+    {
+      "id": "mkt:01a1f612-967c-7bbc-ac79-9f7c3af45f3a",
+      "time": "2026-11-20 07:09:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhuque-3’s previously used engines complete another test firing】All engines on the successfully recovered Zhuque-3 rocket have completed repeat test firings and are ready for reuse."
+    },
+    {
+      "id": "5226597",
+      "time": "2026-11-20 07:08:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【朱雀三號“二手”發動機再次完成試車】據悉，此前成功回收的朱雀三號火箭，發動機已全部完成再次試車，具備重複使用條件。（央視新聞）"
+    },
+    {
+      "id": "5226596",
+      "time": "2026-11-20 07:07:55",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、中俄美元首和平宣言\n2、2026年亞太經合組織領導人深圳展望 建設亞太共同體，促進共同繁榮\n3、深入實施積極應對人口老齡化國家戰略\n4、貼錢賣燈的深層邏輯（縱橫）\n5、今年以來我國消費市場規模穩步擴大\n6、產銷、改裝、回收，汽車消費全鏈條發力（中國消費向新而行·擴大汽車消費）\n7、輕工業需要強標準（經濟時評）\n8、新一批可信資料空間創新發展試點啟動\n9、義烏市場，商戶用上大模型\n10、共同將建設亞太共同體的願景變為現實（和音）。"
+    },
+    {
+      "id": "5226595",
+      "time": "2026-11-20 07:07:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.8%，報8,660.60點。"
+    },
+    {
+      "id": "5226593",
+      "time": "2026-11-20 07:05:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SK海力士考慮將與鎧俠相關的可轉債轉換為股票。"
+    },
+    {
+      "id": "mkt:01a1f60b-6c89-7bbc-ac79-97da8382c304",
+      "time": "2026-11-20 07:01:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold and silver opened higher on Friday, with gold up 0.28% and silver up 0.73%."
+    },
+    {
+      "id": "5226591",
+      "time": "2026-11-20 07:00:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報906.00美元/盎司。"
+    },
+    {
+      "id": "5226590",
+      "time": "2026-11-20 07:00:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報43.49美元/盎司。"
+    },
+    {
+      "id": "5226589",
+      "time": "2026-11-20 07:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報3634.31美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1f605-f0f6-7bbc-ac79-8dcf9f9e2dba",
+      "time": "2026-11-20 06:55:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. Treasury official renews warning over tax-avoidance trades】A senior U.S. Treasury official on Thursday reiterated concerns about Wall Street’s tax-saving investment boom, saying firms should compete on investment performance, fees and service rather than on how much they help clients cut tax bills. Kevin Salinger, acting assistant secretary for tax policy, spoke at a Wall Street tax association conference in New York. In late September, the Treasury issued a ruling on an ETF strategy to avoid capital gains taxes and warned it could act against similar transactions. Firms should not compete over who is willing to take greater tax risks and expose investors to more risk, Salinger said."
+    },
+    {
+      "id": "5226588",
+      "time": "2026-11-20 06:54:06",
+      "tags": [
+        "公司",
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週五財經資訊提醒（以下均為北京時間）】\n① 07:30 日本10月CPI，美國費城聯儲主席Anna Paulson講話；\n② 08:15 澳洲聯儲貨幣政策委員會成員Renee Fry-McKibbin講話；\n③ 09:00 中國11月一年期/五年期貸款市場報價利率(LPR)；\n④ 11:10 歐洲央行執委Cipollone在新加坡金融科技節期間講話；\n⑤ 15:00 英國10月零售銷售；\n⑥ 時間待定 恒指公司宣佈第三季指數系列檢討結果；\n⑦ 16:30 歐洲央行行長拉加德在法蘭克福“歐元金融周”講話；\n⑧ 21:00 歐洲央行管委兼德國央行行長Nagel講話；\n⑨ 21:25 美聯儲理事沃勒在一場活動上致歡迎詞；\n⑩ 21:30 加拿大9月零售銷售；\n⑪ 23:00 美國11月密歇根大學消費者信心指數終值，歐元區11月消費者信心指數初值；\n⑫ 時間待定 美國總統特朗普舉行新聞釋出會；\n⑬ 次日01:15 美聯儲理事庫克在智利央行年度會議上談美國經濟。"
+    },
+    {
+      "id": "mkt:01a1f602-2fd0-7bbc-ac79-85305dbc4272",
+      "time": "2026-11-20 06:51:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran war highlights U.S. munitions shortfalls, watchdog says】A congressionally mandated Government Accountability Office report released Thursday said the Iran war has underscored longstanding shortfalls in key Pentagon munitions stockpiles, contradicting Trump administration officials’ claims that the U.S. military faces no shortages. The report said the Defense Department lacks a comprehensive plan to rebuild stocks and should make a roadmap a priority. It said meeting demand and replenishing stockpiles is a complex, department-wide challenge and that the Pentagon is not currently equipped to close the gaps."
+    },
+    {
+      "id": "5226587",
+      "time": "2026-11-20 06:48:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "TPG與Corpay將以每股63.25美元現金收購Bill。"
+    },
+    {
+      "id": "mkt:01a1f5fe-c24e-7bbc-ac79-7f58dedcea82",
+      "time": "2026-11-20 06:47:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA in talks to buy diffusion AI startup Inception for more than $500 mln】NVIDIA is in advanced talks to acquire Inception, a two-year-old startup developing AI designed to run faster than the technology behind ChatGPT and Claude, The Information reported, citing three people familiar with the matter. The deal is valued at at least $500 mln, with additional performance-based awards for new hires tied to specific targets. Inception’s diffusion-based large language models and technical talent could help NVIDIA develop its Nemotron open-source models. The talks show NVIDIA’s startup dealmaking and push to build its own AI models to compete with Anthropic are continuing despite a leadership crisis following Jensen Huang’s resignation."
+    },
+    {
+      "id": "5226586",
+      "time": "2026-11-20 06:46:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國監察機構發現，伊朗戰爭加劇了美軍彈藥短缺。"
+    },
+    {
+      "id": "mkt:01a1f5fc-fdbf-7bbc-ac79-7568adb348b7",
+      "time": "2026-11-20 06:46:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "The Information: NVIDIA is nearing a deal to acquire diffusion AI developer Inception for more than $500 million."
+    },
+    {
+      "id": "mkt:01a1f5fc-8447-7bbc-ac79-6875067522d5",
+      "time": "2026-11-20 06:45:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Anthropic’s strong IPO debut masks multiple risks, analyst says】Anthropic shares closed up more than 17% on their first trading day, but could become more volatile in coming weeks as initial enthusiasm fades, said Ben Barringer, head of technology research at Quilter Cheviot. Despite being well positioned, the company may be exposed to industry-wide market volatility after the U.S. midterm elections. Its models are still at an early stage, and it must avoid pushing for excessive regulation that could constrain growth, Barringer said."
+    },
+    {
+      "id": "5226585",
+      "time": "2026-11-20 06:45:10",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通、萬事達卡同日宣佈第三方服務商遭駭客入侵 發生資料洩露】摩根大通當地時間週四早間通報：為這家銀行業巨頭提供服務的第三方服務商遭到網路攻擊。 公告稱：“根據目前調查，我們認為攻擊者獲取了這些服務商儲存的部分營銷資料，其中可能包含部分客戶姓名與電子郵箱地址。” 公告同時表示：“我行各項業務運轉正常，未出現服務中斷。” 這家美國規模最大的銀行沒有披露攻擊發生時間，也未公佈遭到入侵的第三方服務商名稱。 萬事達卡週四同樣通報，旗下一家第三方服務商遭遇駭客入侵；Visa本週早些時候也表示，獲悉其某家第三方服務商發生資料洩露。 萬事達卡週四公告：“我們近期收到通知，一家第三方服務商發生安全事件，少量參與特定權益計劃的持卡人電子郵箱（非支付類資訊）遭到洩露。”萬事達卡補充：“萬事達卡支付網路不受影響，持卡人刷卡使用一切正常。目前洩露範圍已得到控制，我方團隊正配合服務商，按需為受影響持卡人提供協助。”"
+    },
+    {
+      "id": "mkt:01a1f5fc-1962-7bbc-ac79-65b066af3265",
+      "time": "2026-11-20 06:45:01",
+      "tags": [
+        "MKT News",
+        "TTWO.O",
+        "Impact bullish"
+      ],
+      "text": "Semafor: GTA 6 sales topped $3 bln in its first week."
+    },
+    {
+      "id": "5226584",
+      "time": "2026-11-20 06:44:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英偉達接近收購Inception。"
+    },
+    {
+      "id": "5226583",
+      "time": "2026-11-20 06:41:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【FOF擴容與清盤並行，2026年清盤FOF數量創歷史新高】今年以來，FOF迎來發行熱潮，但產品清盤數量同步攀升。一邊是新成立產品數量與發行份額雙雙創下近十年新高，基金公司佈局熱情不減；另一邊清盤數量同步攀升至歷史峰值，三年前成立的發起式產品在“三年考核”關口集中出清。與此同時，上半年多隻募集超20億元的FOF產品，在三季度出現了明顯資金流出跡象。Wind資料顯示，截至11月19日，2026年新成立FOF 189只，新發行份額合計1611.37億份，兩項指標均重新整理近十年紀錄。發行端的火熱並未掩蓋另一端的寒意。截至11月，2026年清盤FOF達45只，較去年全年增長18.42%，同樣創歷史新高。業內人士認為，基金公司的FOF業務需要逐步從發行驅動轉向長期經營，圍繞產品定位、投研能力、風險管理和持有人服務等建立可持續的競爭力。（中證報）"
+    },
+    {
+      "id": "5226582",
+      "time": "2026-11-20 06:41:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟批准匈牙利54億歐元國防貸款計劃】歐盟理事會19日批准匈牙利修訂後的國防投資計劃，同意透過歐盟“歐洲安全行動”框架向匈牙利提供最高54億歐元貸款。匈牙利總理府國務秘書比羅-納吉·安德拉什對歐盟理事會的決定表示歡迎，稱這筆資金將有助於加強匈牙利安全保障，促進經濟發展。匈牙利常駐歐盟代表團表示，相關投資將用於國防專案以及軍民兩用基礎設施建設。歐盟理事會去年5月正式批准設立“歐洲安全行動”工具，以利率優惠的長期貸款形式向有需求的歐盟成員國提供資金支援。（新華社）"
+    },
+    {
+      "id": "mkt:01a1f5f8-b0c3-7bbc-ac79-5a48376863ca",
+      "time": "2026-11-20 06:41:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU approves €5.4 bln defense loan plan for Hungary】The EU Council approved Hungary’s revised defense investment plan on the 19th, authorizing up to €5.4 bln in loans under the Security Action for Europe (SAFE) framework. The funds will support defense projects and dual-use infrastructure."
+    },
+    {
+      "id": "5226581",
+      "time": "2026-11-20 06:37:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鋰企“試水”金屬鋰，加碼固態電池材料】固態電池還在路上，鋰企在材料端已有所行動。近日，天齊鋰業年產1000噸高能鋰電材料電池級金屬鋰專案在重慶市銅梁區竣工。專案投產後，天齊鋰業金屬鋰總產能將提升至1600噸/年。從天齊鋰業獲悉，目前產品已面向下游頭部電池及高階合金客戶送樣驗證。不只是天齊鋰業。贛鋒鋰業青海裝置正在試車，盛新鋰能超薄鋰帶已批次供貨，貝特瑞、中一科技也從負極和箔材兩頭向金屬鋰延伸。作為固態電池負極潛在的重要材料，金屬鋰正被逐漸推向“前排”。（上證報）"
+    },
+    {
+      "id": "5226580",
+      "time": "2026-11-20 06:34:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【匈波外長會晤強調加強雙邊關係與地區合作】匈牙利副總理兼外交部長奧爾班·奧妮道19日在匈牙利首都布達佩斯會見波蘭外交部長西科爾斯基，雙方表示將加強雙邊關係，推動地區合作。奧爾班表示，此次會晤是恢復兩國傳統友好關係的重要一步。她說，波蘭是匈牙利在本地區最重要的合作伙伴，兩國長期以來保持著密切的政治、經濟和文化聯絡。匈總理毛焦爾就任後首次出訪選擇波蘭，體現了匈政府加強兩國合作的決心。西科爾斯基表示，波蘭和匈牙利雙邊貿易額達150億歐元，希望進一步拓展兩國經貿合作，同時支援加強地區交通和能源互聯互通。雙方強調，要推動維謝格拉德集團（波蘭、匈牙利、捷克、斯洛伐克）重振活力，加強地區國家在歐盟內部的協調與合作。奧爾班說，加強集團內部合作有助於提升四國在歐盟決策中的影響力，併為拓展與中亞和西巴爾幹等地區的關係創造條件。近年來，在匈牙利前總理歐爾班執政期間，匈波關係因外交政策分歧而明顯趨冷。今年匈牙利新政府上臺後，兩國關係出現回暖跡象。（新華社）"
+    },
+    {
+      "id": "5226579",
+      "time": "2026-11-20 06:34:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【甲骨文170億美元VA合同上限上調系快速敲定】甲骨文公司為美國退伍軍人事務部（VA）安裝新電子健康檔案系統的合同上限經談判後由100億美元上調至270億美元。甲骨文官員與VA發言人對談判過程的描述存在差異：甲骨文稱談判透過電子郵件和一次視訊會議完成，VA發言人則稱談判透過一系列線上和線下會議進行。國會議員正就該專案不斷膨脹的成本質詢甲骨文CEO邁克·西西里亞；該專案長期受延期和超支困擾，目前僅在約10%的VA醫院執行。"
+    },
+    {
+      "id": "mkt:01a1f5f2-4094-7bbc-ac79-52f51db7b321",
+      "time": "2026-11-20 06:34:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Canadian Minister responsible for Canada-U.S. Trade Dominic LeBlanc expects U.S. auto and steel tariffs to remain in place; Canada is seeking a comprehensive trade solution."
+    },
+    {
+      "id": "5226578",
+      "time": "2026-11-20 06:34:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【部分基金經理“抄底”科技股，外資巨頭頻頻加倉，上市公司回購公告透底機構動向】進入四季度以來，科技板塊再度震盪調整，臨近年底，機構是如何操作的？近期上市公司回購公告披露的股東變動資訊顯示，部分知名基金經理開始“抄底”科技股，外資機構也開始加倉部分標的。在機構看來，A股當前整體估值處於歷史偏低分位點，具備較高的安全邊際，成長板塊依然是獲取超額收益的主戰場，但要注意投資邏輯的變化。（上證報）"
+    },
+    {
+      "id": "mkt:01a1f5f1-a77b-7bbc-ac79-4d1381a2ed18",
+      "time": "2026-11-20 06:33:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "California Attorney General’s Office: The California Department of Justice is asking NVIDIA whether it misled investors and the public."
+    },
+    {
+      "id": "mkt:01a1f5f1-65d5-7bbc-ac79-436b28c74c05",
+      "time": "2026-11-20 06:33:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact mixed",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. Energy Secretary Wright: I believe Congress will pass the permitting bill, President Trump's signature energy investment initiative."
+    },
+    {
+      "id": "mkt:01a1f5f0-4b7f-7bbc-ac79-3c7020c76fa3",
+      "time": "2026-11-20 06:32:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "California Attorney General Bonta served NVIDIA (NVDA.O) with an investigative subpoena."
+    },
+    {
+      "id": "5226577",
+      "time": "2026-11-20 06:30:31",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "加州正調查英偉達是否就風險誤導投資者。"
+    },
+    {
+      "id": "5226576",
+      "time": "2026-11-20 06:27:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【信用債行情延續修復，大行二級資本債領漲】11月19日上午，信用債市場延續前兩個交易日的修復行情。大型銀行二級資本債表現突出，部分個券收益率下行4個基點；中低評級信用債走勢仍有分化，部分個券收益率繼續上行。同期銀行間資金面延續寬鬆，10年期國債活躍券收益率降至1.58%以下。機構認為，資金利率回落為信用債修復提供了支撐。從近期交易表現看，部分信用事件引發的償債壓力主要反映在相關個券定價上；銀行理財的預防性贖回是否階段性結束、前期流出的資金能否持續回補，將決定本輪修復的力度。（上證報）"
+    },
+    {
+      "id": "5226575",
+      "time": "2026-11-20 06:25:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX敲定320億美元晶片專項債務定價，分為三檔。"
+    },
+    {
+      "id": "5226574",
+      "time": "2026-11-20 06:24:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大美加貿易事務部長勒布朗：我們預計美國對汽車和鋼鐵的關稅將維持不變。"
+    },
+    {
+      "id": "mkt:01a1f5e8-d0a9-7bbc-ac79-35205446ac51",
+      "time": "2026-11-20 06:23:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【White House national cyber director set to leave】White House National Cyber Director Sean Cairncross is preparing to leave in what Axios, citing two sources, described as an amicable departure. He is leaving now to give the White House time to confirm a successor before Democrats take control of the Senate in January. Cairncross leads the Office of the National Cyber Director, which coordinates federal cybersecurity strategy and has played a key role in Trump administration AI decisions. The departure comes as the U.S. faces frequent disruptions to critical infrastructure and growing AI-related cyber threats. Democrats have criticized the administration’s response, warning U.S. cyber defenses are falling behind."
+    },
+    {
+      "id": "5226573",
+      "time": "2026-11-20 06:23:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：確信國會將會透過許可法案。"
+    },
+    {
+      "id": "5226572",
+      "time": "2026-11-20 06:23:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：比爾法案是美國總統特朗普在能源投資領域的標誌性舉措。"
+    },
+    {
+      "id": "5226571",
+      "time": "2026-11-20 06:18:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大美加貿易事務部長勒布朗：加拿大正尋求與美國達成全面貿易解決方案。"
+    },
+    {
+      "id": "5226570",
+      "time": "2026-11-20 06:17:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【11月20日美股成交額前20：Anthropic首秀收漲17% 成交額869.07億美元】週四美股成交額第1名Anthropic收漲17.07%，成交869.07億美元。 Anthropic登陸華爾街首日大漲17%，收盤約97美元。這家Claude大模型開發商完成810億美元募資，創下史上最大IPO紀錄，投資者爭相搶籌這輪AI熱潮核心標的。 按週四收盤價計算，這家成立近六年的AI實驗室市值達1.3萬億美元，完全攤薄估值1.75萬億美元，躋身萬億市值企業俱樂部，但首日收盤估值低於SpaceX。 第3名英偉達收跌3.30%，成交476.03億美元。 根據特朗普週四公佈的最新財務披露檔案，美國總統唐納德·特朗普在9月買入了價值最高26.5萬美元的英偉達股票，並賣出了價值最高1.5萬美元的該股股票。 第5名超威半導體收跌7.72%，成交351.941億美元。 對沖基金Hunterbrook釋出做空報告，稱晶片廠商AMD越來越多地為採購自家晶片的企業提供融資與擔保，存在與其主要競爭對手英偉達類似的迴圈交易，受此影響AMD股價走低。 第6名美光收跌2.10%，成交249.311億美元。 第7名SpaceX收跌3.53%，成交166.161億美元。 SpaceX擬於週四發行至少320億美元的AI晶片債務。"
+    },
+    {
+      "id": "mkt:01a1f5e2-ce38-7bbc-ac79-2a0569882fae",
+      "time": "2026-11-20 06:17:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports that WHITE HOUSE National Cyber Director Sean Cairncross is expected to leave soon."
+    },
+    {
+      "id": "5226569",
+      "time": "2026-11-20 06:16:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府國家網路總監 Cairncross  將於民主黨接管參議院之前離任。"
+    },
+    {
+      "id": "mkt:01a1f5e1-7940-7bbc-ac79-26f2ebc43335",
+      "time": "2026-11-20 06:15:56",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "Berkshire Hathaway issued ¥92 bln of bonds due 2029 with a 2.624% coupon and ¥57.3 bln of bonds due 2031 with a 3.007% coupon, as well as bonds due 2033, 2036 and 2056."
+    },
+    {
+      "id": "mkt:01a1f5dd-f83d-7bbc-ac79-1ad4fc10edd7",
+      "time": "2026-11-20 06:12:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【NVIDIA to attend UBS Global Technology and AI Conference on Dec. 1】NVIDIA said it will participate in the 30th UBS Global Technology and AI Conference and speak at 6:35 a.m. Pacific time on Dec. 1 (2235 Beijing time)."
+    },
+    {
+      "id": "mkt:01a1f5db-14e4-7bbc-ac79-168bb364e1e2",
+      "time": "2026-11-20 06:08:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hackers leak data of thousands of Visa, Mastercard and JP Morgan customers】A ransomware group leaked data belonging to thousands of Visa, Mastercard and JP Morgan customers on Thursday, the latest in a series of cybersecurity incidents over the past week that have heightened concerns about service security. The companies said hackers obtained and leaked customer information by breaching third parties, but their services were unaffected."
+    },
+    {
+      "id": "5226568",
+      "time": "2026-11-20 06:07:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國主要原油管道中斷進入第六天】伍德麥肯茲（Wood Mackenzie Ltd.）表示，受受汙染原油事件激增影響，經Enbridge Inc.美國北達科他管道運輸的巴肯原油流量持續受限。該公司研究總監特里尚（John Trischan）在回應詢問的一份宣告中表示：“截至美東時間週四上午，該管道的流量仍處於受壓狀態。”Enbridge在注意到有機氯化物事件增加後，已對系統展開檢測。該公司在一份宣告中表示，檢測工作導致管道執行延誤。馬拉松石油公司（Marathon Petroleum Corp.）的中游業務部門MPLX LP已就交付釋出了不可抗力通知。"
+    },
+    {
+      "id": "5226567",
+      "time": "2026-11-20 06:06:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本金融廳責令樂天證券就資訊洩露事件提交報告。"
+    },
+    {
+      "id": "5226566",
+      "time": "2026-11-20 06:01:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲12月加息25個基點的機率為96.4%】據CME“美聯儲觀察”：美聯儲12月加息25個基點的機率為96.4%，加息50個基點的機率為3.6%。美聯儲到明年1月累計加息25個基點的機率30%，累計加息50個基點的機率為67.5%，累計加息75個基點的機率為2.5%。"
+    },
+    {
+      "id": "mkt:01a1f5d3-a767-7bbc-ac79-0e434c6ceab2",
+      "time": "2026-11-20 06:00:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) announced an upcoming event for the financial community."
+    },
+    {
+      "id": "5226565",
+      "time": "2026-11-20 06:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達將於12月1日在瑞銀科技與人工智慧大會上發表演講。"
+    },
+    {
+      "id": "5226564",
+      "time": "2026-11-20 06:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達宣佈即將舉辦面向金融社群的線上活動。"
+    },
+    {
+      "id": "mkt:01a1f5cf-1d63-7bbc-ac79-05381e3465b7",
+      "time": "2026-11-20 05:55:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) executive Timothy S. Teter filed a Form 144 with the SEC on Nov. 19, proposing to sell 30,000 shares."
+    },
+    {
+      "id": "5226563",
+      "time": "2026-11-20 05:55:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達公司高管Timothy S. Teter於11月19日向美國證券交易委員會（SEC）提交144表格，擬出售3萬股英偉達股票。"
+    },
+    {
+      "id": "mkt:01a1f5ce-9f2c-7bbc-ac78-fe28534e39c5",
+      "time": "2026-11-20 05:55:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple said to be developing autonomous AI agent】Apple (AAPL.O) is developing an autonomous AI agent that can perform tasks for users, targeting a fast-growing market where OpenAI, Anthropic and Meta are also active, tech reporter Mark Gurman reported. A job posting this week seeks a senior engineering manager to build a proactive assistant that can write code, browse the web, use apps and control devices. Apple has considered launching the service as early as the end of next year, but development remains at an early stage."
+    },
+    {
+      "id": "5226562",
+      "time": "2026-11-20 05:54:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國亞利桑那州公訴人要求推遲表決500億美元規模的SpaceX資料中心（專案）。"
+    },
+    {
+      "id": "5226561",
+      "time": "2026-11-20 05:54:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉國家石油公司（PDVSA）已簽署84項油氣協議。"
+    },
+    {
+      "id": "5226560",
+      "time": "2026-11-20 05:54:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價19日漲跌不一】截至當天收盤，紐約商品交易所12月交貨的輕質原油期貨價格下跌5美分，收於每桶83.21美元，跌幅為0.06%；1月交貨的倫敦布倫特原油期貨價格上漲3美分，收於每桶91.98美元，漲幅為0.03%。"
+    },
+    {
+      "id": "5226559",
+      "time": "2026-11-20 05:53:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數19日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.03%，在匯市尾市收於103.895。截至紐約匯市尾市，1歐元兌換1.0974美元，高於前一交易日的1.0965美元；1英鎊兌換1.3100美元，低於前一交易日的1.3140美元。1美元兌換159.73日元，高於前一交易日的159.36日元；1美元兌換0.8441瑞士法郎，高於前一交易日的0.8439瑞士法郎；1美元兌換1.4337加元，高於前一交易日的1.4332加元；1美元兌換10.1896瑞典克朗，高於前一交易日的10.1728瑞典克朗。"
+    },
+    {
+      "id": "5226558",
+      "time": "2026-11-20 05:49:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI新興市場股票指數跌1.3%，發展中國家外匯指數跌0.06%。"
+    },
+    {
+      "id": "5226557",
+      "time": "2026-11-20 05:49:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌5%，現報42.74美元/盎司。"
+    },
+    {
+      "id": "5226556",
+      "time": "2026-11-20 05:45:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國行業協會拉響警報：全球PCB短缺危機正在蔓延 供應緊張局面或持續至2028年年中】總部位於美國的全球電子協會（Global Electronics Association）在預警報告中指出，全球電子產業正面臨印刷電路板（PCB）的嚴重短缺。這種零部件幾乎存在於所有含有電子元件的消費產品中，其供應缺口可能對全球經濟造成廣泛影響。公告指出：“從玻璃纖維布、樹脂到成品電路板，整個供應鏈各個環節的印刷電路板需求都已超過供應能力。儘管製造產能正在擴大，尤其是在亞洲，但真正制約供應的是上游環節，包括玻璃纖維、樹脂、銅箔以及生產裝置。”該組織表示，供應瓶頸將“至少持續到2027年上半年”，而在2028年年中之前，供應緊張局面不太可能得到實質性緩解。"
+    },
+    {
+      "id": "5226555",
+      "time": "2026-11-20 05:44:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：谷歌因 Character.AI 使用童星形象搭建聊天機器人被起訴。"
+    },
+    {
+      "id": "5226554",
+      "time": "2026-11-20 05:42:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "Anthropic股價盤後下跌4.9%至低點，Meta跌1.9%。"
+    },
+    {
+      "id": "5226553",
+      "time": "2026-11-20 05:39:52",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "蘋果正研發自有AI智慧體，以與OpenAI和Anthropic展開競爭。蘋果在招聘資訊中披露了主動式AI智慧體的規劃，該智慧體將覆蓋裝置控制、應用操作、網頁瀏覽及程式設計功能。"
+    },
+    {
+      "id": "5226552",
+      "time": "2026-11-20 05:39:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果招聘資訊透露主動式AI智慧體開發計劃。"
+    },
+    {
+      "id": "5226551",
+      "time": "2026-11-20 05:38:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌5%，現報43.31美元/盎司。"
+    },
+    {
+      "id": "5226550",
+      "time": "2026-11-20 05:34:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "11月13日，全球投資者（透過基金）對泰國股市的淨買入創一個月新高。"
+    },
+    {
+      "id": "5226549",
+      "time": "2026-11-20 05:34:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守43美元/盎司，日內跌4.53%。"
+    },
+    {
+      "id": "5226548",
+      "time": "2026-11-20 05:34:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3630美元/盎司，日內跌2.58%。"
+    },
+    {
+      "id": "5226547",
+      "time": "2026-11-20 05:34:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌3%，現報3628.80美元/盎司。"
+    },
+    {
+      "id": "5226546",
+      "time": "2026-11-20 05:34:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3630美元/盎司，日內跌2.99%。"
+    },
+    {
+      "id": "5226545",
+      "time": "2026-11-20 05:33:12",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至11月13日當週外國央行持有美國國債 198.22億美元，前值-195.11億美元。"
+    },
+    {
+      "id": "mkt:01a1f5ba-2742-7bbc-ac78-f08f4295aaa8",
+      "time": "2026-11-20 05:32:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "Foreign central banks’ U.S. Treasury holdings rose by $19.822 bln in the week ended Nov. 13, versus a $19.511 bln decline previously."
+    },
+    {
+      "id": "mkt:01a1f5ba-12a8-7bbc-ac78-e81ae6df7b09",
+      "time": "2026-11-20 05:32:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Nov.13) | actual 19822000000B | previous -19511000000B"
+    },
+    {
+      "id": "mkt:01a1f5b7-a56e-7bbc-ac78-e113cad5a568",
+      "time": "2026-11-20 05:30:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver extends losses to 4%, trading at $43.18/oz."
+    },
+    {
+      "id": "5226544",
+      "time": "2026-11-20 05:29:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌4%，現報43.22美元/盎司。"
+    },
+    {
+      "id": "5226543",
+      "time": "2026-11-20 05:26:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3640美元/盎司，日內跌2.76%。"
+    },
+    {
+      "id": "5226542",
+      "time": "2026-11-20 05:26:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3640美元/盎司，日內跌2.30%。"
+    },
+    {
+      "id": "5226541",
+      "time": "2026-11-20 05:26:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌4%，現報43.26美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1f5b3-4eed-7bbc-ac78-d9361428f7c7",
+      "time": "2026-11-20 05:25:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ANT.O",
+        "Impact bullish"
+      ],
+      "text": "FTSE Russell: Anthropic (ANT.O) will be added to the FTSE Global Equity Index Series on a fast-entry basis."
+    },
+    {
+      "id": "5226540",
+      "time": "2026-11-20 05:25:25",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "富時羅素：Anthropic PBC將快速納入富時全球股票指數系列。"
+    },
+    {
+      "id": "mkt:01a1f5b3-0977-7bbc-ac78-d4e017c9147d",
+      "time": "2026-11-20 05:25:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Anthropic to join MSCI Global Standard Index early】MSCI will add Anthropic to the large-cap segment of its Global Standard Index effective Dec. 1, ahead of schedule. Anthropic met the fast-entry criteria for both total market capitalization and free-float-adjusted market capitalization on its first trading day."
+    },
+    {
+      "id": "5226539",
+      "time": "2026-11-20 05:23:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3650美元/盎司，日內跌2.47%。"
+    },
+    {
+      "id": "5226538",
+      "time": "2026-11-20 05:23:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3650美元/盎司，日內跌2.01%。"
+    },
+    {
+      "id": "5226537",
+      "time": "2026-11-20 05:23:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌2%，現報3649.82美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1f5b0-b88d-7bbc-ac78-cf4a6af7a09f",
+      "time": "2026-11-20 05:22:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot silver falls more than 3% to $43.63/oz; spot gold drops nearly 2% to $3,652.40/oz."
+    },
+    {
+      "id": "mkt:01a1f5af-4716-7bbc-ac78-c08569275cd9",
+      "time": "2026-11-20 05:21:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says he will not rush decision on Iran action before new year】Trump said on Dec. 19 he would not rush a decision on next steps involving Iran before the new year, adding that Washington would see how events unfold afterward. The timing may allow the U.S. naval blockade and economic pressure more time to take effect. It could also give Trump time to consider military action before a new, Democratic-controlled Congress takes office if Iran does not yield by year-end. Israeli caretaker Prime Minister Benjamin Netanyahu is pressing Trump for a swift, decisive bombing campaign, according to U.S. analysis. The White House has asked the Pentagon and intelligence experts to assess how Iran might respond to U.S. military strike plans, people familiar with the matter said."
+    },
+    {
+      "id": "5226536",
+      "time": "2026-11-20 05:20:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Gap的Banana Republic和Old Navy表現疲軟，下調業績指引。該公司三季度淨銷售40.1億美元，分析師預期40.3億美元。預計全年淨銷售將持平，公司原本預計會增長1%-1.5%。Gap盤後跌3%。"
+    },
+    {
+      "id": "5226535",
+      "time": "2026-11-20 05:20:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報43.67美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1f5ad-47f7-7bbc-ac78-bc36e184a282",
+      "time": "2026-11-20 05:18:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ANT.O",
+        "Impact bullish"
+      ],
+      "text": "MSCI: Anthropic (ANT.O) to be added to Global Standard Indexes, effective Dec. 1."
+    },
+    {
+      "id": "5226534",
+      "time": "2026-11-20 05:18:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報43.61美元/盎司。"
+    },
+    {
+      "id": "5226533",
+      "time": "2026-11-20 05:18:16",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "MSCI：MSCI將於2026年11月30日收盤時，將Anthropic 納入MSCI全球標準指數的大盤股板塊。"
+    },
+    {
+      "id": "5226532",
+      "time": "2026-11-20 05:15:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌1.12%，報12553點。"
+    },
+    {
+      "id": "5226531",
+      "time": "2026-11-20 05:12:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "寶潔公司計劃到2030年削減全球製造部門20%至30%的員工。"
+    },
+    {
+      "id": "5226530",
+      "time": "2026-11-20 05:11:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Anthropic超級IPO之後 人才留存迎來考驗】今天對Anthropic而言是一座重要里程碑。這家成立五年、開發Claude大模型的企業，搶在勁敵OpenAI之前登陸公開市場；公司於今日晚些時候開盤交易後，大量員工將躋身百萬富翁，甚至億萬富翁之列。而核心問題在於：上市這一天，對Anthropic的未來意味著什麼？ 假設股價不崩盤，這筆突如其來的財富，可以幫助Anthropic員工購置房產，也能拿出一大筆新財富捐贈給各類公益專案，比如蝦類福利保護。但反直覺的一點是：這筆財富，也可能讓他們離開這家給自己帶來財富的公司。 這些員工還有另一個去向：跳槽到其他AI實驗室。有多起從業者從一家AI公司跳槽至另一家的案例，目的是分散自己手中AI企業股權的持倉。這樣一來，就算最後贏得AI競賽的不是Anthropic而是OpenAI，他們依然能夠收益。如果大量研究員流失，對Anthropic絕非好事。這家公司之所以能走到今天，低人才流失率是關鍵原因之一。能否留住員工，是Anthropic上市之後投資者重點觀察的一大問題。"
+    },
+    {
+      "id": "mkt:01a1f59e-bb93-7bbc-ac78-b0e145b7cafb",
+      "time": "2026-11-20 05:03:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【U.S. stocks fall more than 2%; Anthropic gains 17% on first day of trading】U.S. stocks closed sharply lower Thursday, with the Dow down 2.19%, or about 1,100 points, the S&P 500 off 2.02% and the Nasdaq down 2.25%. NVIDIA fell 3.3%, AMD dropped 7.7%, while PDD rose 11%. Anthropic gained 17% on its first day of trading. The Nasdaq Golden Dragon China Index fell 1.86%, with Baidu down 4% and NetEase plunging 11%."
+    },
+    {
+      "id": "mkt:01a1f59e-8d54-7bbc-ac78-aaf3a0321bbe",
+      "time": "2026-11-20 05:02:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "ICI: U.S. money market fund assets fell to $7.976 tln."
+    },
+    {
+      "id": "5226529",
+      "time": "2026-11-20 05:02:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "Bending Spoons將以36.8億美元的企業價值收購Mailchimp。"
+    },
+    {
+      "id": "5226528",
+      "time": "2026-11-20 05:02:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "AMD股價收盤下跌7.7%，盤中一度下跌11%。英偉達股價收跌3.3%，連續第六天下跌。Anthropic美國IPO首日收漲17.07%，報97.17美元。"
+    },
+    {
+      "id": "5226527",
+      "time": "2026-11-20 05:01:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "財捷Intuit第一財季淨營收43.5億美元，分析師預期43.1億美元。公司達成出售Mailchimp給Bendings Spoons的協議。"
+    },
+    {
+      "id": "5226526",
+      "time": "2026-11-20 05:00:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3660美元/盎司，日內跌2.19%。"
+    },
+    {
+      "id": "5226525",
+      "time": "2026-11-20 05:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌2.19%，標普500指數跌2.02%，納指跌2.22%。Williams-Sonoma Inc跌15.05%，NBIS跌9.48%，Twilio跌8.77%，超威半導體跌7.60%，費哲跌6.39%，CoreWeave跌6.10%。“七姐妹”方面：蘋果跌0.87%，微軟跌1.77%，特斯拉跌2.36%，谷歌跌2.89%，Meta Platforms跌3.26%，英偉達跌3.28%，亞馬遜跌3.86%。"
+    },
+    {
+      "id": "5226524",
+      "time": "2026-11-20 05:00:17",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國10月PPI月率 -0.1%，前值由0.2%修正為0.1%。韓國10月PPI年率 7.2%，前值由7.70%修正為7.6%。"
+    },
+    {
+      "id": "mkt:01a1f59c-04b7-7bbc-ac78-a193cd5a736a",
+      "time": "2026-11-20 05:00:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's October PPI rose 7.2% year on year; the previous reading was revised to 7.6% from 7.7%."
+    },
+    {
+      "id": "mkt:01a1f59c-0266-7bbc-ac78-9da67a03d443",
+      "time": "2026-11-20 05:00:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's October PPI fell 0.1% MoM; the previous month's increase was revised to 0.1% from 0.2%."
+    },
+    {
+      "id": "5226523",
+      "time": "2026-11-20 05:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.80%】網易跌11.31%，文遠知行跌11.04%，名創優品跌9.62%，億航跌9.42%，寶尊電商跌6.99%。"
+    },
+    {
+      "id": "mkt:01a1f59b-f1d1-7bbc-ac78-90df52a03ba3",
+      "time": "2026-11-20 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (YoY) (Oct) | actual 7.2% | previous 7.70%"
+    },
+    {
+      "id": "mkt:01a1f59b-f1bf-7bbc-ac78-8e034ed32c29",
+      "time": "2026-11-20 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (MoM) (Oct) | actual -0.1% | previous 0.2%"
+    },
+    {
+      "id": "5226522",
+      "time": "2026-11-20 04:59:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "據ICI統計，美國貨幣市場基金資產降至7.976萬億美元。"
+    },
+    {
+      "id": "5226521",
+      "time": "2026-11-20 04:58:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3660美元/盎司，日內跌1.74%。"
+    },
+    {
+      "id": "5226520",
+      "time": "2026-11-20 04:58:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Anthropic重磅IPO衍生超1560億美元公益資金】Anthropic這場重磅IPO，不少人一夜實現世代級財富躍升；同時，這家前沿AI實驗室及其員工所支援的公益專案，也將收穫一筆鉅額善款。 該公司管理層出身於有效利他主義（EA）圈子，所以不難理解：Anthropic為本次上市募資所得資金設計了多條公益捐贈通道。 幾項相加，潛在捐贈總額可達1560億美元，體量極其龐大。作為參照：2025年全美慈善捐贈總額為6170億美元；如果本次IPO相關承諾資金全部落地，規模大約相當於美國去年全年慈善捐贈總額的四分之一。"
+    },
+    {
+      "id": "5226519",
+      "time": "2026-11-20 04:56:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲古爾斯比稱下月會議將考慮所有選項 未排除更大幅度加息】芝加哥聯儲行長奧斯坦·古爾斯比表示，決策者下個月開會制定利率政策時，他將考慮所有選項，他也沒有反駁加息幅度高於通常水平的可能性。“我們現在已經連續多個月看到通脹率高得近乎令人擔憂，而在那些我們原本預計會看到一些進展的領域，幾乎沒有取得進展，”古爾斯比周四對記者表示。“因此，在我看來，所有選項始終都在考慮之列，而這條路徑需要多陡，取決於我們認為通脹正在發生什麼變化。”古爾斯比今年沒有貨幣政策投票權，但明年將擁有投票權。古爾斯比表示，除了過去幾個月高於預期的通脹資料外，他還擔心季節性因素，以及這些因素未來幾個月可能如何影響通脹。古爾斯比稱，此輪通脹升溫發生在一年中通常價格漲勢趨緩的時期，並補充說，年初往往是價格壓力更為強勁的時候。"
+    },
+    {
+      "id": "mkt:01a1f598-077e-7bbc-ac78-81bf17fe5ae2",
+      "time": "2026-11-20 04:55:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed's Goolsbee: All options on table amid high inflation; large rate hike not ruled out】Chicago Fed President Austan Goolsbee said Thursday the Fed would keep all policy options open at next month's meeting after several months of hotter-than-expected inflation, including a large rate hike. The size of any move will depend on the inflation outlook. Inflation has remained worryingly high, with virtually no progress in areas where the Fed had expected improvement, he said."
+    },
+    {
+      "id": "5226518",
+      "time": "2026-11-20 04:50:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "SKY Network Television Ltd維持2027財年業績指引不變，預計營收為8.25億至8.4億紐西蘭元，息稅折舊攤銷前利潤（EBITDA）為1.55億至1.65億紐西蘭元。"
+    },
+    {
+      "id": "5226516",
+      "time": "2026-11-20 04:41:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美能源部長：波斯灣成品油、俄柴油供給增加 美國柴油價料持續下行】美國能源部長克里斯·賴特表示，隨著波斯灣成品油重返市場、未受制裁的俄羅斯柴油進一步增加供給壓力，美國柴油價格有望從歷史高點持續回落。 賴特在華沙出席跨大西洋能源合作伙伴關係會議間隙接受採訪時稱：“短期來看，價格走勢將持續下行。”但他同時提醒，這一預判前提是不發生任何重大負面突發事件。 今年早些時候，美國臨時解除對俄羅斯柴油的制裁，為極度緊張的燃油市場增加供應。截至目前，還沒有俄羅斯柴油運抵美國；多艘原定駛向美國的燃油油輪，因難以找到願意接貨的買家，已經更改航線。 賴特稱，無論俄羅斯柴油最終能否進入美國本土，這批燃油重回全球市場，都會壓低美國消費者在加油站的柴油零售價。 賴特認為，如果歐洲盟友能更主動地向市場投放戰略儲備燃油，美國柴油價格原本不會漲到每加侖6.5美元區間。"
+    },
+    {
+      "id": "5226515",
+      "time": "2026-11-20 04:37:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "法國巴黎銀行：上調對美聯儲加息前景的預期，現在認為3月份也將收緊貨幣政策，即12月、1月、3月將先後實施每次25個基點的加息。"
+    },
+    {
+      "id": "5226514",
+      "time": "2026-11-20 04:36:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "比特幣跌至四個月來最低點，最新下跌0.6%，報61,876.23美元。"
+    },
+    {
+      "id": "5226513",
+      "time": "2026-11-20 04:35:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【奈飛等流媒體巨頭競標2030世界盃美國轉播權 迪士尼退出競爭】據知情人士透露，奈飛、亞馬遜、YouTube以及福克斯均計劃在今日截止日前提交報價，角逐2030年男足世界盃美國地區轉播權，而迪士尼不會參與競標。 福克斯以及NBC環球旗下的西班牙語頻道Telemundo是當前的持權轉播方。2030世界盃由西班牙、葡萄牙、摩洛哥聯合承辦，國際足聯（FIFA）更希望將該賽事的英語與西班牙語轉播權打包出售給同一家買家。媒體機構也可同步競標2034年沙特世界盃的轉播權。 此前有報道稱，傳媒行業高管預計中標報價約15億美元，甚至更高；最終金額存在浮動空間，取決於競標方是否同時拿下2030和2034兩屆世界盃版權。 知情人士（因相關談判屬於保密環節而要求匿名）透露，近幾周ESPN測算後發現，若要給出15億美元甚至更高報價，同時還要預留資金爭奪NHL、MLB以及歐洲足球賽事（英超、歐冠）版權並不現實，上述賽事的轉播權都大機率會在2027年重新談判。其中一位知情人士稱，ESPN也曾考慮聯合夥伴一起投標，但最終決定放棄。"
+    },
+    {
+      "id": "5226512",
+      "time": "2026-11-20 04:35:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，美國關於德黑蘭正在開發化學和生物武器的指控旨在製造恐慌併為軍事行動提供正當理由。"
+    },
+    {
+      "id": "5226511",
+      "time": "2026-11-20 04:32:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比警告，當前商業投資水平已處於“蛇吞象”的極限狀態，經濟產能難以在不引發過熱的情況下支撐這一規模，存在較高風險。"
+    },
+    {
+      "id": "5226510",
+      "time": "2026-11-20 04:32:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比表示，利率路徑的陡峭程度將取決於被視為“令人不安地偏高”的通脹是否會回落至美聯儲2%的目標水平。通脹的持續性已遠超2025年初的預期，資料中心需求及人工智慧相關的財富效應正在推高通脹。"
+    },
+    {
+      "id": "5226509",
+      "time": "2026-11-20 04:31:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比表示，目前他並不認為通脹正走在迴歸2%目標的道路上；他指出，通脹壓力不僅來自石油和關稅衝擊，還包含相當大的一部分需求因素。"
+    },
+    {
+      "id": "5226508",
+      "time": "2026-11-20 04:31:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：他不確定美國中期選舉的影響是否會導致資料中心建設放緩，或對股價產生持久影響。企業普遍承認成本已經上升，尤其是建築行業的企業，或那些與資料中心爭奪零部件的企業。"
+    },
+    {
+      "id": "5226507",
+      "time": "2026-11-20 04:30:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：事實證明，通脹遠比2025年時人們所認為的更為頑固，而資料中心需求和人工智慧相關財富效應正在加劇這一局面。服務業通脹的走勢對於判斷價格壓力是源於需求還是能源成本等因素至關重要。目前並不擔心薪資會對通脹構成壓力。過去幾個月，通脹方面的訊息一直不樂觀。Anthropic的IPO引發了一個問題，股東將如何使用這筆財富；這可能產生宏觀經濟影響。人工智慧正透過財富效應和投資渠道影響當今經濟。"
+    },
+    {
+      "id": "5226506",
+      "time": "2026-11-20 04:30:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破62000美元，日內跌1.85%。"
+    },
+    {
+      "id": "5226505",
+      "time": "2026-11-20 04:17:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：Vera Rubin NVL72系統現已在Azure資料中心執行。"
+    },
+    {
+      "id": "5226503",
+      "time": "2026-11-20 04:16:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：與微軟合作將加速計算從Azure擴充套件至Windows個人電腦。"
+    },
+    {
+      "id": "5226502",
+      "time": "2026-11-20 04:16:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "宣告稱，歐盟共同立法者同意，化石燃料公司可能被納入部分ESG基金。歐盟共同立法者同意設立三類新的投資產品。"
+    },
+    {
+      "id": "5226501",
+      "time": "2026-11-20 04:16:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟理事會發表宣告稱，歐盟成員國與歐洲議會就修訂《可持續金融披露條例》達成協議。"
+    },
+    {
+      "id": "5226500",
+      "time": "2026-11-20 04:15:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：Anthropic(ANT.O)日本IPO獲超94億美元認購，需求超過可供股份三倍。"
+    },
+    {
+      "id": "5226499",
+      "time": "2026-11-20 04:06:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：達成限制核武器的協議將十分困難，但我將繼續為此努力。"
+    },
+    {
+      "id": "5226498",
+      "time": "2026-11-20 04:06:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：放棄核武器在心理上十分困難。"
+    },
+    {
+      "id": "5226497",
+      "time": "2026-11-20 04:04:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：Cybercab擴充套件至達拉斯。"
+    },
+    {
+      "id": "5226496",
+      "time": "2026-11-20 04:03:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股三大指數均跌超2%】道指跌2.17%，現報49109.840點；納指跌2.23%，現報23884.576點；標普500指數跌2.01%，現報7176.720點。"
+    },
+    {
+      "id": "5226495",
+      "time": "2026-11-20 04:00:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守44美元/盎司，日內跌2.31%。"
+    },
+    {
+      "id": "5226494",
+      "time": "2026-11-20 04:00:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：美國10月紅肉產量下降3.5%。"
+    },
+    {
+      "id": "5226493",
+      "time": "2026-11-20 04:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（11月19日）紐約尾盤，彭博穀物分類指數漲0.65%，報29.3446點。CBOT玉米期貨漲0.95%，CBOT小麥期貨漲1.58%。CBOT大豆期貨跌0.84%，豆粕期貨跌1.08%，豆油期貨漲0.35%。"
+    },
+    {
+      "id": "5226492",
+      "time": "2026-11-20 04:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌2.03%，現報23933.907點；道指跌1.93%，現報49226.930點；標普500指數跌1.73%，現報7197.220點。"
+    },
+    {
+      "id": "5226491",
+      "time": "2026-11-20 04:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報3666.99美元/盎司。"
+    },
+    {
+      "id": "5226490",
+      "time": "2026-11-20 03:55:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：不知道美國國土安全部長穆林被撤下電視節目的情況。"
+    },
+    {
+      "id": "5226489",
+      "time": "2026-11-20 03:54:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：美國交通部長達菲和美國國土安全部長穆林工作表現出色。"
+    },
+    {
+      "id": "5226488",
+      "time": "2026-11-20 03:54:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶潔高管： 我們仍致力於到 2030 年將產品供應鏈崗位（含外包人員）縮減 20% 至 30%。"
+    },
+    {
+      "id": "5226487",
+      "time": "2026-11-20 03:52:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普表示，如果相關措施合理，他不會否決所有針對人工智慧的監管限制。"
+    },
+    {
+      "id": "5226486",
+      "time": "2026-11-20 03:45:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：麗莎·庫克是一位優秀的美聯儲理事。"
+    },
+    {
+      "id": "5226485",
+      "time": "2026-11-20 03:44:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院多數議員反對限制美國總統特朗普對伊朗戰爭權力的決議，投票仍在進行中。"
+    },
+    {
+      "id": "5226484",
+      "time": "2026-11-20 03:42:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：儘管受到衝擊，消費者支出仍保持韌性。"
+    },
+    {
+      "id": "5226483",
+      "time": "2026-11-20 03:39:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：通脹水平過高。"
+    },
+    {
+      "id": "5226482",
+      "time": "2026-11-20 03:38:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：我們需要進一步調整貨幣政策。"
+    },
+    {
+      "id": "5226481",
+      "time": "2026-11-20 03:38:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：技術發展速度可能快於監管步伐。"
+    },
+    {
+      "id": "5226480",
+      "time": "2026-11-20 03:37:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：金融條件相當寬鬆，正推動經濟增長。"
+    },
+    {
+      "id": "5226479",
+      "time": "2026-11-20 03:37:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普表示，俄羅斯總統普京希望達成協議，並期待烏克蘭總統澤連斯基也有此意願。"
+    },
+    {
+      "id": "5226478",
+      "time": "2026-11-20 03:36:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：美聯儲並未試圖將經濟中的投資水平作為目標。"
+    },
+    {
+      "id": "5226477",
+      "time": "2026-11-20 03:36:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：在風險偏好上升的環境下放鬆監管可能引發問題。"
+    },
+    {
+      "id": "5226476",
+      "time": "2026-11-20 03:36:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：人工智慧熱潮是“風險偏好”環境的一部分。"
+    },
+    {
+      "id": "5226475",
+      "time": "2026-11-20 03:33:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：擔心監管路徑可能加大理解金融風險的難度。"
+    },
+    {
+      "id": "5226474",
+      "time": "2026-11-20 03:33:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：在銀行監管方面更關注長期問題。"
+    },
+    {
+      "id": "5226473",
+      "time": "2026-11-20 03:32:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：在銀行監管問題上，我一直公開表達不同意見。"
+    },
+    {
+      "id": "5226472",
+      "time": "2026-11-20 03:31:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "恆天然：2026/27 產季原奶收購價預期中值由每公斤乳固體 9.75 紐西蘭元上調至 10.10 紐西蘭元。"
+    },
+    {
+      "id": "5226471",
+      "time": "2026-11-20 03:31:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "恆天然上調2027財年原奶收購價預期。恆天然上調2026/27產季原奶收購價預期中值，並收窄預測區間。"
+    },
+    {
+      "id": "5226470",
+      "time": "2026-11-20 03:31:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 12月原油期貨收報83.21美元/桶。NYMEX 12月天然氣期貨收報3.2680美元/百萬英熱單位。NYMEX 12月汽油期貨收報2.4951美元/加侖，NYMEX 12月取暖油期貨收報3.9514美元/加侖。"
+    },
+    {
+      "id": "5226469",
+      "time": "2026-11-20 03:27:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員格林： 需要鞏固在通脹問題上的公信力。"
+    },
+    {
+      "id": "5226468",
+      "time": "2026-11-20 03:26:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：人工智慧可能帶來加速銀行擠兌的風險。"
+    },
+    {
+      "id": "5226467",
+      "time": "2026-11-20 03:25:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員格林：我們可能會面臨一些第二輪效應。"
+    },
+    {
+      "id": "5226466",
+      "time": "2026-11-20 03:22:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：人工智慧必須遵守金融行業的監管規定。"
+    },
+    {
+      "id": "5226465",
+      "time": "2026-11-20 03:22:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普表示，與俄羅斯總統普京的會晤“主要圍繞烏克蘭問題”。"
+    },
+    {
+      "id": "5226464",
+      "time": "2026-11-20 03:21:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員格林：勞動力市場沒有我們此前認為的那麼疲軟。"
+    },
+    {
+      "id": "5226463",
+      "time": "2026-11-20 03:21:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：人工智慧有望提升金融服務的可及性。"
+    },
+    {
+      "id": "5226462",
+      "time": "2026-11-20 03:20:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員格林：勞動力市場資料顯示去通脹程序放緩。"
+    },
+    {
+      "id": "5226461",
+      "time": "2026-11-20 03:19:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "參議員沃納：必須透過法案以給科技行業設定一些護欄。"
+    },
+    {
+      "id": "5226460",
+      "time": "2026-11-20 03:17:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際原子能機構（IAEA）總幹事拉斐爾・格羅西本週向原子能機構理事會通報：“隨著烏克蘭步入冬季，該國電力系統面臨的挑戰愈發嚴峻，電網正處於衝突爆發以來的最差狀態。”"
+    },
+    {
+      "id": "5226459",
+      "time": "2026-11-20 03:15:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員格林：行動不足的風險大於過度。"
+    },
+    {
+      "id": "5226458",
+      "time": "2026-11-20 03:14:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Meta已將智慧手錶的大範圍釋出推遲至2027年。Meta計劃在2026年下半年銷售1000萬臺可穿戴裝置，以擴大其AI硬體產品線。"
+    },
+    {
+      "id": "5226457",
+      "time": "2026-11-20 03:14:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲通知地區分行員工，預計明年薪資漲幅將有所收窄。"
+    },
+    {
+      "id": "5226456",
+      "time": "2026-11-20 03:14:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta計劃對Muse Charm收取300美元費用，該裝置將包含Verizon提供的長達一年的免費5G服務。"
+    },
+    {
+      "id": "5226455",
+      "time": "2026-11-20 03:13:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員格林：需將通脹預期“錨定”在2%目標水平。"
+    },
+    {
+      "id": "5226454",
+      "time": "2026-11-20 03:13:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：克里米亞大橋遭襲後 不再討論海上停火】俄羅斯總統普京19日表示，在克里米亞大橋遭襲後，俄方不會就海上停火或停止攻擊能源設施與有關方面進行談判。據俄羅斯總統網站19日釋出的訊息，在回應記者關於克里米亞大橋近日多次遭襲及受損情況的提問時，普京表示，克里米亞大橋是民用設施，俄方從未透過該橋運輸軍事裝備和彈藥，也沒有透過該橋運輸石油及石油製品。普京說，俄方此前曾評估與有關方面就海上停火及停止攻擊能源設施舉行談判的可能性，但克里米亞大橋再次遭襲後，俄方不會就此進行談判。他表示，俄方將作出回應，且力度將比烏方對克里米亞大橋的攻擊更大。(新華社)"
+    },
+    {
+      "id": "5226453",
+      "time": "2026-11-20 03:12:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會（MPC）成員Greene：責任是讓偏高的通脹預期得到錨定。人們留意到何時通脹高於3%。"
+    },
+    {
+      "id": "5226452",
+      "time": "2026-11-20 03:12:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：加拿大尋求與美國達成臨時貿易安排】據訊息人士透露，加拿大不尋求籤署完整貿易協定，而是希望在年底前同特朗普政府達成一份臨時關稅安排。加美貿易部長勒布朗週四與加拿大聯邦政府的加美經濟顧問委員會舉行會談。瞭解此次會議的訊息人士稱，加政府目標是達成臨時協議而非全新永久性協定。這份臨時協議將覆蓋232 條款關稅下的鋼鐵、鋁、汽車、木材，還包含今年 8 月上一輪談判破裂後美國依據338 條款對加拿大商品加徵的關稅。"
+    },
+    {
+      "id": "5226450",
+      "time": "2026-11-20 03:08:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會主席：尚未收到印度航空事故最終報告草案。目前尚不清楚印度航空事故調查結論的釋出時間表。"
+    },
+    {
+      "id": "5226449",
+      "time": "2026-11-20 03:07:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大尋求與美國達成臨時貿易安排。"
+    },
+    {
+      "id": "5226448",
+      "time": "2026-11-20 03:07:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：各國領導人不會前往莫斯科。"
+    },
+    {
+      "id": "5226447",
+      "time": "2026-11-20 03:05:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我希望美國邀請烏克蘭參加二十國集團峰會。"
+    },
+    {
+      "id": "5226446",
+      "time": "2026-11-20 03:05:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "五角大樓：美國國防部長赫格塞思與厄瓜多總統諾博亞討論了遏制毒品相關非法採礦活動。"
+    },
+    {
+      "id": "5226445",
+      "time": "2026-11-20 03:03:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.6950元，較週三夜盤收盤跌272點。成交量292.27億美元。"
+    },
+    {
+      "id": "5226444",
+      "time": "2026-11-20 03:02:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多可可出口商協會ANECACAO：由於厄爾尼諾現象帶來暴雨的緣故，厄瓜多可出口的可可產量可能會在2027年下滑多達10%。"
+    },
+    {
+      "id": "5226443",
+      "time": "2026-11-20 03:02:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋外交部表示，在索馬利亞下令驅逐阿聯酋大使後，對索馬利亞的內部權力鬥爭將阿聯酋捲入其中感到遺憾。"
+    },
+    {
+      "id": "5226442",
+      "time": "2026-11-20 03:01:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋外交部：在索馬利亞下令驅逐阿聯酋大使後，阿聯酋對索馬利亞將其捲入內部權力鬥爭表示遺憾。"
+    },
+    {
+      "id": "5226441",
+      "time": "2026-11-20 03:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷10月貿易順差33.94億美元。"
+    },
+    {
+      "id": "5226440",
+      "time": "2026-11-20 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.23%，報22743.64點，低水97.98點。"
+    },
+    {
+      "id": "5226439",
+      "time": "2026-11-20 02:59:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債為10年期通脹掛鉤債券支付24年來最高收益率。"
+    },
+    {
+      "id": "5226438",
+      "time": "2026-11-20 02:59:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我們需要數十架F16戰機。我們還需要700億資金。"
+    },
+    {
+      "id": "5226437",
+      "time": "2026-11-20 02:59:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋外交部發表宣告，譴責索馬利亞政府對阿聯酋採取“敵對”態度。"
+    },
+    {
+      "id": "5226436",
+      "time": "2026-11-20 02:58:34",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【Blue Owl擬5.13億美元收購亞馬遜北弗吉尼亞資料中心】知情人士透露，Blue Owl Capital Inc.正籌備發行5.13億美元商業抵押貸款支援證券，為收購一座北弗吉尼亞資料中心提供資金，該資料中心已整體租給Amazon。知情人士稱，這筆融資由花旗集團牽頭安排，其中包含3.75億美元債券，平均期限約5年，預計將獲得惠譽評級與Kroll Bond Rating Agency的AAA評級。"
+    },
+    {
+      "id": "5226435",
+      "time": "2026-11-20 02:57:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：下一輪會談的時間和地點尚未確定。"
+    },
+    {
+      "id": "5226434",
+      "time": "2026-11-20 02:56:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽維持伯克希爾哈撒韋公司AA-評級。"
+    },
+    {
+      "id": "5226433",
+      "time": "2026-11-20 02:55:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽確認伯克希爾哈撒韋公司評級；展望穩定。"
+    },
+    {
+      "id": "5226432",
+      "time": "2026-11-20 02:49:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：沒有和平的歐洲，就不會有協議。"
+    },
+    {
+      "id": "5226431",
+      "time": "2026-11-20 02:48:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長：歐洲在釋放儲備方面行動異常遲緩且猶豫不決。"
+    },
+    {
+      "id": "5226430",
+      "time": "2026-11-20 02:48:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長：如果歐洲像美國一樣採取行動並釋放供應，柴油價格就不會那麼高。"
+    },
+    {
+      "id": "5226429",
+      "time": "2026-11-20 02:48:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長：美國希望歐洲盟友在釋放成品油儲備方面能更好地合作。"
+    },
+    {
+      "id": "5226428",
+      "time": "2026-11-20 02:48:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "賴特表示，即使沒有貨物抵達美國，未經制裁的俄羅斯柴油也能幫助美國消費者。"
+    },
+    {
+      "id": "5226427",
+      "time": "2026-11-20 02:48:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長克里斯·賴特表示，美國柴油價格在“可預見的未來”將呈下降趨勢。"
+    },
+    {
+      "id": "5226426",
+      "time": "2026-11-20 02:47:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們感謝布倫達和弗蘭克·斯洛特曼的慷慨捐贈，以及他們對“為美國未來所做的最大投資就是投資於將繼承它的下一代”這一理念的認同。憑藉他們的捐款，蒙大拿州的兒童將從出生起就獲得更大力度的支援，以積累財富。"
+    },
+    {
+      "id": "5226425",
+      "time": "2026-11-20 02:47:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：11月20日02時41分在四川涼山州西昌市（北緯27.80度，東經102.03度）發生3.9級地震，震源深度20千米。"
+    },
+    {
+      "id": "5226424",
+      "time": "2026-11-20 02:47:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面稱，一艘油輪在霍爾木茲海峽東部觸雷並起火。"
+    },
+    {
+      "id": "5226423",
+      "time": "2026-11-20 02:46:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：歐洲參與談判至關重要。"
+    },
+    {
+      "id": "5226422",
+      "time": "2026-11-20 02:46:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：這或許將是史上最艱難的冬天。"
+    },
+    {
+      "id": "5226421",
+      "time": "2026-11-20 02:46:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：僅進行戰俘交換是不夠的。"
+    },
+    {
+      "id": "5226420",
+      "time": "2026-11-20 02:42:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：11月20日02時41分在四川涼山州西昌市附近（北緯27.80度，東經102.01度）發生3.9級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5226419",
+      "time": "2026-11-20 02:41:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國、法國、英國和烏克蘭領導人發表聯合宣告：作為停止敵對行動的第一步，領導人呼籲俄羅斯同意在冬季期間實行能源停火。"
+    },
+    {
+      "id": "5226418",
+      "time": "2026-11-20 02:39:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國、法國、英國和烏克蘭領導人發表聯合宣告：強調一旦停火生效，烏克蘭必須獲得強有力且具有法律約束力的安全保障。"
+    },
+    {
+      "id": "5226417",
+      "time": "2026-11-20 02:38:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "盟友稱，魯比奧正在認真考慮參加2028年美國總統競選。"
+    },
+    {
+      "id": "5226416",
+      "time": "2026-11-20 02:38:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國、法國、英國和烏克蘭領導人發表聯合宣告：在冬季來臨之前，各國領導人將加倍努力，為烏克蘭提供額外的導彈防禦系統。"
+    },
+    {
+      "id": "5226415",
+      "time": "2026-11-20 02:37:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國、法國、英國和烏克蘭領導人聯合宣告：俄羅斯無法比聯盟成員國的堅定支援和烏克蘭的韌性更持久。"
+    },
+    {
+      "id": "5226414",
+      "time": "2026-11-20 02:35:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲古爾斯比：AI建設熱潮及相關支出或造成經濟過熱】芝加哥聯邦儲備銀行行長奧斯坦・古爾斯比表示，他擔憂人工智慧領域的擴張會推高經濟熱度，引發過熱。古爾斯比周四在印第安納波利斯的一場活動上稱：“當下美聯儲的任務就是防止這股熱潮造成經濟過熱，而局勢正變得更加複雜。”他表示，資料中心建設、企業投資，以及受未來財富預期帶動的居民消費，都有可能讓經濟過熱。古爾斯比認為，通脹是美國經濟面臨的 “最大難題”。他同時擔憂，關稅帶來的通脹壓力持續時間或將超出預期。這位芝加哥聯儲行長補充稱，目前並未看到滯脹跡象；雖然招聘有所放緩，但勞動力市場保持穩定。"
+    },
+    {
+      "id": "5226413",
+      "time": "2026-11-20 02:33:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "胡塞武裝：今日凌晨對沙特首都利雅得阿卜杜拉國王經濟城金融中心發動首次襲擊，並於當晚再次打擊該目標。襲擊精準直接，造成目標設施嚴重損毀。第二次行動針對東部省朱拜勒的薩達拉石化公司，據稱襲擊直接命中。第三次行動針對哈米斯穆謝特空軍基地，造成目標設施嚴重損毀。第四次行動針對利雅得哈立德國王國際機場，據稱襲擊直接命中。"
+    },
+    {
+      "id": "5226412",
+      "time": "2026-11-20 02:32:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼決定不競標2030年男足世界盃轉播權。"
+    },
+    {
+      "id": "5226411",
+      "time": "2026-11-20 02:31:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "Netflix、亞馬遜和福克斯將競標2030年男子世界盃轉播權。"
+    },
+    {
+      "id": "5226410",
+      "time": "2026-11-20 02:31:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱襲擊了利雅得的金融中心。"
+    },
+    {
+      "id": "5226409",
+      "time": "2026-11-20 02:30:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅介紹亞太經合組織第三十三次領導人非正式會議及相關活動成果】11月19日，中共中央政治局委員、外交部長王毅在深圳向中外記者介紹亞太經合組織第三十三次領導人非正式會議及相關活動成果，並回答記者提問。王毅表示，今年是APEC“中國年”。一年來，中方全面履行東道主責任，成功舉辦321場APEC會議和活動，各經濟體與會代表上萬人次，創造了APEC史上的紀錄，也為亞太合作注入了新鮮活力和強勁動力。各場專業部長會議達成10餘份重要成果，開放、創新、合作成為貫穿全年的高頻詞。在開放領域，貿易部長會發表《蘇州宣告》，重申致力於推動區域經濟一體化，深化亞太自貿區建設。在創新領域，數字和人工智慧部長會發表《成都宣告》，提出以數字經濟和人工智慧賦能亞太共同體建設。在合作領域，人力資源部長會發表《南京宣告》，聚焦投資於人，改善就業民生，增進人民福祉。昨天的工商領導人峰會又釋出《深圳倡議》，提出亞太工商界攜手共建亞太共同體。全年各領域會議和活動共計75項主要成果，已形成《東道主會議和活動清單》和《東道主成果清單》並對外發布。（新華社）"
+    },
+    {
+      "id": "5226408",
+      "time": "2026-11-20 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.84%，報593.30元人民幣/桶。滬金夜盤收跌1.45%，滬銀收跌1.25%。"
+    },
+    {
+      "id": "5226407",
+      "time": "2026-11-20 02:27:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，將在新年伊始後再看情況發展。"
+    },
+    {
+      "id": "5226406",
+      "time": "2026-11-20 02:27:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我不會倉促對伊朗問題做出決定。"
+    },
+    {
+      "id": "5226405",
+      "time": "2026-11-20 02:25:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國發動機製造商道依茨表示，收購FFG將推動公司轉型，國防業務成為核心支柱。做空機構寧基在釋出報告前未與公司聯絡。報告中關鍵結論缺乏依據。"
+    },
+    {
+      "id": "5226404",
+      "time": "2026-11-20 02:25:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "出口商協會負責人表示，厄瓜多可可產量可能因厄爾尼諾現象強度下降多達25%。"
+    },
+    {
+      "id": "5226403",
+      "time": "2026-11-20 02:25:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：今日晚些時候，我們將同美國特使單獨磋商下次會議的舉辦時間與會議議程。下一輪會議必須是四方會談：烏克蘭、歐洲、美國以及俄羅斯。我們對此寄予厚望。會議議程必須由烏克蘭、歐洲、美國三方共同擬定並達成一致。"
+    },
+    {
+      "id": "5226402",
+      "time": "2026-11-20 02:24:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：“意願聯盟” 會議作出決定，歐洲方面將參與同俄羅斯的談判機制，這一點意義重大。歐洲將由五個國家，外加歐盟與北約作為代表參會。美方完全理解，歐洲需要以強有力、步調統一的姿態參與談判。"
+    },
+    {
+      "id": "5226401",
+      "time": "2026-11-20 02:22:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "Jefferies分析師Thomas Chong將阿里巴巴美國存託憑證的目標價從192美元下調至161美元。分析師維持對阿里巴巴的“買入”評級。"
+    },
+    {
+      "id": "5226400",
+      "time": "2026-11-20 02:21:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【香港家族辦公室大舉解除39億美元AI押注 清倉美光、西部資料等股票】由對沖基金老將Larry Chen創立的香港家族辦公室上季度削減股票持倉，正值投資者更廣泛撤離AI相關資產之際。根據在美國提交的13F檔案，截至第三季度末，Anther Capital Ltd.已不再持有此前價值約39億美元的股份，主要集中在與AI相關的硬體和晶片製造商。包括西部資料和美光科技在內的這些投資，曾出現在Anther前一季度提交的13F檔案中。"
+    },
+    {
+      "id": "5226399",
+      "time": "2026-11-20 02:16:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週四（11月19日），美聯儲隔夜逆回購協議（RRP）使用規模為4.05億美元（交易對手7家），上個交易日報3.31億美元。"
+    },
+    {
+      "id": "5226398",
+      "time": "2026-11-20 02:16:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署：10月美國生物柴油（D4）摻混配額為7.58億加侖，9月為7.92億加侖。"
+    },
+    {
+      "id": "5226397",
+      "time": "2026-11-20 02:16:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署：10月份美國產生12..6億加侖乙醇（D6）混合燃料信用額度，9月份為11.9億加侖。"
+    },
+    {
+      "id": "5226396",
+      "time": "2026-11-20 02:16:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "Anthropic股價跌至93.58美元，較開盤價下跌16%。"
+    },
     {
       "id": "mkt:01a1f502-532f-7bbc-ac74-f4cf5d701f27",
       "time": "2026-11-20 02:12:12",
