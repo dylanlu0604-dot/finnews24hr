@@ -1,7 +1,105 @@
 {
   "date": "2026-11-20",
-  "count": 236,
+  "count": 247,
   "items": [
+    {
+      "id": "5226337",
+      "time": "2026-11-20 01:29:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據特朗普週四公佈的最新財務披露檔案，美國總統唐納德·特朗普在9月買入了價值最高26.5萬美元的英偉達股票，並賣出了價值最高1.5萬美元的該股股票。"
+    },
+    {
+      "id": "5226336",
+      "time": "2026-11-20 01:28:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國首次深海採礦租賃權拍賣遇冷，僅獲600萬美元出價。"
+    },
+    {
+      "id": "mkt:01a1f4d9-e54c-7bbc-ac74-481a9bbe9453",
+      "time": "2026-11-20 01:28:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) iPhone camera and Photos software chief Jon McCormack retired at the end of October, market sources said."
+    },
+    {
+      "id": "mkt:01a1f4d9-6bb2-7bbc-ac74-44f3169c4a8f",
+      "time": "2026-11-20 01:27:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kushner: Having the right communication channels is important."
+    },
+    {
+      "id": "5226333",
+      "time": "2026-11-20 01:26:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國和平特使庫什納：建立正確的溝通渠道至關重要。"
+    },
+    {
+      "id": "mkt:01a1f4d8-6494-7bbc-ac74-3a92197a781a",
+      "time": "2026-11-20 01:26:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kushner: Offering Article 5-like security guarantees would be a major step. President Trump is open to it, provided it serves U.S. interests."
+    },
+    {
+      "id": "5226332",
+      "time": "2026-11-20 01:26:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國和平特使庫什納：給予第五條類似的安全保障是一件大事，特朗普對此持開放態度，但必須符合美國利益。"
+    },
+    {
+      "id": "mkt:01a1f4d8-53c8-7bbc-ac74-353f3cd42f9e",
+      "time": "2026-11-20 01:26:20",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Kushner: Reassure Russia that any security agreement for Ukraine would be based on Article 5."
+    },
+    {
+      "id": "5226331",
+      "time": "2026-11-20 01:26:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數下跌0.4%。"
+    },
+    {
+      "id": "5226330",
+      "time": "2026-11-20 01:26:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果iPhone相機與照片軟體負責人喬恩·麥科馬克已於10月底從公司退休。"
+    },
+    {
+      "id": "5226328",
+      "time": "2026-11-20 01:25:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國和平特使庫什納：已讓俄羅斯方面接受，烏克蘭的任何安全協議將以第五條為基礎。"
+    },
     {
       "id": "5226327",
       "time": "2026-11-20 01:24:27",

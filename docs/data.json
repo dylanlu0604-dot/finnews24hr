@@ -1,7 +1,105 @@
 {
-  "updated": "2026-11-20 01:26:26",
-  "count": 9630,
+  "updated": "2026-11-20 01:30:17",
+  "count": 9639,
   "items": [
+    {
+      "id": "5226337",
+      "time": "2026-11-20 01:29:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據特朗普週四公佈的最新財務披露檔案，美國總統唐納德·特朗普在9月買入了價值最高26.5萬美元的英偉達股票，並賣出了價值最高1.5萬美元的該股股票。"
+    },
+    {
+      "id": "5226336",
+      "time": "2026-11-20 01:28:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國首次深海採礦租賃權拍賣遇冷，僅獲600萬美元出價。"
+    },
+    {
+      "id": "mkt:01a1f4d9-e54c-7bbc-ac74-481a9bbe9453",
+      "time": "2026-11-20 01:28:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) iPhone camera and Photos software chief Jon McCormack retired at the end of October, market sources said."
+    },
+    {
+      "id": "mkt:01a1f4d9-6bb2-7bbc-ac74-44f3169c4a8f",
+      "time": "2026-11-20 01:27:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kushner: Having the right communication channels is important."
+    },
+    {
+      "id": "5226333",
+      "time": "2026-11-20 01:26:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國和平特使庫什納：建立正確的溝通渠道至關重要。"
+    },
+    {
+      "id": "mkt:01a1f4d8-6494-7bbc-ac74-3a92197a781a",
+      "time": "2026-11-20 01:26:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kushner: Offering Article 5-like security guarantees would be a major step. President Trump is open to it, provided it serves U.S. interests."
+    },
+    {
+      "id": "5226332",
+      "time": "2026-11-20 01:26:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國和平特使庫什納：給予第五條類似的安全保障是一件大事，特朗普對此持開放態度，但必須符合美國利益。"
+    },
+    {
+      "id": "mkt:01a1f4d8-53c8-7bbc-ac74-353f3cd42f9e",
+      "time": "2026-11-20 01:26:20",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Kushner: Reassure Russia that any security agreement for Ukraine would be based on Article 5."
+    },
+    {
+      "id": "5226331",
+      "time": "2026-11-20 01:26:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數下跌0.4%。"
+    },
+    {
+      "id": "5226330",
+      "time": "2026-11-20 01:26:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果iPhone相機與照片軟體負責人喬恩·麥科馬克已於10月底從公司退休。"
+    },
+    {
+      "id": "5226328",
+      "time": "2026-11-20 01:25:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國和平特使庫什納：已讓俄羅斯方面接受，烏克蘭的任何安全協議將以第五條為基礎。"
+    },
     {
       "id": "5226327",
       "time": "2026-11-20 01:24:27",
@@ -86396,26 +86494,6 @@
         "市場"
       ],
       "text": "【 raig-Hallum將英偉達評級從買入下調至持有 】 Craig-Hallum Capital Group LLC分析師Richard Shannon將英偉達的評級從“買入”下調至“持有”。目標價設在180美元，比最近收盤價高9.4%。"
-    },
-    {
-      "id": "te:markets:600843",
-      "time": "2026-11-13 01:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "European Stocks Inch Higher — European stocks closed mixed on Thursday amid a batch of major corporate earnings results, while the ousting of Nvidia CEO Jensen Huang halted the recent rally for AI companies. The Euro STOXX 50 rose 0.1% to 6,399 and the STOXX Europe 600 extended its record high by 0.1% to 664. Siemens added 1.7% after it raised its medium-term targets on record order levels, largely due to higher demand for data center products and industrial factory automation. The insurance sector was also in the spotlight, with Allianz adding 2% after posting strong profits and raising its 2026 outlook, while Munich Re raised its profit guidance and jumped 2.9%. On the other hand, Enel lost 1.5% after its results. ASML fell 2% to pare its surge from earlier in the week, tracking the North American AI infrastructure sector following the leadership shake-up at Nvidia."
-    },
-    {
-      "id": "5211602",
-      "time": "2026-11-13 01:28:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英偉達新任董事會主席瓊斯給全體英偉達員工的信】黃仁勳離職後，英偉達新任董事會主席哈維·瓊斯於週四向員工傳送電子郵件，以下是信件的全文內容：\n親愛的NVIDIA員工：\n\n我寫這封信是為了分享一項重要人事變動。黃仁勳已辭去執行長及董事會成員職務，董事會已要求首席財務官科萊特·克雷斯出任臨時執行長，同時啟動永久繼任者的遴選工作，範圍涵蓋內部和外部候選人。我將出任公司首位董事會主席。\n\n科萊特擔任首席財務官超過13年，是NVIDIA增長與資本戰略的關鍵設計者之一。她對公司業務及我們所處的市場有著深刻理解。董事會完全相信，科萊特能夠兌現我們對股東、客戶、合作伙伴以及每一位員工的承諾。\n\n黃仁勳對NVIDIA的貢獻意義深遠。NVIDIA是全球最具影響力的科技公司之一。我們開創了加速計算，定義了現代GPU，並打造了驅動人工智慧的平臺。\n\n董事會認真對待自身作為這家偉大公司守護者的職責。\n\n公司的實力源於我們的員工、領導團隊、技術實力和合作伙伴生態。我相信，在科萊特的領導下，在董事會的全力支援下，我們將繼續推動業務增長，引領行業向前發展。感謝各位的專注、專業精神以及對NVIDIA的投入。\n\n哈維·瓊斯\nNVIDIA董事會主席"
     }
   ]
 }
