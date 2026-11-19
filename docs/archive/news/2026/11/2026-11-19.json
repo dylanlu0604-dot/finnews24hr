@@ -1,7 +1,219 @@
 {
   "date": "2026-11-19",
-  "count": 583,
+  "count": 606,
   "items": [
+    {
+      "id": "5223829",
+      "time": "2026-11-19 09:02:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所（LME）銅價上漲1.4%，從數月來最嚴重的下跌中反彈。"
+    },
+    {
+      "id": "5223828",
+      "time": "2026-11-19 09:02:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華安鑫創：尚未進入大規模量產交付階段】華安鑫創在互動平臺表示，關於 eVTOL 業務，公司此前已披露相關專案定點情況，目前正按客戶節奏推進後續開發及驗證工作，尚未進入大規模量產交付階段。其他新興方向，公司結合行業發展趨勢和自身業務基礎開展前期佈局與技術儲備，相關業務的推進需要綜合考量技術成熟度、市場需求及投入產出等因素，公司將審慎決策、穩妥推進。上述行業尚處發展早期，商業化程序及客戶專案進度存在不確定性，敬請投資者理性判斷、注意投資風險。"
+    },
+    {
+      "id": "mkt:01a1f153-233d-7bbc-ac56-e8b81a3e075b",
+      "time": "2026-11-19 09:01:59",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "AUD/USD fell to its lowest level since January 2026 after Australian unemployment data were released."
+    },
+    {
+      "id": "mkt:01a1f152-748d-7bbc-ac56-e000c0b166f9",
+      "time": "2026-11-19 09:01:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI rises above 5,100, up 0.72% on the day."
+    },
+    {
+      "id": "mkt:01a1f152-6fbd-7bbc-ac56-d9aec7b2e041",
+      "time": "2026-11-19 09:01:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "FTSE China A50 Index futures opened down 0.02%."
+    },
+    {
+      "id": "mkt:01a1f152-6c3c-7bbc-ac56-d43b8854891d",
+      "time": "2026-11-19 09:01:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan's Taiex opened 0.29% lower at 40,076.36 on Thursday, Nov. 19, down 118.55 points."
+    },
+    {
+      "id": "5223827",
+      "time": "2026-11-19 09:01:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲0.4%，至5090.04點。"
+    },
+    {
+      "id": "5223826",
+      "time": "2026-11-19 09:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻蒙智行：11月20日14:30，鴻蒙智行享界V8及星芒品牌釋出會開啟。"
+    },
+    {
+      "id": "mkt:01a1f151-f69e-7bbc-ac56-cd4a7da17586",
+      "time": "2026-11-19 09:00:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 1.41% to 806.64 yuan per gram at the start of Thursday’s morning session, while silver T+D dropped 1.76% to 10,872 yuan per kg."
+    },
+    {
+      "id": "5223825",
+      "time": "2026-11-19 09:00:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌4%，現報8605.00元。"
+    },
+    {
+      "id": "5223824",
+      "time": "2026-11-19 09:00:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內跌5%，現報5501.00元。"
+    },
+    {
+      "id": "5223823",
+      "time": "2026-11-19 09:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.1%報40,145.73。"
+    },
+    {
+      "id": "5223822",
+      "time": "2026-11-19 09:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報10901.00元。"
+    },
+    {
+      "id": "mkt:01a1f151-644a-7bbc-ac56-c68567dd9c15",
+      "time": "2026-11-19 09:00:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "China's most-active futures contracts were mostly lower early in the session. LPG and SC crude oil fell nearly 5%, fuel oil and Shanghai copper dropped more than 4%, and international copper, polypropylene and ethylene glycol fell more than 3%. European-route container shipping futures rose nearly 2%, while glass gained more than 1%."
+    },
+    {
+      "id": "5223821",
+      "time": "2026-11-19 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續跌4.82%，燃料油連續跌4.65%，液化石油氣連續跌4.63%，丙烯連續跌4.14%，銅連續跌4.07%。"
+    },
+    {
+      "id": "5223820",
+      "time": "2026-11-19 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.04%。"
+    },
+    {
+      "id": "5223819",
+      "time": "2026-11-19 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌4%，現報3813.00元。"
+    },
+    {
+      "id": "5223818",
+      "time": "2026-11-19 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "銅連續主力合約日內跌4%，現報95720.00元。"
+    },
+    {
+      "id": "5223817",
+      "time": "2026-11-19 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報561.00元。"
+    },
+    {
+      "id": "5223816",
+      "time": "2026-11-19 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌2%，現報10924.00元。"
+    },
+    {
+      "id": "5223815",
+      "time": "2026-11-19 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丙烯連續主力合約日內跌4%，現報8355.00元。"
+    },
+    {
+      "id": "5223814",
+      "time": "2026-11-19 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌3%，現報3026.00元。"
+    },
+    {
+      "id": "5223813",
+      "time": "2026-11-19 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報910.00元。"
+    },
     {
       "id": "5223812",
       "time": "2026-11-19 08:58:11",
