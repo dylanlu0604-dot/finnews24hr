@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-20 07:42:08",
-  "count": 9555,
+  "updated": "2026-11-20 07:45:53",
+  "count": 9552,
   "items": [
+    {
+      "id": "5226642",
+      "time": "2026-11-20 07:44:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲保爾森：清晰的溝通有助於引導利率走向】費城聯邦儲備銀行行長安娜·保爾森強調了政策制定者在就經濟狀況進行溝通時保持清晰的重要性，並指出在某些情況下，明確對利率的預期同樣至關重要。保爾森在週四為紐約一場活動準備的演講稿中表示：“當溝通發揮其應有作用、當我們能夠相互理解時，利率就能更好地引導支出朝著正確的方向發展；委員會也能夠在不喪失公信力的前提下，理性看待暫時性的衝擊；同時，利率路徑可以根據最新資料進行調整，而不會引發不必要的劇烈波動。”她補充道：“這有助於實現物價穩定和充分就業的目標。”"
+    },
+    {
+      "id": "5226641",
+      "time": "2026-11-20 07:43:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：我重視擁有多種不同的溝通工具。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611203935550325",
+      "time": "2026-11-20 07:42:57",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲保羅森稱，不對貨幣政策近期走向發表看法。"
+    },
+    {
+      "id": "5226640",
+      "time": "2026-11-20 07:42:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲保爾森：正常時期利率路徑指引價值較低】費城聯儲行長安娜·保爾森表示，正常時期有關利率路徑的指引價值較低，因為如果人們理解美聯儲的反應機制，通常就能自行推斷出該路徑。據定於週四在紐約發表的講話文字，她表示：“正常時期重要的是這種理解。“保爾森解釋稱，10月份美聯儲維持利率不變時，市場預期會進一步收緊政策，因此這次按兵不動並未使政策滯後於所需水平。“對反應機制的共同理解使政策能夠審慎推進，並給人們時間進行調整，同時不會有把一次按兵不動誤認為停止行動的風險。”"
+    },
     {
       "id": "mkt:01a1f62e-e85b-7bbc-ac7a-5f7d390d71d4",
       "time": "2026-11-20 07:40:31",
@@ -85546,73 +85582,6 @@
         "國際"
       ],
       "text": "基準10年期日本國債期貨早盤下跌0.66點。"
-    },
-    {
-      "id": "5211913",
-      "time": "2026-11-13 07:45:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數期貨早盤上漲1.3%。"
-    },
-    {
-      "id": "mkt:01a1d227-1ea4-7bbc-abc0-da3d68f46004",
-      "time": "2026-11-13 07:45:41",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "Trump said Jensen Huang possesses exceptional, hard-to-replicate talent."
-    },
-    {
-      "id": "5211911",
-      "time": "2026-11-13 07:45:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國代表團在國際電聯2026年全權代表大會期間舉行招待會】據“工信微報”訊息，11月12日，國際電信聯盟2026年全權代表大會期間，中國代表團在卡達多哈舉行招待會。工業和資訊化部副部長熊繼軍強調，中方始終堅定支援聯合國在國際事務中發揮核心作用，支援國際電聯履行宗旨和使命，以實際行動踐行多邊合作承諾。近年來，中國政府積極支援國際電聯面向發展中國家開展14個合作專案，涉及人工智慧、綠色數字化轉型、空間可持續發展等多個領域。國際電聯來自中國的成員單位數量已超過150家，每年有近千名中國專家參與國際電聯會議及活動，為頻軌資源分配、技術標準制定、發展專案實施貢獻中國智慧。2027年10月，中國還將承辦2027年世界無線電通訊大會系列會議。"
-    },
-    {
-      "id": "te:economy:600889",
-      "time": "2026-11-13 07:45:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Venezuela",
-        "GDP Annual Growth Rate",
-        "Importance 0"
-      ],
-      "text": "Venezuela Economic Growth Accelerates in Q3 — Venezuela’s economy expanded by 7.42% year-on-year in the third quarter of 2026, accelerating from a 7.14% growth in the previous period. This marked the 22nd consecutive quarter of economic expansion and the strongest in a year. Growth was primarily driven by non-oil activity, which increased 6.28%. Construction remained the strongest-performing sector, surging 35.75%, supported by investment to repair infrastructure damaged by the twin earthquakes at the end of the second quarter. Financial and insurance activities rose 29.29%, while agriculture expanded 7.13%, accommodation and food services (tourism) grew 8.95%, and manufacturing advanced 4.32%. The private sector as a whole recorded solid growth of 8.02%. Meanwhile, gross fixed capital formation increased 28.25%, pointing to stronger investment and confidence in the domestic productive sector."
-    },
-    {
-      "id": "5211910",
-      "time": "2026-11-13 07:44:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【野村證券在美國推出主動型日本股票ETF 發力零售市場】野村控股推出了其首隻在美國上市的主動管理型日本股票ETF。此舉旨在利用從麥格理集團美國資產管理業務中獲得的分銷網路，觸達美國零售投資者。此舉是野村擴大全球資產管理業務戰略的一部分。這家日本金融集團的目標是，到2030年將其全球資產管理規模（包括美國市場）提升至180萬億日元（約合1.1萬億美元）。野村資產管理公司全球日本股票業務主管村尾祐一（Yuichi Murao）在接受採訪時表示：“在經歷了所謂的‘失去的二三十年’之後，日本的宏觀環境已經發生了顯著變化。現在，投資日本股市終於具備了可行性。”村尾表示，美國零售投資者對日本股市的認知度仍然相對較低，野村希望利用這隻ETF為其在美國的業務“奠定基礎”。野村資產管理公司為該ETF提供投資建議。"
-    },
-    {
-      "id": "5211909",
-      "time": "2026-11-13 07:43:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星據悉正在洽談收購資料中心冷卻公司MODINE。"
-    },
-    {
-      "id": "5211908",
-      "time": "2026-11-13 07:42:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【軌道資源日趨擁擠、巨型星座批次組網 軌道空間碎片治理成剛需】作為國內首顆空間碎片監測商業衛星，“甘德一號01星”此前因追蹤並記錄SpaceX“獵鷹9號”火箭殘骸撞擊月球的軌跡引發行業關注。這顆搭載星上AI算力、主打“天感天算”的衛星，填補了國內商業天基碎片監測空白。“空間碎片監測與態勢感知服務，是整個太空經濟大產業的基礎。”國際宇航科學院（IAA）院士、中國遙感應用協會理事長、國家航天局原副局長羅格在甘德星座首星出征儀式上表示，“沒有精準的感知，就沒有安全的軌道，再宏偉的星座、再繁榮的太空經濟都是空中樓閣”。在軌道資源日趨擁擠、巨型星座批次組網背景下，以AI賦能為核心路徑的空間碎片治理，正在從遠期構想轉向產業剛需，由遨天科技抓總建設的甘德星座，正成為我國自主可控太空交管體系的重要載體。"
     }
   ]
 }
