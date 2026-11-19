@@ -1,7 +1,90 @@
 {
   "date": "2026-11-20",
-  "count": 274,
+  "count": 282,
   "items": [
+    {
+      "id": "mkt:01a1f4f3-8f8f-7bbc-ac74-9fd558664a4d",
+      "time": "2026-11-20 01:56:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Goolsbee: The Fed's job now is to prevent the AI boom from overheating the economy."
+    },
+    {
+      "id": "5226376",
+      "time": "2026-11-20 01:55:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌與藍色起源合作推進“太陽捕手”專案發射。"
+    },
+    {
+      "id": "5226375",
+      "time": "2026-11-20 01:55:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME期銅收盤反彈55美元，報12526美元/噸。LME期鋁收漲47美元，報2870美元/噸。LME期鋅收漲85美元，報3569美元/噸。"
+    },
+    {
+      "id": "5226372",
+      "time": "2026-11-20 01:55:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "古爾斯比：目前美聯儲的工作是防止人工智慧熱潮導致經濟過熱。"
+    },
+    {
+      "id": "5226371",
+      "time": "2026-11-20 01:55:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行帕內塔：必須防止通脹紮根。"
+    },
+    {
+      "id": "mkt:01a1f4f2-da56-7bbc-ac74-92bfbc7497d8",
+      "time": "2026-11-20 01:55:18",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Goolsbee: The hotter the hype around AI companies, the more demand is pulled forward into current activity through spending and investment."
+    },
+    {
+      "id": "5226370",
+      "time": "2026-11-20 01:55:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "古爾斯比：人工智慧似乎有望提高生產率，但美聯儲的日常工作是確定當前經濟是否過熱。人工智慧公司的炒作越厲害，就越會透過需求和投資將更多需求拉到當前的經濟活動中。"
+    },
+    {
+      "id": "mkt:01a1f4f2-9d67-7bbc-ac74-8c5410e625c7",
+      "time": "2026-11-20 01:55:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Goolsbee: AI appears poised to boost productivity, but the Fed's job is to assess whether the economy is overheating now."
+    },
     {
       "id": "mkt:01a1f4ef-e0cf-7bbc-ac74-86bc46284536",
       "time": "2026-11-20 01:52:03",
