@@ -1,7 +1,105 @@
 {
   "date": "2026-11-20",
-  "count": 1655,
+  "count": 1665,
   "items": [
+    {
+      "id": "5228407",
+      "time": "2026-11-20 21:56:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "德國副總理兼財政部長克林拜爾表示，金融市場監管過於複雜。"
+    },
+    {
+      "id": "5228406",
+      "time": "2026-11-20 21:55:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北巴傳媒與比亞迪電池達成戰略合作】11月19日，北京巴士傳媒股份有限公司與比亞迪電池（深圳市比亞迪鋰電池有限公司）合作備忘錄簽約儀式在北京公交集團舉行。雙方將重點在以下領域深化業務合作：一是聚焦電池全生命週期管理，統籌推進閃充站建設、電池租賃、電池維修及回收利用等業務；二是深化汽車銷售服務合作；三是開展媒體廣告與品牌傳播合作。"
+    },
+    {
+      "id": "mkt:01a1f93d-d763-7bbc-ac90-883d63c1d6f4",
+      "time": "2026-11-20 21:55:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "The New York Post reports that U.S. President Donald Trump will deliver a keynote address next month on the Iran war."
+    },
+    {
+      "id": "5228405",
+      "time": "2026-11-20 21:55:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特主導聯軍發言人：今天凌晨，聯軍在葉門首都薩那實施了一次軍事行動，打擊了彈道導彈和無人機作戰能力。此次軍事行動重點是摧毀並消除威脅源，防止葉門和沙特境內平民遭到襲擊。聯軍摧毀了7處合法軍事目標，這些目標被用於軍事用途及支援胡塞武裝的軍事行動。聯軍摧毀了胡塞武裝專門用於製造和組裝彈道導彈及無人機發射裝置框架的6個車間。已摧毀葉門首都薩那境內胡塞武裝的一處主要補給倉庫。"
+    },
+    {
+      "id": "mkt:01a1f93d-1c52-7bbc-ac90-825632aaf521",
+      "time": "2026-11-20 21:54:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Saudi-led coalition spokesman: A major Houthi supply depot in Yemen’s capital, Sanaa, has been destroyed."
+    },
+    {
+      "id": "5228404",
+      "time": "2026-11-20 21:54:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "史瓦濟蘭央行將基準利率維持在7%不變。"
+    },
+    {
+      "id": "5228403",
+      "time": "2026-11-20 21:54:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普將在下個月（12月5日）的主旨演講中談論伊朗戰爭。"
+    },
+    {
+      "id": "mkt:01a1f93c-b600-7bbc-ac90-78aed3f9519e",
+      "time": "2026-11-20 21:54:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Saudi-led coalition spokesperson said the coalition destroyed seven military targets used to support Houthi operations, including six workshops dedicated to manufacturing and assembling frames for ballistic missiles and drone launchers."
+    },
+    {
+      "id": "mkt:01a1f93c-9187-7bbc-ac90-769038b33846",
+      "time": "2026-11-20 21:54:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【SocGen sees 18.5% upside for S&P 500 on AI investment and earnings growth】SocGen expects the S&P 500 to reach 8,500 by end-2027, up about 18.5% from Thursday’s close of 7,175.83, supported by AI-related investment and corporate earnings. The bank maintains its forecast for 11% earnings growth among S&P 500 companies in 2027 and expects two more 25-bp Fed hikes, with the final increase in March 2027. It sees S&P 500 valuations turning higher as the rate-hiking cycle ends, with returns potentially strongest in the second quarter. In Europe, SocGen forecasts the Stoxx Europe 600 at 720 by end-2027, saying a possible return of global capital flows and favorable recent seasonality could support stocks early in the year. It recommends maintaining a higher equity allocation, citing AI adoption, productivity gains and earnings growth."
+    },
+    {
+      "id": "mkt:01a1f93c-1de7-7bbc-ac90-6d3a3a97ea6e",
+      "time": "2026-11-20 21:53:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "A Saudi-led coalition spokesperson said the coalition carried out a military operation in Yemen’s capital, Sanaa, in the early hours of today, targeting ballistic missile and drone capabilities. The operation aimed to destroy the sources of threats and prevent attacks on civilians in Yemen and Saudi Arabia."
+    },
     {
       "id": "mkt:01a1f93b-21ee-7bbc-ac90-67e90a0e7d96",
       "time": "2026-11-20 21:52:44",
