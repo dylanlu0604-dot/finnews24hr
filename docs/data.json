@@ -1,7 +1,195 @@
 {
-  "updated": "2026-11-21 05:04:29",
-  "count": 9368,
+  "updated": "2026-11-21 05:08:11",
+  "count": 9374,
   "items": [
+    {
+      "id": "5228907",
+      "time": "2026-11-21 05:07:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數抹去了今年以來的所有漲幅，目前下跌0.9%。"
+    },
+    {
+      "id": "5228906",
+      "time": "2026-11-21 05:07:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "波士頓科學公司：承銷商將購買30億美元2029年至2036年到期的優先票據，利率從5.375%至5.875%。"
+    },
+    {
+      "id": "5228905",
+      "time": "2026-11-21 05:07:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "CROWDSTRIKE股價盤後下跌8%；據稱正在洽談收購ZSCALER。"
+    },
+    {
+      "id": "mkt:01a1fac9-08cb-7bbc-ac9a-b9baf4051bc5",
+      "time": "2026-11-21 05:07:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "ORCL.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "Oracle will deliver NVIDIA Vera Rubin racks to its data centers as planned over the coming weeks."
+    },
+    {
+      "id": "mkt:01a1fac8-9e7e-7bbc-ac9a-b1a4496d6c6c",
+      "time": "2026-11-21 05:06:54",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index falls 0.08% on the 20th】The dollar index, which measures the greenback against six major currencies, fell 0.08% to 103.808 at the New York close. The euro traded at $1.0970, versus $1.0974 in the previous session, and sterling at $1.3088, versus $1.3100. The dollar was at 158.46 yen, down from 159.73; 0.8388 Swiss francs, down from 0.8441; and C$1.4332, down from C$1.4337. It rose to 10.2272 Swedish kronor from 10.1896."
+    },
+    {
+      "id": "5228904",
+      "time": "2026-11-21 05:06:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文：未來幾周將按計劃在其資料中心交付英偉達 Vera Rubin 機架。"
+    },
+    {
+      "id": "5228903",
+      "time": "2026-11-21 05:06:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "ZSCALER股價上漲15%。"
+    },
+    {
+      "id": "5228902",
+      "time": "2026-11-21 05:06:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：由於外部狀況和財政表現增強，烏茲別克評級上調至“BB+”；展望穩定。"
+    },
+    {
+      "id": "mkt:01a1fac8-04a4-7bbc-ac9a-adcff4465129",
+      "time": "2026-11-21 05:06:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "Dow"
+      ],
+      "text": "The S&P 500 and Dow Jones closed in correction territory."
+    },
+    {
+      "id": "5228901",
+      "time": "2026-11-21 05:05:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數20日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.08%，在匯市尾市收於103.808。截至紐約匯市尾市，1歐元兌換1.0970美元，低於前一交易日的1.0974美元；1英鎊兌換1.3088美元，低於前一交易日的1.3100美元。1美元兌換158.46日元，低於前一交易日的159.73日元；1美元兌換0.8388瑞士法郎，低於前一交易日的0.8441瑞士法郎；1美元兌換1.4332加元，低於前一交易日的1.4337加元；1美元兌換10.2272瑞典克朗，高於前一交易日的10.1896瑞典克朗。"
+    },
+    {
+      "id": "5228900",
+      "time": "2026-11-21 05:05:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將烏茲別克評級上調至“BB+”；展望穩定。"
+    },
+    {
+      "id": "mkt:01a1fac7-241f-7bbc-ac9a-a405f1087b68",
+      "time": "2026-11-21 05:05:17",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "The Russell 2000 fell 7.48% this week, its biggest weekly decline since the week ended April 4, 2025."
+    },
+    {
+      "id": "5228899",
+      "time": "2026-11-21 05:05:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數本週收跌19.8%，較10月份的紀錄低點下跌19.8%。"
+    },
+    {
+      "id": "mkt:01a1fac6-fe9c-7bbc-ac9a-9f73044979d7",
+      "time": "2026-11-21 05:05:07",
+      "tags": [
+        "MKT News",
+        "ORCL.O",
+        "Impact bullish"
+      ],
+      "text": "Oracle expects to remain free cash flow positive in H2 FY2028."
+    },
+    {
+      "id": "5228898",
+      "time": "2026-11-21 05:05:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司：公司與OpenAI在基礎設施合作方面取得快速進展。"
+    },
+    {
+      "id": "5228897",
+      "time": "2026-11-21 05:04:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司：預計2028財年下半年自由現金流將繼續保持正值。"
+    },
+    {
+      "id": "mkt:01a1fac6-c345-7bbc-ac9a-952f58c5ed10",
+      "time": "2026-11-21 05:04:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA fell 23% this week, its biggest weekly decline since October 2008."
+    },
+    {
+      "id": "5228896",
+      "time": "2026-11-21 05:04:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "CrowdStrike正洽談收購網路安全公司Zscaler。"
+    },
+    {
+      "id": "5228895",
+      "time": "2026-11-21 05:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：尚比亞評級上調至“B-/B”；展望穩定。"
+    },
+    {
+      "id": "5228894",
+      "time": "2026-11-21 05:04:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司：已獲得履行與OpenAI合同所需的全部資金。"
+    },
     {
       "id": "mkt:01a1fac5-f5a1-7bbc-ac9a-8e1c7d241004",
       "time": "2026-11-21 05:03:59",
@@ -83515,153 +83703,6 @@
         "國際"
       ],
       "text": "美國國債跌幅收窄，10年期國債收益率上漲2個基點，至5.15%。"
-    },
-    {
-      "id": "5213942",
-      "time": "2026-11-14 05:08:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局釋出停飛令理由是“情況特殊且出於安全考慮”。"
-    },
-    {
-      "id": "mkt:01a1d6bc-ce20-7bbc-abdd-2523d9f48b3c",
-      "time": "2026-11-14 05:07:40",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "S&P maintained Italy's sovereign rating and positive outlook, saying it expects Italy's external position to gradually improve in line with long-term structural trends."
-    },
-    {
-      "id": "mkt:01a1d6bc-9633-7bbc-abdd-1d8180266546",
-      "time": "2026-11-14 05:07:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P revised Bulgaria's sovereign rating outlook to stable from positive, citing widening twin deficits, and affirmed the BBB+/A-2 rating."
-    },
-    {
-      "id": "5213940",
-      "time": "2026-11-14 05:07:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：確認評級及積極展望反映出我們預計義大利的外部狀況將逐步改善，這與長期結構性趨勢一致。"
-    },
-    {
-      "id": "5213939",
-      "time": "2026-11-14 05:07:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【白宮否認國家經濟委員會主任哈西特即將離職】當地時間11月13日，白宮否認有關白宮國家經濟委員會主任凱文·哈西特將在未來幾周內離職的訊息。此前有美國媒體報道稱，哈西特預計將在未來幾周內離開特朗普政府，成為又一名離任的白宮重量級官員。相關報道還提到，哈西特早在本月3日美國中期選舉前，就已在尋找政府以外的任職機會，傳聞其離職安排和中期選舉結果無關。（央視新聞）"
-    },
-    {
-      "id": "5213938",
-      "time": "2026-11-14 05:06:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "道富SPDR標普500 ETF盤後下跌0.4%。"
-    },
-    {
-      "id": "5213937",
-      "time": "2026-11-14 05:06:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100 ETF盤後下跌0.7%。"
-    },
-    {
-      "id": "mkt:01a1d6bb-caf1-7bbc-abdd-165d30885eb0",
-      "time": "2026-11-14 05:06:33",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "S&P affirms Italy's \"BBB+/A-2\" sovereign rating and maintains a positive outlook."
-    },
-    {
-      "id": "5213936",
-      "time": "2026-11-14 05:06:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：由於雙重赤字不斷擴大，保加利亞的展望從正面調整為穩定；“BBB+/A-2”評級維持不變。"
-    },
-    {
-      "id": "5213935",
-      "time": "2026-11-14 05:05:38",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲半年度金融穩定報告警示AI與高估值風險】美聯儲在週五釋出的半年度金融穩定報告中，對人工智慧（AI）及高資產估值帶來的潛在脆弱性發出警告。美聯儲指出，股票估值指標持續高企，部分受市場對“超級智慧”的熱情推動。不過，這種熱情已因對企業資本支出和債務發行計劃的擔憂而有所降溫。美聯儲官員 Michelle Bowman 本週早些時候警告，若AI投資回報不及預期，可能導致股價大幅下跌。報告及官員均關注到科技巨頭與初創企業間複雜的“迴圈融資”安排（circular deals）及表外負債風險。基於對市場參與者的調查，受訪者認為AI降低了複雜網路攻擊的門檻，增加了金融市場面臨的網路風險。此外，風險資產回撥、長期利率上升及財政債務可持續性也被列為近期的主要脆弱性來源。"
-    },
-    {
-      "id": "mkt:01a1d6ba-632e-7bbc-abdd-0cb639ee20c2",
-      "time": "2026-11-14 05:05:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Federal Reserve report: risk to fiscal debt sustainability rose two ranks to become the fifth-largest risk to the financial system."
-    },
-    {
-      "id": "mkt:01a1d6ba-4ba7-7bbc-abdd-07210d9ae751",
-      "time": "2026-11-14 05:04:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve report: some respondents warned that persistent fiscal deficits and heavy U.S. Treasury issuance could trigger disorderly rises in yields."
-    },
-    {
-      "id": "mkt:01a1d6ba-361f-7bbc-abdc-fc3bc1c77282",
-      "time": "2026-11-14 05:04:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Federal Reserve report: vulnerabilities tied to financial leverage remain significant; hedge fund leverage has climbed to its highest level since 2013."
-    },
-    {
-      "id": "mkt:01a1d6ba-0b2e-7bbc-abdc-f32774a88b55",
-      "time": "2026-11-14 05:04:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Fed report: through October 2026, issuance of advanced computing-related debt exceeded $680 billion, roughly five times the 2023 level."
     }
   ]
 }

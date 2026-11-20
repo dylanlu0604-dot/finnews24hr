@@ -1,7 +1,195 @@
 {
   "date": "2026-11-21",
-  "count": 322,
+  "count": 342,
   "items": [
+    {
+      "id": "5228907",
+      "time": "2026-11-21 05:07:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數抹去了今年以來的所有漲幅，目前下跌0.9%。"
+    },
+    {
+      "id": "5228906",
+      "time": "2026-11-21 05:07:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "波士頓科學公司：承銷商將購買30億美元2029年至2036年到期的優先票據，利率從5.375%至5.875%。"
+    },
+    {
+      "id": "5228905",
+      "time": "2026-11-21 05:07:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "CROWDSTRIKE股價盤後下跌8%；據稱正在洽談收購ZSCALER。"
+    },
+    {
+      "id": "mkt:01a1fac9-08cb-7bbc-ac9a-b9baf4051bc5",
+      "time": "2026-11-21 05:07:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "ORCL.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "Oracle will deliver NVIDIA Vera Rubin racks to its data centers as planned over the coming weeks."
+    },
+    {
+      "id": "mkt:01a1fac8-9e7e-7bbc-ac9a-b1a4496d6c6c",
+      "time": "2026-11-21 05:06:54",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index falls 0.08% on the 20th】The dollar index, which measures the greenback against six major currencies, fell 0.08% to 103.808 at the New York close. The euro traded at $1.0970, versus $1.0974 in the previous session, and sterling at $1.3088, versus $1.3100. The dollar was at 158.46 yen, down from 159.73; 0.8388 Swiss francs, down from 0.8441; and C$1.4332, down from C$1.4337. It rose to 10.2272 Swedish kronor from 10.1896."
+    },
+    {
+      "id": "5228904",
+      "time": "2026-11-21 05:06:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文：未來幾周將按計劃在其資料中心交付英偉達 Vera Rubin 機架。"
+    },
+    {
+      "id": "5228903",
+      "time": "2026-11-21 05:06:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "ZSCALER股價上漲15%。"
+    },
+    {
+      "id": "5228902",
+      "time": "2026-11-21 05:06:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：由於外部狀況和財政表現增強，烏茲別克評級上調至“BB+”；展望穩定。"
+    },
+    {
+      "id": "mkt:01a1fac8-04a4-7bbc-ac9a-adcff4465129",
+      "time": "2026-11-21 05:06:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "Dow"
+      ],
+      "text": "The S&P 500 and Dow Jones closed in correction territory."
+    },
+    {
+      "id": "5228901",
+      "time": "2026-11-21 05:05:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數20日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.08%，在匯市尾市收於103.808。截至紐約匯市尾市，1歐元兌換1.0970美元，低於前一交易日的1.0974美元；1英鎊兌換1.3088美元，低於前一交易日的1.3100美元。1美元兌換158.46日元，低於前一交易日的159.73日元；1美元兌換0.8388瑞士法郎，低於前一交易日的0.8441瑞士法郎；1美元兌換1.4332加元，低於前一交易日的1.4337加元；1美元兌換10.2272瑞典克朗，高於前一交易日的10.1896瑞典克朗。"
+    },
+    {
+      "id": "5228900",
+      "time": "2026-11-21 05:05:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將烏茲別克評級上調至“BB+”；展望穩定。"
+    },
+    {
+      "id": "mkt:01a1fac7-241f-7bbc-ac9a-a405f1087b68",
+      "time": "2026-11-21 05:05:17",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "The Russell 2000 fell 7.48% this week, its biggest weekly decline since the week ended April 4, 2025."
+    },
+    {
+      "id": "5228899",
+      "time": "2026-11-21 05:05:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數本週收跌19.8%，較10月份的紀錄低點下跌19.8%。"
+    },
+    {
+      "id": "mkt:01a1fac6-fe9c-7bbc-ac9a-9f73044979d7",
+      "time": "2026-11-21 05:05:07",
+      "tags": [
+        "MKT News",
+        "ORCL.O",
+        "Impact bullish"
+      ],
+      "text": "Oracle expects to remain free cash flow positive in H2 FY2028."
+    },
+    {
+      "id": "5228898",
+      "time": "2026-11-21 05:05:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司：公司與OpenAI在基礎設施合作方面取得快速進展。"
+    },
+    {
+      "id": "5228897",
+      "time": "2026-11-21 05:04:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司：預計2028財年下半年自由現金流將繼續保持正值。"
+    },
+    {
+      "id": "mkt:01a1fac6-c345-7bbc-ac9a-952f58c5ed10",
+      "time": "2026-11-21 05:04:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA fell 23% this week, its biggest weekly decline since October 2008."
+    },
+    {
+      "id": "5228896",
+      "time": "2026-11-21 05:04:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "CrowdStrike正洽談收購網路安全公司Zscaler。"
+    },
+    {
+      "id": "5228895",
+      "time": "2026-11-21 05:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：尚比亞評級上調至“B-/B”；展望穩定。"
+    },
+    {
+      "id": "5228894",
+      "time": "2026-11-21 05:04:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司：已獲得履行與OpenAI合同所需的全部資金。"
+    },
     {
       "id": "mkt:01a1fac5-f5a1-7bbc-ac9a-8e1c7d241004",
       "time": "2026-11-21 05:03:59",
