@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-20 12:17:06",
+  "updated": "2026-11-20 12:21:06",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
   "count": 471,
   "history_summary": {
-    "cached": 455,
-    "fetched": 16,
+    "cached": 471,
+    "fetched": 0,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -16948,7 +16948,7 @@
                   "previous": "1.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -17006,7 +17006,7 @@
                   "previous": "5.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -17586,7 +17586,7 @@
                   "previous": "-68"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -17644,7 +17644,7 @@
                   "previous": "-60"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -20318,7 +20318,7 @@
                   "previous": "7.49"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -20376,7 +20376,7 @@
                   "previous": "515.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -20434,7 +20434,7 @@
                   "previous": "204.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -20492,7 +20492,7 @@
                   "previous": "145.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -23108,7 +23108,7 @@
                   "previous": "23.62"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -23282,7 +23282,7 @@
                   "previous": "50.05"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -23456,7 +23456,7 @@
                   "previous": "8.93"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -24094,7 +24094,7 @@
                   "previous": "3.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -26014,7 +26014,7 @@
                   "previous": "5.37"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -26188,7 +26188,7 @@
                   "previous": "0.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -26362,7 +26362,7 @@
                   "previous": "0.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             },
             {
@@ -27259,7 +27259,7 @@
                   "previous": "-168.73"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-20 12:16:58"
             }
           ]
@@ -44142,7 +44142,7 @@
           "previous": "1.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -44200,7 +44200,7 @@
           "previous": "5.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -44780,7 +44780,7 @@
           "previous": "-68"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -44838,7 +44838,7 @@
           "previous": "-60"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -47506,7 +47506,7 @@
           "previous": "7.49"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -47564,7 +47564,7 @@
           "previous": "515.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -47622,7 +47622,7 @@
           "previous": "204.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -47680,7 +47680,7 @@
           "previous": "145.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -50290,7 +50290,7 @@
           "previous": "23.62"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -50464,7 +50464,7 @@
           "previous": "50.05"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -50638,7 +50638,7 @@
           "previous": "8.93"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -51276,7 +51276,7 @@
           "previous": "3.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -53190,7 +53190,7 @@
           "previous": "5.37"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -53364,7 +53364,7 @@
           "previous": "0.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -53538,7 +53538,7 @@
           "previous": "0.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     },
     {
@@ -54429,7 +54429,7 @@
           "previous": "-168.73"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-20 12:16:58"
     }
   ]
