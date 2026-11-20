@@ -1,7 +1,65 @@
 {
-  "updated": "2026-11-20 13:23:20",
-  "count": 9555,
+  "updated": "2026-11-20 13:27:05",
+  "count": 9554,
   "items": [
+    {
+      "id": "5227099",
+      "time": "2026-11-20 13:24:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰格醫藥在廣東橫琴成立智研醫藥科技公司】企查查APP顯示，近日，廣東橫琴睿臨智研醫藥科技有限公司成立，法定代表人為劉芳秀，經營範圍包含醫學研究和試驗發展；資訊科技諮詢服務；市場調查（不含涉外調查）；健康諮詢服務（不含診療服務）等。企查查股權穿透顯示，該公司由泰格醫藥間接全資持股。"
+    },
+    {
+      "id": "5227098",
+      "time": "2026-11-20 13:24:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國Kospi指數跌幅擴大；最新下跌5.7%，報4844.51點。"
+    },
+    {
+      "id": "mkt:01a1f769-793b-7bbc-ac81-d55357a9fc58",
+      "time": "2026-11-20 13:24:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China meets Singapore PM Wong】At a meeting with Singapore Prime Minister Lawrence Wong in Shenzhen on Nov. 20, China called for launching negotiations on FTA 4.0 and expanding cooperation in digital economy, green development and AI. It also called for high-quality Belt and Road cooperation, stronger people-to-people ties and closer coordination in APEC and China-ASEAN frameworks."
+    },
+    {
+      "id": "mkt:01a1f769-759f-7bbc-ac81-cb60252d699c",
+      "time": "2026-11-20 13:24:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【FT: Oil price drop fails to ease Bond market pressure as ‘inf virus’ spreads】Oil prices and government borrowing costs tracked closely this year, but that relationship has broken down, the Financial Times reported. Despite a sharp drop in global crude benchmarks in recent weeks, Bond yields and rate-hike expectations remain elevated. The 10-year U.S. Bond yield is still above 5%, near last month’s high, its highest since 2002. Investors warn that a series of supply shocks is entrenching inf pressures, while resilient U.S. growth is fueling bets on further hawkish policy. Ales Koutny, Vanguard’s head of international rates, said Bonds had “decoupled” from oil and returned to their traditional behavior. Ninety One’s John Stopford said weakness in Bonds reflected a reaction to hawkish central bank rhetoric and frustration over persistent inf. PGIM Fixed Income co-CIO Greg Peters said inf was like a virus that is difficult to eliminate once it enters the economic system."
+    },
+    {
+      "id": "mkt:01a1f768-d760-7bbc-ac81-c231d70640bd",
+      "time": "2026-11-20 13:23:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China Rare Earth shares hit the 10% down limit, with turnover of 1.297 bln yuan and 67 lots of sell orders queued at the limit."
+    },
+    {
+      "id": "5227097",
+      "time": "2026-11-20 13:23:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中國稀土觸及跌停】中國稀土觸及跌停，成交額12.97億元，封單67手。"
+    },
     {
       "id": "mkt:01a1f767-b499-7bbc-ac81-bbc4ad960d4b",
       "time": "2026-11-20 13:22:11",
@@ -85505,77 +85563,6 @@
         "CSI300"
       ],
       "text": "ChiNext Index fell 3% intraday, Shanghai Composite Index down 0.53%, Shenzhen Composite Index down 1.74%; more than 4,500 stocks declined across the market."
-    },
-    {
-      "id": "5212355",
-      "time": "2026-11-13 13:26:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【盧拉點名美法德等富國要為氣變擔責】當地時間11月12日，巴西總統盧拉在出席《聯合國氣候變化框架公約》第三十一次締約方大會（COP31）期間與民間團體會見。盧拉在講話中點名美國、法國、德國、葡萄牙等國領導人，敦促這些“吃盡工業革命紅利、汙染了這個星球”的西方富裕國家，在氣候融資方面承擔起更大的責任。盧拉說，他要看看“那些過去曾向發展中國家強行施加環保規則的國家，現在能否盡到自己的本分”。#盧拉說富國過去強加規則現在該盡責# 《聯合國氣候變化框架公約》第三十一次締約方大會（COP31）正在土耳其安塔利亞舉行。氣候融資是大會核心議題之一。‌‌"
-    },
-    {
-      "id": "5212354",
-      "time": "2026-11-13 13:26:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌3.00%，現報2434.103點；上證指數跌0.53%，現報3636.414點；深證成指跌1.73%，現報11004.327點。"
-    },
-    {
-      "id": "5212353",
-      "time": "2026-11-13 13:25:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達3.00%，成分股中，蘅東光跌8.81%，天工股份跌7.67%，戈碧迦跌6.07%，奧迪威跌4.51%。"
-    },
-    {
-      "id": "5212352",
-      "time": "2026-11-13 13:24:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伯克希爾·哈撒韋計劃透過發行日元債券籌集11.4億美元】據媒體週五查閱的一份條款清單顯示，伯克希爾·哈撒韋公司正計劃透過發行五期日元債券籌集1823億日元（11.4億美元）。這家美國綜合企業集團將發行期限分別為3年、5年、7年、10年和30年的高階無擔保債券。這些債券定於11月19日交割。此次計劃發行的債券包括920億日元的3年期債券、573億日元的5年期債券、161億日元的7年期債券、27億日元的10年期債券以及142億日元的30年期債券。據發行條款顯示，這些債券預計將獲得穆迪的Aa2評級和標普全球評級的AA評級。伯克希爾目前分別獲得穆迪和標普的Aa2及AA發行人評級，展望均為穩定。"
-    },
-    {
-      "id": "mkt:01a1d35c-fbdf-7bbc-abc6-c774c64ee0e0",
-      "time": "2026-11-13 13:24:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "SMFG CEO said he does not expect NVIDIA management's stance to change significantly."
-    },
-    {
-      "id": "mkt:01a1d35c-8f2b-7bbc-abc6-bcfa428a3c52",
-      "time": "2026-11-13 13:23:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact mixed"
-      ],
-      "text": "SMFG CEO said the impact of the NVIDIA CEO’s departure on data‑center investment is currently unclear and will depend on the incoming leadership."
-    },
-    {
-      "id": "5212351",
-      "time": "2026-11-13 13:23:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【調查：烏克蘭襲擊俄工業設施 俄羅斯經濟增長放緩】隨著烏克蘭的襲擊摧毀工業設施、擾亂物流並加劇通脹壓力，俄羅斯經濟放緩。據媒體調查的經濟學家給出的中位數估計，俄羅斯第三季度國內生產總值（GDP）同比增長可能為0.9%，低於前一季度1.3%的增速。這一放緩趨勢與俄羅斯央行此前的警告相符，即無人機襲擊正在削弱多個行業的生產能力。烏克蘭針對煉油廠、物流樞紐和資料中心的打擊正深入俄羅斯腹地，導致燃料短缺和其他通脹壓力，這也限制了央行降息的空間。隨著預算赤字的擴大，俄羅斯政府今年再次大幅增加了國防開支，逆轉了最初縮減開支的計劃。"
     }
   ]
 }

@@ -1,7 +1,65 @@
 {
   "date": "2026-11-20",
-  "count": 1127,
+  "count": 1133,
   "items": [
+    {
+      "id": "5227099",
+      "time": "2026-11-20 13:24:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰格醫藥在廣東橫琴成立智研醫藥科技公司】企查查APP顯示，近日，廣東橫琴睿臨智研醫藥科技有限公司成立，法定代表人為劉芳秀，經營範圍包含醫學研究和試驗發展；資訊科技諮詢服務；市場調查（不含涉外調查）；健康諮詢服務（不含診療服務）等。企查查股權穿透顯示，該公司由泰格醫藥間接全資持股。"
+    },
+    {
+      "id": "5227098",
+      "time": "2026-11-20 13:24:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國Kospi指數跌幅擴大；最新下跌5.7%，報4844.51點。"
+    },
+    {
+      "id": "mkt:01a1f769-793b-7bbc-ac81-d55357a9fc58",
+      "time": "2026-11-20 13:24:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China meets Singapore PM Wong】At a meeting with Singapore Prime Minister Lawrence Wong in Shenzhen on Nov. 20, China called for launching negotiations on FTA 4.0 and expanding cooperation in digital economy, green development and AI. It also called for high-quality Belt and Road cooperation, stronger people-to-people ties and closer coordination in APEC and China-ASEAN frameworks."
+    },
+    {
+      "id": "mkt:01a1f769-759f-7bbc-ac81-cb60252d699c",
+      "time": "2026-11-20 13:24:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【FT: Oil price drop fails to ease Bond market pressure as ‘inf virus’ spreads】Oil prices and government borrowing costs tracked closely this year, but that relationship has broken down, the Financial Times reported. Despite a sharp drop in global crude benchmarks in recent weeks, Bond yields and rate-hike expectations remain elevated. The 10-year U.S. Bond yield is still above 5%, near last month’s high, its highest since 2002. Investors warn that a series of supply shocks is entrenching inf pressures, while resilient U.S. growth is fueling bets on further hawkish policy. Ales Koutny, Vanguard’s head of international rates, said Bonds had “decoupled” from oil and returned to their traditional behavior. Ninety One’s John Stopford said weakness in Bonds reflected a reaction to hawkish central bank rhetoric and frustration over persistent inf. PGIM Fixed Income co-CIO Greg Peters said inf was like a virus that is difficult to eliminate once it enters the economic system."
+    },
+    {
+      "id": "mkt:01a1f768-d760-7bbc-ac81-c231d70640bd",
+      "time": "2026-11-20 13:23:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China Rare Earth shares hit the 10% down limit, with turnover of 1.297 bln yuan and 67 lots of sell orders queued at the limit."
+    },
+    {
+      "id": "5227097",
+      "time": "2026-11-20 13:23:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中國稀土觸及跌停】中國稀土觸及跌停，成交額12.97億元，封單67手。"
+    },
     {
       "id": "mkt:01a1f767-b499-7bbc-ac81-bbc4ad960d4b",
       "time": "2026-11-20 13:22:11",
