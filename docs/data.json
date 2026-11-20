@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-20 13:27:05",
-  "count": 9554,
+  "updated": "2026-11-20 13:30:53",
+  "count": 9558,
   "items": [
+    {
+      "id": "5227104",
+      "time": "2026-11-20 13:30:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "5227103",
+      "time": "2026-11-20 13:30:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內跌5%，現報303000.00元。"
+    },
+    {
+      "id": "5227102",
+      "time": "2026-11-20 13:30:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌4%，現報5931.80點。"
+    },
+    {
+      "id": "mkt:01a1f76e-9327-7bbc-ac81-e3588cfc240b",
+      "time": "2026-11-20 13:29:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's 10-year bond yield fell 3.0 bps to 2.790%."
+    },
+    {
+      "id": "mkt:01a1f76c-92a0-7bbc-ac81-d901fd248c88",
+      "time": "2026-11-20 13:27:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MIIT brain-computer interface standards working group to be established】China's Ministry of Industry and Information Technology Brain-Computer Interface Standardization Technical Committee and the National Information Technology Standardization Technical Committee's Brain-Computer Interface Subcommittee will hold a standards week on Nov. 25-26, 2026, during which an MIIT brain-computer interface standards working group is set to be established."
+    },
+    {
+      "id": "5227101",
+      "time": "2026-11-20 13:26:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海光資訊：公司對產品和整體經營發展信心堅定】海光資訊表示，當前公司供應鏈體系穩定，市場對公司CPU與DCU產品需求持續放量，新一代CPU與DCU產品研發按既定路線穩步推進，公司對產品和整體經營發展信心堅定。公司將不斷鞏固並提升核心競爭力，透過股權激勵加強對研發團隊的激勵，以持續穩健的經營成果回報廣大投資者的信任與支援。"
+    },
+    {
+      "id": "5227100",
+      "time": "2026-11-20 13:26:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沐曦股份：聚焦為中國客戶提供GPU計算平臺 並加強本土供應鏈適配】沐曦股份表示，公司聚焦為中國客戶提供GPU計算平臺，並加強本土供應鏈適配。國產算力市場份額提升是長期趨勢，近期一系列事件將加速這一程序。據瞭解，沐曦曦雲C600基於國產供應鏈打造，整體效能對標國際主流GPU產品，搭載MXC600晶片透過國家安全可靠測評，已實現大規模出貨，廣泛應用於智算中心、金融、能源、政務等關鍵行業，市場反饋較好。"
+    },
     {
       "id": "5227099",
       "time": "2026-11-20 13:24:23",
@@ -59,6 +125,14 @@
         "市場"
       ],
       "text": "【中國稀土觸及跌停】中國稀土觸及跌停，成交額12.97億元，封單67手。"
+    },
+    {
+      "id": "5227096",
+      "time": "2026-11-20 13:23:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平會見新加坡總理黃循財】11月20日上午，國家主席習近平在深圳會見來華出席亞太經合組織領導人非正式會議的新加坡總理黃循財。習近平指出，中國和新加坡是友好近鄰和重要發展夥伴，各領域交流合作成果豐碩，為兩國人民帶來了實實在在好處。面對世界百年變局加速演進，中新雙方要把握時代潮流，加強戰略溝通，增進團結協作，推動中新全方位高質量的前瞻性夥伴關係不斷邁上新臺階，更好服務各自現代化建設，為國際和地區繁榮穩定作出積極貢獻。習近平強調，中新要做相互信任的真誠朋友，築牢政治互信，維護共同利益，支援彼此走好符合自身國情的發展道路。要做引領創新的發展夥伴，繼續高質量共建“一帶一路”，高水平運營重大合作專案，啟動自貿協定4.0版談判，在數字經濟、綠色發展、人工智慧等領域打造標誌性合作成果，推動雙邊合作向新、向智、向綠轉型。要做互學互鑑的友好近鄰，深化治國理政經驗交流和黨際合作，擴大人文交流，厚植中新友好民意基礎。要做維護國際公平正義的進步力量，加強在亞太經合組織、中國－東盟等多邊框架內協調和配合，把穩東亞合作正確方向，維護地區和平穩定，共建亞太共同體和人類命運共同體。黃循財表示，新中各領域合作不斷深化，全方位夥伴關係強勁有力。新方堅定奉行一箇中國政策，反對“臺獨”。新方高度重視新中夥伴關係，願同中方增強政治互信，加強各層級交往和貿易、產供鏈、人工智慧等領域合作，增進人文交流，推動兩國關係不斷向前發展。中方在深圳成功舉辦亞太經合組織領導人非正式會議，中方倡導的開放、創新、合作理念契合亞太發展需要。祝賀中方主辦中俄美三國元首會晤，這在當前變亂交織的國際形勢下具有重要意義，有利於維護世界的和平穩定。新方支援習近平主席提出的人類命運共同體理念和四大全球倡議，願同中方加強國際事務溝通合作，共同應對全球性挑戰。蔡奇、王毅、黃坤明等參加會見。（新華社）"
     },
     {
       "id": "mkt:01a1f767-b499-7bbc-ac81-bbc4ad960d4b",
@@ -85521,48 +85595,6 @@
         "其他"
       ],
       "text": "東京證券交易所將批准WHI Holdings上市。"
-    },
-    {
-      "id": "te:markets:600969",
-      "time": "2026-11-13 13:30:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 4.84% — Top crypto losers are Ether (-4.84%), Bitcoin (-3.89%) and Binance (-3.25%)."
-    },
-    {
-      "id": "5212357",
-      "time": "2026-11-13 13:30:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌2%，現報6350.60點。"
-    },
-    {
-      "id": "5212356",
-      "time": "2026-11-13 13:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌1%，現報6351.00點。"
-    },
-    {
-      "id": "mkt:01a1d362-352c-7bbc-abc6-c9836a65a033",
-      "time": "2026-11-13 13:29:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "ChiNext Index fell 3% intraday, Shanghai Composite Index down 0.53%, Shenzhen Composite Index down 1.74%; more than 4,500 stocks declined across the market."
     }
   ]
 }
