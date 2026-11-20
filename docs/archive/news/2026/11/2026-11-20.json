@@ -1,7 +1,45 @@
 {
   "date": "2026-11-20",
-  "count": 1651,
+  "count": 1655,
   "items": [
+    {
+      "id": "mkt:01a1f93b-21ee-7bbc-ac90-67e90a0e7d96",
+      "time": "2026-11-20 21:52:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "German Finance Minister: Accelerating the Capital Markets Union is an urgent priority."
+    },
+    {
+      "id": "5228402",
+      "time": "2026-11-20 21:52:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國股指期貨走低 費城半導體指數成分股幾乎全線下跌】隨著人工智慧交易急劇逆轉，一項全球股市指標正邁向三年來最長連跌，不僅威脅今年整體的股票市場漲幅，也攪動金屬市場。美國股指期貨走低。紐約時間8:30，標普500指數期貨跌1%，納斯達克100指數期貨跌2%，道指期貨下跌0.4%。MSCI ACWI指數下跌0.8%，連續第七個交易日走低，為2023年9月以來最長連跌。“中期選舉、英偉達強勁的業績以及Anthropic成功上市，都未能成為市場出清的催化劑，”Singular Bank的Robert Scholtes表示。“技術性拋售壓力可能仍需充分釋放，這或許會為一輪空頭回補反彈創造條件，並可能標誌著市場見底。”標普500指數勢將錄得2025年4月以來最差單月表現，而短期內幾乎看不到能夠推動市場反彈的催化劑。隨著監管看來將進一步收緊、借貸成本也可能繼續上升，市場仍在質疑大規模AI建設支出能否持續。"
+    },
+    {
+      "id": "5228401",
+      "time": "2026-11-20 21:51:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "德國副總理兼財政部長克林拜爾表示，資本市場聯盟取得快速進展是優先事項。"
+    },
+    {
+      "id": "mkt:01a1f938-893a-7bbc-ac90-5ca7f1abaacb",
+      "time": "2026-11-20 21:49:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News: The NSA network outage has been resolved and service restored."
+    },
     {
       "id": "mkt:01a1f938-287a-7bbc-ac90-53f0f8bc7b0c",
       "time": "2026-11-20 21:49:29",
