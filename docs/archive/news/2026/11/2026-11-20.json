@@ -1,7 +1,53 @@
 {
   "date": "2026-11-20",
-  "count": 1665,
+  "count": 1670,
   "items": [
+    {
+      "id": "5228410",
+      "time": "2026-11-20 22:01:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "Anthropic盤前跌幅收窄至10.4%。"
+    },
+    {
+      "id": "5228409",
+      "time": "2026-11-20 22:00:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "格陵蘭礦業有限公司對丹麥議會一致透過具有里程碑意義的美國-丹麥-格陵蘭協議表示讚賞。"
+    },
+    {
+      "id": "5228408",
+      "time": "2026-11-20 21:58:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普將於12月5日在里根國防論壇為對伊戰爭辯護】特朗普將於12月5日在加州西米谷的里根總統圖書館出席里根國防論壇並發表主旨演講，為美國對伊朗開戰的決定辯護。白宮發言人表示，特朗普將在演講中向里根致敬，並闡述自己的施政願景。特朗普一向推崇里根“以實力求和平”的外交理念。報道指出，美國已數月未對伊朗發動襲擊，目前主要透過經濟制裁和海上封鎖向德黑蘭施壓。特朗普表示，將在新年後決定是否進一步打擊伊朗。"
+    },
+    {
+      "id": "mkt:01a1f940-7b66-7bbc-ac90-9aa507086916",
+      "time": "2026-11-20 21:58:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump to defend decision to go to war with Iran at Dec. 5 Reagan defense forum】Trump will deliver the keynote address at the Reagan National Defense Forum on Dec. 5 at the Reagan Presidential Library in Simi Valley, California, defending the U.S. decision to go to war with Iran. A White House spokesperson said he will pay tribute to Reagan and outline his policy vision. Trump has praised Reagan’s “peace through strength” foreign policy. The U.S. has not struck Iran for several months and is now pressuring Tehran mainly through economic sanctions and a naval blockade. Trump said he will decide after the new year whether to launch further strikes. During his Asia trip this week, he met Putin to discuss ending the Russia-Ukraine and U.S.-Iran wars."
+    },
+    {
+      "id": "mkt:01a1f93f-e50b-7bbc-ac90-93ddb86b080f",
+      "time": "2026-11-20 21:57:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's finance minister: Financial market regulation is too complex."
+    },
     {
       "id": "5228407",
       "time": "2026-11-20 21:56:52",
