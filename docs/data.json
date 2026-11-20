@@ -1,7 +1,231 @@
 {
-  "updated": "2026-11-20 08:00:58",
-  "count": 9545,
+  "updated": "2026-11-20 08:04:45",
+  "count": 9557,
   "items": [
+    {
+      "id": "5226669",
+      "time": "2026-11-20 08:04:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保羅森：我們還需要進一步收緊政策。以審慎步伐加息讓經濟有時間調整。"
+    },
+    {
+      "id": "mkt:01a1f644-980f-7bbc-ac7a-dbf101c4f356",
+      "time": "2026-11-20 08:04:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Fed's Paulson: A measured pace of rate hikes gives the economy time to adjust."
+    },
+    {
+      "id": "5226668",
+      "time": "2026-11-20 08:03:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門就吉贊市潛在危險釋出警告。"
+    },
+    {
+      "id": "5226667",
+      "time": "2026-11-20 08:03:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數下跌2%。"
+    },
+    {
+      "id": "5226666",
+      "time": "2026-11-20 08:03:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：通脹預期上升正在打壓消費者信心，但消費疲軟跡象背後也存在一次性因素。"
+    },
+    {
+      "id": "mkt:01a1f643-f4c6-7bbc-ac7a-d1ca812deaa9",
+      "time": "2026-11-20 08:03:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Paulson: We still need to tighten policy further."
+    },
+    {
+      "id": "5226665",
+      "time": "2026-11-20 08:03:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國首個獨立執行的兆瓦級海島微電網投運】從國家電網瞭解到，昨天（19日），全國首個獨立執行的兆瓦級海島微電網在福建福鼎台山島投運，台山島徹底告別柴油發電時代，實現百分之百綠電不間斷供電。此次投運的微電網工程，配置風機、光伏、鋰電池和氨氫燃料電池，總裝機容量達到1.5兆瓦，年發電量120萬千瓦時。工程投運後，島上實現24小時全綠電供電。"
+    },
+    {
+      "id": "mkt:01a1f643-1588-7bbc-ac7a-cb5e754c5251",
+      "time": "2026-11-20 08:02:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan's 30-year bond yield falls 2.5 bps to 3.965%."
+    },
+    {
+      "id": "mkt:01a1f643-12f4-7bbc-ac7a-c314fe05b0b0",
+      "time": "2026-11-20 08:02:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's economy minister Kiuchi: Household incomes remain resilient."
+    },
+    {
+      "id": "mkt:01a1f642-dd2e-7bbc-ac7a-bfccde633d4e",
+      "time": "2026-11-20 08:02:19",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Economy and Fiscal Policy Minister Kiuchi: Rising inflation expectations are weighing on consumer confidence, but one-off factors are also behind signs of weak consumption."
+    },
+    {
+      "id": "mkt:01a1f642-ccfd-7bbc-ac7a-b1fc023e186e",
+      "time": "2026-11-20 08:02:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Japan's Economy and Fiscal Policy Minister Kiuchi said companies are gradually passing on costs driven up by Middle East tensions, while core consumer inf is accelerating."
+    },
+    {
+      "id": "5226664",
+      "time": "2026-11-20 08:02:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【庫什納稱俄羅斯同意歐洲參與多邊談判 】美國總統特朗普的女婿庫什納19日在柏林表示，俄羅斯已同意歐洲參加多邊談判機制。在當天舉行的“志願聯盟”會議後，庫什納與歐洲多國領導人共同出席記者會時說，重啟歐洲與俄羅斯直接對話尤為重要，雙方將直接聽取彼此的訴求。他說，俄方能夠接受烏克蘭獲得類似《北大西洋公約》第五條集體防禦條款的安全保障，同時也表達了不再爆發新衝突的意願。庫什納強調，相關安全保障需要建立一套涵蓋監督核查、威懾等措施的機制，這是一項重大舉措，特朗普對此也持開放態度，但前提是必須符合美國利益。"
+    },
+    {
+      "id": "mkt:01a1f642-9ad4-7bbc-ac7a-ac833aeafc08",
+      "time": "2026-11-20 08:02:02",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japanese Economic and Fiscal Policy Minister Kiuchi: Japan's economy is showing encouraging signs, with wages and prices rising steadily together."
+    },
+    {
+      "id": "5226663",
+      "time": "2026-11-20 08:01:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星任命新的移動業務負責人。"
+    },
+    {
+      "id": "5226662",
+      "time": "2026-11-20 08:01:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌4%。"
+    },
+    {
+      "id": "5226661",
+      "time": "2026-11-20 08:01:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌6％，三星電子股價下跌4％。"
+    },
+    {
+      "id": "5226660",
+      "time": "2026-11-20 08:01:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率下降2.5個基點，至3.965%。"
+    },
+    {
+      "id": "5226659",
+      "time": "2026-11-20 08:01:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星任命新的記憶體業務負責人。"
+    },
+    {
+      "id": "mkt:01a1f641-cca6-7bbc-ac7a-a4aae2f41133",
+      "time": "2026-11-20 08:01:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Japanese and South Korean stocks open lower; South Korean shares down 4%】Japan's Nikkei index opened down 1.57%, while South Korea's Kospi fell more than 4%. Samsung Electronics dropped 4.4% and SK Hynix fell 6%."
+    },
+    {
+      "id": "mkt:01a1f641-c428-7bbc-ac7a-9b3f957b83da",
+      "time": "2026-11-20 08:01:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "UK November GfK consumer confidence index -22, in line with expectations and up from -24 previously."
+    },
+    {
+      "id": "mkt:01a1f641-a743-7bbc-ac7a-9467b23fe3de",
+      "time": "2026-11-20 08:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GfK Consumer Confidence Index (Nov) | actual -22 | consensus -22 | previous -24"
+    },
+    {
+      "id": "5226658",
+      "time": "2026-11-20 08:00:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌4.1%，至4928.51點。"
+    },
     {
       "id": "5226657",
       "time": "2026-11-20 08:00:29",
@@ -85413,98 +85637,6 @@
         "觀點"
       ],
       "text": "【中信建投醫藥生物行業2027年投資策略：建議圍繞創新、國際化把握機會】中信建投證券釋出醫藥生物行業2027年投資策略報告稱，2026年前三季度醫藥板塊經營持續改善，2027年趨勢有望延續。展望2027年，創新藥海外臨床與註冊進入密集驗證期，隨著出海增加、戰略聯盟興起，將面對更大的市場和更復雜的競爭環境，機遇和風險並存；CXO訂單轉化與上游需求回暖相互促進，AIDD進一步驅動需求上升。器械業績拐點逐步顯現，中藥及醫藥商業關注經營修復，血製品與疫苗聚焦新品、整合及出海。建議圍繞創新、國際化把握機會，同時建議加大關注邊際改善主線。"
-    },
-    {
-      "id": "5211937",
-      "time": "2026-11-13 08:04:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本5年期國債收益率上升7個基點至2.265%。"
-    },
-    {
-      "id": "5211936",
-      "time": "2026-11-13 08:04:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【日經225指數漲幅擴大至1%】日經225指數漲幅擴大至1%，現報61516.31點。"
-    },
-    {
-      "id": "5211935",
-      "time": "2026-11-13 08:03:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破3890美元/盎司，日內漲0.12%。"
-    },
-    {
-      "id": "5211934",
-      "time": "2026-11-13 08:03:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：要讓貨幣政策達到合適的位置，仍有工作要做。"
-    },
-    {
-      "id": "mkt:01a1d236-ee45-7bbc-abc1-236b20d1513e",
-      "time": "2026-11-13 08:02:57",
-      "tags": [
-        "MKT News",
-        "MOD.O",
-        "Impact mixed",
-        "005930.KS"
-      ],
-      "text": "【Samsung Electronics in talks to buy data‑center cooling equipment maker Modine】Samsung Electronics is negotiating to acquire data‑center cooling systems maker Modine Manufacturing Co., sources said. The parties are exploring a possible deal that could be reached within weeks. Modine’s market value is about $5.6 billion. Its shares have fallen about 15% since Nov. 3 after the company reported weaker‑than‑expected fiscal 2027 second‑quarter results. Sources said Samsung has not made a final decision, talks could still collapse, and other bidders may emerge."
-    },
-    {
-      "id": "mkt:01a1d235-9be1-7bbc-abc1-1b2d37ceb032",
-      "time": "2026-11-13 08:01:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's Nikkei 225 opened 427.95 points higher, +0.70%, at 61,247.31 on Friday, Nov. 13."
-    },
-    {
-      "id": "mkt:01a1d235-801d-7bbc-abc1-116db0b741de",
-      "time": "2026-11-13 08:01:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "South Korea's KOSPI was up 2.05% in early trade. SK Hynix and Samsung Electronics each rose more than 3%."
-    },
-    {
-      "id": "5211933",
-      "time": "2026-11-13 08:01:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲3%。"
-    },
-    {
-      "id": "5211932",
-      "time": "2026-11-13 08:01:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價上漲3%。"
-    },
-    {
-      "id": "5211931",
-      "time": "2026-11-13 08:01:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：需要採取行動，但不能損害勞動力市場。"
     }
   ]
 }
