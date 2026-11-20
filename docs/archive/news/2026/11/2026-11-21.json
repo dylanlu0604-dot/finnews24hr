@@ -1,7 +1,62 @@
 {
   "date": "2026-11-21",
-  "count": 386,
+  "count": 392,
   "items": [
+    {
+      "id": "5228951",
+      "time": "2026-11-21 05:36:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪關於葡萄牙：穩定的展望反映了政府債務負擔可能比預期更快減輕的平衡。"
+    },
+    {
+      "id": "mkt:01a1fae3-aaef-7bbc-ac9a-edca9933c476",
+      "time": "2026-11-21 05:36:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran still hopes diplomacy can end its war with the United States, Foreign Minister Abbas Araghchi said. Tehran and Washington continue to exchange messages through intermediaries."
+    },
+    {
+      "id": "5228950",
+      "time": "2026-11-21 05:36:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長對伊朗報紙表示：伊朗和美國之間透過調解人傳遞資訊的交流仍在繼續。"
+    },
+    {
+      "id": "mkt:01a1fae3-26cd-7bbc-ac9a-e176d7428caf",
+      "time": "2026-11-21 05:35:52",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【S&P 500 plunges as VIX briefly hits 40】The VIX briefly rose to 40 on Friday, its highest level since the April 2025 tariff turmoil, after the S&P 500 fell 3.6%, its worst weekly performance in seven months. More than 80% of the VIX’s rise reflected the index’s decline and its knock-on effect on longer-dated options pricing, rather than heavy demand for put protection, said Mandy Xu, head of derivatives market intelligence at Cboe. A VIX above 30 typically signals market stress but not necessarily panic, she said. Some investors are positioning for volatility to persist. Matthew Thompson, managing partner at Thompson Capital Management, sees scope for a further sharp rise and said the firm has taken long-volatility positions through VIX futures."
+    },
+    {
+      "id": "5228949",
+      "time": "2026-11-21 05:35:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊對伊朗《伊朗報》表示：德黑蘭仍對透過外交途徑結束與美國的戰爭抱有希望。"
+    },
+    {
+      "id": "5228948",
+      "time": "2026-11-21 05:34:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "TWENTY ONE CAPITAL 又購買了價值 1000 萬美元的比特幣，將持股增加至約 43,841 枚。"
+    },
     {
       "id": "5228947",
       "time": "2026-11-21 05:33:44",
