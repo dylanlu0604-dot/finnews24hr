@@ -1,7 +1,128 @@
 {
   "date": "2026-11-20",
-  "count": 1079,
+  "count": 1092,
   "items": [
+    {
+      "id": "5227072",
+      "time": "2026-11-20 13:02:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大皇家銀行將梅賽德斯-賓士集團目標價從 44 歐元下調至 38 歐元。"
+    },
+    {
+      "id": "mkt:01a1f755-1d90-7bbc-ac81-42d7a47fbd5e",
+      "time": "2026-11-20 13:01:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bearish"
+      ],
+      "text": "JEFFERIES cuts Alibaba (BABA.N) PT to $161 from $192."
+    },
+    {
+      "id": "5227071",
+      "time": "2026-11-20 13:01:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "*ST啟環盤中跌停，上演“天地板”，現報1.05元，成交額1.79億元。"
+    },
+    {
+      "id": "5227070",
+      "time": "2026-11-20 13:01:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "*ST啟環觸及跌停，上演“地天地”行情，成交額1.79億元。"
+    },
+    {
+      "id": "5227069",
+      "time": "2026-11-20 13:01:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數下跌2%。"
+    },
+    {
+      "id": "5227068",
+      "time": "2026-11-20 13:01:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將阿里巴巴ADR目標價從192.00美元下調至161.00美元。"
+    },
+    {
+      "id": "5227067",
+      "time": "2026-11-20 13:01:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本10月粗鋼產量較9月增長6.5%，至670萬噸；同比下降2.3%。"
+    },
+    {
+      "id": "mkt:01a1f754-2288-7bbc-ac81-3e95b582a6a5",
+      "time": "2026-11-20 13:00:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【China International Capital Co Chief Economist Miao Yanliang: China asset re-rating has long-term support】On Nov. 20, Miao Yanliang said stepped-up market-stabilization measures and inflows of long-term capital are creating conditions for markets to stabilize. China’s asset re-rating is still underway, with its long-term prospects supported by the global allocation environment, China’s growth momentum and structural changes in the capital-market ecosystem."
+    },
+    {
+      "id": "mkt:01a1f753-f3ef-7bbc-ac81-36218ed80d60",
+      "time": "2026-11-20 13:00:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01347.HK",
+        "Impact bearish"
+      ],
+      "text": "Hua Hong Semiconductor (01347.HK) extended losses to 10% in afternoon trading."
+    },
+    {
+      "id": "5227066",
+      "time": "2026-11-20 13:00:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【基輔市長：俄羅斯襲擊造成基輔三座橋樑受損】基輔市長Vitali Klitschko在社交媒體上發帖稱，針對烏克蘭首都的彈道導彈襲擊造成三座橋樑受損，導致基輔左右兩岸之間的交通中斷。Podilsko-Voskresensky大橋受損後，從右岸到左岸的交通已經封閉。Darnytskyi大橋也遭到損壞；受損程度將進行評估。Pivdennyi大橋再次遭到襲擊，目前處於交通管制狀態。"
+    },
+    {
+      "id": "5227065",
+      "time": "2026-11-20 13:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.32%，現報2240.208點；上證指數跌1.65%，現報3518.755點；深證成指跌2.21%，現報10349.163點。"
+    },
+    {
+      "id": "5227064",
+      "time": "2026-11-20 13:00:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫光股份在濟南成立電子公司】企查查APP顯示，近日，澤拓流動（濟南）電子有限公司成立，註冊資本1億元，經營範圍包含通訊裝置製造；電子專用裝置製造；電力電子元器件製造；供應鏈管理服務；汽車零部件及配件製造等。企查查股權穿透顯示，該公司由紫光股份旗下紫光未來科技（杭州）有限公司全資持股。"
+    },
+    {
+      "id": "5227063",
+      "time": "2026-11-20 12:59:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2025年全球專利申請量創新高 中國大幅領先】世界智慧財產權組織18日釋出的《2026年世界智慧財產權指標》報告顯示，2025年全球創新者提交了創紀錄的390萬件專利申請，同比增長6%，創近10年來最快增速。其中，來自中國的專利申請量全球第一，且大幅領先第二名。 報告顯示，2025年，居住在中國、美國、日本和韓國的創新者領跑全球專利申請，分別為190萬件、489766件、466301件和319210件。亞洲在全球專利申請總量中的佔比從2015年的61.9%上升至2025年的71.2%。這一增長主要得益於中國強勁的申請增長勢頭，2025年中國的專利申請量約佔亞洲地區總申請量的68.5%。"
+    },
     {
       "id": "mkt:01a1f751-9028-7bbc-ac81-2db4a9d56d0b",
       "time": "2026-11-20 12:57:59",
