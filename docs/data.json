@@ -1,7 +1,233 @@
 {
-  "updated": "2026-11-20 21:34:23",
-  "count": 9483,
+  "updated": "2026-11-20 21:38:12",
+  "count": 9497,
   "items": [
+    {
+      "id": "mkt:01a1f92d-4c0a-7bbc-ac8f-d208b593a4ee",
+      "time": "2026-11-20 21:37:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "UKMTO received a report of an incident 95 nautical miles southwest of Mukalla, Yemen."
+    },
+    {
+      "id": "5228373",
+      "time": "2026-11-20 21:37:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "Anthropic延續跌勢，盤前股價跌破84美元。"
+    },
+    {
+      "id": "5228372",
+      "time": "2026-11-20 21:37:20",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯央行黃金儲備降至7250萬盎司。"
+    },
+    {
+      "id": "mkt:01a1f92d-0188-7bbc-ac8f-c839a7f78394",
+      "time": "2026-11-20 21:37:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Saudi-led coalition said operations to destroy targets in Sanaa, Saada and Taiz, Yemen, are underway."
+    },
+    {
+      "id": "5228371",
+      "time": "2026-11-20 21:37:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：一艘商船遭小艇槍擊，護航航母鳴槍示警予以回擊。"
+    },
+    {
+      "id": "mkt:01a1f92c-c15a-7bbc-ac8f-c3bc764594cd",
+      "time": "2026-11-20 21:37:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The Saudi-led coalition said it struck operational capability targets at Yemen’s Hodeidah port used for smuggling and transporting weapons and ballistic missiles."
+    },
+    {
+      "id": "5228370",
+      "time": "2026-11-20 21:36:50",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "沙特領導的聯軍：正在進行行動，摧毀葉門薩那、薩達和塔伊茲的目標。"
+    },
+    {
+      "id": "5228369",
+      "time": "2026-11-20 21:36:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：我認為在學費問題上的協議沒有任何混淆，重置協議已經達成。"
+    },
+    {
+      "id": "5228368",
+      "time": "2026-11-20 21:36:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【索馬利亞驅逐阿聯酋大使並召回本國大使】索馬利亞部長會議19日決定，要求阿聯酋駐索馬利亞大使在72小時內離境，並宣佈召回索馬利亞駐阿聯酋大使，指責阿聯酋“未能尊重索馬利亞主權”。阿聯酋外交部當天發表宣告指責索馬利亞政府的舉動“充滿敵意”。（新華社）"
+    },
+    {
+      "id": "5228367",
+      "time": "2026-11-20 21:36:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：一艘散貨船遭載有武裝人員的快艇逼近。"
+    },
+    {
+      "id": "mkt:01a1f92c-4c3b-7bbc-ac8f-bab43fd74a19",
+      "time": "2026-11-20 21:36:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham: What we announced today is probably the limit of what this Parliament can deliver before 2029."
+    },
+    {
+      "id": "mkt:01a1f92b-d90e-7bbc-ac8f-b5db006b3a70",
+      "time": "2026-11-20 21:36:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Prime Minister Burnham: We will begin informal discussions with the EU in about a year."
+    },
+    {
+      "id": "5228366",
+      "time": "2026-11-20 21:35:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩表示，歡迎英國首相伯納姆願意就歐盟問題展開辯論。"
+    },
+    {
+      "id": "mkt:01a1f92b-7e12-7bbc-ac8f-aba49e697141",
+      "time": "2026-11-20 21:35:39",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "UK Prime Minister Burnham: The 10-year plan’s goals are closely tied to the long-term UK-EU relationship."
+    },
+    {
+      "id": "5228365",
+      "time": "2026-11-20 21:35:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價盤前跌幅擴大至7.5%。"
+    },
+    {
+      "id": "mkt:01a1f92b-3be1-7bbc-ac8f-a1d4140a2a56",
+      "time": "2026-11-20 21:35:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【NVIDIA on track for longest weekly losing streak since 2008】NVIDIA shares fell nearly 4% in premarket trading. A weekly loss would mark a seventh straight decline, the longest such streak since 2008. The selloff is adding to concerns over the staying power of the AI rally that has driven stock gains in recent years. Anthropic’s listing failed to lift sector sentiment: shares closed Thursday nearly 13% below their opening price and fell a further 13% in premarket trading today. LSEG data show 48 of the 65 brokerages covering NVIDIA rate it Buy or higher, with a median PT of $233.50. NVIDIA is down 21.7% year to date through the previous close, while the S&P 500 is up 4.8%."
+    },
+    {
+      "id": "5228364",
+      "time": "2026-11-20 21:35:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室收到葉門穆卡拉附近發生事件報告。"
+    },
+    {
+      "id": "5228363",
+      "time": "2026-11-20 21:34:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯-賓士集團股份公司：統一監管框架預計將於2027年1月生效，並將為該項技術在其他適用聯合國R171法規的市場潛在推廣奠定基礎。"
+    },
+    {
+      "id": "mkt:01a1f92a-8272-7bbc-ac8f-9c5b4ee2e44a",
+      "time": "2026-11-20 21:34:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "The Saudi-led coalition has begun a targeted operation to eliminate threats used in attacks on civilians in Yemen and Saudi Arabia. It will target key facilities and resources the Houthis use to support military operations."
+    },
+    {
+      "id": "5228362",
+      "time": "2026-11-20 21:34:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯盟稱，其行動針對胡塞武裝的“重要來源”。荷臺達港的目標作戰能力被用於走私行動以及武器和彈道導彈的運輸。"
+    },
+    {
+      "id": "5228361",
+      "time": "2026-11-20 21:34:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：我們今天宣佈的內容很可能是本屆議會到2029年前所能達到的極限。"
+    },
+    {
+      "id": "5228360",
+      "time": "2026-11-20 21:34:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國華能集團與國家電投集團簽署戰略合作協議】11月20日，中國華能集團有限公司與國家電力投資集團有限公司在雄安華能總部簽署全面深化核能領域戰略合作框架協議。協議簽署前，中國華能集團董事長、黨組書記白勇與國家電投集團董事長、黨組書記劉明勝舉行工作會談。"
+    },
+    {
+      "id": "5228359",
+      "time": "2026-11-20 21:34:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "Adyen的商戶將能夠在AI代理結賬中提供Klarna支付服務。"
+    },
+    {
+      "id": "5228358",
+      "time": "2026-11-20 21:34:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯-賓士集團股份公司 ： 早期體驗計劃將於2026年底在斯圖加特和慕尼黑啟動；德國市場計劃於2027年上半年推出。"
+    },
+    {
+      "id": "5228357",
+      "time": "2026-11-20 21:33:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆：我們將在大約一年後尋求與歐盟進行非正式的頭腦風暴。"
+    },
     {
       "id": "5228356",
       "time": "2026-11-20 21:33:43",
@@ -84733,107 +84959,6 @@
         "其他"
       ],
       "text": "阿達尼機場正在試探投資者興趣。"
-    },
-    {
-      "id": "5213477",
-      "time": "2026-11-13 21:38:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿達尼機場據悉尋求額外10億美元融資。"
-    },
-    {
-      "id": "5213476",
-      "time": "2026-11-13 21:38:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "小鵬汽車計劃2027年在英國達成20項經銷商及租賃合作協議。"
-    },
-    {
-      "id": "5213475",
-      "time": "2026-11-13 21:37:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：“我們的重點仍然是穩定已恢復的基礎設施，完成剩餘受影響區域的緩解措施，並減少延遲的電子郵件佇列和積壓，同時我們驗證跨連線方法的服務一致性。"
-    },
-    {
-      "id": "5213474",
-      "time": "2026-11-13 21:37:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "小鵬汽車計劃到2027年在英國佈局約100家零售網點。"
-    },
-    {
-      "id": "5213473",
-      "time": "2026-11-13 21:37:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：小鵬汽車將在12個月內於英國推出五款右舵車型。"
-    },
-    {
-      "id": "5213472",
-      "time": "2026-11-13 21:37:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河北雄安新區昝崗組團“站產城一體”開發有序推進】11月13日，雄安新區昝崗西廣場綜合商業一期專案首棟主體結構封頂。作為昝崗組團推進“站產城一體”開發的重要載體，專案總建築面積12.62萬平方米，規劃建設6棟集辦公、酒店、底商於一體的功能型綜合體。（新華社）"
-    },
-    {
-      "id": "5213471",
-      "time": "2026-11-13 21:37:13",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團將思科目標價從139美元下調至120美元。"
-    },
-    {
-      "id": "5213470",
-      "time": "2026-11-13 21:36:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紐氏達特創業板IPO過會】深圳證券交易所上市稽核委員會2026年第62次審議會議於2026年11月13日召開，審議結果為紐氏達特行星傳動系統技術（淄博）股份有限公司首發符合發行條件、上市條件和資訊披露要求。"
-    },
-    {
-      "id": "mkt:01a1d51f-3e17-7bbc-abd5-7a31168192d4",
-      "time": "2026-11-13 21:35:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "After the US October PPI release, markets trimmed expectations for Fed rate hikes."
-    },
-    {
-      "id": "em:qqyh_mlc:202611133930959444",
-      "time": "2026-11-13 21:35:33",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "PPI報告公佈後，交易員下調對美聯儲收緊政策的預期。"
-    },
-    {
-      "id": "5213469",
-      "time": "2026-11-13 21:35:02",
-      "tags": [
-        "資料",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "PPI報告公佈後，交易員下調對美聯儲緊縮的預期。"
     }
   ]
 }
