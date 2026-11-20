@@ -1,7 +1,148 @@
 {
-  "updated": "2026-11-20 21:41:58",
-  "count": 9504,
+  "updated": "2026-11-20 21:46:05",
+  "count": 9499,
   "items": [
+    {
+      "id": "5228392",
+      "time": "2026-11-20 21:45:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部：昨日，前往宏都拉斯，交付了1350萬美元的軍事裝備首付款。"
+    },
+    {
+      "id": "5228391",
+      "time": "2026-11-20 21:44:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特聯軍：針對導彈能力的行動仍在進行中。"
+    },
+    {
+      "id": "mkt:01a1f933-c45d-7bbc-ac90-4c6747576330",
+      "time": "2026-11-20 21:44:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "European Commission President Ursula von der Leyen expressed solidarity with Poland after Russia violated Polish airspace overnight."
+    },
+    {
+      "id": "mkt:01a1f932-ee60-7bbc-ac90-4729f3b633ed",
+      "time": "2026-11-20 21:43:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "British Prime Minister Burnham: The incursion into Poland is completely unacceptable."
+    },
+    {
+      "id": "mkt:01a1f932-a5ce-7bbc-ac90-3e68e1cc30d0",
+      "time": "2026-11-20 21:43:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic’s lofty valuation raises growth questions, analyst says】Seaport Research Partners analyst Jay Goldberg said Anthropic needs much faster revenue growth over the next two years to support its valuation. He is concerned about a sharp slowdown in third-quarter growth, which may not improve much in the fourth quarter. “Anthropic is a remarkable company, but investing in it requires a great deal of faith. We believe the company needs time to grow into its valuation and answer major questions about its growth trajectory.” Goldberg is not bearish, but remains cautious, rating the shares Neutral."
+    },
+    {
+      "id": "5228389",
+      "time": "2026-11-20 21:43:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特聯軍稱打擊了荷臺達港的作戰能力。"
+    },
+    {
+      "id": "5228388",
+      "time": "2026-11-20 21:43:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南非多地宣佈限水以緩解供水壓力】受水庫蓄水量下降和用水需求增長等影響，南非多地政府近日釋出公告，宣佈實施限水措施，以緩解供水壓力。南非第一大城市約翰內斯堡市政府18日釋出公告，宣佈於本月21日起實施2級限水措施。據當地水務部門估計，該市每日需減少2億升用水，才能有效緩解供水壓力。(新華社)"
+    },
+    {
+      "id": "mkt:01a1f931-a964-7bbc-ac90-35dd166db9c8",
+      "time": "2026-11-20 21:42:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Shanghai Silicon Industry: Prices of some products show clear signs of recovery】At its third-quarter earnings briefing, Shanghai Silicon Industry said domestic semiconductor wafer prices have gradually bottomed since 1H. Improving supply-demand conditions have driven a clear recovery in prices for some products, putting them on a definite uptrend and giving the company more room to adjust prices in negotiations with customers. The company will seek to gradually reflect the trend in future agreements and orders."
+    },
+    {
+      "id": "mkt:01a1f931-a7a1-7bbc-ac90-2c65cbf4276d",
+      "time": "2026-11-20 21:42:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "European Council President Costa: Russia is moving in the wrong direction, following the breach of Polish airspace."
+    },
+    {
+      "id": "5228387",
+      "time": "2026-11-20 21:42:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滬矽產業：部分產品價格修復趨勢明顯】11月20日，在三季度業績會上，滬矽產業表示，今年上半年以來，國內半導體矽片價格逐步觸底，隨著市場供需關係進一步改善，部分產品價格修復趨勢也十分明顯，進入了明確的上升通道，這也使得公司在與客戶的價格溝通中有了更大調整空間，公司將積極爭取能夠在後續的協議及訂單中進行逐步的落實。"
+    },
+    {
+      "id": "5228386",
+      "time": "2026-11-20 21:42:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟的科斯塔在評論波蘭領空遭侵犯事件時表示，俄羅斯正走在錯誤的道路上。"
+    },
+    {
+      "id": "5228385",
+      "time": "2026-11-20 21:41:53",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "Klarna的波蘭競爭對手PayPo據稱選定花旗和摩根大通負責其首次公開募股。"
+    },
+    {
+      "id": "5228384",
+      "time": "2026-11-20 21:41:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【億緯鋰能與北京大學共建“AI Battery聯合實驗室”】11月19日，“北京大學-億緯鋰能AI Battery聯合實驗室”揭牌儀式在北京大學力學與工程科學學院舉行。雙方將推動AI前沿演算法與電池工程深度對接，圍繞先進感測與智慧診斷、高精度演算法與最優策略、雲平臺智慧體三大研發方向，對電池內部狀態感知、運營策略與最佳化、AI雲端智慧管理等關鍵課題開展聯合攻堅。"
+    },
+    {
+      "id": "mkt:01a1f931-0695-7bbc-ac90-27885171e5b8",
+      "time": "2026-11-20 21:41:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The most-active LPG futures contract fell 6.00% intraday to 5,224 yuan/mt."
+    },
     {
       "id": "5228383",
       "time": "2026-11-20 21:41:27",
@@ -84810,211 +84951,6 @@
         "其他"
       ],
       "text": "嘉信理財10月新增經紀賬戶40.9萬個。"
-    },
-    {
-      "id": "5213499",
-      "time": "2026-11-13 21:45:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "嘉信理財10月客戶總資產13.27萬億美元。"
-    },
-    {
-      "id": "5213498",
-      "time": "2026-11-13 21:45:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：通脹正在上升，而且事實證明，其持續時間遠超預期，而此前通脹只是供應衝擊的問題。"
-    },
-    {
-      "id": "5213497",
-      "time": "2026-11-13 21:45:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "嘉信理財10月核心淨新增資產665億美元。"
-    },
-    {
-      "id": "5213496",
-      "time": "2026-11-13 21:45:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭總理圖斯克表示，據報告，11月12日晚，美國中東問題特使威特科夫和特朗普女婿庫什納在都柏林向幾個歐洲國家領導人及歐盟代表通報了他們在莫斯科與俄羅斯總統普京會談的結果。"
-    },
-    {
-      "id": "5213495",
-      "time": "2026-11-13 21:44:59",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：同意美聯儲在通脹方面“仍有工作要做”。"
-    },
-    {
-      "id": "5213494",
-      "time": "2026-11-13 21:44:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：如果需求過熱，就不能對通脹視而不見；資料中心建設正在推高價格。"
-    },
-    {
-      "id": "mkt:01a1d527-4a31-7bbc-abd5-ba6a31922f50",
-      "time": "2026-11-13 21:44:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "Fed's Goolsbee said AI build-out is adding to economic heating beyond the effects of higher energy costs."
-    },
-    {
-      "id": "5213493",
-      "time": "2026-11-13 21:44:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：人工智慧建設正在推高能源成本之上的經濟熱度。"
-    },
-    {
-      "id": "mkt:01a1d527-0a42-7bbc-abd5-b766d0a775a1",
-      "time": "2026-11-13 21:44:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed GOOLSBEE: labor market stable and may be slightly tightening."
-    },
-    {
-      "id": "mkt:01a1d526-a165-7bbc-abd5-af9ff41ec7bf",
-      "time": "2026-11-13 21:44:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Fed's Goolsbee said officials should be cautious assessing the labor market's impact on inf, noting wages are a lagging indicator of price pressure."
-    },
-    {
-      "id": "mkt:01a1d526-72d6-7bbc-abd5-a5294b5ebc8f",
-      "time": "2026-11-13 21:43:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve Governor Goolsbee said current price shocks may not show up in the labor market until later."
-    },
-    {
-      "id": "5213492",
-      "time": "2026-11-13 21:43:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：勞動力市場穩定，可能略有收緊。"
-    },
-    {
-      "id": "mkt:01a1d526-2227-7bbc-abd5-987b0cf19e0d",
-      "time": "2026-11-13 21:43:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "The Fed's Goolsbee said inf will determine the path of interest rates."
-    },
-    {
-      "id": "mkt:01a1d525-ec7a-7bbc-abd5-9262a5752342",
-      "time": "2026-11-13 21:43:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC is investigating a performance degradation; error rates have risen for Claude.AI, its API and Claude Code."
-    },
-    {
-      "id": "5213491",
-      "time": "2026-11-13 21:42:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：通脹將決定利率路徑。"
-    },
-    {
-      "id": "5213490",
-      "time": "2026-11-13 21:42:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：當前的價格衝擊可能稍後才會在勞動力市場顯現。"
-    },
-    {
-      "id": "mkt:01a1d525-5d14-7bbc-abd5-8e9f24522364",
-      "time": "2026-11-13 21:42:37",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "GOOLSBEE said policymakers should not be reassured by the absence of wage inf."
-    },
-    {
-      "id": "5213489",
-      "time": "2026-11-13 21:42:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic表示正在調查效能下降問題。"
-    },
-    {
-      "id": "5213488",
-      "time": "2026-11-13 21:42:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：需要謹慎評估勞動力市場對通脹的影響，因為工資是價格壓力的滯後指標。"
     }
   ]
 }
