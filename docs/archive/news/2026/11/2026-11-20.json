@@ -1,7 +1,96 @@
 {
   "date": "2026-11-20",
-  "count": 659,
+  "count": 667,
   "items": [
+    {
+      "id": "5226672",
+      "time": "2026-11-20 08:07:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門稱吉贊市危險已解除。"
+    },
+    {
+      "id": "mkt:01a1f647-62c7-7bbc-ac7a-fa20b473e43f",
+      "time": "2026-11-20 08:07:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "The MSCI Asia-Pacific Index fell more than 1%."
+    },
+    {
+      "id": "mkt:01a1f646-72fa-7bbc-ac7a-f0e5ab32085b",
+      "time": "2026-11-20 08:06:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Paulson: The top priority now is to bring down inf."
+    },
+    {
+      "id": "mkt:01a1f646-0493-7bbc-ac7a-ecf39801e807",
+      "time": "2026-11-20 08:05:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei index fell 2.00% intraday."
+    },
+    {
+      "id": "em:qqyh_mlc:202611203935661455",
+      "time": "2026-11-20 08:04:57",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲保爾森：還需進一步收緊政策】美聯儲保爾森稱，還需進一步收緊政策。以審慎的加息步伐推進，可讓經濟有時間作出調整。"
+    },
+    {
+      "id": "5226671",
+      "time": "2026-11-20 08:04:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員保爾森：降低通脹是當前的首要任務。"
+    },
+    {
+      "id": "mkt:01a1f644-f0ac-7bbc-ac7a-e78b6c97e02b",
+      "time": "2026-11-20 08:04:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's Paulson: Inflation is too high; the labor market is at full employment."
+    },
+    {
+      "id": "5226670",
+      "time": "2026-11-20 08:04:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1.1%至239.79點。"
+    },
     {
       "id": "5226669",
       "time": "2026-11-20 08:04:13",
