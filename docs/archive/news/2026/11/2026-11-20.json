@@ -1,7 +1,109 @@
 {
   "date": "2026-11-20",
-  "count": 1551,
+  "count": 1562,
   "items": [
+    {
+      "id": "mkt:01a1f925-ef53-7bbc-ac8f-4d901cab0864",
+      "time": "2026-11-20 21:29:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS: Russia summons Romanian ambassador."
+    },
+    {
+      "id": "mkt:01a1f925-bd6e-7bbc-ac8f-42654ab0381a",
+      "time": "2026-11-20 21:29:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "ANT.O",
+        "Impact bearish"
+      ],
+      "text": "Anthropic (ANT.O) extended premarket losses to 11%."
+    },
+    {
+      "id": "5228343",
+      "time": "2026-11-20 21:29:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯召見羅馬尼亞大使。"
+    },
+    {
+      "id": "5228342",
+      "time": "2026-11-20 21:29:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "Anthropic盤前跌幅擴大至11%。"
+    },
+    {
+      "id": "5228341",
+      "time": "2026-11-20 21:28:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【刁英川獲批擔任北京信託董事長】11月20日，北京金融監管局網站釋出批覆，核准刁英川北京國際信託有限公司董事長的任職資格。公司應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由決定機關辦理行政許可登出手續。"
+    },
+    {
+      "id": "mkt:01a1f924-724e-7bbc-ac8f-3ae3edf2f11c",
+      "time": "2026-11-20 21:27:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK Prime Minister Burnham said the Treasury estimates the deal could boost the UK economy by as much as 0.5% of GDP, or £17 billion."
+    },
+    {
+      "id": "5228340",
+      "time": "2026-11-20 21:27:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：若對兩名哈薩克高管的調查暴露治理缺陷或改變我們對主權支援的假設，可能會產生評級壓力。"
+    },
+    {
+      "id": "5228339",
+      "time": "2026-11-20 21:27:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國安迪·伯納姆：歐盟協議將為英國經濟帶來170億英鎊的提振。"
+    },
+    {
+      "id": "mkt:01a1f923-ad04-7bbc-ac8f-31e8237af48b",
+      "time": "2026-11-20 21:27:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Waller did not comment on monetary policy or the economic outlook in prepared remarks."
+    },
+    {
+      "id": "5228338",
+      "time": "2026-11-20 21:26:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【袁家軍在調研低空經濟安全發展工作時強調 積極探索低空安全治理路子 紮實推進低空經濟創新發展強市建設 陳新武參加】11月20日，市委書記袁家軍，市委副書記、市長陳新武前往兩江新區和梁平區，調研低空經濟安全發展工作。袁家軍強調，要深入學習貫徹習近平總書記對促進低空經濟健康發展作出的重要指示精神，全面落實黨中央重大決策部署，更好統籌發展和安全，突出需求牽引和技術進步“雙輪驅動”，積極探索低空安全治理路子，努力打造低空經濟優勢產業叢集，紮實推進低空經濟創新發展強市建設。中國航天科技集團黨組書記、董事長陳鳴波，市領導劉尚進、徐建、鄭向東、譚權，重慶警備區有關負責同志參加。"
+    },
+    {
+      "id": "5228337",
+      "time": "2026-11-20 21:25:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾：通脹預期仍牢牢錨定。"
+    },
     {
       "id": "5228336",
       "time": "2026-11-20 21:25:27",

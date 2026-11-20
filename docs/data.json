@@ -1,7 +1,109 @@
 {
-  "updated": "2026-11-20 21:26:23",
-  "count": 9504,
+  "updated": "2026-11-20 21:30:25",
+  "count": 9494,
   "items": [
+    {
+      "id": "mkt:01a1f925-ef53-7bbc-ac8f-4d901cab0864",
+      "time": "2026-11-20 21:29:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS: Russia summons Romanian ambassador."
+    },
+    {
+      "id": "5228343",
+      "time": "2026-11-20 21:29:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯召見羅馬尼亞大使。"
+    },
+    {
+      "id": "mkt:01a1f925-bd6e-7bbc-ac8f-42654ab0381a",
+      "time": "2026-11-20 21:29:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "ANT.O",
+        "Impact bearish"
+      ],
+      "text": "Anthropic (ANT.O) extended premarket losses to 11%."
+    },
+    {
+      "id": "5228342",
+      "time": "2026-11-20 21:29:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "Anthropic盤前跌幅擴大至11%。"
+    },
+    {
+      "id": "5228341",
+      "time": "2026-11-20 21:28:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【刁英川獲批擔任北京信託董事長】11月20日，北京金融監管局網站釋出批覆，核准刁英川北京國際信託有限公司董事長的任職資格。公司應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由決定機關辦理行政許可登出手續。"
+    },
+    {
+      "id": "mkt:01a1f924-724e-7bbc-ac8f-3ae3edf2f11c",
+      "time": "2026-11-20 21:27:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK Prime Minister Burnham said the Treasury estimates the deal could boost the UK economy by as much as 0.5% of GDP, or £17 billion."
+    },
+    {
+      "id": "5228340",
+      "time": "2026-11-20 21:27:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：若對兩名哈薩克高管的調查暴露治理缺陷或改變我們對主權支援的假設，可能會產生評級壓力。"
+    },
+    {
+      "id": "5228339",
+      "time": "2026-11-20 21:27:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國安迪·伯納姆：歐盟協議將為英國經濟帶來170億英鎊的提振。"
+    },
+    {
+      "id": "mkt:01a1f923-ad04-7bbc-ac8f-31e8237af48b",
+      "time": "2026-11-20 21:27:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Waller did not comment on monetary policy or the economic outlook in prepared remarks."
+    },
+    {
+      "id": "5228338",
+      "time": "2026-11-20 21:26:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【袁家軍在調研低空經濟安全發展工作時強調 積極探索低空安全治理路子 紮實推進低空經濟創新發展強市建設 陳新武參加】11月20日，市委書記袁家軍，市委副書記、市長陳新武前往兩江新區和梁平區，調研低空經濟安全發展工作。袁家軍強調，要深入學習貫徹習近平總書記對促進低空經濟健康發展作出的重要指示精神，全面落實黨中央重大決策部署，更好統籌發展和安全，突出需求牽引和技術進步“雙輪驅動”，積極探索低空安全治理路子，努力打造低空經濟優勢產業叢集，紮實推進低空經濟創新發展強市建設。中國航天科技集團黨組書記、董事長陳鳴波，市領導劉尚進、徐建、鄭向東、譚權，重慶警備區有關負責同志參加。"
+    },
+    {
+      "id": "5228337",
+      "time": "2026-11-20 21:25:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾：通脹預期仍牢牢錨定。"
+    },
     {
       "id": "5228336",
       "time": "2026-11-20 21:25:27",
@@ -84845,227 +84947,6 @@
         "S&P500"
       ],
       "text": "【US October PPI YoY at 6.5%, highest since Nov 2022】US October PPI rose 6.5% YoY, the highest since November 2022, below consensus of 6.6%. PPI rose 0.3% MoM in October, below consensus 0.4%."
-    },
-    {
-      "id": "mkt:01a1d51a-1d91-7bbc-abd5-0f742b67a3f3",
-      "time": "2026-11-13 21:30:20",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US core PPI MoM for October 0.3%, expected 0.30%; September reading revised up from 0.70% to 0.8%."
-    },
-    {
-      "id": "5213450",
-      "time": "2026-11-13 21:30:19",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國10月生產者價格指數同比上漲6.5%；預期上漲6.6%。"
-    },
-    {
-      "id": "mkt:01a1d51a-1466-7bbc-abd5-026ad42af36f",
-      "time": "2026-11-13 21:30:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US October PPI m/m 0.3% vs 0.4% expected; September revised up to 1.4% from 1.3%."
-    },
-    {
-      "id": "mkt:01a1d51a-0c97-7bbc-abd4-fc118871d961",
-      "time": "2026-11-13 21:30:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US October PPI YoY 6.5% vs 6.6% expected; prior 6.3%."
-    },
-    {
-      "id": "em:jjsj_mgsj:202611133930933912",
-      "time": "2026-11-13 21:30:15",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國10月PPI同比增長6.5% 低於市場預期】美國10月生產者價格指數（PPI）同比增長6.5%，預估為6.6%，前值為6.3%。環比上漲0.3%，預估為0.4%。"
-    },
-    {
-      "id": "5213449",
-      "time": "2026-11-13 21:30:12",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國10月生產者價格指數環比上漲0.3%；預期上漲0.4%。"
-    },
-    {
-      "id": "mkt:01a1d51a-0bfd-7bbc-abd4-f61b28f7b45f",
-      "time": "2026-11-13 21:30:11",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Canada September manufacturing shipments MoM 0.0% vs 0.1% expected; prior 1.5%."
-    },
-    {
-      "id": "mkt:01a1d519-f94f-7bbc-abd4-ed796a246af1",
-      "time": "2026-11-13 21:30:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada wholesale sales rose 0.7% MoM in September vs. 0.5% expected; prior -1.6%."
-    },
-    {
-      "id": "mkt:01a1d519-f8c1-7bbc-abd4-e5382054cd36",
-      "time": "2026-11-13 21:30:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "US core PPI YoY (Oct) 5.0% vs. 5.0% expected; prior 5.0%."
-    },
-    {
-      "id": "5213448",
-      "time": "2026-11-13 21:30:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【重慶市農投集團原黨委書記、董事長何勇嚴重違紀違法被開除黨籍】重慶市紀委監委13日通報，經重慶市委批准，重慶市紀委監委對重慶市農業投資集團有限公司原黨委書記、董事長何勇嚴重違紀違法問題進行了立案審查調查。（新華社）"
-    },
-    {
-      "id": "mkt:01a1d519-dc75-7bbc-abd4-df6914d2e9a3",
-      "time": "2026-11-13 21:30:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | PPI (YoY) (Oct) | actual 6.5% | consensus 6.6% | previous 6.30%"
-    },
-    {
-      "id": "mkt:01a1d519-dc21-7bbc-abd4-d67c20a52c28",
-      "time": "2026-11-13 21:30:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Core PPI (MoM) (Oct) | actual 0.3% | consensus 0.30% | previous 0.70%"
-    },
-    {
-      "id": "mkt:01a1d519-da92-7bbc-abd4-ce0ca59bcccc",
-      "time": "2026-11-13 21:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | PPI (MoM) (Oct) | actual 0.3% | consensus 0.40% | previous 1.30%"
-    },
-    {
-      "id": "mkt:01a1d519-d989-7bbc-abd4-c44b1f3578a3",
-      "time": "2026-11-13 21:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Core PPI (YoY) (Oct) | actual 5% | consensus 5% | previous 5.00%"
-    },
-    {
-      "id": "mkt:01a1d519-d798-7bbc-abd4-bcbcc6d31db1",
-      "time": "2026-11-13 21:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Wholesale Sales (MoM) (Sep) | actual 0.7% | consensus 0.5% | previous -1.60%"
-    },
-    {
-      "id": "mkt:01a1d519-d671-7bbc-abd4-b2f9e54db35c",
-      "time": "2026-11-13 21:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Sales (MoM) (Sep) | actual 0% | consensus 0.1% | previous 1.50%"
-    },
-    {
-      "id": "mkt:01a1d519-15bc-7bbc-abd4-af88ed71f502",
-      "time": "2026-11-13 21:29:13",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Guinea crackdown on artisanal gold miners leaves 10 dead】Guinean security forces clashed with protesters demanding the reopening of northeast artisanal gold mines, killing 10 people, including five foreign nationals, and wounding 13 civilians and security personnel, the government said. Protesters burned three security vehicles and seized one military weapon. Prosecutors have been asked to investigate the violence. According to World Gold Council and Guinea mining ministry data, Guinea is the world’s largest bauxite producer and Africa’s sixth-largest gold producer; artisanal miners account for the bulk of output. Guinea exported about 2.4m oz of gold last year, roughly 1.8m oz from artisanal mining; industrial producers supplied 555,529 oz and semi‑industrial producers 101,800 oz."
-    },
-    {
-      "id": "5213447",
-      "time": "2026-11-13 21:29:10",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行行長加里波洛：央行的職責不是提供任何形式的財務諮詢、為任何人擔保回報或提供任何型別的指導。"
-    },
-    {
-      "id": "5213446",
-      "time": "2026-11-13 21:28:49",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行行長加利波洛：巴西央行不會就下一步行動發出訊號。"
-    },
-    {
-      "id": "5213445",
-      "time": "2026-11-13 21:27:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行行長加利波洛：無需更新貨幣政策。"
-    },
-    {
-      "id": "mkt:01a1d517-3445-7bbc-abd4-a7d4759bf521",
-      "time": "2026-11-13 21:27:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "【Microsoft outage exposes risk of single-provider communications dependency】Wire CEO Benjamin Schilz said this week’s Microsoft outage highlighted the danger of placing an organisation’s communications with a single cloud provider. He noted technology is imperfect and outages can affect any company, but said government agencies, the defence sector and critical infrastructure cannot afford reliance on a single service. Digital sovereignty, he added, means not only control of data and its storage location but the ability to keep operating under disruption. If an organisation routes all communications through one platform, it effectively ties its crisis-response capability to that same platform."
     }
   ]
 }
