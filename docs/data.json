@@ -1,7 +1,46 @@
 {
-  "updated": "2026-11-20 08:27:25",
-  "count": 9565,
+  "updated": "2026-11-20 08:31:11",
+  "count": 9564,
   "items": [
+    {
+      "id": "5226695",
+      "time": "2026-11-20 08:29:35",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳大利亞央行貨幣政策委員會委員FRY-MCKIBBIN：澳洲聯儲研究的核心重點是政策權衡。澳洲聯儲委員會成員可能在如何應對政策權衡上存在分歧。政策權衡不容忽視，當前正處於這種局面。"
+    },
+    {
+      "id": "mkt:01a1f65a-64eb-7bbc-ac7b-9a7c3bd111c1",
+      "time": "2026-11-20 08:28:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Japan’s TOPIX fell 2%."
+    },
+    {
+      "id": "5226694",
+      "time": "2026-11-20 08:27:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲保爾森：美聯儲不應在通脹問題上“玩火”】費城聯邦儲備銀行行長安娜·保爾森稱，通貨膨脹似乎正在影響價格制定。美聯儲不應在通脹問題上“玩火”。長期通脹預期保持穩定，顯示美聯儲具有公信力。薪資增長與2%的通脹目標一致，這是一個好跡象。"
+    },
+    {
+      "id": "5226693",
+      "time": "2026-11-20 08:27:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數下跌2%，至3745.73。"
+    },
     {
       "id": "mkt:01a1f659-34be-7bbc-ac7b-950d1b8e8074",
       "time": "2026-11-20 08:26:43",
@@ -85678,53 +85717,6 @@
         "國際"
       ],
       "text": "【韓國總統李在明將討論市場改革措施】根據韓國政府釋出的聯合宣告，韓國總統李在明將與投資者和專家討論市場改革措施。李在明於當地時間上午9:30主持召開資本市場政策會議，財政部長等政府官員、國會議員、投資者以及科斯達克（Kosdaq）上市公司代表出席了此次會議。宣告稱，由於外部因素導致金融市場波動加劇，政府計劃以“高度警惕”的態度評估市場狀況。宣告還表示，政府將推進相關政策，以改善資本市場的根本健康度，確保其不受危機衝擊。"
-    },
-    {
-      "id": "5211970",
-      "time": "2026-11-13 08:29:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "新世界在香港暫停交易。"
-    },
-    {
-      "id": "mkt:01a1d24e-9a00-7bbc-abc1-72216640c350",
-      "time": "2026-11-13 08:28:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kushner, Trump's son-in-law, said he is pushing for the largest prisoner exchange to date in this conflict."
-    },
-    {
-      "id": "mkt:01a1d24e-5650-7bbc-abc1-6a72835337d3",
-      "time": "2026-11-13 08:28:31",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Kushner said both sides have agreed to expand the next round of Russia-Ukraine talks to include our European partners."
-    },
-    {
-      "id": "mkt:01a1d24e-3e80-7bbc-abc1-61e7a8dfa800",
-      "time": "2026-11-13 08:28:25",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "The Trump Trade",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "【Trump urged NVIDIA's Jensen Huang to fight to retain CEO post, NYT】The New York Times, citing two people, reports President Trump phoned NVIDIA (NVDA.O) CEO Jensen Huang on Tuesday urging him to continue fighting to retain his job; the call came before Huang relinquished the CEO role. NYT says the call is the latest example of Trump backing Huang, who has been a prominent ally and an influential AI adviser to Trump's circle."
-    },
-    {
-      "id": "5211969",
-      "time": "2026-11-13 08:27:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "賈裡德·庫什納談俄烏談判：雙方現已同意擴大下一輪談判範圍，將我們的歐洲夥伴納入其中。"
     }
   ]
 }
