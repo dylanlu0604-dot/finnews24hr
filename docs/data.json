@@ -1,7 +1,58 @@
 {
-  "updated": "2026-11-20 13:11:50",
-  "count": 9556,
+  "updated": "2026-11-20 13:15:43",
+  "count": 9553,
   "items": [
+    {
+      "id": "5227085",
+      "time": "2026-11-20 13:14:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明呼籲改革考試製度，打擊人工智慧作弊。"
+    },
+    {
+      "id": "5227084",
+      "time": "2026-11-20 13:14:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海國投先導人工智慧母基金擬參與投資3只子基金】11月20日，上海國投先導釋出訊息稱，初步確定國投先導人工智慧母基金擬參與投資3只子基金，分別為上海華駿私募基金合夥企業（有限合夥）、上海浦瓴私募投資基金合夥企業（有限合夥）和上海富海先導科創產業投資基金（有限合夥），機構品牌分別為春華資本、高瓴創投和東方富海。"
+    },
+    {
+      "id": "mkt:01a1f760-69ab-7bbc-ac81-86394cebd6e8",
+      "time": "2026-11-20 13:14:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei index extends losses to 4.9%."
+    },
+    {
+      "id": "mkt:01a1f75f-a576-7bbc-ac81-7a2d1e04ead3",
+      "time": "2026-11-20 13:13:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pentagon official: US has spent more than $48 bln on Iran war】The US has spent $48.3 bln on the war with Iran as of Nov. 13, excluding damage from attacks on US bases in the Middle East, a Defense Department official told a congressional hearing on the 19th. The figure includes military operations, ammunition replenishment and equipment replacement, budget official Arthur Miller said. Lawmakers pressed the Pentagon to provide the data promptly. The Congressional Budget Office put the cost of US military operations against Iran at about $38 bln as of Aug. 1, making the latest estimate about 26% higher. A previous Pentagon estimate also excluded damage to US bases."
+    },
+    {
+      "id": "5227083",
+      "time": "2026-11-20 13:13:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌1.6%，報8592.60點。"
+    },
+    {
+      "id": "5227082",
+      "time": "2026-11-20 13:12:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際足聯公佈三名主席候選人】國際足聯11月19日宣佈，將有包括現任主席因凡蒂諾在內的三名候選人，參加明年的主席選舉。今年4月29日，國際足聯釋出了選舉通知。在申請截止日之前，國際足聯收到了三名候選人的報名，他們分別是現任主席因凡蒂諾、現任法國足球協會主席菲利普·迪亞洛和前任日本足協主席田島幸三。國際足聯稱，根據規則，候選人名單已經遞交選舉委員會稽核，由其決定是否符合選舉標準，最終的參選名單將在2027年2月18日通知到各成員協會。（新華社）"
+    },
     {
       "id": "mkt:01a1f75d-7a04-7bbc-ac81-7723d7220d39",
       "time": "2026-11-20 13:11:00",
@@ -85503,96 +85554,6 @@
         "國際"
       ],
       "text": "日本財務省：由於微軟系統故障，無法接收電子郵件。"
-    },
-    {
-      "id": "mkt:01a1d355-3619-7bbc-abc6-96b5efbbb4e9",
-      "time": "2026-11-13 13:15:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bearish"
-      ],
-      "text": "【Malaysia cyber agency says Microsoft outage may be global; Malaysia affected】Malaysia’s National Cyber Security Agency (NACSA) said on Friday a Microsoft service outage may be affecting users globally, and Malaysia is among the impacted. NACSA said it is monitoring the situation, has contacted Microsoft and relevant parties, and believes the outage was caused by a Microsoft Azure configuration change. It urged users to follow Microsoft updates, backup important data and avoid clicking suspicious links."
-    },
-    {
-      "id": "5212340",
-      "time": "2026-11-13 13:14:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大唐集團等在陝西成立新能源公司】企查查APP顯示，近日，大唐陝皖新能源有限公司成立，法定代表人為賀延龍，註冊資本約為26億元，經營範圍包含：熱力生產和供應；發電業務、輸電業務、供（配）電業務。企查查股權穿透顯示，該公司由陝西陝皖能源有限公司、中國大唐集團有限公司旗下大唐陝西發電有限公司共同持股。"
-    },
-    {
-      "id": "5212339",
-      "time": "2026-11-13 13:14:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大唐集團等在陝西成立新能源公司】企查查APP顯示，近日，大唐陝皖新能源有限公司成立，法定代表人為賀延龍，註冊資本約為26億元，經營範圍包含：熱力生產和供應；發電業務、輸電業務、供（配）電業務。企查查股權穿透顯示，該公司由陝西陝皖能源有限公司、中國大唐集團有限公司旗下大唐陝西發電有限公司共同持股。"
-    },
-    {
-      "id": "mkt:01a1d353-4679-7bbc-abc6-8ddf97e23f64",
-      "time": "2026-11-13 13:13:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "601988.SS",
-        "Impact bullish"
-      ],
-      "text": "China A-share banking sector rallied counter to the broader market in the afternoon. Qingdao Bank jumped more than 4%; Jiangsu Bank, Bank of Nanjing, Bank of Chengdu and Bank of Hangzhou each rose about 2%, all hitting record highs. Qilu Bank, Xi'an Bank, Bank of Beijing and Bank of China were also among the top gainers."
-    },
-    {
-      "id": "5212338",
-      "time": "2026-11-13 13:13:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.7%，報9082.20點。"
-    },
-    {
-      "id": "mkt:01a1d352-93d2-7bbc-abc6-836f46195491",
-      "time": "2026-11-13 13:12:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Market Themes",
-        "AI Revolution",
-        "DAX",
-        "Impact bearish"
-      ],
-      "text": "Financial Times reports ECB chief economist Lane warned rising long-term interest rates are weighing on AI deployment in Europe."
-    },
-    {
-      "id": "mkt:01a1d352-5e8b-7bbc-abc6-7b5c01d3d619",
-      "time": "2026-11-13 13:12:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "【Qijing Auto CEO says L3 is watershed for next‑gen intelligent cars】Nov 13 — Qijing Auto, a joint venture of GAC Group and Huawei QianKun, launched the GT7 Ultra Comfort in range‑extended and pure‑electric variants. Both models come standard with a full‑chain redundant autonomous‑driving architecture aimed at L3. CEO Liu Jiaming said L3 is a watershed for next‑generation intelligent vehicles, adding the L3 architecture not only supplies safety redundancy for ADS 5 but also creates room for future regulatory easing."
-    },
-    {
-      "id": "5212337",
-      "time": "2026-11-13 13:12:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【啟境汽車CEO劉嘉銘：L3是下一代智慧汽車分水嶺】11月13日，由廣汽集團與華為乾崑聯合打造的啟境汽車正式推出啟境GT7 Ultra舒享版增程、純電雙車型，兩款車型均標配面向L3級的全鏈路冗餘自動駕駛架構。啟境汽車CEO劉嘉銘表示，L3是下一代智慧汽車的分水嶺，L3級架構不僅為ADS 5帶來安全冗餘，更為後續法規放開留出空間。"
-    },
-    {
-      "id": "5212336",
-      "time": "2026-11-13 13:12:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "根據CoinGlass資料，在過去24小時內，超過12億美元的加密貨幣看漲押注被平倉。"
     }
   ]
 }
