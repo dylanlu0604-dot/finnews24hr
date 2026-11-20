@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-21 05:30:31",
-  "count": 9380,
+  "updated": "2026-11-21 05:34:13",
+  "count": 9383,
   "items": [
+    {
+      "id": "5228947",
+      "time": "2026-11-21 05:33:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪將葡萄牙的評級上調至A2，展望穩定。"
+    },
+    {
+      "id": "5228946",
+      "time": "2026-11-21 05:33:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：VERLINVEST將收購華潤所持OATLY權益。"
+    },
+    {
+      "id": "5228945",
+      "time": "2026-11-21 05:33:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甲骨文：已籌足OpenAI合同所需資金，相關負面報道不實】甲骨文表示，已足額落實履行與OpenAI合同所需的全部資金，後續和供應商開展的私下磋商僅作為備選方案。 該公司稱，履行這份OpenAI相關合同的能力並不依賴上述磋商。 甲骨文表示，任何與此說法相悖的媒體報道均不實。 公司目標在2029財年實現逾300億美元自由現金流，並計劃自該財年起依靠自有資金支撐後續擴張。 甲骨文稱，其與OpenAI的基礎設施合作專案進展迅速。 甲骨文維持預期，2028財年下半年自由現金流為正。"
+    },
+    {
+      "id": "5228944",
+      "time": "2026-11-21 05:32:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "百事公司提交混合證券儲架註冊申請。"
+    },
+    {
+      "id": "5228943",
+      "time": "2026-11-21 05:31:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝萊德市政2030目標期限信託基金（BTT）宣佈股票回購計劃續期，貝萊德市政2037目標期限信託基金（BMN）宣佈股票回購計劃擴容。"
+    },
+    {
+      "id": "mkt:01a1fade-a29f-7bbc-ac9a-dcba55958b3f",
+      "time": "2026-11-21 05:30:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "The MSCI Emerging Markets Index has fallen 21% from its June peak."
+    },
+    {
+      "id": "5228942",
+      "time": "2026-11-21 05:30:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪下調了三筆次貸交易的評級。"
+    },
+    {
+      "id": "5228941",
+      "time": "2026-11-21 05:30:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：《伊斯蘭堡諒解備忘錄》目前已經不在談判桌上，也不再具有實際執行效力。"
+    },
     {
       "id": "5228940",
       "time": "2026-11-21 05:29:05",
@@ -83694,46 +83760,6 @@
         "國際"
       ],
       "text": "【美股對美全國停飛令的反應】\n美國聯邦航空管理局（FAA）因特殊情況週五向所有機場釋出全國地面停飛令後，追蹤標普500指數的ETF盤後一度下跌0.5%。追蹤納斯達克100指數的ETF盤後一度下跌0.8%。\n航空股亦受此訊息拖累走低，聯合航空跌1.2%，捷藍航空跌2.4%，美國航空跌1.7%。\n相反，網路安全股上漲：Palo Alto漲2%，Zscaler漲1%，Crowdstrike漲2%。"
-    },
-    {
-      "id": "5213979",
-      "time": "2026-11-14 05:33:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌3%，現報48.50美元/盎司。"
-    },
-    {
-      "id": "5213978",
-      "time": "2026-11-14 05:33:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "根據Sachem Head Capital Management最新披露的第三季度13F檔案，該機構大幅增持了希捷科技（STX）、Riot Platforms（RIOT）及Gildan Activewear（GIL），並新建倉了IonQ（IOND）、Skyworks Solutions（SWKS）、Cipher Mining（CIFR）及Hub Group（HUBG）；同時減持了Talen Energy（TLN）、Permian Resources（PRMB）、Twilio（TWLO）、Carvana（CVNA）及意法半導體（STM），並完全清倉了Dick's Sporting Goods（DKS）、Sotera Health（SHC）、Golar LNG（GLNG）、Bruker（BRKR）及Bitdeer Technologies（BTDR）。"
-    },
-    {
-      "id": "mkt:01a1d6d4-3142-7bbc-abdd-73d191d8634a",
-      "time": "2026-11-14 05:33:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury is considering a loan to help Venezuela repay arrears to the Inter-American Development Bank."
-    },
-    {
-      "id": "5213976",
-      "time": "2026-11-14 05:31:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "委內瑞拉國民議會議長羅德里格斯：委內瑞拉政府與反對派已啟動由美國支援的談判。"
-    },
-    {
-      "id": "5213975",
-      "time": "2026-11-14 05:31:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌3%，現報48.56美元/盎司。"
     }
   ]
 }
