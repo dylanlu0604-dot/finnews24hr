@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-21 05:15:39",
-  "count": 9382,
+  "updated": "2026-11-21 05:19:24",
+  "count": 9380,
   "items": [
+    {
+      "id": "5228926",
+      "time": "2026-11-21 05:18:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達盤後漲1.8%。"
+    },
+    {
+      "id": "5228925",
+      "time": "2026-11-21 05:17:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數ETF上漲0.3%。"
+    },
+    {
+      "id": "5228924",
+      "time": "2026-11-21 05:16:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國弗吉尼亞州衛生部門報告稱，一名麻疹檢測呈陽性的幼童（0-4歲）已死亡。"
+    },
+    {
+      "id": "5228923",
+      "time": "2026-11-21 05:15:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.84%，報12517點。"
+    },
     {
       "id": "mkt:01a1facf-845d-7bbc-ac9a-cee205a78d8d",
       "time": "2026-11-21 05:14:26",
@@ -83708,62 +83740,6 @@
         "其他"
       ],
       "text": "達菲：如有最新訊息，我們會及時通報。"
-    },
-    {
-      "id": "mkt:01a1d6c6-bd16-7bbc-abdd-50377d4ad06f",
-      "time": "2026-11-14 05:18:31",
-      "tags": [
-        "MKT News",
-        "AAL.O",
-        "Impact bearish",
-        "DAL.O",
-        "UAL.O"
-      ],
-      "text": "U.S. Transportation Secretary Duffy said a communications outage affecting all air traffic control centers has prompted the FAA to impose a nationwide ground stop at all U.S. airports. FAA technicians are investigating the outage."
-    },
-    {
-      "id": "mkt:01a1d6c6-4632-7bbc-abdd-4d9f4c1b0596",
-      "time": "2026-11-14 05:18:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Soros Fund Management increased its stake in Micron Technology (MU.O) by 58.9% to 35,618 shares."
-    },
-    {
-      "id": "5213955",
-      "time": "2026-11-14 05:17:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國交通部長達菲：由於通訊問題影響所有航路交通管制中心，聯邦航空管理局對所有美國機場實施全國範圍的地面停飛。"
-    },
-    {
-      "id": "5213954",
-      "time": "2026-11-14 05:17:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國交通部長：一旦有美國聯邦航空管理局停飛的相關訊息，我們將及時通報。"
-    },
-    {
-      "id": "mkt:01a1d6c4-aeb8-7bbc-abdd-432d7596d450",
-      "time": "2026-11-14 05:16:16",
-      "tags": [
-        "MKT News",
-        "DAL.O",
-        "Impact bearish",
-        "AAL.O",
-        "UAL.O"
-      ],
-      "text": "Air Current said the US Federal Aviation Administration (FAA) nationwide ground stop was caused by a failure of air traffic control (ATC) communication frequencies."
-    },
-    {
-      "id": "5213952",
-      "time": "2026-11-14 05:15:47",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗銀行將贖回2027年到期的22億美元4.876%固定/浮動利率票據。"
     }
   ]
 }
