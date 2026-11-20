@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-20 12:44:10",
-  "count": 9566,
+  "updated": "2026-11-20 12:48:08",
+  "count": 9559,
   "items": [
+    {
+      "id": "5227054",
+      "time": "2026-11-20 12:45:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本製鐵：將發行600億日元無擔保普通公司債。"
+    },
+    {
+      "id": "5227053",
+      "time": "2026-11-20 12:45:12",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【SpaceX週四擬進行至少320億美元AI晶片相關債務融資】當地時間11月19日，據報道，知情人士透露，SpaceX計劃週四進行至少320億美元的債務融資，為其購買AI晶片提供資金。此次債券發行旨在使借款不體現在SpaceX的資產負債表上，是總額超過400億美元融資計劃的一部分。知情人士稱，本次發售包括約60億美元債券，於週四向投資者開放認購；其餘約260億美元票據此前已完成配售。全部320億美元債務定於週四定價，債務由三部分組成。高盛和阿波羅全球管理公司負責此次交易。"
+    },
+    {
+      "id": "mkt:01a1f745-9343-7bbc-ac81-11bb3194cfcc",
+      "time": "2026-11-20 12:44:54",
+      "tags": [
+        "MKT News",
+        "WMT.O",
+        "Impact bullish"
+      ],
+      "text": "Telsey Advisory Group raises Walmart PT to $145 from $130."
+    },
     {
       "id": "5227052",
       "time": "2026-11-20 12:43:00",
@@ -85606,101 +85634,6 @@
         "國際"
       ],
       "text": "【俄否認和在英被捕的美國軍官有關聯 】俄羅斯總統新聞秘書德米特里·佩斯科夫近日告訴媒體記者，在英國被捕、被派駐在北約“聯合快速反應軍團”的一名美國軍官與俄羅斯沒有關聯。佩斯科夫11日說，“這次抓捕不會以任何方式讓我們擔憂”，俄方不知道抓捕行動牽連什麼，也與其毫無關係。（新華社）"
-    },
-    {
-      "id": "mkt:01a1d33b-bd7d-7bbc-abc6-271f8ae44a69",
-      "time": "2026-11-13 12:47:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Analyst: MSCI downgrade of Indonesia could redirect foreign flows to Malaysia】If Indonesia is downgraded by MSCI, foreign flows could shift to other Southeast Asian markets including Malaysia, Hong Leong Investment Bank analyst Jeremy Goh says. He warns a weaker Indonesian market could challenge Malaysian firms holding stakes in Indonesian listed companies, especially for fundraising and asset disposals, but says MSCI-related risks are largely idiosyncratic to Indonesia and unlikely to be systemic for Malaysia. Hong Leong maintains a year-end Kuala Lumpur Composite Index (KLCI) target of 1,720. The KLCI fell 0.2% to 1,583.23 intraday."
-    },
-    {
-      "id": "5212309",
-      "time": "2026-11-13 12:47:18",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：2027年15,400美元/噸銅價預測面臨下行風險】高盛表示，在美國中期選舉之後，由於與人工智慧（AI）相關的資金頭寸以及美國關稅預期降低，其2027年每噸15,400美元的銅價預測面臨下行風險。高盛在一份報告中指出：“我們預測面臨的主要風險源於資金頭寸，而非實物需求。”這主要指的是與AI相關的市場敞口。隨著市場擔憂民主黨控制的國會可能會放緩AI投資和資料中心擴張的步伐，投資者對AI繁榮的態度變得更加謹慎。倫敦金屬交易所（LME）三個月期銅基準合約上漲0.2%，至每噸13,612美元，但在AI概念股遭遇拋售的背景下，該合約仍面臨周線下跌的壓力。高盛表示，如果資金頭寸維持在目前水平，2027年銅價均價可能在每噸14,600美元左右。高盛還指出，關稅預期的降低使其關於美國建立銅庫存的假設面臨風險，但同時也強調，民主黨全面獲勝並不能消除關稅風險。高盛稱：“我們預計2027年銅價均價將在每噸14,500美元左右；如果今年美國囤積的大部分銅庫存重新流向世界其他地區，銅價還將面臨進一步的下行壓力。”"
-    },
-    {
-      "id": "5212308",
-      "time": "2026-11-13 12:46:47",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：2027年銅價15,400美元/噸預測面臨的風險】高盛表示，鑑於與人工智慧相關的持倉情況以及美國關稅預期下調，其對2027年銅價每噸15,400美元的預測在美國中期選舉後面臨下行風險。"
-    },
-    {
-      "id": "mkt:01a1d33a-6276-7bbc-abc6-1db851b9a0fc",
-      "time": "2026-11-13 12:46:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan Prime Minister TAKAICHI said economic and fiscal policies are not intended to manipulate foreign exchange."
-    },
-    {
-      "id": "te:markets:600964",
-      "time": "2026-11-13 12:46:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupee Retreats From Over 6-Month High — The Indian rupee weakened to around 94.15 per dollar, pulling back from over six-month highs as a rebound in crude oil prices renewed pressure on the currency. Brent crude climbed toward $96 per barrel following fresh attacks on Saudi energy infrastructure and disruptions to shipping through the Strait of Hormuz, reviving concerns over India’s oil import bill and demand for the dollar. At the same time, higher US Treasury yields supported the dollar, adding to external pressure on the currency by reducing the relative attractiveness of emerging-market assets. Moreover, speculation that the Reserve Bank of India is purchasing dollars to rebuild its foreign exchange reserves, alongside renewed spot-market demand from oil companies, may be absorbing additional dollar supply and limiting the rupee’s recovery despite robust foreign equity inflows. Nevertheless, sustained foreign investment inflows continue to cushion external financing pressures."
-    },
-    {
-      "id": "5212307",
-      "time": "2026-11-13 12:45:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：負責任的擴張性財政政策將有助於維持市場對日元的信心。"
-    },
-    {
-      "id": "mkt:01a1d339-20d0-7bbc-abc6-11319924cd16",
-      "time": "2026-11-13 12:44:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japanese Prime Minister TAKAICHI said she will manage economic and fiscal policy while closely monitoring market developments."
-    },
-    {
-      "id": "mkt:01a1d338-da5b-7bbc-abc6-0be24f8620a3",
-      "time": "2026-11-13 12:44:40",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【Castle Securities expands Singapore and Sydney offices to boost Asia‑Pacific business】Castle Securities is increasing office space in Singapore and Sydney by about 40% and 65% respectively to accommodate a growing Asia‑Pacific team and support expanded US equities liquidity and trading coverage into the US night session. The firm plans to add traders, technologists, researchers and other support staff across its Asia‑Pacific offices next year; it has hired nearly 100 staff in the region this year, about half based in Hong Kong and the remainder in Singapore, Sydney, Gurugram and Tokyo."
-    },
-    {
-      "id": "em:jjsj_zgsj:202611133930601134",
-      "time": "2026-11-13 12:44:16",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【今年前10月個稅收入預計超去年全年 原因揭秘！】今年全國個人所得稅收入創歷史新高基本沒有懸念。近日，第一財經記者從稅務總局瞭解到，受絕大多數納稅人積極申報繳納離岸信託收益個人所得稅影響，帶動了全國10月份個人所得稅收入增長近90%。為何個稅收入在去年保持較快增長（11.5%）的高基數之下，今年依然可以保持兩位數較高增速？"
-    },
-    {
-      "id": "5212306",
-      "time": "2026-11-13 12:44:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：日本和美國將進行溝通和努力，以維護有序的外匯市場。很難說匯率受到的影響完全是由某些特定因素造成的。"
     }
   ]
 }
