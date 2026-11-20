@@ -1,7 +1,65 @@
 {
   "date": "2026-11-20",
-  "count": 1099,
+  "count": 1105,
   "items": [
+    {
+      "id": "mkt:01a1f75d-7a04-7bbc-ac81-7723d7220d39",
+      "time": "2026-11-20 13:11:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The number of people in the UK working beyond the statutory retirement age has risen 18% over the past four years, as older people extend their working lives to boost retirement income and offset rising living costs, the Financial Times reported."
+    },
+    {
+      "id": "mkt:01a1f75c-b0a2-7bbc-ac81-69aa369bbd17",
+      "time": "2026-11-20 13:10:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The EU will prioritize European companies in public quantum technology contracts to strengthen the region’s position in the emerging industry and foster homegrown tech leaders, the Financial Times reported."
+    },
+    {
+      "id": "mkt:01a1f75b-f83a-7bbc-ac81-67fa1047bd33",
+      "time": "2026-11-20 13:09:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Malaysia October exports hit record on AI-related demand】Malaysia’s October exports rose 61.1% y/y to a record 239.2 bln ringgit ($58 bln), the fastest growth since April 2021 and above the 48.8% market forecast, driven by sustained AI-related demand. The trade surplus widened 103.4% y/y to 41.8 bln ringgit, exceeding expectations and marking a 78th consecutive monthly surplus. The trade ministry cited broad-based gains, particularly in manufactured goods and minerals."
+    },
+    {
+      "id": "5227080",
+      "time": "2026-11-20 13:08:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【從飛上雲端到跌入谷底 Aolani的困境折射AI熱潮背後危機】短短一個多月內，Aolani Cloud Pte執行長Nicholas Chia親眼目睹自己所處的產業從繁榮走向瀕臨崩潰的邊緣。就在幾周前，這家“新雲”(neocloud)公司還收到以30億美元估值為基礎的投資條款清單，遠高於今年稍早的4億美元，並在亞洲各地簽署興建資料中心的意向書。如今，Chia表示，在美國政府針對Aolani部分主要市場祭出晶片出口限制、震撼全球供應鏈後，Aolani和其他“新雲”公司的估值可能已腰斬。銀行正在重新評估對這家公司的曝險，Aolani甚至考慮將總部遷往美國。在與投資者通話並臨時籌備前往華盛頓行程的忙碌間隙，Chia在新加坡辦公室接受媒體採訪時說，感覺事情變化得太快了。他說，自己大概已經跌到了谷底，接下來的事情都容易了。"
+    },
+    {
+      "id": "mkt:01a1f75b-7f0c-7bbc-ac81-5b0277c07103",
+      "time": "2026-11-20 13:08:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "The economic boost to the UK from rejoining the EU would be twice as large as from a compromise option such as a Swiss-style trade deal, a new study found, the Financial Times reported."
+    },
+    {
+      "id": "mkt:01a1f75a-9409-7bbc-ac81-50c049436d97",
+      "time": "2026-11-20 13:07:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Swiss watch exports to mainland China fall 12.1% in October】Swiss watch exports totaled 2.4564 bln Swiss francs in October, up 9.1% YoY, data released Nov. 19 by the Federation of the Swiss Watch Industry showed. Exports to mainland China fell 12.1% to 166.9 mln francs, while exports to Hong Kong rose 7.3% to 178.2 mln francs."
+    },
     {
       "id": "5227079",
       "time": "2026-11-20 13:07:07",
