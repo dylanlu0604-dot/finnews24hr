@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-20 12:52:03",
-  "count": 9559,
+  "updated": "2026-11-20 12:55:58",
+  "count": 9557,
   "items": [
+    {
+      "id": "5227059",
+      "time": "2026-11-20 12:52:42",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金公司首席經濟學家繆延亮：中國資產重估仍有長期支撐】11月20日，中金公司首席經濟學家、資深董事總經理繆延亮表示，隨著穩市政策加碼、中長期資金入市等積極因素逐步積累，正在為市場企穩創造條件。 估值方面，繆延亮認為，中國資產重估仍在途中。判斷中國資產重估的長期趨勢，關鍵還是看全球配置環境、中國經濟增長動能以及資本市場自身生態是否發生了結構性變化，中國資產重估仍有長期支撐。（澎湃新聞）"
+    },
     {
       "id": "mkt:01a1f749-e6e3-7bbc-ac81-254678740a00",
       "time": "2026-11-20 12:49:37",
@@ -85608,33 +85617,6 @@
         "Importance 1"
       ],
       "text": "Sensex Dips After 11-Day Winning Streak — India’s BSE Sensex edged down about 0.2% to 81,739 on Friday, snapping an eleven-session winning streak as rising crude oil prices and inflation concerns offset strong foreign fund inflows. Brent crude climbed to around $95.23 per barrel amid escalating attacks on Saudi energy infrastructure and shipping disruptions in the Strait of Hormuz. Meanwhile, India’s retail inflation accelerated to 6.09% in October from 5.54% in September, breaching the RBI’s 6% upper tolerance threshold for the first time since October 2024. Global concerns over heavy data centre investments also weighed on AI stocks, adding to market uncertainty. Among stocks, Ola Electric fell 2.7% despite a narrower second-quarter loss, as revenue dropped 39%. Vodafone declined 2.1% after reporting a narrower quarterly loss on higher average revenue per user, while Meesho gained 0.7% amid reports of a potential 1% stake sale by a SoftBank affiliate through a block deal worth approximately 11.74 billion rupees."
-    },
-    {
-      "id": "5212315",
-      "time": "2026-11-13 12:54:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "Coin Bureau創始人Nic Puckrin：比特幣下跌部分反映出市場更廣泛地撤離風險資產，以及比特幣與科技股的相關性。ETF資金流出以及其他加密貨幣特有的壓力也在構成拖累。具體而言，MSCI明晟確認將把Strategy從其指數中剔除。"
-    },
-    {
-      "id": "5212314",
-      "time": "2026-11-13 12:53:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "高市早苗：對多元化的國內投資者而言，持有日本國債很重要。"
-    },
-    {
-      "id": "mkt:01a1d340-1f57-7bbc-abc6-2b8fb8c7ba12",
-      "time": "2026-11-13 12:52:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants"
-      ],
-      "text": "【DJI to adjust suggested retail prices for some products from Nov 18, 2026】DJI said on its website it will adjust suggested retail prices for certain products from 00:00 on Nov 18, 2026, citing sustained, sharp global cost increases in key components including semiconductors and memory."
     }
   ]
 }
