@@ -1,7 +1,60 @@
 {
-  "updated": "2026-11-20 22:09:38",
-  "count": 9468,
+  "updated": "2026-11-20 22:13:32",
+  "count": 9461,
   "items": [
+    {
+      "id": "5228424",
+      "time": "2026-11-20 22:12:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇銀行：資訊長梁斌因工作調動離任】江蘇銀行11月20日公告，本行董事會收到梁斌提交的辭職報告，梁斌因工作調動，申請辭去本行資訊長職務，根據有關規定，梁斌的辭職報告自送達本行董事會時生效。梁斌確認與本行董事會無不同意見，亦無因本人離任需知會本行股東及債權人的任何事項。梁斌已按照規定做好交接工作，其離任不會對本行日常經營產生影響。"
+    },
+    {
+      "id": "mkt:01a1f94c-2288-7bbc-ac90-baaf59834b80",
+      "time": "2026-11-20 22:11:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 futures fell 0.6%; Nasdaq futures fell 1.2%"
+    },
+    {
+      "id": "5228423",
+      "time": "2026-11-20 22:11:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "北達科他州9月石油產量為每日117.6605萬桶。"
+    },
+    {
+      "id": "5228422",
+      "time": "2026-11-20 22:10:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "北達科他州9月天然氣日產量為3,645,406千立方英尺。"
+    },
+    {
+      "id": "5228421",
+      "time": "2026-11-20 22:09:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨下跌0.6%。"
+    },
+    {
+      "id": "5228420",
+      "time": "2026-11-20 22:09:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨下跌1.2%。"
+    },
     {
       "id": "mkt:01a1f949-9cfe-7bbc-ac90-b7947e6790ee",
       "time": "2026-11-20 22:08:33",
@@ -84509,138 +84562,6 @@
         "公司"
       ],
       "text": "據兩位知情人士透露，在巴黎針對愛馬仕失蹤股份的調查中，法官下令對據稱的受害者尼古拉斯·普奇進行認知檢查。"
-    },
-    {
-      "id": "em:qqyh_mlc:202611133930994582",
-      "time": "2026-11-13 22:12:56",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲柯林斯：加息可能損害住房可負擔性】美聯儲柯林斯表示，加息可能損害住房可負擔性。抗擊通脹優先於住房困境。住房和經濟需要長期的價格穩定。"
-    },
-    {
-      "id": "mkt:01a1d541-1abd-7bbc-abd6-ae6b7d84ef6f",
-      "time": "2026-11-13 22:12:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Federal Reserve official Collins said productivity gains help limit some inf pressure."
-    },
-    {
-      "id": "em:qqyh_mlc:202611133930993721",
-      "time": "2026-11-13 22:12:26",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲的柯林斯表示，應對通脹比住房問題更為重要。"
-    },
-    {
-      "id": "5213550",
-      "time": "2026-11-13 22:12:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報49.51美元/盎司。"
-    },
-    {
-      "id": "5213549",
-      "time": "2026-11-13 22:11:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗陸軍：數小時前，一架美軍MQ1無人機在科哈斯塔克地區（錫裡克海岸附近）被陸軍鎖定並摧毀。"
-    },
-    {
-      "id": "mkt:01a1d53f-9f31-7bbc-abd6-a61eddc1f53c",
-      "time": "2026-11-13 22:11:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell more than 1.0% intraday to $49.55/oz."
-    },
-    {
-      "id": "mkt:01a1d53f-4b0b-7bbc-abd6-9b7081f27e16",
-      "time": "2026-11-13 22:10:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Fed's Collins said rate hikes could impair housing affordability and that fighting inf takes priority over addressing housing distress. He added that housing and the wider economy need long-term price stability."
-    },
-    {
-      "id": "mkt:01a1d53f-45b0-7bbc-abd6-97e39568791e",
-      "time": "2026-11-13 22:10:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AUDUSD",
-        "Impact bearish"
-      ],
-      "text": "【Mitsubishi UFJ Financial Group: AUD could be hit first in an AI-driven sell-off】Mitsubishi UFJ Financial Group analyst Derek Halpenny said in a report that if an AI-related sell-off occurs, the Australian dollar could be the most vulnerable currency. He cited Australia’s recent surge in data-center construction and other AI investment, which increases the AUD’s sensitivity to AI industry dynamics. Halpenny added the country’s energy and commodity exposure would exacerbate the impact via weaker terms of trade."
-    },
-    {
-      "id": "5213548",
-      "time": "2026-11-13 22:10:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：加息可能損害住房可負擔性。"
-    },
-    {
-      "id": "5213547",
-      "time": "2026-11-13 22:10:24",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "波士頓聯儲主席柯林斯表示，抗擊通脹的優先順序高於住房困境。"
-    },
-    {
-      "id": "5213546",
-      "time": "2026-11-13 22:09:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：不對貨幣政策前景發表評論。"
-    },
-    {
-      "id": "5213545",
-      "time": "2026-11-13 22:09:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：確保價格穩定是房地產市場的長期利好。"
-    },
-    {
-      "id": "5213544",
-      "time": "2026-11-13 22:09:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：生產率提高有助於抑制部分通脹壓力。"
     }
   ]
 }
