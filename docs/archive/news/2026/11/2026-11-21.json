@@ -1,7 +1,44 @@
 {
   "date": "2026-11-21",
-  "count": 355,
+  "count": 359,
   "items": [
+    {
+      "id": "mkt:01a1facf-845d-7bbc-ac9a-cee205a78d8d",
+      "time": "2026-11-21 05:14:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft has begun deploying a fix and expects it to reach users within hours."
+    },
+    {
+      "id": "5228922",
+      "time": "2026-11-21 05:12:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會將允許監獄干擾違禁手機訊號。"
+    },
+    {
+      "id": "5228921",
+      "time": "2026-11-21 05:11:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟已開始部署修復程式，預計將在數小時內覆蓋使用者。"
+    },
+    {
+      "id": "5228920",
+      "time": "2026-11-21 05:11:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：美國人壽保險抵押貸款市場保持穩定；住宅抵押貸款市場增長。"
+    },
     {
       "id": "5228919",
       "time": "2026-11-21 05:11:28",
