@@ -1,7 +1,80 @@
 {
   "date": "2026-11-20",
-  "count": 726,
+  "count": 734,
   "items": [
+    {
+      "id": "5226710",
+      "time": "2026-11-20 08:49:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "中國銀行間債市30年期國債收益率盤初下滑逾2個基點至2.0025%；10年期國債收益率盤初下滑逾1個基點至1.565%，再次觸及紀錄新低。"
+    },
+    {
+      "id": "mkt:01a1f66e-061c-7bbc-ac7b-c8c5d33be40e",
+      "time": "2026-11-20 08:49:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's 30-year government bond yield fell more than 2 bps to 2.0025% at the open, while the 10-year yield dropped more than 1 bp to 1.565%, touching a record low again."
+    },
+    {
+      "id": "mkt:01a1f66b-f492-7bbc-ac7b-c5c8aa97e8a3",
+      "time": "2026-11-20 08:47:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Turkey-Qatar defense pact has no automatic troop deployment clause】Turkey's Defense Ministry said on the 19th that its joint defense agreement with Qatar does not require either side to automatically deploy troops if the other is attacked. Any support would be determined by mutual agreement under Article 51 of the UN Charter, ministry spokesman Zeki Aktürk said."
+    },
+    {
+      "id": "5226709",
+      "time": "2026-11-20 08:46:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天數智芯：生產經營正常，已與多家國內供應鏈夥伴建立合作關係】針對近日市場關於國產GPU供應鏈相關環節的傳聞，天數智芯今日回應稱：目前生產經營正常，各項業務均按照既定計劃有序開展。公司稱，多年來持續關注全球半導體產業鏈變化及海外供應鏈潛在風險，並持續建立和完善相關風險識別與防範體系，積極做好供應鏈風險應對準備。在供應鏈保障方面，公司表示已與多家國內半導體供應鏈合作伙伴建立緊密合作關係，以持續提升供應鏈的穩定性與保障能力，為公司產品生產和業務發展提供支援。對於後續安排，天數智芯稱將繼續完善供應鏈佈局，提升供應鏈風險應對能力，保障業務持續穩定發展。（科創板日報）"
+    },
+    {
+      "id": "mkt:01a1f66b-b208-7bbc-ac7b-bdc4c5beb507",
+      "time": "2026-11-20 08:46:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China margin financing balances fall 15.489 bln yuan】As of Nov. 19, Shanghai Stock Exchange margin financing stood at 1.141378 tln yuan, down 7.32 bln yuan from the previous trading day. Shenzhen Stock Exchange margin financing was 1.044136 tln yuan, down 8.169 bln yuan, taking the combined balance to 2.185514 tln yuan, down 15.489 bln yuan."
+    },
+    {
+      "id": "5226708",
+      "time": "2026-11-20 08:46:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日減少154.89億元】截至11月19日，上交所融資餘額報11413.78億元，較前一交易日減少73.20億元；深交所融資餘額報10441.36億元，較前一交易日減少81.69億元；兩市合計21855.14億元，較前一交易日減少154.89億元。"
+    },
+    {
+      "id": "5226707",
+      "time": "2026-11-20 08:46:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【土耳其卡達共同防禦協議不含自動派兵條款】土耳其國防部19日表示，此前與卡達簽署的共同防禦協議不含一方遭受攻擊時另一方自動派兵支援的條款。土耳其國防部發言人澤基·阿克蒂爾克當天在例行記者會上表示，根據上述協議，如果任何一方遭受外部攻擊，另一方可能提供的支援須在《聯合國憲章》第五十一條框架內，經雙方協商一致後確定。協議不含自動派兵義務。"
+    },
+    {
+      "id": "5226706",
+      "time": "2026-11-20 08:46:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【軟銀集團股價暴跌16% 創兩年來最大跌幅】軟銀集團股價一度暴跌16%，成交量達到該時段平均水平的兩倍。股價跌至 2980 日元，低於 2025 年 8 月 5 日以來的任何收盤價；前一個交易日的收盤價為 3537 日元。若以該價格收盤，這將創下自2024年8月5日以來的最大單日跌幅。東證指數下跌2.7%，MSCI亞太指數下跌1.6%。"
+    },
     {
       "id": "5226705",
       "time": "2026-11-20 08:45:35",
