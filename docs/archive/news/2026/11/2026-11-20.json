@@ -1,7 +1,88 @@
 {
   "date": "2026-11-20",
-  "count": 1118,
+  "count": 1127,
   "items": [
+    {
+      "id": "mkt:01a1f767-b499-7bbc-ac81-bbc4ad960d4b",
+      "time": "2026-11-20 13:22:11",
+      "tags": [
+        "MKT News",
+        "JNJ.O",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raises Johnson & Johnson's PT to $300 from $285."
+    },
+    {
+      "id": "5227094",
+      "time": "2026-11-20 13:21:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【估值回落至歷史低位 機構看好科技股長期投資價值】A股上市企業盈利修復趨勢延續，不少產業升級賽道業績具備較強彈性，但受外部風險衝擊與市場情緒擾動影響，估值和基本面階段性出現背離，特別是科技股的調整引發關注。資料顯示，計算機、電子、通訊三大核心板塊的市盈率已回落至歷史相對低位區間，通訊指數滾動市盈率低於27倍，為近十年分位數6%以下；電子指數滾動市盈率不足36倍，處於近十年來18%分位以下；計算機指數滾動市盈率54倍，處於近十年來29%分位以下。某券商通訊首席分析師指出，短期光通訊板塊的股價因外部環境擾動出現明顯調整，部分投資者擔心資料中心審批以及英偉達管理層變化對資料中心建設及新產品迭代節奏產生影響。但2027年的訂單已經具有非常強的確定性，2028年預計也會在未來一個季度左右有足夠能見度。2027年行業仍然供不應求，光通訊行業的供應格局仍然非常穩固，CPO、NPO等新技術亦方興未艾。滙豐私人銀行及財富管理中國首席投資總監梁君馡表示，當前股市估值已反映市場對AI商業化變現放緩、硬體資本開支過熱及高估值回撥的預期。亞洲核心科技股及整體市場的前瞻市盈率已回落至歷史中位數附近，科技板塊的高估值已得到有效擠壓。“當下或許再次處於估值與基本面組合價效比較優的時間視窗。”華安證券策略首席分析師劉超認為，當前，穩增長政策持續發力，內生動能逐步修復，實體經濟基本盤保持穩健，上市公司整體經營狀況穩步改善，這與階段性偏低的估值，共同構成了A股行穩致遠的“雙保險”，尤其在近期外部風險擾動以及前期市場情緒過度反應逐步消化後，市場正迎來具備長期投資價值的新起點。（證券時報）"
+    },
+    {
+      "id": "mkt:01a1f767-1791-7bbc-ac81-b1dd4f2ec124",
+      "time": "2026-11-20 13:21:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Report: China gaming monitor sales via online channels fell 7.4% YoY to 795,000 units in October】China’s gaming monitor sales across online channels totaled 795,000 units in October 2026, down 7.4% YoY, according to a report by Runto. Sales value rose 2.3% to 980 million yuan, while the average price increased about 10.5% to 1,239 yuan."
+    },
+    {
+      "id": "mkt:01a1f766-83d2-7bbc-ac81-ab67136bd6dd",
+      "time": "2026-11-20 13:20:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Valuations fall to historical lows; institutions see long-term value in tech stocks】A-share earnings recovery continues, with significant earnings upside in several industrial-upgrading sectors. External risks and market sentiment have temporarily driven valuations out of line with fundamentals, particularly in tech. TTM P/E ratios for China’s computer, electronics and communications sectors have fallen to historically low ranges: below 27x for communications, at under the 6th percentile of the past decade; below 36x for electronics, under the 18th percentile; and 54x for computers, under the 29th percentile. HSBC Private Bank and Wealth Management China CIO Liang Junfei said equity valuations now reflect expectations of slower AI monetization, overheated hardware capex and a pullback in high-multiple stocks. Forward P/Es for core Asian tech stocks and the broader market are near historical medians, while tech-sector multiples have been substantially compressed."
+    },
+    {
+      "id": "5227093",
+      "time": "2026-11-20 13:20:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華虹宏力：堅定看好中國晶圓代工行業和本土半導體產業鏈的發展前景】華虹宏力表示，公司堅定看好中國晶圓代工行業和本土半導體產業鏈的發展前景。基於對中國資本市場不斷發展壯大的信心和對公司長期價值的認可，近期公司董事長白鵬提議以自有資金回購3億元至5億元股份，系公司A股IPO以來首次股份回購。公司希望近期開展的回購事項有利於增強投資者的信心，也將繼續全力聚焦卓越運營，努力成為全球領先的晶圓代工企業，為股東創造價值。"
+    },
+    {
+      "id": "5227092",
+      "time": "2026-11-20 13:19:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股晶片股午後下挫 長光辰芯跌超12%】港股晶片股午後下挫，長光辰芯跌超12%，華虹宏力跌超10%，天數智芯、壁仞科技等跟跌。"
+    },
+    {
+      "id": "5227091",
+      "time": "2026-11-20 13:19:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【拓荊科技：持續深耕半導體薄膜沉積與三維整合核心裝備領域】拓荊科技表示，公司堅定看好中國科技產業發展，將堅定信心、堅持自主創新，持續深耕半導體薄膜沉積與三維整合核心裝備領域，加快攻堅先進製程關鍵裝備，助力我國積體電路產業鏈補齊關鍵裝備短板。面對資本市場波動，公司真金白銀堅定投入，穩定投資者預期。前期已根據董事長提議，使用自有資金3億元完成股份回購，充分彰顯管理層對公司長期發展前景的堅定信心及對公司內在價值的高度認可。"
+    },
+    {
+      "id": "mkt:01a1f765-4448-7bbc-ac81-a55060752c43",
+      "time": "2026-11-20 13:19:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyiv authorities say a Russian attack killed three people."
+    },
+    {
+      "id": "5227090",
+      "time": "2026-11-20 13:19:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將 拼多多 目標價從 118 美元上調至 120 美元。"
+    },
     {
       "id": "mkt:01a1f764-4405-7bbc-ac81-997839b1079d",
       "time": "2026-11-20 13:18:25",
