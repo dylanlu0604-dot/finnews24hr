@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-20 08:38:47",
-  "count": 9559,
+  "updated": "2026-11-20 08:42:35",
+  "count": 9552,
   "items": [
+    {
+      "id": "5226702",
+      "time": "2026-11-20 08:41:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【IMF總裁警告稱AI相關金融資產回撥並未結束 迴圈融資可能威脅金融穩定】國際貨幣基金組織(IMF)總裁格奧爾基耶娃警告稱，人工智慧(AI)相關金融資產“可能還會有一些”調整，市場熱情此前“高得過頭”。格奧爾基耶娃週四在深圳接受媒體採訪時表示，IMF此前已預計市場會出現調整，目前尚未看到大幅回撥，可能還會進一步調整，這將有助於市場回到更可持續的狀態。格奧爾基耶娃說，所謂迴圈融資規模目前約為1萬億美元，其中約三分之二為債務融資。迴圈融資是指英偉達等晶片製造商向客戶提供資金，幫助其購買自身裝置。她表示，這一規模本身“並不算巨大”，但值得擔憂的是其增長速度，以及融資結構逐步從股權轉向更多債務。“這帶來了潛在的金融穩定風險，”格奧爾基耶娃說。她表示，提高相關交易的透明度，並提醒企業警惕自身是否正在進入更危險的領域，有助於降低這種風險。"
+    },
+    {
+      "id": "5226701",
+      "time": "2026-11-20 08:39:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果公司研發自己的AI智慧體 擬與OpenAI和Anthropic競爭】蘋果公司正在開發可以代表使用者完成任務的自主AI智慧體，並希望進入這個已被OpenAI、Anthropic PBC、Meta Platforms Inc.及其他公司佔據的快速增長的市場。蘋果公司本週在網站上列出的招聘資訊揭示了這一計劃。其中一則資訊稱，蘋果正在為一款主動式、智慧AI助手尋找一位高階工程師經理。根據招聘資訊，該系統將代表使用者編寫程式碼、瀏覽網頁、控制應用程式和操控裝置。在此之前，Meta的Muse取得突破性成功，近幾個月已經吸引諸多關注，能夠幫助使用者預訂餐廳、安排行程和準備新聞簡報。此外，還湧現出大量工具，使AI能夠控制Mac電腦並編寫軟體程式。Anthropic PBC最近擴大了其名為Duet智慧體的使用者測試範圍，而OpenAI則擴充套件了其Dots的功能。Alphabet旗下谷歌本週早些時候對其現在名為Tasks的代理程式進行了全面改版。與埃隆·馬斯克的Grok Bot類似，Tasks允許系統代表使用者撥打電話，此外還提供標準的AI代理功能。"
+    },
     {
       "id": "5226700",
       "time": "2026-11-20 08:37:36",
@@ -85582,85 +85598,6 @@
         "Japan & APAC"
       ],
       "text": "Reuters estimates Japan's proposed defense spending may fall short of the 2% of GDP target."
-    },
-    {
-      "id": "mkt:01a1d25a-a856-7bbc-abc1-bbd68fa36cfd",
-      "time": "2026-11-13 08:41:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Japan may reduce missile and aircraft procurement plans, including F-35 fighters."
-    },
-    {
-      "id": "mkt:01a1d25a-9341-7bbc-abc1-b1db3cffe2d5",
-      "time": "2026-11-13 08:41:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say Japan's military expansion plan has been hit by budget tightening; the government has warned weapons suppliers it will sharply cut orders."
-    },
-    {
-      "id": "mkt:01a1d25a-66b3-7bbc-abc1-afa663552891",
-      "time": "2026-11-13 08:41:42",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "Sources say Japan's Ministry of Finance has proposed capping five-year defence spending at 50–60 trillion yen, down from the 80 trillion yen previously sought."
-    },
-    {
-      "id": "5211984",
-      "time": "2026-11-13 08:41:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：人工智慧投資水平可以對利率變化做出反應。"
-    },
-    {
-      "id": "5211983",
-      "time": "2026-11-13 08:41:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：韓國需要改革創業板市場。"
-    },
-    {
-      "id": "mkt:01a1d259-cf3a-7bbc-abc1-a0b678ef92b8",
-      "time": "2026-11-13 08:41:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan's finance minister Katayama said the U.S. and Japan were aligned on exchange-rate issues at the summit and declined to comment on records of intervention."
-    },
-    {
-      "id": "5211982",
-      "time": "2026-11-13 08:40:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：對干預記錄不予置評。"
-    },
-    {
-      "id": "5211981",
-      "time": "2026-11-13 08:40:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：美日首腦會談就外匯立場達成一致。"
-    },
-    {
-      "id": "5211980",
-      "time": "2026-11-13 08:38:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士：加拿大皇家銀行在重組過程中裁撤了氣候和ESG相關職位。"
     }
   ]
 }
