@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-20 08:31:11",
-  "count": 9564,
+  "updated": "2026-11-20 08:34:59",
+  "count": 9563,
   "items": [
+    {
+      "id": "5226696",
+      "time": "2026-11-20 08:31:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【冷空氣影響趨於結束 全國大部降水縮減22日後南方降水將發展增多 】雖然本輪冷空氣的影響已逐漸收尾，但今天（11月20日），中東部地區氣溫仍將低迷，東北多地最高氣溫還將繼續下探，這次降溫也將推動北方地區全面入冬。而在長江中下游一帶，未來兩天初冬體驗感拉滿；華南多地最高氣溫也將降至不足20℃。同時，隨著乾冷空氣不斷南下，我國大部地區迎來一段降水間歇期。預計22日後暖溼氣流將再度加強北上，南方又會自西向東迎來一輪較大範圍的降水過程。"
+    },
     {
       "id": "5226695",
       "time": "2026-11-20 08:29:35",
@@ -85695,28 +85703,6 @@
         "其他"
       ],
       "text": "新世界發展在香港暫停交易，沒有給出暫停交易的理由。"
-    },
-    {
-      "id": "mkt:01a1d253-6826-7bbc-abc1-7c1a05fd8dac",
-      "time": "2026-11-13 08:34:03",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "【Senate Banking Committee asks Jensen Huang, Commerce Secretary Lutnick to testify】Politico reports Senate Banking Committee chair Tim Scott on Thursday asked Jensen Huang, the former NVIDIA CEO, and Commerce Secretary Lutnick to appear before the committee next month to testify about allegations of an extramarital affair involving Huang. Scott sent letters to both Thursday evening, flagging two high-profile oversight hearings scheduled for next month."
-    },
-    {
-      "id": "5211971",
-      "time": "2026-11-13 08:33:34",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國總統李在明將討論市場改革措施】根據韓國政府釋出的聯合宣告，韓國總統李在明將與投資者和專家討論市場改革措施。李在明於當地時間上午9:30主持召開資本市場政策會議，財政部長等政府官員、國會議員、投資者以及科斯達克（Kosdaq）上市公司代表出席了此次會議。宣告稱，由於外部因素導致金融市場波動加劇，政府計劃以“高度警惕”的態度評估市場狀況。宣告還表示，政府將推進相關政策，以改善資本市場的根本健康度，確保其不受危機衝擊。"
     }
   ]
 }
