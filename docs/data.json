@@ -1,7 +1,66 @@
 {
-  "updated": "2026-11-20 22:05:51",
+  "updated": "2026-11-20 22:09:38",
   "count": 9468,
   "items": [
+    {
+      "id": "mkt:01a1f949-9cfe-7bbc-ac90-b7947e6790ee",
+      "time": "2026-11-20 22:08:33",
+      "tags": [
+        "MKT News",
+        "ANT.O",
+        "Impact bearish"
+      ],
+      "text": "Anthropic (ANT.O) shares pare premarket losses to 9%."
+    },
+    {
+      "id": "5228419",
+      "time": "2026-11-20 22:07:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "Anthropic盤前跌幅收窄至9%。"
+    },
+    {
+      "id": "mkt:01a1f947-da3f-7bbc-ac90-a8052a97cb55",
+      "time": "2026-11-20 22:06:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia's Civil Defense warned of a potential hazard in Jizan."
+    },
+    {
+      "id": "5228418",
+      "time": "2026-11-20 22:06:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：資料中心貸款抵押債券（CLO）風險及槓桿貸款發行量目前處於低位，但預計將在美國和歐洲上升。"
+    },
+    {
+      "id": "5228417",
+      "time": "2026-11-20 22:06:25",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "德國副總理兼財政部長克林拜爾：無法說明政府將如何處理德國商業銀行股份。"
+    },
+    {
+      "id": "5228416",
+      "time": "2026-11-20 22:06:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯對吉贊地區潛在危險發出警告。"
+    },
+    {
+      "id": "5228415",
+      "time": "2026-11-20 22:06:07",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "德國財政部長就德國商業銀行表示：我們已獲得裕信銀行承諾的擔保。"
+    },
     {
       "id": "5228414",
       "time": "2026-11-20 22:04:26",
@@ -84582,79 +84641,6 @@
         "國際"
       ],
       "text": "美聯儲柯林斯：生產率提高有助於抑制部分通脹壓力。"
-    },
-    {
-      "id": "mkt:01a1d53c-af9a-7bbc-abd6-8d9281f946d2",
-      "time": "2026-11-13 22:08:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "France's foreign ministry said it is necessary to increase pressure on Yemen's Houthi militants to compel them to cease unacceptable attacks, particularly those targeting Saudi Arabia."
-    },
-    {
-      "id": "mkt:01a1d53c-7b07-7bbc-abd6-83883bd569c5",
-      "time": "2026-11-13 22:07:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "BofA Global Research has added a 25bp Fed hike in January 2027 to its forecast and now expects 25bp hikes in December 2026, January 2027 and March 2027."
-    },
-    {
-      "id": "mkt:01a1d53c-4e25-7bbc-abd6-7f7d2815ebfc",
-      "time": "2026-11-13 22:07:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "9868.HK",
-        "Impact bullish"
-      ],
-      "text": "【XPeng plans five right-hand-drive models for UK in 2027】XPeng (09868.HK) said it plans to introduce five new right-hand-drive models to the UK in 2027 and will bring its next-generation NGP driver-assistance system with VLA 2.0 to the market. Over the next year the company plans to establish about 100 retail and service outlets across the UK."
-    },
-    {
-      "id": "5213543",
-      "time": "2026-11-13 22:07:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國外交部：有必要加大對葉門胡塞武裝的施壓力度，以促使其停止不可接受的襲擊，尤其是針對沙烏地阿拉伯的襲擊。"
-    },
-    {
-      "id": "5213542",
-      "time": "2026-11-13 22:06:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行行長加利波洛：我們尚未將消費稅改革帶來的稅率衝擊納入考量。"
-    },
-    {
-      "id": "mkt:01a1d53b-8132-7bbc-abd6-70c33c7bcd8f",
-      "time": "2026-11-13 22:06:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Niushidate Planetary Transmission System's ChiNext IPO approved by SZSE listing committee】The Shenzhen Stock Exchange Listing Review Committee, at its 62nd meeting of 2026, approved Niushidate Planetary Transmission System Technology (Zibo) Co., Ltd.'s initial public offering for the ChiNext board, finding the IPO meets issuance, listing and information-disclosure requirements."
-    },
-    {
-      "id": "mkt:01a1d53b-24c0-7bbc-abd6-6c87e580eb8e",
-      "time": "2026-11-13 22:06:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures fell more than 3.00% intraday, trading at $3.239/MMBtu."
     }
   ]
 }
