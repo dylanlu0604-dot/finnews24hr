@@ -1,7 +1,266 @@
 {
-  "updated": "2026-11-20 21:22:30",
-  "count": 9488,
+  "updated": "2026-11-20 21:26:23",
+  "count": 9504,
   "items": [
+    {
+      "id": "5228336",
+      "time": "2026-11-20 21:25:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒在為美聯儲大學競賽準備的發言稿中，未就貨幣政策或經濟前景發表評論。"
+    },
+    {
+      "id": "5228335",
+      "time": "2026-11-20 21:25:22",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾：我認為歐洲央行必須在12月會議上採取行動。"
+    },
+    {
+      "id": "5228334",
+      "time": "2026-11-20 21:25:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌5%，現報9853.00元。"
+    },
+    {
+      "id": "mkt:01a1f921-c266-7bbc-ac8f-2acbc9dc2c35",
+      "time": "2026-11-20 21:25:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq futures extend losses to 2%."
+    },
+    {
+      "id": "5228333",
+      "time": "2026-11-20 21:24:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽評級：哈薩克拘留事件不改變對薩姆魯克-卡澤納基金和哈薩克鐵路公司的國家支援"
+    },
+    {
+      "id": "5228332",
+      "time": "2026-11-20 21:24:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅賓遜全球物流簽署5億美元定期貸款，為RXO交易提供資金。"
+    },
+    {
+      "id": "5228331",
+      "time": "2026-11-20 21:24:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "奧本海默將亞馬遜目標價從 285 美元上調至 310 美元。"
+    },
+    {
+      "id": "mkt:01a1f921-6ca1-7bbc-ac8f-23c136ea1c2f",
+      "time": "2026-11-20 21:24:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Oppenheimer raises Amazon's (AMZN.O) PT to $310 from $285."
+    },
+    {
+      "id": "mkt:01a1f921-47ef-7bbc-ac8f-1807aa2152a1",
+      "time": "2026-11-20 21:24:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB Governing Council member Nagel: Inflation expectations are well anchored."
+    },
+    {
+      "id": "mkt:01a1f921-372f-7bbc-ac8f-115c5c733112",
+      "time": "2026-11-20 21:24:25",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Nagel: Monetary policy is slightly restrictive."
+    },
+    {
+      "id": "5228330",
+      "time": "2026-11-20 21:24:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【臺積電美股盤前跌超6%】臺積電美股盤前跌超6%，現報330.8美元。"
+    },
+    {
+      "id": "5228329",
+      "time": "2026-11-20 21:24:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾表示，德國今年GDP將增長1.3%，2027年增速大致相同。"
+    },
+    {
+      "id": "5228328",
+      "time": "2026-11-20 21:23:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長納格爾：通脹預期已得到良好錨定。"
+    },
+    {
+      "id": "5228327",
+      "time": "2026-11-20 21:23:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行執委納格爾：政策處於略微限制性的領域。"
+    },
+    {
+      "id": "5228325",
+      "time": "2026-11-20 21:23:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南京鐵路物流中心年內海鐵聯運發運量突破500萬噸】11月20日，兩列海鐵聯運班列分別從南京鐵路物流中心江都鐵路專用線、海安物流基地啟程，經海鐵聯運直抵全球市場。至此，南京鐵路物流中心年內海鐵聯運發運量突破500萬噸。（新華社）"
+    },
+    {
+      "id": "5228324",
+      "time": "2026-11-20 21:23:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克指數期貨跌2.00%，現報26067.500點；道瓊斯指數期貨跌0.44%，現報48961.280點；標普500指數期貨跌1.07%，現報7120.170點。"
+    },
+    {
+      "id": "5228323",
+      "time": "2026-11-20 21:23:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：通脹水平過高。"
+    },
+    {
+      "id": "mkt:01a1f920-0240-7bbc-ac8f-0ef6484f7196",
+      "time": "2026-11-20 21:23:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS: A magnitude 5.1 earthquake occurred 15 km south-southwest of Balangonan, Philippines."
+    },
+    {
+      "id": "mkt:01a1f91f-e3a8-7bbc-ac8f-048577ec60b6",
+      "time": "2026-11-20 21:22:58",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Nagel: Inflation remains too high."
+    },
+    {
+      "id": "mkt:01a1f91f-e265-7bbc-ac8e-f89ec3a0f75a",
+      "time": "2026-11-20 21:22:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Third batch of amortized-cost bond funds from smaller mutual fund firms receives approvals】Fund companies in the third batch of amortized-cost bond fund applications have recently received approval notices, industry sources said. The applications were filed on Oct. 8 and 9, mostly by smaller mutual fund firms, including Jinyuan Shunan, Jinxin, Guoxin Guozheng, Hongta Hongtu, Caixin, Quanguo, Hongtu Innovation, Yimi, Huibaichuan, Baijia, Allianz, Xinghua, AllianceBernstein, Huaxi, Xinghe and Shangzheng."
+    },
+    {
+      "id": "5228322",
+      "time": "2026-11-20 21:22:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：同意就非法移民問題建立新的結構化對話機制。"
+    },
+    {
+      "id": "5228321",
+      "time": "2026-11-20 21:22:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：菲律賓巴朗戈南西南偏南15公里處發生5.1級地震。"
+    },
+    {
+      "id": "mkt:01a1f91f-6fa3-7bbc-ac8e-f7d1e3e800dc",
+      "time": "2026-11-20 21:22:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President Ursula von der Leyen: Agreed to establish a new structured dialogue on irregular migration."
+    },
+    {
+      "id": "5228320",
+      "time": "2026-11-20 21:22:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第三批中小公募攤餘成本法債基陸續獲批】記者從業內人士處獲悉，第三批上報攤餘成本法債基的基金公司近日陸續收到批覆通知。該批基金於10月8日、9日集體上報，申報方以中小公募為主。具體公司為：金元順安基金、金信基金、國新國證基金、紅塔紅土基金、財信基金、泉果基金、紅土創新基金、易米基金、匯百川基金、百嘉基金、安聯基金、興華基金、聯博基金、華西基金、興合基金、尚正基金等。"
+    },
+    {
+      "id": "mkt:01a1f91f-5177-7bbc-ac8e-ea84b86f1f1d",
+      "time": "2026-11-20 21:22:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President von der Leyen: The EU will crack down on illegal migration."
+    },
+    {
+      "id": "mkt:01a1f91f-1dac-7bbc-ac8e-e7c25b79157e",
+      "time": "2026-11-20 21:22:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "ECB Governing Council member Nagel: We expect the German economy to grow about 1.2% this year."
+    },
+    {
+      "id": "5228319",
+      "time": "2026-11-20 21:22:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：為英國參與民事防務任務開闢道路。"
+    },
+    {
+      "id": "5228318",
+      "time": "2026-11-20 21:21:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長納格爾：我們預計德國今年經濟增長約為1.2%。"
+    },
     {
       "id": "5228317",
       "time": "2026-11-20 21:21:47",
@@ -84807,121 +85066,6 @@
         "MSFT.O"
       ],
       "text": "【Microsoft outage exposes risk of single-provider communications dependency】Wire CEO Benjamin Schilz said this week’s Microsoft outage highlighted the danger of placing an organisation’s communications with a single cloud provider. He noted technology is imperfect and outages can affect any company, but said government agencies, the defence sector and critical infrastructure cannot afford reliance on a single service. Digital sovereignty, he added, means not only control of data and its storage location but the ability to keep operating under disruption. If an organisation routes all communications through one platform, it effectively ties its crisis-response capability to that same platform."
-    },
-    {
-      "id": "5213444",
-      "time": "2026-11-13 21:25:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【公司“小黃人”是否已經批次訂單落地？信通電子回應】有投資者向信通電子（001388.SZ）提問，公司“小黃人”是否已經批次訂單落地？隨著銷售旺季到來和儲存價格即將回落，公司對於四季度業績是否有預期信心？11月13日，公司回答表示，公司“小黃人”防冰除冰機器人產品，是公司當前重點推廣的新產品，今年，國網部分省份已經啟動招標工作，目前已有少量訂單落地，目前各項工作正在有序進行，公司會持續密切關注相關的招標採購工作；四季度是公司銷售旺季，具體業績有關的資訊請您關注公司後續定期報告。"
-    },
-    {
-      "id": "5213443",
-      "time": "2026-11-13 21:25:45",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【英偉達供貨優勢面臨風險 SK海力士訂單或流向競爭對手】市場本預期晶片訂單會逐步流向競爭對手。LS證券測算，2026年英偉達將佔到全球HBM需求的57%，低於2025年的66%；摩根士丹利預測，2027年英偉達佔比將下滑至37.3%，谷歌佔比達到36%。 英偉達後續議價能力也可能發生變化。半導體調研機構SemiAnalysis週五指出，此前是依靠黃仁勳個人人脈，敲定了韓國的儲存產能。 半導體供應鏈獨立調研諮詢機構SemiAnalysis創始人兼執行長Dylan Patel表示：“這種強勢的供貨繫結關係，是建立在黃仁勳個人層面的。” SemiAnalysis測算，2027年SK海力士向英偉達供應HBM4的單價為每千兆位元3至3.3美元，而面向AMD、博通、亞馬遜、谷歌等其他大客戶的報價為3.7至4.1美元。 Patel還認為雙方之間存在一種“隱性默契”：SK海力士優先保障英偉達AI晶片所需的記憶體產能；英偉達則優先向SK集團旗下AI基礎設施業務供應GPU。SemiAnalysis判斷，失去黃仁勳之後，這份對英偉達的優待大機率會弱化，原本留給英偉達的HBM產能，有望釋放給其他競爭對手。"
-    },
-    {
-      "id": "5213442",
-      "time": "2026-11-13 21:25:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞穗將馬拉松石油目標價從457.00美元下調至440.00美元。"
-    },
-    {
-      "id": "5213441",
-      "time": "2026-11-13 21:24:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國成功研製國內首款20公斤級氫能動力無人直升機】據大連理工大學訊息，該校化工學院毛慶副教授團隊成功研製國內首款20公斤級氫能動力無人直升機，同步佈局純氫燃料電池與氫—鋰混動兩條技術路線，為低空經濟提供了新的綠色動力方案。"
-    },
-    {
-      "id": "5213440",
-      "time": "2026-11-13 21:23:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【默茨稱德國下週將提出歐洲央行高層職位人選方案】德國將在未來幾天提出一攬子人選方案，以填補歐洲央行三個高階職位，其中包括行長克里斯蒂娜·拉加德的職位。“我們打算下週提出德國方面的方案，”德國總理弗里德里希·默茨在都柏林舉行的歐洲理事會非正式會議間隙對記者表示。“相關協議正在磋商之中，但尚未最終敲定。”默茨週五表示，各方正圍繞這些人事任命展開“非常密集的討論”，其中包括計劃在週末與其執政聯盟夥伴社會民主黨舉行的磋商。"
-    },
-    {
-      "id": "mkt:01a1d513-bf12-7bbc-abd4-98637be6399d",
-      "time": "2026-11-13 21:23:23",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said on tariffs Washington will insist on trade agreements favorable to the U.S."
-    },
-    {
-      "id": "mkt:01a1d513-a6a0-7bbc-abd4-932d7a29a28d",
-      "time": "2026-11-13 21:23:16",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "US Treasury Secretary Bessent said he is optimistic about reaching a trade agreement with Canada and Mexico."
-    },
-    {
-      "id": "mkt:01a1d513-a69e-7bbc-abd4-8da4e69a3d13",
-      "time": "2026-11-13 21:23:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "【MERZ says Germany will propose package for ECB top posts next week】Germany will submit a package in the coming days to fill three senior European Central Bank posts, including the presidency, Chancellor MERZ said, and intends to present its proposal next week. He said talks are being finalised but not complete and that weekend consultations with coalition partner the SPD are planned. Berlin wants to retain the Executive Board seat responsible for market affairs after Isabel Schnabel departs in January and will play a decisive role in selecting Christine Lagarde’s successor, due to step down in February."
-    },
-    {
-      "id": "5213439",
-      "time": "2026-11-13 21:22:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：對與加拿大和墨西哥達成貿易協議持樂觀態度。"
-    },
-    {
-      "id": "5213438",
-      "time": "2026-11-13 21:22:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【錦富技術：公司石墨烯相關產品主要應用暫不涉及太空領域】錦富技術(300128)11月13日在互動平臺表示，公司石墨烯相關產品的主要應用領域暫不涉及太空領域。"
-    },
-    {
-      "id": "mkt:01a1d513-13eb-7bbc-abd4-8612d92a6e6b",
-      "time": "2026-11-13 21:22:39",
-      "tags": [
-        "MKT News",
-        "BMW.DE",
-        "Impact bearish"
-      ],
-      "text": "U.S. auto safety regulator urged owners of about 721,000 BMW vehicles to park them outdoors until repairs are completed to reduce fire risk."
-    },
-    {
-      "id": "5213437",
-      "time": "2026-11-13 21:22:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特就關稅問題表示：我們將堅持執行對美國有利的貿易協議。"
     }
   ]
 }

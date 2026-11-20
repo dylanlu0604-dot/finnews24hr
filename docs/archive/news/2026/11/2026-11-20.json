@@ -1,7 +1,266 @@
 {
   "date": "2026-11-20",
-  "count": 1523,
+  "count": 1551,
   "items": [
+    {
+      "id": "5228336",
+      "time": "2026-11-20 21:25:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒在為美聯儲大學競賽準備的發言稿中，未就貨幣政策或經濟前景發表評論。"
+    },
+    {
+      "id": "5228335",
+      "time": "2026-11-20 21:25:22",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾：我認為歐洲央行必須在12月會議上採取行動。"
+    },
+    {
+      "id": "5228334",
+      "time": "2026-11-20 21:25:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌5%，現報9853.00元。"
+    },
+    {
+      "id": "mkt:01a1f921-c266-7bbc-ac8f-2acbc9dc2c35",
+      "time": "2026-11-20 21:25:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq futures extend losses to 2%."
+    },
+    {
+      "id": "5228333",
+      "time": "2026-11-20 21:24:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽評級：哈薩克拘留事件不改變對薩姆魯克-卡澤納基金和哈薩克鐵路公司的國家支援"
+    },
+    {
+      "id": "5228332",
+      "time": "2026-11-20 21:24:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅賓遜全球物流簽署5億美元定期貸款，為RXO交易提供資金。"
+    },
+    {
+      "id": "5228331",
+      "time": "2026-11-20 21:24:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "奧本海默將亞馬遜目標價從 285 美元上調至 310 美元。"
+    },
+    {
+      "id": "mkt:01a1f921-6ca1-7bbc-ac8f-23c136ea1c2f",
+      "time": "2026-11-20 21:24:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Oppenheimer raises Amazon's (AMZN.O) PT to $310 from $285."
+    },
+    {
+      "id": "mkt:01a1f921-47ef-7bbc-ac8f-1807aa2152a1",
+      "time": "2026-11-20 21:24:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB Governing Council member Nagel: Inflation expectations are well anchored."
+    },
+    {
+      "id": "mkt:01a1f921-372f-7bbc-ac8f-115c5c733112",
+      "time": "2026-11-20 21:24:25",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Nagel: Monetary policy is slightly restrictive."
+    },
+    {
+      "id": "5228330",
+      "time": "2026-11-20 21:24:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【臺積電美股盤前跌超6%】臺積電美股盤前跌超6%，現報330.8美元。"
+    },
+    {
+      "id": "5228329",
+      "time": "2026-11-20 21:24:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾表示，德國今年GDP將增長1.3%，2027年增速大致相同。"
+    },
+    {
+      "id": "5228328",
+      "time": "2026-11-20 21:23:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長納格爾：通脹預期已得到良好錨定。"
+    },
+    {
+      "id": "5228327",
+      "time": "2026-11-20 21:23:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行執委納格爾：政策處於略微限制性的領域。"
+    },
+    {
+      "id": "5228325",
+      "time": "2026-11-20 21:23:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南京鐵路物流中心年內海鐵聯運發運量突破500萬噸】11月20日，兩列海鐵聯運班列分別從南京鐵路物流中心江都鐵路專用線、海安物流基地啟程，經海鐵聯運直抵全球市場。至此，南京鐵路物流中心年內海鐵聯運發運量突破500萬噸。（新華社）"
+    },
+    {
+      "id": "5228324",
+      "time": "2026-11-20 21:23:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克指數期貨跌2.00%，現報26067.500點；道瓊斯指數期貨跌0.44%，現報48961.280點；標普500指數期貨跌1.07%，現報7120.170點。"
+    },
+    {
+      "id": "5228323",
+      "time": "2026-11-20 21:23:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：通脹水平過高。"
+    },
+    {
+      "id": "mkt:01a1f920-0240-7bbc-ac8f-0ef6484f7196",
+      "time": "2026-11-20 21:23:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS: A magnitude 5.1 earthquake occurred 15 km south-southwest of Balangonan, Philippines."
+    },
+    {
+      "id": "mkt:01a1f91f-e3a8-7bbc-ac8f-048577ec60b6",
+      "time": "2026-11-20 21:22:58",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Nagel: Inflation remains too high."
+    },
+    {
+      "id": "mkt:01a1f91f-e265-7bbc-ac8e-f89ec3a0f75a",
+      "time": "2026-11-20 21:22:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Third batch of amortized-cost bond funds from smaller mutual fund firms receives approvals】Fund companies in the third batch of amortized-cost bond fund applications have recently received approval notices, industry sources said. The applications were filed on Oct. 8 and 9, mostly by smaller mutual fund firms, including Jinyuan Shunan, Jinxin, Guoxin Guozheng, Hongta Hongtu, Caixin, Quanguo, Hongtu Innovation, Yimi, Huibaichuan, Baijia, Allianz, Xinghua, AllianceBernstein, Huaxi, Xinghe and Shangzheng."
+    },
+    {
+      "id": "5228322",
+      "time": "2026-11-20 21:22:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：同意就非法移民問題建立新的結構化對話機制。"
+    },
+    {
+      "id": "5228321",
+      "time": "2026-11-20 21:22:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：菲律賓巴朗戈南西南偏南15公里處發生5.1級地震。"
+    },
+    {
+      "id": "mkt:01a1f91f-6fa3-7bbc-ac8e-f7d1e3e800dc",
+      "time": "2026-11-20 21:22:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President Ursula von der Leyen: Agreed to establish a new structured dialogue on irregular migration."
+    },
+    {
+      "id": "5228320",
+      "time": "2026-11-20 21:22:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第三批中小公募攤餘成本法債基陸續獲批】記者從業內人士處獲悉，第三批上報攤餘成本法債基的基金公司近日陸續收到批覆通知。該批基金於10月8日、9日集體上報，申報方以中小公募為主。具體公司為：金元順安基金、金信基金、國新國證基金、紅塔紅土基金、財信基金、泉果基金、紅土創新基金、易米基金、匯百川基金、百嘉基金、安聯基金、興華基金、聯博基金、華西基金、興合基金、尚正基金等。"
+    },
+    {
+      "id": "mkt:01a1f91f-5177-7bbc-ac8e-ea84b86f1f1d",
+      "time": "2026-11-20 21:22:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President von der Leyen: The EU will crack down on illegal migration."
+    },
+    {
+      "id": "mkt:01a1f91f-1dac-7bbc-ac8e-e7c25b79157e",
+      "time": "2026-11-20 21:22:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "ECB Governing Council member Nagel: We expect the German economy to grow about 1.2% this year."
+    },
+    {
+      "id": "5228319",
+      "time": "2026-11-20 21:22:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：為英國參與民事防務任務開闢道路。"
+    },
+    {
+      "id": "5228318",
+      "time": "2026-11-20 21:21:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長納格爾：我們預計德國今年經濟增長約為1.2%。"
+    },
     {
       "id": "5228317",
       "time": "2026-11-20 21:21:47",
