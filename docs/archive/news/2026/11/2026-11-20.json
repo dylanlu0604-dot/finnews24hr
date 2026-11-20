@@ -1,7 +1,109 @@
 {
   "date": "2026-11-20",
-  "count": 689,
+  "count": 699,
   "items": [
+    {
+      "id": "mkt:01a1f652-6681-7bbc-ac7b-6deaaaae7dfe",
+      "time": "2026-11-20 08:19:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "RBA member Fry-McKibbin said it was important for the public to know that the committee is monitoring AI’s impact very closely."
+    },
+    {
+      "id": "mkt:01a1f652-1d5d-7bbc-ac7b-63ef946809a0",
+      "time": "2026-11-20 08:18:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Reserve Bank of Australia board member Fry-McKibbin said demand is strong in some parts of Australia but weakening in others, amid a major shock to global oil supplies."
+    },
+    {
+      "id": "mkt:01a1f651-9895-7bbc-ac7b-585096a51e06",
+      "time": "2026-11-20 08:18:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister, Katayama, said she was aware of Japan Tobacco's plan to cut its dividend and that the move would not affect government budget plans."
+    },
+    {
+      "id": "mkt:01a1f651-2036-7bbc-ac7b-54b5cd341a43",
+      "time": "2026-11-20 08:17:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Paulson: Monetary aggregates are of limited use to Fed officials."
+    },
+    {
+      "id": "mkt:01a1f650-a8f2-7bbc-ac7b-4b2954b5e9e7",
+      "time": "2026-11-20 08:17:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "9984.T",
+        "Impact bearish",
+        "6857.T",
+        "Nikkei 225"
+      ],
+      "text": "Japanese chip stocks fell sharply, with SoftBank Group plunging 14%, Kioxia down nearly 10% and Advantest off 8%."
+    },
+    {
+      "id": "5226688",
+      "time": "2026-11-20 08:17:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北省委書記關志鷗會見浦發銀行董事長張為忠】據湖北釋出訊息，11月19日下午，湖北省委書記關志鷗在武漢會見浦發銀行黨委書記、董事長張為忠。關志鷗說，希望浦發銀行發揮自身優勢，在科技創新、產業發展、城市更新、文體旅融合等領域加大金融支援力度，推動更多創新產品和服務落地湖北，為湖北經濟社會高質量發展持續注入金融活水。張為忠說，浦發銀行對在鄂發展充滿信心，將立足自身所長，積極融入湖北科技創新、產業創新、金融創新實踐，不斷拓展合作領域，提供更多優質產品和服務，助力湖北加快建成中部地區崛起的重要戰略支點。"
+    },
+    {
+      "id": "5226687",
+      "time": "2026-11-20 08:17:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "軟銀集團股價下跌14.0%。"
+    },
+    {
+      "id": "5226686",
+      "time": "2026-11-20 08:16:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員保爾森：貨幣總量對美聯儲官員的效用有限。"
+    },
+    {
+      "id": "mkt:01a1f64f-7b5d-7bbc-ac7b-41c237dbe1dc",
+      "time": "2026-11-20 08:16:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama has asked Rakuten Securities to submit a report on the customer data leak."
+    },
+    {
+      "id": "mkt:01a1f64f-6bcb-7bbc-ac7b-3dca95b6c78a",
+      "time": "2026-11-20 08:16:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "6857.T",
+        "Impact bearish"
+      ],
+      "text": "Japan's Advantest shares fall 8%."
+    },
     {
       "id": "5226685",
       "time": "2026-11-20 08:15:35",
