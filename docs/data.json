@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-21 05:26:49",
-  "count": 9383,
+  "updated": "2026-11-21 05:30:31",
+  "count": 9380,
   "items": [
+    {
+      "id": "5228940",
+      "time": "2026-11-21 05:29:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI新興市場股票指數較6月高點下跌21%。"
+    },
+    {
+      "id": "5228939",
+      "time": "2026-11-21 05:28:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "黑石多策略對沖基金有限合夥：根據美國證券交易委員會檔案，該公司於2026年11月1日以6050萬美元出售了未註冊份額。"
+    },
     {
       "id": "5228938",
       "time": "2026-11-21 05:26:08",
@@ -83717,56 +83734,6 @@
         "市場"
       ],
       "text": "紐約期銀日內跌3%，現報48.56美元/盎司。"
-    },
-    {
-      "id": "5213974",
-      "time": "2026-11-14 05:30:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約證券交易所暫停LiveWire股票權證交易，並啟動退市程式。LiveWire普通股將繼續交易。"
-    },
-    {
-      "id": "5213973",
-      "time": "2026-11-14 05:29:46",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部考慮提供貸款，幫助委內瑞拉清償對美洲開發銀行的欠款。"
-    },
-    {
-      "id": "mkt:01a1d6d0-9ac5-7bbc-abdd-6ded56910866",
-      "time": "2026-11-14 05:29:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve: U.S. bank deposits rose $56.5 billion last week."
-    },
-    {
-      "id": "5213971",
-      "time": "2026-11-14 05:27:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：美國上週銀行存款增加565億美元。"
-    },
-    {
-      "id": "mkt:01a1d6ce-c919-7bbc-abdd-64d6004edc85",
-      "time": "2026-11-14 05:27:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "【International oil prices mixed on the 13th】NYMEX December light sweet crude settled down $0.18 at $88.56 a barrel (-0.2%); ICE Brent January settled up $0.02 at $95.84 a barrel (+0.02%)."
     }
   ]
 }
