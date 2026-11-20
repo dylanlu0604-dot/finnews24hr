@@ -1,7 +1,75 @@
 {
   "date": "2026-11-20",
-  "count": 1111,
+  "count": 1118,
   "items": [
+    {
+      "id": "mkt:01a1f764-4405-7bbc-ac81-997839b1079d",
+      "time": "2026-11-20 13:18:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "2330.TW",
+        "Impact bearish",
+        "2317.TW",
+        "2454.TW"
+      ],
+      "text": "Taiwan's Taiex extended losses to 6.7%, its steepest percentage drop in four months. TSMC fell 5.7%, Foxconn 5.44% and MediaTek 9.81%."
+    },
+    {
+      "id": "5227089",
+      "time": "2026-11-20 13:18:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭基輔市政府稱，俄羅斯的襲擊造成三人死亡。"
+    },
+    {
+      "id": "5227088",
+      "time": "2026-11-20 13:18:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工業和資訊化部腦機介面標委會工作組即將成立】為進一步推動腦機介面標準化工作，促進腦機介面技術和產業發展，工業和資訊化部腦機介面標準化技術委員會、全國資訊科技標準化技術委員會腦機介面分技術委員會將於2026年11月25日至26日，舉辦2026年腦機介面“標準周”活動。其中，工業和資訊化部腦機介面標委會工作組即將成立。"
+    },
+    {
+      "id": "5227087",
+      "time": "2026-11-20 13:17:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【臺灣股市基準指數暴跌7%，恐創1991年以來最差單週表現】週五，隨著全球人工智慧（AI）交易熱潮面臨進一步壓力，以科技股為主的中國臺灣股市遭遇新一輪拋售，導致該基準指數恐創下自1991年以來的最差單週表現。臺灣加權股價指數（Taiex）盤中一度暴跌7%，使其本週累計跌幅達到約18%。週五，全球科技股普遍回落。Anthropic PBC的重磅上市未能緩解市場對AI板塊的廣泛疑慮，投資者擔心，為技術基礎設施建設所投入及借入的鉅額資金，能否帶來相應的回報。Claude聊天機器人的開發商Anthropic的股價在美股盤後交易中下跌了4.7%。科技股在臺灣加權指數中的權重超過70%，這使得該指數對科技板塊的情緒波動尤為敏感。"
+    },
+    {
+      "id": "mkt:01a1f763-1417-7bbc-ac81-9129b9360911",
+      "time": "2026-11-20 13:17:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold is down 3.00% intraday at $3,516.24/oz."
+    },
+    {
+      "id": "mkt:01a1f762-cad6-7bbc-ac81-8c02d6b15291",
+      "time": "2026-11-20 13:16:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Shanghai Guotou Xianlead AI Master Fund plans to invest in three sub-funds】Shanghai Guotou Xianlead said its AI master fund has preliminarily selected three sub-funds for investment: Shanghai Huajun Private Equity Fund, Shanghai Puling Private Investment Fund and Shanghai Fuhai Xianlead Sci-Tech Industry Investment Fund. The funds are associated with Primavera Capital, Hillhouse Ventures and Orient Hontai Capital, respectively."
+    },
+    {
+      "id": "5227086",
+      "time": "2026-11-20 13:16:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌3%，現報3515.80美元/盎司。"
+    },
     {
       "id": "5227085",
       "time": "2026-11-20 13:14:41",
