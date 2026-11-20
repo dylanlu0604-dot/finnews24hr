@@ -1,7 +1,61 @@
 {
   "date": "2026-11-20",
-  "count": 721,
+  "count": 726,
   "items": [
+    {
+      "id": "5226705",
+      "time": "2026-11-20 08:45:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3590美元/盎司，日內跌0.98%。"
+    },
+    {
+      "id": "5226704",
+      "time": "2026-11-20 08:45:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3590美元/盎司，日內跌2.59%。"
+    },
+    {
+      "id": "mkt:01a1f669-2f79-7bbc-ac7b-b4de227c9306",
+      "time": "2026-11-20 08:44:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【Japan's Nikkei and South Korea's KOSPI plunge 4% as AI, semiconductor stocks are sold off】Japan's Nikkei Index plunged as much as 4%, or 2,400 points, below 57,000 to a two-week low, while South Korea's KOSPI fell more than 4% early. The selloff followed a sharp drop in U.S. stocks, with AI and semiconductor shares bearing the brunt. A record-sized fundraising by ANTHROPIC ahead of its Nasdaq listing failed to lift tech stocks: the Nasdaq Composite swung from a gain of more than 2% to a loss exceeding 2%. Some investors cited selling in other assets to raise funds for ANTHROPIC shares. In Tokyo, Advantest, SoftBank Group and Kioxia led declines in AI and semiconductor stocks; SK Hynix and Samsung Electronics each fell more than 5%. Risk aversion was also heightened ahead of a three-day holiday in Japan."
+    },
+    {
+      "id": "mkt:01a1f668-c8b3-7bbc-ac7b-afe70d5e48d9",
+      "time": "2026-11-20 08:43:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reported, citing a source close to the White House, that Kirsten Davies, confirmed by the U.S. Senate as the Pentagon’s chief information officer, will temporarily serve as acting National Cyber Director."
+    },
+    {
+      "id": "5226703",
+      "time": "2026-11-20 08:42:55",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日經225指數下跌4% 晶片相關股票延續跌勢】由於圍繞人工智慧(AI)交易的擔憂繼續拖累科技板塊，日本日經225指數一度下跌4%。軟銀集團、鎧俠和揖斐電是該指數中跌幅最大的成份股，跌幅均超過11%。截至東京時間上午09:38，東證指數下跌2.6%。日經半導體股票指數一度重挫7.8%。"
+    },
     {
       "id": "5226702",
       "time": "2026-11-20 08:41:26",
