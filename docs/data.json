@@ -1,7 +1,32 @@
 {
-  "updated": "2026-11-20 12:40:15",
-  "count": 9574,
+  "updated": "2026-11-20 12:44:10",
+  "count": 9566,
   "items": [
+    {
+      "id": "5227052",
+      "time": "2026-11-20 12:43:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "Seaport Research Partners：給予 Anthropic  “中性”評級。"
+    },
+    {
+      "id": "mkt:01a1f742-0921-7bbc-ac81-0d5e526d2e77",
+      "time": "2026-11-20 12:41:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange: KOSDAQ futures fell more than 6%, triggering a five-minute trading halt."
+    },
+    {
+      "id": "em:qqyh_zgyh:202611203935947246",
+      "time": "2026-11-20 12:41:00",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【LPR為何按兵不動？專家：政策利率換錨 短期降息空間有限】自2025年5月調整後，1年期LPR和5年期以上LPR橫盤至今。市場分析人士表示，展望未來，短期內LPR報價下調的可能性不大。拉長時間來看，綜合考慮經濟金融演化趨勢，預計2027年央行有望全面降息10到20個基點（0.1到0.2個百分點），屆時將引導LPR報價跟進下調。"
+    },
     {
       "id": "5227051",
       "time": "2026-11-20 12:39:25",
@@ -85676,105 +85701,6 @@
         "國際"
       ],
       "text": "日本首相高市早苗：日本和美國將進行溝通和努力，以維護有序的外匯市場。很難說匯率受到的影響完全是由某些特定因素造成的。"
-    },
-    {
-      "id": "mkt:01a1d338-48f4-7bbc-abc6-0695743ad905",
-      "time": "2026-11-13 12:44:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Term sheet shows Berkshire Hathaway raised 182.3 bln yen via a five-part yen bond issuance."
-    },
-    {
-      "id": "mkt:01a1d338-0085-7bbc-abc5-fe3bd7519e1e",
-      "time": "2026-11-13 12:43:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japanese Prime Minister Sanae Takaichi said foreign exchange rates are determined by multiple factors."
-    },
-    {
-      "id": "5212305",
-      "time": "2026-11-13 12:43:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：會仔細考慮何時宣佈通貨緊縮結束。"
-    },
-    {
-      "id": "mkt:01a1d337-6423-7bbc-abc5-f54d40475ccd",
-      "time": "2026-11-13 12:43:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Prime Minister Takaichi said she will work to maintain orderly functioning of the foreign exchange market."
-    },
-    {
-      "id": "5212304",
-      "time": "2026-11-13 12:42:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：將努力維持外匯市場秩序。"
-    },
-    {
-      "id": "mkt:01a1d336-abd0-7bbc-abc5-e8082e7ad9a9",
-      "time": "2026-11-13 12:42:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan's Prime Minister TAKAICHI says she is in close contact with US financial authorities on foreign-exchange matters."
-    },
-    {
-      "id": "mkt:01a1d336-6f5a-7bbc-abc5-e739a580308c",
-      "time": "2026-11-13 12:42:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's Prime Minister Takaichi declined to comment on foreign-exchange matters."
-    },
-    {
-      "id": "te:markets:600963",
-      "time": "2026-11-13 12:42:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Korean Won Extends Gains on Chipmaker Dollar Sales — The South Korean won strengthened to around 1,330 per dollar, extending gains to its strongest level since late October, as steady dollar selling by the country’s semiconductor exporters helped cap upward pressure on the exchange rate. Chipmakers have remained consistent in converting their foreign-currency earnings, providing a key source of support for the won. However, further gains were limited by rising global oil prices and US Treasury yields, which bolstered the dollar amid fading hopes for US-Iran negotiations and increased expectations of a December Federal Reserve rate hike. Meanwhile, Bank of Korea data showed that import prices fell 1.8% month-on-month in October, reversing a 1.9% increase in September, largely reflecting a 1.6% appreciation in the won against the dollar and a 2.6% decline in Dubai crude prices."
-    },
-    {
-      "id": "5212303",
-      "time": "2026-11-13 12:41:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：將根據現有聯合宣告協議與日本央行開展合作。期望貨幣政策朝著2%的物價目標努力。"
-    },
-    {
-      "id": "5212302",
-      "time": "2026-11-13 12:41:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：不會就外匯問題置評。"
-    },
-    {
-      "id": "mkt:01a1d335-b07c-7bbc-abc5-d871e145638a",
-      "time": "2026-11-13 12:41:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hongming Electronics: some in-house frameless torque motor models reach mass production and shipments】Hongming Electronics said its robotics business is primarily carried out through subsidiary Hongming Shuangxin and is still at an early stage. The subsidiary produces conventional machined structural and joint components; shipments this year have been strong. Hongming’s self‑developed frameless torque motors are supplied indirectly for humanoid robot joint modules, and some models have entered mass production and shipments. They are fitted on several leading domestic robot and joint‑module firms and some overseas customers and have won customer approval. Related revenue remains limited to overall sales and will be scaled up in line with customer introduction and ramp schedules."
     }
   ]
 }

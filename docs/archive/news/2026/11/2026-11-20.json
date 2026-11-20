@@ -1,7 +1,32 @@
 {
   "date": "2026-11-20",
-  "count": 1063,
+  "count": 1066,
   "items": [
+    {
+      "id": "5227052",
+      "time": "2026-11-20 12:43:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "Seaport Research Partners：給予 Anthropic  “中性”評級。"
+    },
+    {
+      "id": "mkt:01a1f742-0921-7bbc-ac81-0d5e526d2e77",
+      "time": "2026-11-20 12:41:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange: KOSDAQ futures fell more than 6%, triggering a five-minute trading halt."
+    },
+    {
+      "id": "em:qqyh_zgyh:202611203935947246",
+      "time": "2026-11-20 12:41:00",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【LPR為何按兵不動？專家：政策利率換錨 短期降息空間有限】自2025年5月調整後，1年期LPR和5年期以上LPR橫盤至今。市場分析人士表示，展望未來，短期內LPR報價下調的可能性不大。拉長時間來看，綜合考慮經濟金融演化趨勢，預計2027年央行有望全面降息10到20個基點（0.1到0.2個百分點），屆時將引導LPR報價跟進下調。"
+    },
     {
       "id": "5227051",
       "time": "2026-11-20 12:39:25",
