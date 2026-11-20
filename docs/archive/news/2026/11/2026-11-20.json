@@ -1,7 +1,112 @@
 {
   "date": "2026-11-20",
-  "count": 1511,
+  "count": 1523,
   "items": [
+    {
+      "id": "5228317",
+      "time": "2026-11-20 21:21:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：我們將打擊非法移民。"
+    },
+    {
+      "id": "5228316",
+      "time": "2026-11-20 21:21:17",
+      "tags": [
+        "宏觀",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通：外資需求將填補 2027 年美債買盤缺口】摩根大通策略師傑伊・巴里、哈里・唐尼、阿曼達・伯克在研報中稱，美聯儲、銀行以及貨幣基金明年對美債的需求下滑，有望被海外官方機構的穩健買盤對沖，買盤集中在短端。策略師預計負債驅動投資（LDI）資金與共同基金將帶來趨勢性需求。儘管美債 “需求缺口” 規模不小，但不會對期限溢價造成 “重大沖擊”，原因是 2027 年一半的淨髮行為短期國庫券。“更大的壓力大機率在下半年顯現，財政部屆時將引導市場接受更高附息債券的發行規模。” 他們寫道，“和 2023 年情形類似，在長久期供給落地前，這一變化就會推升期限溢價，令長端收益率維持相對高位。”策略師判斷，至少 2027 年上半年，並不需要動用儲備管理購債操作；2 月債務上限約束將至，財政部屆時將結合特別舉措、動用 TGA 賬戶資金，避免技術性違約。"
+    },
+    {
+      "id": "mkt:01a1f91d-a338-7bbc-ac8e-dd07dcad7bdd",
+      "time": "2026-11-20 21:20:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President Ursula von der Leyen: The EU is launching a digital partnership."
+    },
+    {
+      "id": "5228315",
+      "time": "2026-11-20 21:20:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：啟動數字夥伴關係。"
+    },
+    {
+      "id": "mkt:01a1f91d-176c-7bbc-ac8e-d63df54537e8",
+      "time": "2026-11-20 21:19:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President Ursula von der Leyen: Negotiations on a youth exchange program have concluded, with 100,000 people from each side to take part in exchanges in the other’s country."
+    },
+    {
+      "id": "mkt:01a1f91c-d6f2-7bbc-ac8e-c9ebacab78ce",
+      "time": "2026-11-20 21:19:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President von der Leyen: We are establishing an economic security dialogue."
+    },
+    {
+      "id": "mkt:01a1f91c-778a-7bbc-ac8e-c3e60fc151e8",
+      "time": "2026-11-20 21:19:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The EU said its food and agriculture deal with the UK would mean more choice and lower costs."
+    },
+    {
+      "id": "5228314",
+      "time": "2026-11-20 21:19:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟稱，英國在食品和農業方面的協議意味著更多選擇和更低成本。"
+    },
+    {
+      "id": "mkt:01a1f91c-4e31-7bbc-ac8e-bc2741a32ca0",
+      "time": "2026-11-20 21:19:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The UK will cut, not abolish, the NHS surcharge for EU students, who will pay 75% of the standard rate."
+    },
+    {
+      "id": "5228313",
+      "time": "2026-11-20 21:18:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府將對歐盟學生按75%的稅率徵收國民保健服務附加費。"
+    },
+    {
+      "id": "mkt:01a1f91b-39a9-7bbc-ac8e-b7b18e7cfb94",
+      "time": "2026-11-20 21:17:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President Ursula von der Leyen said the UK will join the Erasmus+ program next year."
+    },
+    {
+      "id": "5228312",
+      "time": "2026-11-20 21:17:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：青年交流計劃談判已結束，雙方各將有10萬人在對方國家交流。"
+    },
     {
       "id": "5228311",
       "time": "2026-11-20 21:17:26",
