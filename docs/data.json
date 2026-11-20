@@ -1,7 +1,46 @@
 {
-  "updated": "2026-11-20 08:23:40",
-  "count": 9568,
+  "updated": "2026-11-20 08:27:25",
+  "count": 9565,
   "items": [
+    {
+      "id": "mkt:01a1f659-34be-7bbc-ac7b-950d1b8e8074",
+      "time": "2026-11-20 08:26:43",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【UK consumer confidence improves ahead of Black Friday, offering retailers respite】UK consumer confidence rose 2 points to -22 in November, GfK data showed. The major purchases index climbed 5 points to -17 ahead of Black Friday, supporting seasonal retail prospects, but the personal finances index fell 2 points to -5, indicating continued pressure on household budgets. The economic outlook index rose 4 points to -32 but remained deeply negative. GfK consumer insight director Neil Bellamy said the improvement offered some relief to manufacturers and retailers ahead of the key Black Friday and Christmas sales period."
+    },
+    {
+      "id": "mkt:01a1f658-da50-7bbc-ac7b-8b6acdd04e65",
+      "time": "2026-11-20 08:26:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kushner says Russia agrees to European participation in multilateral talks】Jared Kushner, U.S. President Donald Trump’s son-in-law, said in Berlin on the 19th that Russia had agreed to European participation in a multilateral negotiating format. Speaking after a Coalition of the Willing meeting, he said renewed direct dialogue between Europe and Russia was important so both sides could hear each other’s demands. Russia could accept security guarantees for Ukraine similar to NATO’s Article 5, Kushner said, adding that Moscow had also expressed a desire to avoid another conflict. The guarantees would require a framework covering monitoring, verification and deterrence, he said. Trump was open to the proposal, provided it served U.S. interests."
+    },
+    {
+      "id": "5226692",
+      "time": "2026-11-20 08:26:10",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國股市KOSPI指數下跌4.1% Anthropic上市未能緩解市場普遍回撥】韓國股市基準的KOSPI指數一度下跌4.1%，Anthropic規模龐大的首次公開招股(IPO)未能緩解市場對全球AI交易可持續性的普遍擔憂。Capital.com高階金融市場分析師Kyle Rodda表示：“Anthropic轟動市場的IPO事實證明，仍不足以緩解投資者對AI交易前景乃至整體股市前景的擔憂”。“負面情緒源於市場持續擔心AI投資和增長放緩，以及美聯儲可能很快大幅加息，儘管美國交易時段這種行動的隱含機率略有下降”。“就亞洲市場而言，Anthropic上市帶來的提振幾乎無跡可尋。AI交易降溫，加上美聯儲激進加息可能導致金融環境收緊，這雙重打擊重創了亞洲市場”。儲存晶片製造商SK海力士一度下跌6.5%，三星電子下跌4.8%。日本股市也下跌，日經225指數跌3%。"
+    },
+    {
+      "id": "5226691",
+      "time": "2026-11-20 08:25:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員保爾森：通貨膨脹似乎正在影響價格制定。美聯儲不應在通脹問題上“玩火”。"
+    },
     {
       "id": "mkt:01a1f655-ee8f-7bbc-ac7b-80d03cf7ac57",
       "time": "2026-11-20 08:23:09",
@@ -85686,82 +85725,6 @@
         "國際"
       ],
       "text": "賈裡德·庫什納談俄烏談判：雙方現已同意擴大下一輪談判範圍，將我們的歐洲夥伴納入其中。"
-    },
-    {
-      "id": "5211968",
-      "time": "2026-11-13 08:26:58",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【巴西盧拉政府擬出臺措施，將財政調整目標提升至140億美元】據知情人士透露，面對投資者對公共債務不斷攀升的擔憂，巴西總統盧拉政府正在籌備額外的預算措施，以期改善明年的財政狀況，進一步鞏固公共財政。該知情人士稱，正在審議的提案旨在削減目前被排除在巴西財政目標之外的支出，並限制部分強制性支出。這些提案與本週已提交給國會的措施相結合，有望將2027年的預期財政調整規模提升至約800億雷亞爾（約合142億美元）。由於相關討論屬於機密，該知情人士要求匿名。其表示，盧拉政府計劃將這些措施納入一項擬議的憲法修正案中，併力爭在今年年底前提交給國會。此舉將是對政府週三公佈的一項計劃的補充——當時政府提交了一項立法提案，尋求在2027年將支出削減500億至600億雷亞爾。受此訊息影響，巴西雷亞爾的跌幅一度收窄，同時掉期利率的升幅也有所回落。"
-    },
-    {
-      "id": "5211967",
-      "time": "2026-11-13 08:26:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "賈裡德·庫什納：我們也在努力促成這場戰爭中規模最大的囚犯交換。"
-    },
-    {
-      "id": "mkt:01a1d24c-4f56-7bbc-abc1-5a0081cc345d",
-      "time": "2026-11-13 08:26:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【New York Fed president Williams: inflation too high, action needed in near term】New York Fed president John Williams said US inflation remains too high and policymakers must take further action in the near term to curb price pressures and ensure inflation returns to the 2% target in a timely, sustainable way. He added the Fed should act without unnecessarily damaging the goal of full employment and that, overall, the US economy does not currently appear to be out of balance."
-    },
-    {
-      "id": "5211966",
-      "time": "2026-11-13 08:25:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI Codex產品負責人Tibo：我們今天宣佈了正在開發的新工具，用於網路安全領域，包括自動化修補和自動化紅隊測試。"
-    },
-    {
-      "id": "mkt:01a1d24b-8f23-7bbc-abc1-554d365a6be4",
-      "time": "2026-11-13 08:25:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact mixed",
-        "S&P500",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【CITIC Securities: Tech leadership changes could amplify short-term market volatility but systemic sell-off risk likely limited】CITIC Securities said NVIDIA CEO Jensen Huang’s departure, combined with shifts in the US political backdrop, could trigger a valuation repricing across the AI supply chain and a style rebalance in US equities, though the medium‑term effect depends on corporate earnings evolution. In tech, markets may short‑term reprice slower AI capex growth and downward revisions to semiconductor earnings; supply‑chain inventory risk appears limited and hardware downside should be manageable. Slower AI capex would improve cloud service providers’ (CSPs’) free cash flow, and, together with a potential retreat in long‑end yields, could support the SaaS sector. For US equities, the midterm elections and tech leadership turnover may increase near‑term volatility but systemic selling pressure is likely limited; as political risk is digested, pricing should refocus on earnings growth and upward revisions to underpin medium‑term performance."
-    },
-    {
-      "id": "5211965",
-      "time": "2026-11-13 08:23:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黑龍江：受天氣原因影響，7條高速公路全線封閉】據黑龍江釋出，11月13日8時彙總路況資訊：全線封閉的高速有：京哈高速、哈大高速、依七高速、鐵科高速、哈爾濱繞城高速、吉黑高速（吉黑省界-哈爾濱段）、都市圈環線。部分封閉、限速限行的高速有：1.綏大高速（紅崗東站）、哈肇高速（朝陽溝至肇州站），限速80公里/小時。2.鶴哈高速（雙豐至伊春站），禁止七座（含七座）以上客車及危化品運輸車通行，限速80公里/小時。3.哈牡高速（烏吉密至牡丹江站），禁止八座（含八座）以上客車、危化品運輸車及大件運輸車及摩托車通行。4.哈肇高速（中源大道至五里明站）、哈同高速（哈爾濱東至佳南站）、綏大高速（綏化北至萬寶山站）、鶴哈高速（趙家至慶安站）、鶴大高速（鶴崗至西長髮站、萬興站）、哈牡高速（哈爾濱至帽兒山站）、綏北高速（綏化西至海北站），封閉。"
-    },
-    {
-      "id": "5211964",
-      "time": "2026-11-13 08:23:46",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：科技龍頭企業管理層變動可能加劇短期市場波動，但系統性拋售壓力或相對有限】中信證券研報稱，英偉達宣佈創始人兼執行長黃仁勳離任，疊加美國政治格局變化，或引發AI產業鏈估值重估及美股市場風格再平衡，但對美股中期走勢的影響仍取決於企業盈利基本面的演變。科技層面，市場短期可能對AI資本開支放緩及半導體企業盈利預期下修進行重新定價，但產業鏈庫存風險相對有限，硬體板塊調整幅度或較為可控。AI資本開支增速放緩有助於改善CSP的自由現金流狀況，疊加長端利率潛在回落，SaaS板塊有望受益。美股層面，美國中期選舉及科技龍頭企業管理層變動可能加劇短期市場波動，但系統性拋售壓力或相對有限。隨著政治風險逐步消化，美股定價邏輯或由短期風險情緒主導逐步迴歸企業盈利基本面，盈利增長及盈利預期上修有望繼續為市場中期表現提供支撐。"
     }
   ]
 }

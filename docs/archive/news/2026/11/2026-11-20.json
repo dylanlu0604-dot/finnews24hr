@@ -1,7 +1,46 @@
 {
   "date": "2026-11-20",
-  "count": 704,
+  "count": 708,
   "items": [
+    {
+      "id": "mkt:01a1f659-34be-7bbc-ac7b-950d1b8e8074",
+      "time": "2026-11-20 08:26:43",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【UK consumer confidence improves ahead of Black Friday, offering retailers respite】UK consumer confidence rose 2 points to -22 in November, GfK data showed. The major purchases index climbed 5 points to -17 ahead of Black Friday, supporting seasonal retail prospects, but the personal finances index fell 2 points to -5, indicating continued pressure on household budgets. The economic outlook index rose 4 points to -32 but remained deeply negative. GfK consumer insight director Neil Bellamy said the improvement offered some relief to manufacturers and retailers ahead of the key Black Friday and Christmas sales period."
+    },
+    {
+      "id": "mkt:01a1f658-da50-7bbc-ac7b-8b6acdd04e65",
+      "time": "2026-11-20 08:26:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kushner says Russia agrees to European participation in multilateral talks】Jared Kushner, U.S. President Donald Trump’s son-in-law, said in Berlin on the 19th that Russia had agreed to European participation in a multilateral negotiating format. Speaking after a Coalition of the Willing meeting, he said renewed direct dialogue between Europe and Russia was important so both sides could hear each other’s demands. Russia could accept security guarantees for Ukraine similar to NATO’s Article 5, Kushner said, adding that Moscow had also expressed a desire to avoid another conflict. The guarantees would require a framework covering monitoring, verification and deterrence, he said. Trump was open to the proposal, provided it served U.S. interests."
+    },
+    {
+      "id": "5226692",
+      "time": "2026-11-20 08:26:10",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國股市KOSPI指數下跌4.1% Anthropic上市未能緩解市場普遍回撥】韓國股市基準的KOSPI指數一度下跌4.1%，Anthropic規模龐大的首次公開招股(IPO)未能緩解市場對全球AI交易可持續性的普遍擔憂。Capital.com高階金融市場分析師Kyle Rodda表示：“Anthropic轟動市場的IPO事實證明，仍不足以緩解投資者對AI交易前景乃至整體股市前景的擔憂”。“負面情緒源於市場持續擔心AI投資和增長放緩，以及美聯儲可能很快大幅加息，儘管美國交易時段這種行動的隱含機率略有下降”。“就亞洲市場而言，Anthropic上市帶來的提振幾乎無跡可尋。AI交易降溫，加上美聯儲激進加息可能導致金融環境收緊，這雙重打擊重創了亞洲市場”。儲存晶片製造商SK海力士一度下跌6.5%，三星電子下跌4.8%。日本股市也下跌，日經225指數跌3%。"
+    },
+    {
+      "id": "5226691",
+      "time": "2026-11-20 08:25:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員保爾森：通貨膨脹似乎正在影響價格制定。美聯儲不應在通脹問題上“玩火”。"
+    },
     {
       "id": "mkt:01a1f655-ee8f-7bbc-ac7b-80d03cf7ac57",
       "time": "2026-11-20 08:23:09",
