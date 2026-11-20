@@ -1,7 +1,168 @@
 {
-  "updated": "2026-11-20 21:14:21",
-  "count": 9508,
+  "updated": "2026-11-20 21:18:33",
+  "count": 9502,
   "items": [
+    {
+      "id": "5228311",
+      "time": "2026-11-20 21:17:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩表示，英國將從明年起參與伊拉斯謨+計劃。"
+    },
+    {
+      "id": "5228310",
+      "time": "2026-11-20 21:17:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東重工集團與北汽集團座談交流】據濰柴資訊公眾號，11月20日，山東重工集團黨委書記、董事長王志堅與北汽集團黨委副書記、總經理，北汽福田董事長常瑞在濟南進行座談交流。此次座談，雙方圍繞進一步落實和拓展務實合作深入交換意見，並就重卡、客車、動力系統等業務全球化發展和產業鏈協同進行交流共享。"
+    },
+    {
+      "id": "5228309",
+      "time": "2026-11-20 21:16:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府將削減而非取消針對歐盟學生的醫療附加費。"
+    },
+    {
+      "id": "5228308",
+      "time": "2026-11-20 21:16:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國排放交易體系協議將使65億英鎊（約合570億元人民幣）的英國出口免受歐盟碳稅影響。"
+    },
+    {
+      "id": "mkt:01a1f919-edf6-7bbc-ac8e-aaf5321b5743",
+      "time": "2026-11-20 21:16:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Council President Costa: We remain open to building the closest possible relationship with the UK."
+    },
+    {
+      "id": "mkt:01a1f919-a744-7bbc-ac8e-a6c4b2952104",
+      "time": "2026-11-20 21:16:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The Stoxx Europe 600 is down 5.58% this week, on track for its biggest weekly decline since March-April 2025."
+    },
+    {
+      "id": "5228307",
+      "time": "2026-11-20 21:16:00",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數本週累計下跌5.58%，有望創下2025年3月/4月以來最大單週跌幅。"
+    },
+    {
+      "id": "mkt:01a1f919-5564-7bbc-ac8e-9f842f5f389b",
+      "time": "2026-11-20 21:15:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The EU and UK are seeking to launch carbon market linkage from Jan. 1, 2028, the UK government said."
+    },
+    {
+      "id": "mkt:01a1f918-e08a-7bbc-ac8e-952981624f7b",
+      "time": "2026-11-20 21:15:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "The VIX rose to 31, its highest level since March 30."
+    },
+    {
+      "id": "5228306",
+      "time": "2026-11-20 21:15:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "恐慌指數VIX指數升至31，為3月30日以來最高。"
+    },
+    {
+      "id": "mkt:01a1f918-9d4e-7bbc-ac8e-8c0212dd2959",
+      "time": "2026-11-20 21:15:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "USDCAD"
+      ],
+      "text": "Fed Governor Waller is due to speak in 10 minutes; Canada’s September retail sales are due in 15 minutes."
+    },
+    {
+      "id": "mkt:01a1f918-85b8-7bbc-ac8e-84130edaa628",
+      "time": "2026-11-20 21:14:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Council President Costa: We respect any decision the UK makes regarding its long-term relationship with the EU."
+    },
+    {
+      "id": "5228305",
+      "time": "2026-11-20 21:14:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲理事會主席科斯塔表示，我們仍對英國與歐盟之間建立儘可能緊密的關係持開放態度。"
+    },
+    {
+      "id": "mkt:01a1f918-3e51-7bbc-ac8e-7d3b83b5538d",
+      "time": "2026-11-20 21:14:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Council President Costa: The EU and UK can achieve more together."
+    },
+    {
+      "id": "5228304",
+      "time": "2026-11-20 21:14:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局延長對眼病藥物的審查，BELITE BIO 盤前股價下跌 10.6%。"
+    },
+    {
+      "id": "5228303",
+      "time": "2026-11-20 21:14:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲理事會主席科斯塔表示，我們尊重英國在2016年脫離歐盟的決定。"
+    },
+    {
+      "id": "5228302",
+      "time": "2026-11-20 21:13:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞得里亞輸油管道公司恢復為塞爾維亞石油工業公司運輸原油。"
+    },
     {
       "id": "5228301",
       "time": "2026-11-20 21:13:43",
@@ -84925,224 +85086,6 @@
         "Impact bearish"
       ],
       "text": "【Texas incoming attorney general vows strict review of any Tesla-SpaceX merger】Nathan Johnson, Texas's incoming attorney general, vowed to rigorously review any potential merger between Elon Musk's SpaceX and Tesla (TSLA.O), warning of the risks of excessive corporate concentration. He said any deal of that scale \"deserves extremely strict review.\" Musk has concentrated much of his business empire in Texas to seek a friendlier GOP regulatory environment and spent hundreds of millions supporting Republicans in the midterms. Johnson, along with incoming governor Inohosa and incoming senator Talarico—Democrats—have pledged to curb his influence; Johnson said he is unconcerned about scrutinizing Musk's relationship with the state."
-    },
-    {
-      "id": "5213423",
-      "time": "2026-11-13 21:18:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：在能源供應衝擊即將消退之際過度加息，是一個干擾性數字。"
-    },
-    {
-      "id": "5213422",
-      "time": "2026-11-13 21:18:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "貝森特：美聯儲應該明白這是一次能源供應衝擊。"
-    },
-    {
-      "id": "mkt:01a1d50e-dafe-7bbc-abd4-1dfd9626af71",
-      "time": "2026-11-13 21:18:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish"
-      ],
-      "text": "Fox News reported that U.S. Commerce Secretary Lutnick will testify before a Senate committee on Dec. 10 (local time) on matters related to NVIDIA."
-    },
-    {
-      "id": "5213421",
-      "time": "2026-11-13 21:17:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗造成了能源衝擊，但我們將渡過這一關。"
-    },
-    {
-      "id": "5213420",
-      "time": "2026-11-13 21:17:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：將繼續對伊朗施壓。"
-    },
-    {
-      "id": "mkt:01a1d50e-735a-7bbc-abd4-1102de97297d",
-      "time": "2026-11-13 21:17:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said Iran has caused an energy shock, but the U.S. will get through it."
-    },
-    {
-      "id": "mkt:01a1d50e-5ddb-7bbc-abd4-0ea390ffc10b",
-      "time": "2026-11-13 21:17:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said core inflation remains under control."
-    },
-    {
-      "id": "5213419",
-      "time": "2026-11-13 21:17:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員哈桑就4.96億美元監獄合同問題要求國土安全部接受調查。"
-    },
-    {
-      "id": "mkt:01a1d50e-4173-7bbc-abd4-055b9e17f901",
-      "time": "2026-11-13 21:17:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Treasury Secretary Bessent said the US will continue to pressure Iran."
-    },
-    {
-      "id": "mkt:01a1d50e-38f2-7bbc-abd3-f8f15df54b0b",
-      "time": "2026-11-13 21:17:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Refinitiv reports Iraqi crude is being shipped to refineries in Greece, Italy and Turkey. Qatar UCC is transporting 120,000-150,000 bpd of Iraqi crude to Syria's Baniyas facility for onward export."
-    },
-    {
-      "id": "5213418",
-      "time": "2026-11-13 21:17:14",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部貝森特：近期已有2000萬桶原油透過海峽。"
-    },
-    {
-      "id": "5213417",
-      "time": "2026-11-13 21:17:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：核心通脹仍在可控範圍內。"
-    },
-    {
-      "id": "5213416",
-      "time": "2026-11-13 21:17:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克將於12月10日就英偉達問題在參議院委員會作證。"
-    },
-    {
-      "id": "5213415",
-      "time": "2026-11-13 21:16:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，伊拉克石油正被運往希臘、義大利和土耳其的歐洲煉油廠。卡達UCC公司正將每日12萬至15萬桶伊拉克原油運往敘利亞巴尼亞斯，以供出口。"
-    },
-    {
-      "id": "5213414",
-      "time": "2026-11-13 21:16:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲2%，現報3287.00元。"
-    },
-    {
-      "id": "mkt:01a1d50d-9727-7bbc-abd3-f6b090cfcb7a",
-      "time": "2026-11-13 21:16:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News reported U.S. Commerce Secretary Lutnick has agreed to testify before the Senate Banking Committee."
-    },
-    {
-      "id": "mkt:01a1d50d-296e-7bbc-abd3-ec44c771a6e8",
-      "time": "2026-11-13 21:16:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100"
-      ],
-      "text": "Reuters survey: Of 65 economists, 64 expect the Bank of England to leave Bank Rate at 4.00% on Dec 17. 57 of 65 forecast a rise to 4.25% in Q1 next year. The survey projects UK GDP growth of 1.5% in 2026 and 1.2% in 2027 (Oct survey: 1.3%, 1.2%)."
-    },
-    {
-      "id": "5213413",
-      "time": "2026-11-13 21:16:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內漲1%，現報9224.00元。"
-    },
-    {
-      "id": "5213412",
-      "time": "2026-11-13 21:16:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克同意在參議院銀行委員會作證。"
-    },
-    {
-      "id": "mkt:01a1d50c-1b59-7bbc-abd3-e5cef078ca4c",
-      "time": "2026-11-13 21:15:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the U.S. will not hesitate to sanction Iranian banks."
-    },
-    {
-      "id": "5213411",
-      "time": "2026-11-13 21:14:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南京14宗宅地91.64億元成交 最高溢價率超46%】11月13日，南京有14宗住宅用地出讓，總土地出讓面積525450.28平方米，總規劃建築面積820529.32平方米，總起始價82.96億元。最終11宗底價成交、3宗溢價成交，總成交金額91.64億元。其中，奧南NO.2026G66地塊經過113輪競價溢價11.79%成交；江寧科學園NO.2026G96地塊經過307輪競價溢價46.12%成交；百家湖NO.2026G108地塊經過184輪競價溢價43.14%成交。"
-    },
-    {
-      "id": "5213410",
-      "time": "2026-11-13 21:14:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【日久光電：EMI膜產品已形成收入的應用主要為手機無線充電】有投資者向日久光電（003015.SZ）提問，柔性線路板FPC是端側AI、具身智慧、光模組、手機、智慧眼鏡中的柔性高速互連載體，屬於AI硬體柔性互連鏈路；日久光電EMI膜直接下游為柔性線路板FPC廠商，用於FPC電磁干擾遮蔽，是否已經配套應用於上述硬體場景？11月13日，公司回答表示，目前該產品已形成收入的應用主要為手機無線充電，近期該業務拓展節奏有所加快，但整體營收規模較小、業務佔比很低，對公司整體業績不構成顯著影響，因此前期未在公告中單列披露。"
-    },
-    {
-      "id": "5213409",
-      "time": "2026-11-13 21:14:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財長貝森特：不會猶豫對伊朗銀行實施制裁。"
     }
   ]
 }
