@@ -1,7 +1,1111 @@
 {
   "date": "2026-11-21",
-  "count": 803,
+  "count": 933,
   "items": [
+    {
+      "id": "5230026",
+      "time": "2026-11-21 23:56:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府：與烏克蘭建立新的產業安排。"
+    },
+    {
+      "id": "5230025",
+      "time": "2026-11-21 23:56:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "英國政府：烏克蘭將能夠在英國設立生產設施。"
+    },
+    {
+      "id": "5230024",
+      "time": "2026-11-21 23:54:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府：國防大臣斯特里廷會見了烏克蘭總統澤連斯基。"
+    },
+    {
+      "id": "5230023",
+      "time": "2026-11-21 23:53:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：將伊朗針對本人的懸賞視為一種成功的標誌。"
+    },
+    {
+      "id": "5230019",
+      "time": "2026-11-21 23:50:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：總統特朗普認為H200晶片可以出售。"
+    },
+    {
+      "id": "5230017",
+      "time": "2026-11-21 23:48:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：英偉達自行調查之際，我們將查明其銷售情況。"
+    },
+    {
+      "id": "5230015",
+      "time": "2026-11-21 23:47:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：將審視英偉達在晶片銷售方面哪些地方過於隨意。"
+    },
+    {
+      "id": "5230010",
+      "time": "2026-11-21 23:41:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱2028大選候選人或現黑馬】美國總統特朗普被問及他認為誰應當參選2028年總統時表示，副總統萬斯、國務卿魯比奧顯然是頭號潛在競爭者，但“也有可能殺出黑馬”。他說：“我們有不少能力出眾的人選。”"
+    },
+    {
+      "id": "5230004",
+      "time": "2026-11-21 23:34:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普就伊朗問題：將達成一項永久性的協議，不會允許任何人讓他們擁有核武器。"
+    },
+    {
+      "id": "5230001",
+      "time": "2026-11-21 23:31:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭邊防警衛隊：SPARTA II號貨船船員正撤離至救生筏和救援船。"
+    },
+    {
+      "id": "5230000",
+      "time": "2026-11-21 23:31:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta計劃將其Muse Charm人工智慧裝置定價300美元，並提供最長一年的Verizon 5G免費服務以吸引買家。"
+    },
+    {
+      "id": "5229997",
+      "time": "2026-11-21 23:29:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基提名烏克蘭下一任駐美大使人選】烏克蘭總統澤連斯基已提名多名潛在人選，角逐烏克蘭下一任駐美國大使一職，該職位自今年8月起空缺。澤連斯基週六在記者問答中，點名現任外交部長安德烈·瑟比加、其兩位前任德米特里·庫列巴與帕夫洛·克利姆金為候選人。他還提到了尤利婭·斯維裡登科，此人在今年夏天一場備受關注的內閣改組中被免去總理職務。其他人選包括澤連斯基辦公室副主任謝爾蓋·基斯利察，以及2021至2025年擔任駐美大使的奧克薩娜·馬爾卡羅娃。馬爾卡羅娃的繼任者奧爾加·斯特凡尼申娜已於三個多月前離任。澤連斯基還暗示，可能派遣一名英語流利、經驗豐富的軍人前往華盛頓，但並未具體指明軍方人選。"
+    },
+    {
+      "id": "5229992",
+      "time": "2026-11-21 23:25:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "新幾內亞航空公司的一架飛機在右發動機火警警告後，於菲律賓達沃機場緊急降落，並疏散了包括所有乘客和機組人員在內的146人，無人受傷 。"
+    },
+    {
+      "id": "5229989",
+      "time": "2026-11-21 23:24:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我們有機會取得比共和黨微弱多數執政時更好的成果。民主黨在醫療議題上有合理主張，也有不妥之處。我們有望推出優質醫療方案，並在其他諸多事項上取得進展。"
+    },
+    {
+      "id": "5229988",
+      "time": "2026-11-21 23:23:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：白宮辦公廳主任米勒是一個非常優秀的人，我認為眾議院民主黨領袖傑弗里斯會看到這一點。我期待與眾議院民主黨領袖傑弗里斯合作。"
+    },
+    {
+      "id": "5229987",
+      "time": "2026-11-21 23:22:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "宣告顯示：法國呼籲聯合國安理會召開會議，討論國際法院關於緬甸的裁決的執行情況。"
+    },
+    {
+      "id": "5229986",
+      "time": "2026-11-21 23:22:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：菲律賓現在必須從美國購買能源。"
+    },
+    {
+      "id": "5229985",
+      "time": "2026-11-21 23:22:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱在波斯灣北部攔截一架敵方偵察無人機】當地時間21日，伊朗伊斯蘭革命衛隊宣佈，不久前，衛隊航空航天部隊的防空系統成功攔截並擊落了一架侵入伊朗領空的敵方偵察無人機。（央視新聞）"
+    },
+    {
+      "id": "5229984",
+      "time": "2026-11-21 23:20:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：亞洲之行成果斐然，菲律賓將採購美國農產品。"
+    },
+    {
+      "id": "5229982",
+      "time": "2026-11-21 23:19:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普就新聞秘書一職表示：我有四到五名候選人。"
+    },
+    {
+      "id": "5229980",
+      "time": "2026-11-21 23:19:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗正在探索外交是否仍有機會】“我們正與包括卡達方面在內的調解方保持接觸，既有面對面接觸，也有線上接觸，並正在進行必要的談判，以瞭解是否還能再給外交一個機會，”伊朗副外長加里布阿巴迪表示。伊朗和卡達官員週五晚間舉行了兩個小時的會談，卡達代表團隨後離開，重申“濃縮材料在任何情況下都不會運出境外”的立場。“我們認為經濟封鎖是一種戰爭行為，將採取一切必要措施打破封鎖”，加里布阿巴迪稱。"
+    },
+    {
+      "id": "5229979",
+      "time": "2026-11-21 23:18:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：現任伊朗領導層或許更為理性，但很難達成協議，第二天就會反悔。"
+    },
+    {
+      "id": "5229978",
+      "time": "2026-11-21 23:18:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：並不太在意推翻伊朗政權，我們先後與三位領導人打交道，這已是對（該國）體制的徹底變革。"
+    },
+    {
+      "id": "5229977",
+      "time": "2026-11-21 23:17:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普談2028年潛在競選人：我們有一些有能力的人。"
+    },
+    {
+      "id": "5229976",
+      "time": "2026-11-21 23:17:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普談2028年潛在競選者：可能會有一些意外。"
+    },
+    {
+      "id": "5229975",
+      "time": "2026-11-21 23:16:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：萬斯和魯比奧表現出色，兩人在2028年大選前都很受歡迎。"
+    },
+    {
+      "id": "5229972",
+      "time": "2026-11-21 23:13:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "比特幣最新上漲2.20%，報60,225.76美元。"
+    },
+    {
+      "id": "5229971",
+      "time": "2026-11-21 23:13:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普：參議院共和黨領袖圖恩是個好人，但少數共和黨人表現不佳。"
+    },
+    {
+      "id": "5229970",
+      "time": "2026-11-21 23:11:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我與俄羅斯總統普京和烏克蘭總統澤連斯基的關係都很好。"
+    },
+    {
+      "id": "5229969",
+      "time": "2026-11-21 23:10:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【芬蘭稱俄羅斯一貨船在芬蘭灣遭襲起火 俄方發文證實】芬蘭國防部21日釋出公告說，芬蘭邊防軍當天上午在芬蘭灣東部國際水域監測到一艘俄羅斯貨船船體受損並起火，疑遭無人機襲擊。俄羅斯列寧格勒州州長隨後發文證實一艘俄羅斯貨船在該水域遭無人機襲擊。（新華社）"
+    },
+    {
+      "id": "5229967",
+      "time": "2026-11-21 23:09:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普就伊朗問題表態：將達成一項永久性協議。"
+    },
+    {
+      "id": "5229966",
+      "time": "2026-11-21 23:09:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：不提高債務上限將導致國家破產。"
+    },
+    {
+      "id": "5229965",
+      "time": "2026-11-21 23:09:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：信用卡費用過高，利率也過高。"
+    },
+    {
+      "id": "5229964",
+      "time": "2026-11-21 23:09:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：否決一切將一事無成，不是可行之道。"
+    },
+    {
+      "id": "5229963",
+      "time": "2026-11-21 23:09:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普總統談即將上任的民主黨國會：可能在信用卡利率問題上合作。"
+    },
+    {
+      "id": "5229961",
+      "time": "2026-11-21 23:05:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：必須與民主黨保持暢通的溝通渠道。"
+    },
+    {
+      "id": "5229960",
+      "time": "2026-11-21 23:05:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：眾議院民主黨領袖傑弗里斯和參議院民主黨領袖舒默很聰明。"
+    },
+    {
+      "id": "5229959",
+      "time": "2026-11-21 23:05:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：期待與眾議院民主黨領袖傑弗里斯合作。"
+    },
+    {
+      "id": "5229958",
+      "time": "2026-11-21 23:05:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就最新報道的聯邦調查局遭駭客攻擊一事表示：剛聽說這件事，情況不妙。"
+    },
+    {
+      "id": "5229956",
+      "time": "2026-11-21 22:57:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【維德角全國選舉委員會宣佈內韋斯連任總統】維德角全國選舉委員會21日宣佈，現任總統內韋斯在15日舉行的總統選舉中獲勝，贏得連任。（新華社）"
+    },
+    {
+      "id": "mkt:01a1fe93-14e6-7bbc-ac9f-5ee7e6335ceb",
+      "time": "2026-11-21 22:46:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM: The Islamic Revolutionary Guard Corps’ claim that it hit and damaged a U.S. F-16 yesterday, forcing it to make an emergency landing, is false. Iran did not attack a U.S. F-16 yesterday. All U.S. military fighter aircraft in the Middle East are safe and accounted for."
+    },
+    {
+      "id": "5229952",
+      "time": "2026-11-21 22:45:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：伊朗革命衛隊聲稱昨日擊中並損壞一架美國F-16戰鬥機，迫使其緊急降落。此說法不實。事實是，伊朗昨日根本沒有攻擊美國F-16戰鬥機。美國在中東的所有軍用戰鬥機均安全無恙，全部可查。"
+    },
+    {
+      "id": "5229951",
+      "time": "2026-11-21 22:43:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：正與包括卡達方面在內的調解方保持聯絡，透過面對面和線上兩種方式開展必要對話，以探討是否能為外交斡旋再提供一次機會，並對卡達在這一領域的努力表示感謝。"
+    },
+    {
+      "id": "5229950",
+      "time": "2026-11-21 22:42:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名美國訊息人士表示，伊朗聲稱迫使一架美國F-16緊急降落的說法是“虛假的”。"
+    },
+    {
+      "id": "mkt:01a1fe8c-145f-7bbc-ac9f-5522df012182",
+      "time": "2026-11-21 22:39:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran considers an economic blockade an act of war and will take all necessary measures to break it, the deputy foreign minister said."
+    },
+    {
+      "id": "5229949",
+      "time": "2026-11-21 22:39:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大國防部長：美加軍事關係未發生轉變。"
+    },
+    {
+      "id": "5229948",
+      "time": "2026-11-21 22:37:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：我們認為經濟封鎖是一種戰爭行為，將採取一切必要措施予以打破。"
+    },
+    {
+      "id": "5229947",
+      "time": "2026-11-21 22:37:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "一艘俄羅斯救援船已抵達芬蘭灣，前往支援遭無人機襲擊的俄羅斯貨船。"
+    },
+    {
+      "id": "5229941",
+      "time": "2026-11-21 22:34:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【生態環境部黨組書記孫金龍赴浙江省、上海市調研生態環境保護工作】11月18日至20日，生態環境部黨組書記孫金龍赴浙江省、上海市調研生態環境保護工作。推動經濟社會發展綠色化、低碳化是實現高質量發展的關鍵環節。孫金龍來到位於杭州市的浙江吉利控股集團有限公司和位於紹興市的浙江省現代紡織技術創新中心，詳細瞭解新能源重卡生產使用、甲醇等清潔能源汽車產業發展、綠色智慧印染技術應用等情況。科技創新是美麗中國建設的關鍵支撐。孫金龍來到浙江省之江實驗室、上海市綠色低碳資料創新實驗室、上海“模速空間”創新生態社群、上海航天技術研究院，詳細瞭解人工智慧、大資料、衛星遙感等新技術在生態環境領域的應用情況。"
+    },
+    {
+      "id": "mkt:01a1fe85-8a15-7bbc-ac9f-4b3418cb7214",
+      "time": "2026-11-21 22:32:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatari delegation visits Tehran to push for resumption of U.S.-Iran talks】Iranian Deputy Foreign Minister Kazem Gharibabadi said a Qatari delegation visited Tehran last night for two hours of talks. Axios, citing sources, reported that the meeting between Qatar’s envoy and Iranian officials aimed to facilitate a resumption of U.S.-Iran negotiations."
+    },
+    {
+      "id": "mkt:01a1fe84-2e13-7bbc-ac9f-4743d31abaa2",
+      "time": "2026-11-21 22:30:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A Qatari envoy’s talks with Iranian officials aimed to facilitate a resumption of U.S.-Iran negotiations, Axios reported, citing sources."
+    },
+    {
+      "id": "5229936",
+      "time": "2026-11-21 22:29:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "據知情人士透露，卡達特使阿里·薩瓦迪昨晚訪問德黑蘭，與伊朗官員舉行會談，作為推動美伊恢復談判努力的一部分。"
+    },
+    {
+      "id": "5229933",
+      "time": "2026-11-21 22:25:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【秘魯地震已造成8人受傷】據秘魯國家民防研究所今天（11月21日）最新通報，秘魯胡寧省6.7級地震已造成8人受傷，128戶房屋受到影響，另有4戶房屋被毀。此次地震波及範圍較廣，秘魯首都利馬等地均有震感。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a1fe7f-3155-7bbc-ac9f-39b6c4706250",
+      "time": "2026-11-21 22:25:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Revolutionary Guard Corps commander Ahmad Vahidi said the events facing the enemy were only the beginning, adding that it would suffer further humiliation and defeat."
+    },
+    {
+      "id": "5229932",
+      "time": "2026-11-21 22:23:26",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【金沙江上游裝機規模最大水電站正式開工】據中國電建訊息，近日，中國電建設計承建的金沙江上游規模最大水電站金沙江奔子欄水電站工程正式開工，對完善金沙江上游水電基地佈局具有重要意義。金沙江奔子欄水電站是國家“十四五”現代能源體系和可再生能源發展規劃重點推進專案，為金沙江上游“一庫十三級”開發方案中的第13級梯級電站，橫跨川滇兩省，是金沙江上游裝機規模最大水電站。中國電建所屬中南院全過程勘察設計，水電十四局承建。"
+    },
+    {
+      "id": "5229931",
+      "time": "2026-11-21 22:19:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【亞投行將在香港設立辦公室】中華人民共和國政府與亞洲基礎設施投資銀行（亞投行）21日在香港簽署《中華人民共和國政府與亞洲基礎設施投資銀行關於在中華人民共和國香港特別行政區設立辦公室的協定》，為亞投行在香港開設辦公室奠定基礎。中華人民共和國政府與亞投行分別由財政部部長藍佛安和亞投行行長鄒加怡代表簽署協定。該協定確定亞投行於香港設立辦公室，併為特權、豁免與其他有助成立辦公室的事宜制定原則。香港特區政府財政司司長陳茂波表示，亞投行選擇在香港設立辦公室，充分肯定香港作為國際金融中心的地位，也彰顯香港在匯聚國際資本、支援亞洲基礎設施建設方面的獨特角色。特區政府會全力支援辦公室的設立和運作，期待與亞投行加強合作，讓香港的資本市場和專業服務為其業務發展提供更大的支援，撬動更多國際資本參與亞洲基建投融資。同日，特區政府署理財經事務及庫務局局長陳浩濂代表特區政府與亞投行首席夥伴合作官金憲簽署一份向“專案準備特別基金”注資2000萬美元的協定，以展現對亞投行工作的支援。（新華社）"
+    },
+    {
+      "id": "mkt:01a1fe77-f018-7bbc-ac9f-37c283654767",
+      "time": "2026-11-21 22:17:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian Deputy Foreign Minister Kazem Gharibabadi said a Qatari delegation visited Tehran last night and held two hours of talks, TASNIM NEWS reported."
+    },
+    {
+      "id": "5229928",
+      "time": "2026-11-21 22:15:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長加里巴巴迪表示，卡達代表團昨晚訪問了德黑蘭，舉行了兩個小時的會談。"
+    },
+    {
+      "id": "5229926",
+      "time": "2026-11-21 22:11:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受地震影響 途經青藏鐵路西格段部分列車晚點執行】從國鐵青藏公司瞭解到，今天（21日）18時45分，青海省海西州德令哈市發生5.6級地震，地震波及青藏鐵路西寧至格爾木段部分割槽段，鐵路部門緊急扣停途經列車，部分列車晚點執行。目前鐵路部門已啟動應急預案，對封鎖區間進行裝置全面巡檢並準備充足的食品、飲用水等應急物資，保障旅客需求。（央視新聞）"
+    },
+    {
+      "id": "5229923",
+      "time": "2026-11-21 22:07:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱在波斯灣上空攔截並擊中一架美軍F-16戰機】當地時間21日，伊朗軍隊表示，20日晚間，部署在伊朗南部、隸屬於軍隊的防空系統在波斯灣上空成功探測到一架美軍F-16戰機。伊朗軍隊稱，在行動過程中，伊朗防空系統對該戰機實施攔截，並向其發射了一枚導彈。導彈在戰機附近爆炸，導致戰機受損，飛行員被迫中止任務，並在附近區域的一處機場進行緊急降落。21日凌晨，伊朗方面曾有訊息稱，一架美國F-16戰機在從霍爾木茲海峽返航途中，於阿聯酋空域內發出了緊急程式碼7700。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1fe6d-9d03-7bbc-ac9f-2b8d4d50a97b",
+      "time": "2026-11-21 22:05:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. official told Al Arabiya English that Iranian reports of a U.S. F-16 being hit were false."
+    },
+    {
+      "id": "mkt:01a1fe6a-74d9-7bbc-ac9f-216a43d3ea60",
+      "time": "2026-11-21 22:02:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The situation aboard the cargo ship attacked in Russia’s Leningrad region is under control, the regional governor said. Efforts are underway to get it sailing again toward Kaliningrad."
+    },
+    {
+      "id": "5229921",
+      "time": "2026-11-21 22:00:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯列寧格勒州州長：遭襲貨船上的情況已得到控制，目前正採取措施，力爭使其恢復航行，繼續前往加里寧格勒。"
+    },
+    {
+      "id": "mkt:01a1fe66-c2fe-7bbc-ac9f-185bfaf2ecc1",
+      "time": "2026-11-21 21:58:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Finnish Border Guard has no confirmed information on the cargo aboard the Sparta II but cannot rule out military materiel being on board."
+    },
+    {
+      "id": "mkt:01a1fe65-e9d5-7bbc-ac9f-10a76fab8c62",
+      "time": "2026-11-21 21:57:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Finnish Border Guard said the cargo ship Sparta II is known to be linked to the Russian armed forces."
+    },
+    {
+      "id": "5229915",
+      "time": "2026-11-21 21:56:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年林木業大會在南寧舉行 現場簽約超400億元】2026年林木業大會21日在廣西南寧舉行。大會現場簽約一批專案，總金額超400億元人民幣，涵蓋漿紙原料林、紙品加工等領域。（中新網）"
+    },
+    {
+      "id": "mkt:01a1fe63-ef13-7bbc-ac9f-0d8e3b7e0acc",
+      "time": "2026-11-21 21:55:24",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "NATO Secretary-General Rutte: NATO will defend every inch of Polish territory."
+    },
+    {
+      "id": "5229911",
+      "time": "2026-11-21 21:54:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特表示，北約將保衛波蘭領土的每一寸土地。"
+    },
+    {
+      "id": "5229909",
+      "time": "2026-11-21 21:49:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青海德令哈5.6級地震 救援人員已抵震中未發現人員傷亡】21日18時45分，青海省海西蒙古族藏族自治州德令哈市發生5.6級地震，震源深度10公里，震中位於北緯37.14度，東經96.62度，震中距德令哈市約70公里。地震發生後，青海省消防救援總隊立即啟動應急響應預案，德令哈大隊共派出前突分隊1車4人前往震中排查。同時，省消防救援總隊集結西寧、特勤、海西3個支隊85車265人，搜救犬6條，1.3萬件套裝備器材，隨時做好出動準備。截至目前，消防救援隊伍及德令哈市相關部門工作人員已抵達震中區域，暫未接到震中鄉鎮和周邊村鎮人員傷亡、房屋倒塌等相關報告，同時經排查，未發現地面裂縫等災害現象。（新華社）"
+    },
+    {
+      "id": "mkt:01a1fe5a-094b-7bbc-ac9f-02987a9c6b61",
+      "time": "2026-11-21 21:44:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Finland’s Defence Ministry said a Russian helicopter was suspected of violating Finnish airspace. The incident may be linked to a rescue or surveillance operation involving a cargo ship damaged in the Gulf of Finland."
+    },
+    {
+      "id": "5229904",
+      "time": "2026-11-21 21:40:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "芬蘭稱一架俄羅斯直升機疑似侵犯其領空，該事件可能與受損俄羅斯貨船有關。"
+    },
+    {
+      "id": "5229903",
+      "time": "2026-11-21 21:36:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破60000美元，日內漲2.53%。"
+    },
+    {
+      "id": "5229902",
+      "time": "2026-11-21 21:36:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "以太坊升破1700美元，日內漲5.24%。"
+    },
+    {
+      "id": "mkt:01a1fe4c-acf4-7bbc-ac9e-fb3852584917",
+      "time": "2026-11-21 21:30:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian state media quoted the military as saying an air defense missile hit and damaged a U.S. F-16 over the Gulf, forcing it to make an emergency landing. The U.S. has not confirmed the claim."
+    },
+    {
+      "id": "5229900",
+      "time": "2026-11-21 21:28:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗軍方稱其防空導彈在波斯灣上空擊中一架美軍F-16戰鬥機，迫使其緊急降落。"
+    },
+    {
+      "id": "5229899",
+      "time": "2026-11-21 21:25:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "新加坡航運公司將以總計約2.1億美元購買兩艘新建的純汽車及卡車運輸船。"
+    },
+    {
+      "id": "5229893",
+      "time": "2026-11-21 21:12:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣汽集團與新巴爾虎左旗人民政府簽署寒區試驗場戰略合作框架協議】11月21日，廣汽集團與新巴爾虎左旗人民政府關於寒區試驗場戰略合作框架協議（以下簡稱“協議”）簽約儀式在廣州舉行。新巴爾虎左旗位於內蒙古自治區呼倫貝爾市西南部，地處高寒，冬季漫長，擁有豐富的“冷資源”。廣汽諾幹湖試驗場就建在這裡，2021年冬季投入執行，是國內面積最大、道路型別最全的寒區試驗場。此次簽約，意味著雙方的合作從一座試驗場起步，向更寬領域延伸。"
+    },
+    {
+      "id": "5229889",
+      "time": "2026-11-21 21:06:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍襲擊加沙城一輛汽車 致3死多傷】據巴勒斯坦方面當地時間21日訊息，以色列軍方戰機當天中午襲擊了加沙地帶加沙城西南部的一輛汽車，造成3名巴勒斯坦人死亡、另有數人受傷。據目擊者稱，遭襲車輛當時正在向加沙城內的一處流離失所民眾營地運送慈善組織提供的食物。"
+    },
+    {
+      "id": "mkt:01a1fe36-d01d-7bbc-ac9e-f1b889696bdc",
+      "time": "2026-11-21 21:06:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia lifts hazard alert in Jizan region."
+    },
+    {
+      "id": "mkt:01a1fe35-d0de-7bbc-ac9e-eaeeab871a8d",
+      "time": "2026-11-21 21:05:02",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【ZELENSKIY meets UK defense secretary to discuss strengthening Ukraine’s air defenses】ZELENSKIY met the visiting UK defense secretary in Kyiv on Nov. 21 to discuss Ukraine’s air-defense capabilities, supplies of interceptors for Patriot systems, joint arms production and long-range strike capabilities. Both sides saw scope to deepen cooperation on joint production and technology, including support for Ukraine’s domestic missile program. ZELENSKIY said the UK’s latest defense and humanitarian aid package exceeds 500 million pounds."
+    },
+    {
+      "id": "5229888",
+      "time": "2026-11-21 21:04:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基會見英國國防大臣 討論烏防空能力建設】當地時間11月21日，烏克蘭總統澤連斯基在基輔會見到訪的英國國防大臣斯特里廷。雙方重點就烏防空能力建設、“愛國者”防空系統所用攔截彈供應、聯合武器生產、遠端打擊能力等議題進行磋商。在聯合武器生產與遠端打擊能力建設方面，雙方認為該領域具備深化合作的空間。透過聯合生產與技術協作，能夠助力烏克蘭推進本土導彈研發計劃。此外，澤連斯基還表示，英國提供的新一批國防與人道主義援助總額超過5億英鎊。（央視新聞）"
+    },
+    {
+      "id": "5229886",
+      "time": "2026-11-21 21:03:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特解除吉贊地區危險警報。"
+    },
+    {
+      "id": "mkt:01a1fe31-df48-7bbc-ac9e-e6c28ac65b5d",
+      "time": "2026-11-21 21:00:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense issued an alert warning of potential danger in the Jizan region."
+    },
+    {
+      "id": "5229885",
+      "time": "2026-11-21 20:59:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯釋出吉贊地區潛在危險警報。"
+    },
+    {
+      "id": "mkt:01a1fe2a-85ce-7bbc-ac9e-dbfd74600ab2",
+      "time": "2026-11-21 20:52:41",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Costa proposes deeper cuts to 2028-34 EU budget and digital tax】European Council President António Costa proposed cutting the EU’s 2028-34 budget to €1.582 trillion, €40 billion below an October compromise proposal and €180.6 billion below the European Commission’s initial plan. The proposal would trim funding for the European Competitiveness Fund, defence and external spending, while relatively protecting agriculture and cohesion funding. Costa also proposed new revenue sources, including a digital tax. France said the draft did not adequately protect farmers, while Parliament’s lead budget negotiator Siegfried Mureșan called the cuts unacceptable and said they undermined the budget’s role as an investment tool."
+    },
+    {
+      "id": "5229879",
+      "time": "2026-11-21 20:49:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國火車盜竊團伙落網 案值逾2000萬美元】美國司法部說，日前抓獲一個專門盜竊貨運列車的團伙。該團伙共有14人，年齡從21歲至38歲不等。2024年2月至2026年8月期間，這一團夥在加州南部持續作案，盜竊至少36趟貨運列車，失竊貨物總值約2250萬美元。美國司法部在宣告中說，這一系列竊案的規模“令人震驚”，這夥盜賊將受到合謀、盜竊貨運列車和窩藏贓物、暴力對待鐵路承運人等罪名指控，最高可被判處終身監禁。（新華社）"
+    },
+    {
+      "id": "mkt:01a1fe25-6e06-7bbc-ac9e-d6ec874aaa52",
+      "time": "2026-11-21 20:47:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Report: China’s brain-computer interface industry clusters in three major regions】A report released at the 2026 Brain-Computer Interface Conference in Beijing said China’s industry is concentrated in the Beijing-Tianjin-Hebei region, the Yangtze River Delta and the Guangdong-Hong Kong-Macao Greater Bay Area, with an emerging innovation-to-manufacturing ecosystem. Global brain-computer interface companies numbered 1,175 in 2026, rising rapidly from 2025, as the industry faces a reshuffling. China and the United States are competing for influence across technology, applications, ecosystems and governance. Industry revenue is concentrated in research and healthcare, while many medical devices remain in development, clinical trials or regulatory review. Non-medical applications are at an early stage, with scope for growth in human-computer interaction and consumer electronics."
+    },
+    {
+      "id": "5229873",
+      "time": "2026-11-21 20:42:39",
+      "tags": [
+        "行業"
+      ],
+      "text": "【行業報告稱，中國腦機介面產業集聚於三大城市群】21日於北京舉行的2026腦機介面大會主論壇釋出《腦機介面創新發展研究報告(2026)》。報告顯示，中國腦機介面產業集聚於京津冀、長三角和粵港澳三大城市群，已初步形成重視原創、轉化、製造的優質協同鏈條。報告顯示，2026年，全球腦機介面企業數量達1175家，相比2025年有較快增長。腦機介面國際產業發展環境不斷完善，產業格局面臨洗牌。中國、美國等從技術、應用、生態、治理等方面推進，積極爭取產業話語權。 報告提出，腦機介面產業當前的營收主要來自科研和醫療兩個領域，大量相關醫療器械產品仍處於研發、臨床與審批中；非醫療領域尚處產業初期階段，在人機互動、消費電子方面有較大發展空間。（中新網）"
+    },
+    {
+      "id": "5229870",
+      "time": "2026-11-21 20:32:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟再對烏提供10億歐元軍事支援】歐盟理事會20日透過兩項決定，批准透過歐洲和平基金再向烏克蘭提供10億歐元軍事支援，用於為烏克蘭武裝部隊採購軍事裝備。這批裝備包括無人機、防空裝備、彈藥、電子戰裝置和雷達系統等，計劃於2027年底前交付。自2021年以來，歐盟已透過該基金向烏克蘭提供118億歐元支援。 (央視軍事)"
+    },
+    {
+      "id": "5229868",
+      "time": "2026-11-21 20:30:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏克蘭前外長德米特羅·庫列巴可能成為烏克蘭駐美國大使。"
+    },
+    {
+      "id": "mkt:01a1fe14-8172-7bbc-ac9e-ccaec95c139f",
+      "time": "2026-11-21 20:28:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukrainian President Zelenskiy said he held a good and productive meeting in Kyiv with UK Defence Secretary Wes Streeting."
+    },
+    {
+      "id": "mkt:01a1fe14-156e-7bbc-ac9e-c3b4605e3431",
+      "time": "2026-11-21 20:28:11",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Pakistan's foreign minister strongly condemned the Houthi attack on Riyadh's King Abdullah Financial District, saying attacks on civilian infrastructure endanger lives and threaten regional peace and security. Such attacks must stop immediately."
+    },
+    {
+      "id": "5229867",
+      "time": "2026-11-21 20:27:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我在基輔與英國國防大臣進行了富有成效的會晤。感謝英國提供新的國防和人道主義援助——總額超過5億英鎊。這極大地加強了我們的防禦能力。我們討論了烏克蘭目前所需的具體防禦能力。首要的是防空系統，以保護我們的能源基礎設施、物流、供水系統以及其他保障基輔及各地區正常生活的設施。雖然英國自身沒有“愛國者”導彈系統，但它在歐洲乃至全球擁有廣泛的聯絡，能夠協助尋找所需的反彈道導彈系統。我們對此寄予厚望。我們還探討了聯合生產和遠端打擊能力。透過合作，我們可以顯著增強烏克蘭的導彈專案。"
+    },
+    {
+      "id": "mkt:01a1fe0d-d1ba-7bbc-ac9e-bb7c72ee2695",
+      "time": "2026-11-21 20:21:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The White House plans to scale back use of “special government employee” status, which allows private-sector employees to work for the government without giving up outside pay or investments, the Wall Street Journal reported, citing people familiar with the matter."
+    },
+    {
+      "id": "5229865",
+      "time": "2026-11-21 20:19:02",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【歐盟與印尼簽署貿易和投資協定】歐盟與印尼簽署了全面經濟夥伴關係協定和投資保護協定，旨在促進貿易和投資。歐盟委員會在一份新聞稿中表示，協議取消了歐盟商品出口到印尼的98.5%稅目項下的進口關稅。這兩項協議現在都需要歐洲議會的批准。印尼當局也在進行其內部的批准程式。"
+    },
+    {
+      "id": "5229864",
+      "time": "2026-11-21 20:14:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "長安大學回應“14日面試13日出結果”。"
+    },
+    {
+      "id": "5229863",
+      "time": "2026-11-21 20:14:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公司產品會否提價嗎？光威復材回覆】有投資者在互動平臺向光威復材提問：“中復神鷹於8月份開始對全系列產品提價5%～10％，請問貴公司會同步提價嗎？”光威復材回覆：公司產品價格依據具體產品、應用領域、合同約定、市場供需、產品成本等因素確定，公司會密切關注市場狀況變化，及時合理調整市場策略積極應對市場環境變化。"
+    },
+    {
+      "id": "mkt:01a1fe02-3ccf-7bbc-ac9e-b7a1778dce87",
+      "time": "2026-11-21 20:08:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【French president’s office calls latest EU budget proposal 'very disappointing'】The French president’s office said Saturday that the latest negotiating proposal for the EU’s next long-term budget was deeply disappointing, particularly on the Common Agricultural Policy and guarantees for farmers’ income support. The proposal put forward by the president of the European Council was far below what was needed and could not serve as a basis for an agreement, it said."
+    },
+    {
+      "id": "5229862",
+      "time": "2026-11-21 20:08:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：簽署歐盟-印度尼西亞經濟夥伴關係協定。"
+    },
+    {
+      "id": "5229861",
+      "time": "2026-11-21 20:08:07",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【白宮據悉計劃縮減“特殊政府僱員”身份的使用】據知情人士透露，美國白宮正計劃縮減“特殊政府僱員”（Special Government Employees，簡稱SGE）的使用。這一身份允許來自私營部門的人員在為政府工作的同時，保留其在私營領域的薪酬或投資收益。據知情人士稱，白宮辦公廳主任斯蒂芬·米勒已向身邊同事表示，他希望逐步減少此類“特殊政府僱員”的使用。近幾周，已有數位知名度較高的“特殊政府僱員”正在離開或已經離開了政府團隊。“特殊政府僱員”這一身份允許私營部門人士在暫時加入政府工作的同時，繼續領取其在私營領域的薪酬。在極少數情況下，他們才被要求公開其客戶資訊或利益衝突情況。儘管聯邦法規規定“特殊政府僱員”每年在政府部門的工作時間不得超過130天，但若政府方面有需要，這一期限亦可延長。一些備受矚目的“政府特別僱員”包括：曾任政府效率部負責人的商人埃隆·馬斯克；曾在國土安全部擔任高階顧問的科裡·萊萬多夫斯基；以及曾負責人工智慧與加密貨幣事務的科技企業家大衛·薩克斯。這三人目前均已不在政府部門任職。據兩位知情人士透露，白宮不會全面禁止“特殊政府僱員”這一身份，而是會審慎地使用該類別。一位白宮官員表示，米勒傾向於優先聘用全職員工；他還補充說，米勒計劃嚴厲打擊他所認為的對“特殊政府僱員”身份的濫用行為。"
+    },
+    {
+      "id": "mkt:01a1fe00-aabf-7bbc-ac9e-aed823620bb8",
+      "time": "2026-11-21 20:06:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia says cargo ship attacked by drones; Finland says vessel caught fire in its waters】A cargo ship bound for Kaliningrad was attacked by two drones in international waters in the Gulf of Finland, about three miles from Russia’s border, Russian officials said Saturday. The crew was being evacuated as authorities assessed the damage, Leningrad region Governor Alexander Drozdenko said. Finland said the damaged vessel caught fire and drifted from international waters into Finnish territorial waters. The Finnish Border Guard said the situation posed no threat to other maritime traffic and authorities were preparing for a possible rescue operation. Drozdenko also said 80 drones had been shot down over Leningrad region and the drone threat alert had been lifted. Kaliningrad Governor Alexei Besprozvannykh said the incident would not threaten supplies to the Russian exclave."
+    },
+    {
+      "id": "mkt:01a1fdff-0014-7bbc-ac9e-a7b3e0060f79",
+      "time": "2026-11-21 20:05:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【No casualties reported after magnitude-5.6 earthquake in Delingha, Qinghai】A magnitude-5.6 earthquake struck Delingha in Haixi Prefecture, Qinghai, on Nov. 21. Search teams are surveying the area near the epicenter; no collapsed buildings or casualties have been reported so far."
+    },
+    {
+      "id": "5229860",
+      "time": "2026-11-21 20:01:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮據悉將縮減“特殊政府僱員”（SGE）身份的使用。"
+    },
+    {
+      "id": "5229859",
+      "time": "2026-11-21 20:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週大盤主力資金累計淨流入-1576.6億元，白酒Ⅱ、鐵路公路板塊淨流入居前，個股中微公司、中芯國際淨流入最多。"
+    },
+    {
+      "id": "5229858",
+      "time": "2026-11-21 19:59:16",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【11月21日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】努力讓老年人的生活更加幸福美滿； 2.李強同澳大利亞總理共同出席第九屆中澳工商界執行長圓桌會； 3.李強同新加坡總理會談； 4.習近平新時代中國特色社會主義思想海外研究國際論壇（2026）在北京舉行； 5.【權威訪談】深入推進新時代黨的建設新的偉大工程； 6.10月份工業經濟總體平穩 發展質量持續提升； 7.神舟二十四號載人飛行任務各系統進行發射場區合練； 8.多地秋假激發親子文旅市場活力； 9.國內聯播快訊： （1）我國“5G+工業網際網路”專案達2.7萬個； （2）2026世界智慧製造大會在南京舉行； （3）川滇金沙江特大橋建設完工； （4）CMG電影文化嘉年華成都專場舉行； 10.為推動亞太合作行穩致遠指明方向——國際人士高度評價習近平主席重要講話； 11.國際人士表示中俄美元首會晤凝聚共識推動建設更美好世界； 12.國際聯播快訊： （1）俄外交部稱將持續揭露日本二戰時期罪行； （2）英歐稱達成多領域合作共識； （3）聯合國氣候變化大會進入加時階段； （4）巴西南部遭遇強風暴 大量建築受損。"
+    },
+    {
+      "id": "5229857",
+      "time": "2026-11-21 19:58:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內韋斯在維德角總統選舉中勝出】當地時間11月21日上午，根據維德角全國選舉委員會公佈的總統選舉最終統計結果，現任總統若澤·馬里亞·內韋斯獲得超過半數選票，贏得連任。維德角於當地時間11月15日舉行大選投票，選舉新一任總統。（央視新聞）"
+    },
+    {
+      "id": "5229856",
+      "time": "2026-11-21 19:57:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱烏歐美俄四方會談時間取決於美方協調】當地時間21日，烏克蘭總統澤連斯基在會晤英國國防大臣斯特里廷時表示，下一輪烏克蘭、美國、歐洲、俄羅斯四方會談的舉辦時間與形式，取決於美方和各方就會議議程協調一致的進度。他稱，“美方會盡力推動會談儘快舉行，但預計俄方可能採取行動拖延會議”。澤連斯基指出，歐洲加入談判後，四方參與令談判籌備更為複雜，會議需要充分準備、設定清晰具體的議程，力求取得實質成果，各方不應只滿足於最低限度的共識。澤連斯基稱，人員交換依然重要，烏方主張按照 “全部交換全部” 原則推進，但這不能成為談判唯一議題。談判必須聚焦結束戰爭這一核心目標，透過多方磋商逐步推動戰事終結。"
+    },
+    {
+      "id": "5229855",
+      "time": "2026-11-21 19:56:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國洛杉磯港口罷工威脅因達成臨時協議而解除】僱主代表組織表示，美國最繁忙港口的約250名安保人員已就新勞資合同條款達成臨時協議，從而避免了可能造成嚴重中斷的罷工威脅。太平洋海事協會（PMA）在一份宣告中稱，該協議由太平洋海事協會與國際碼頭和倉庫工會（ILWU）第26分會達成，涵蓋洛杉磯港和長灘港的工人，尚需獲得第26分會成員的投票批准。在協議等待批准期間，現行合同將予以延長。根據太平洋海事協會早前的估算，受影響碼頭的任何運營中斷都將波及長灘港約85%的貨物吞吐量以及洛杉磯港三分之一的貨物。"
+    },
+    {
+      "id": "mkt:01a1fdf3-c77c-7bbc-ac9e-9b25ffd21c8d",
+      "time": "2026-11-21 19:52:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【ZELENSKIY: Crimea Bridge strike was response to Russian attacks on Ukrainian bridges】ZELENSKIY said Russia had carried out 109 missile and drone attacks on bridges in Ukraine before Kyiv struck the Crimea Bridge. He said the bridge has long served as a Russian military logistics route for transporting tanks, artillery and other equipment to Crimea, and accused Moscow of showing no intent to end the war as it continues attacks on Ukrainian infrastructure."
+    },
+    {
+      "id": "5229854",
+      "time": "2026-11-21 19:52:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：打擊克里米亞大橋是對俄軍襲擊烏橋樑的回應】當地時間21日，烏克蘭總統澤連斯基在會晤英國國防大臣斯特里廷時表示，在烏方對克里米亞大橋實施打擊之前，俄軍已經使用導彈和無人機對烏克蘭境內橋樑發動109次襲擊。澤連斯基強調，烏方針對克里米亞大橋的行動，是在俄軍多次襲擊烏克蘭橋樑之後作出的回應。他指出，克里米亞大橋長期被俄方用作軍事後勤通道，俄軍經由該橋向克里米亞運送坦克、火炮等各類軍事裝備，相關運輸活動有影片佐證。澤連斯基認為，俄方持續襲擊烏克蘭基礎設施的行為，表明其並無結束戰爭的意願，還在尋找藉口繼續升級衝突。"
+    },
+    {
+      "id": "mkt:01a1fdee-f0eb-7bbc-ac9e-9457e7bda54f",
+      "time": "2026-11-21 19:47:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy: It is too early to say whether Ukraine will join NATO when the war ends."
+    },
+    {
+      "id": "5229853",
+      "time": "2026-11-21 19:47:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，現在談論衝突結束時烏克蘭是否會加入北約還為時過早。"
+    },
+    {
+      "id": "5229851",
+      "time": "2026-11-21 19:41:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港特區2026年選舉委員會界別分組一般選舉的籌備工作已準備就緒】香港特區2026年選舉委員會界別分組一般選舉明日（11月22日）舉行。選舉管理委員會主席陸啟康法官今日（21日）上午在技術諮詢委員會召集人及成員的陪同下巡視設於港灣道體育館的投票站和設於香港會議展覽中心的中央點票站，並呼籲合資格投票人明日踴躍投票。陸啟康法官表示，2026年選舉委員會界別分組一般選舉的籌備工作已準備就緒，工作人員現正進行最後的準備和演練。他衷心感謝工作人員作出的努力，以確保明日的選舉可公開、誠實、公平地進行。（大灣區之聲）"
+    },
+    {
+      "id": "mkt:01a1fde9-63d5-7bbc-ac9e-8d1d69ceb813",
+      "time": "2026-11-21 19:41:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says U.S. military covered tankers’ unauthorized passage through Strait of Hormuz as mine incidents mount】Iran’s Revolutionary Guard Navy said multiple tankers had incidents in the southern Strait of Hormuz since the evening of June 20, alleging the U.S. military deployed aircraft and drones to cover their passage and assist unauthorized cargo shipments. Several tankers subsequently exploded or caught fire after striking sea mines, with incidents reported near Khasab port and about 3 km off Qeshm Island early June 21."
+    },
+    {
+      "id": "5229850",
+      "time": "2026-11-21 19:39:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱美軍掩護油輪非法通行 霍爾木茲海峽觸雷事故不斷】當地時間21日，伊朗伊斯蘭革命衛隊海軍發表宣告稱，自20日晚，多艘油輪在霍爾木茲海峽南部海域發生事故。伊朗方面表示，20日晚，美軍動用了包括空中加油機、F-16、F/A-18和 F-35、P-8“海神”海上巡邏機、多架直升機以及MQ系列無人機等大規模空中力量，試圖為油輪透過霍爾木茲海峽提供掩護，並協助其進行未經授權的貨物運輸。在此期間，霍爾木茲海峽南部海域發生了多起油輪爆炸和起火事故。宣告稱，第一起事件發生在海塞卜港附近。第二起事件則發生在21日清晨，地點位於蓋奈姆島海岸線約三公里處。這些爆炸是由涉事船隻觸碰水雷所致。（央視新聞）"
+    },
+    {
+      "id": "5229849",
+      "time": "2026-11-21 19:31:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊航空航天部隊司令在視察一座地下“導彈城”時表示：伊朗掌控戰場，主導戰局走向。航空航天部隊已做好充分準備，以執行最高領袖下達的各項命令。"
+    },
+    {
+      "id": "mkt:01a1fde0-0b54-7bbc-ac9e-863869242dbb",
+      "time": "2026-11-21 19:31:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran’s IRGC commander visits underground missile base】Iranian state broadcaster reported on the 21st that IRGC Commander Vahidi had visited an underground “missile city,” releasing photos of the site."
+    },
+    {
+      "id": "5229848",
+      "time": "2026-11-21 19:28:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國廣播電視臺21日報道，伊朗伊斯蘭革命衛隊總司令瓦希迪日前現身革命衛隊地下“導彈城”。報道釋出了上述地點的照片。（新華社）"
+    },
+    {
+      "id": "5229847",
+      "time": "2026-11-21 19:23:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【唐人神：積極採取措施應對本輪豬週期底部】唐人神日前在機構調研時表示，公司積極採取措施應對本輪豬週期底部，一是，公司三大業務保持穩定發展，充分發揮飼料產業週轉速度快、現金流好等產業優勢，公司母公司以飼料生產銷售為主，母公司及下屬飼料子公司具備良好的融資條件，可為公司其它產業提供現金流支援。2026年1—9月，公司經營活動產生的現金流量淨額為1.7億元，經營活動現金流仍保持正流入。二是，公司結合生豬行情變化，對生豬出欄結構做出動態調整，以維護現金流安全為首要任務。三是，公司持續透過專案制實現生豬養殖成本改善，加強生產與健康管理、提高生產成績指標。"
+    },
+    {
+      "id": "5229846",
+      "time": "2026-11-21 19:23:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊總司令首次視察一座地下導彈城，該部隊同時展示了一款新型雙聯裝導彈發射裝置。"
+    },
+    {
+      "id": "5229845",
+      "time": "2026-11-21 19:18:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭邊境警衛隊：受損船隻已從國際水域漂入芬蘭領海。"
+    },
+    {
+      "id": "5229844",
+      "time": "2026-11-21 19:17:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "芬蘭邊境警衛隊：俄羅斯貨船在芬蘭灣東部起火。"
+    },
+    {
+      "id": "5229843",
+      "time": "2026-11-21 19:15:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青海德令哈市發生5.6級地震 中國地震局啟動四級應急響應】據中國地震臺網正式測定，2026年11月21日18時45分，在青海海西州德令哈市（北緯37.14度，東經96.62度）發生5.6級地震，震源深度10公里。中國地震局啟動四級應急響應。"
+    },
+    {
+      "id": "5229842",
+      "time": "2026-11-21 19:11:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青海德令哈震感強烈】中國地震臺網正式測定：今天18時45分在青海海西州德令哈市（北緯37.14度，東經96.62度）發生5.6級地震，震源深度10千米。記者從德令哈宣傳部瞭解到，當地震感強烈，目前正在進行人員傷亡和財產損失情況統計。（央視）"
+    },
+    {
+      "id": "5229841",
+      "time": "2026-11-21 19:06:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國會共和黨人準備阻止特朗普提名的兩名五角大樓人選。參議院共和黨人不會推進達默和貝萊斯-格林的提名。"
+    },
+    {
+      "id": "5229840",
+      "time": "2026-11-21 19:05:29",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【俄羅斯最大線上零售商Wildberries執行長離職】據報道，俄羅斯最大線上零售商Wildberries的負責人塔季揚娜·金（Tatyana Kim）已卸任。此前幾天，歐盟剛將她列入了針對俄羅斯的制裁名單。據報道，該公司已任命阿列克謝·庫利科夫（Alexei Kulikov）為新任執行長。"
+    },
+    {
+      "id": "5229839",
+      "time": "2026-11-21 19:01:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年11月票房破5億】據燈塔專業版，截至11月21日，2026年11月票房突破5億，《神探之痕跡》《生化危機：爆發夜》《什麼意思夫婦》位列11月票房前三。"
+    },
+    {
+      "id": "5229838",
+      "time": "2026-11-21 18:57:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗海軍稱一艘油輪在霍爾木茲海峽東部觸雷後起火。"
+    },
+    {
+      "id": "5229837",
+      "time": "2026-11-21 18:55:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：11月21日18時45分在青海海西州德令哈市（北緯37.14度，東經96.62度）發生5.6級地震，震源深度10千米。"
+    },
+    {
+      "id": "5229836",
+      "time": "2026-11-21 18:55:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "洛杉磯港口罷工威脅化解，此前國際碼頭與倉庫工會第26分會與太平洋海事協會就新合同達成初步協議。"
+    },
     {
       "id": "mkt:01a1fdba-5283-7bbc-ac9e-3e85499c15b0",
       "time": "2026-11-21 18:50:08",
