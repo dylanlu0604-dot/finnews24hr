@@ -1,7 +1,757 @@
 {
-  "updated": "2026-11-22 02:22:02",
-  "count": 9234,
+  "updated": "2026-11-22 06:15:39",
+  "count": 9244,
   "items": [
+    {
+      "id": "mkt:01a20028-0947-7bbc-aca1-fc76ad3fcc8c",
+      "time": "2026-11-22 06:09:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dragon has splashed down, completing SpaceX’s 35th commercial resupply mission to the International Space Station."
+    },
+    {
+      "id": "5230202",
+      "time": "2026-11-22 06:08:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "墨西哥逮捕販毒集團頭目後，美國大使館釋出警報，敦促在墨西哥錫那羅亞州的美國公民保持警惕。"
+    },
+    {
+      "id": "5230201",
+      "time": "2026-11-22 06:05:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：龍飛船濺落海面已確認，SpaceX完成第35次國際空間站商業補給服務任務。"
+    },
+    {
+      "id": "mkt:01a20022-2778-7bbc-aca1-f4c81fea0cc6",
+      "time": "2026-11-22 06:02:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX: All four main parachutes on the Dragon capsule deployed successfully."
+    },
+    {
+      "id": "5230200",
+      "time": "2026-11-22 06:02:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：龍飛船的四個主降落傘已展開。"
+    },
+    {
+      "id": "5230199",
+      "time": "2026-11-22 06:01:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚承認該國形勢艱難，稱“說實話，情況沒那麼好”，並敦促官員正視問題，而不是假裝一切正常。"
+    },
+    {
+      "id": "5230198",
+      "time": "2026-11-22 05:50:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "一架隸屬於美國空軍的第五代隱形戰鬥機F-35在阿聯酋上空發出緊急訊號。"
+    },
+    {
+      "id": "mkt:01a20010-b9f4-7bbc-aca1-ebdba6ec904e",
+      "time": "2026-11-22 05:43:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Houthi forces said the only threat to Mecca comes from the Saudi regime, accusing Saudi Arabia of spreading false claims that the region is under threat. They said their operations target Saudi oil facilities and military bases."
+    },
+    {
+      "id": "5230197",
+      "time": "2026-11-22 05:43:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝：除沙特外，麥加不存在任何威脅。沙特聲稱麥加地區存在威脅，是在散佈彌天大謊。我們的行動針對其石油設施和軍事基地。"
+    },
+    {
+      "id": "mkt:01a20008-9fcd-7bbc-aca1-e601fe77c441",
+      "time": "2026-11-22 05:34:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX said the Dragon cargo service module had been jettisoned and the nose cone closed. Splashdown is expected in about 32 minutes."
+    },
+    {
+      "id": "mkt:01a20008-800e-7bbc-aca1-de8b6c2d6b5c",
+      "time": "2026-11-22 05:34:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Saudi-led coalition said it intercepted and destroyed a missile launched by Yemen’s Houthis toward the western region."
+    },
+    {
+      "id": "5230189",
+      "time": "2026-11-22 05:33:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：龍飛船的貨運服務艙已完成分離拋棄，鼻錐艙已經關閉。預計約32分鐘後濺落海面。"
+    },
+    {
+      "id": "5230185",
+      "time": "2026-11-22 05:29:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍：攔截並摧毀了葉門胡塞武裝向西部地區發射的導彈。"
+    },
+    {
+      "id": "5230181",
+      "time": "2026-11-22 05:24:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普釋出了與俄羅斯總統普京的合影，並評論：我的朋友。"
+    },
+    {
+      "id": "mkt:01a1fffe-9dfe-7bbc-aca1-d77e118ea504",
+      "time": "2026-11-22 05:23:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain’s Interior Ministry issued a notice lifting the danger alert."
+    },
+    {
+      "id": "mkt:01a1fff5-9dec-7bbc-aca1-cb2ab80787f5",
+      "time": "2026-11-22 05:14:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump orders federal contractors to notify White House of congressional requests】U.S. President Donald Trump signed an executive order Friday requiring federal contractors to notify the White House when lawmakers seek their communications records and to coordinate with it on responses. The order comes as the White House prepares for investigations after Democrats take control of Congress early next year. Noncompliant contractors could have their contracts terminated or lose eligibility for future government work. The order invokes executive privilege, which allows presidents to withhold certain internal communications from Congress, courts and the public."
+    },
+    {
+      "id": "5230170",
+      "time": "2026-11-22 05:10:53",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯正式允許交易所在獲得央行批准後開展加密貨幣交易。"
+    },
+    {
+      "id": "mkt:01a1ffea-7ae5-7bbc-aca1-c64721e67017",
+      "time": "2026-11-22 05:01:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM: Nov. 21 marks the 130th day of the U.S. blockade of Iran; U.S. forces have prevented Iran’s Islamic Revolutionary Guard Corps from exporting billions of dollars’ worth of crude oil."
+    },
+    {
+      "id": "5230167",
+      "time": "2026-11-22 05:00:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普釋出頭戴“否決”字樣的帽子的個人照片。"
+    },
+    {
+      "id": "mkt:01a1ffe8-bd1d-7bbc-aca1-b9078ddd43ca",
+      "time": "2026-11-22 05:00:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact mixed",
+        "WTI",
+        "S&P500"
+      ],
+      "text": "【Zelenskiy hints next round of peace talks could take place during G20 summit】The U.S. has proposed holding the next round of trilateral peace talks before Christmas, the Washington Post reported, citing Ukrainian President Volodymyr Zelenskiy as saying he agreed and that an early deal would be preferable. Zelenskiy suggested talks could take place during the G20 summit in Miami in mid-December. U.S. President Donald Trump has invited Russian President Vladimir Putin but not Zelenskiy; Germany urged Trump to invite Zelenskiy, saying Ukraine’s future must not be decided without its participation. The Kremlin has not confirmed whether Putin will attend. Trump hopes to announce a peace deal at the summit, but the timeline appears unlikely given Russia’s hardline stance and an increase in Russian and Ukrainian airstrikes, the report said."
+    },
+    {
+      "id": "5230165",
+      "time": "2026-11-22 04:58:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：11月21日星期六是美國對伊朗實施封鎖的第130天，行動阻止了伊朗革命衛隊出口價值數十億美元的原油。"
+    },
+    {
+      "id": "mkt:01a1ffe0-e9b8-7bbc-aca1-b03acf244719",
+      "time": "2026-11-22 04:51:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense: The danger in the Mecca region has passed."
+    },
+    {
+      "id": "5230159",
+      "time": "2026-11-22 04:47:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林國防軍：防空擊落造成的彈片導致物資損壞，無人員傷亡。"
+    },
+    {
+      "id": "mkt:01a1ffdc-e52e-7bbc-aca1-ab6f8887a44e",
+      "time": "2026-11-22 04:47:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain Defence Force: Debris from an air defense interception caused property damage; no casualties were reported."
+    },
+    {
+      "id": "mkt:01a1ffdc-6f23-7bbc-aca1-a258eb452833",
+      "time": "2026-11-22 04:46:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CBS: Iran launched another wave of attacks, but U.S. forces and military assets in the region suffered no casualties or damage, a U.S. official said."
+    },
+    {
+      "id": "mkt:01a1ffdb-50fe-7bbc-aca1-9ef4e2b42579",
+      "time": "2026-11-22 04:45:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense issued a danger alert for the Makkah region."
+    },
+    {
+      "id": "5230158",
+      "time": "2026-11-22 04:45:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林國防軍：防空系統攔截了多起伊朗空中襲擊。"
+    },
+    {
+      "id": "mkt:01a1ffd9-c49d-7bbc-aca1-9541c3720f2c",
+      "time": "2026-11-22 04:43:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sirens sound in Jeddah, Saudi Arabia."
+    },
+    {
+      "id": "5230157",
+      "time": "2026-11-22 04:43:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門就麥加地區潛在威脅釋出警告。"
+    },
+    {
+      "id": "5230156",
+      "time": "2026-11-22 04:42:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國官員：伊朗發動新一輪襲擊，但我方在該地區的部隊和軍事資產未遭人員傷亡或損失。"
+    },
+    {
+      "id": "5230155",
+      "time": "2026-11-22 04:42:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：早該再次探測天王星了！我們確實需要質量高得多的影像。"
+    },
+    {
+      "id": "mkt:01a1ffd8-161d-7bbc-aca1-8e73be73ab87",
+      "time": "2026-11-22 04:41:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Jordan and the six Arab states of the Gulf Cooperation Council condemned Iran’s attack on a civilian industrial facility in Bahrain on Saturday, warning it threatens regional security and violates international law."
+    },
+    {
+      "id": "mkt:01a1ffd7-f0ba-7bbc-aca1-816a5736ccef",
+      "time": "2026-11-22 04:41:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain’s air defense systems successfully intercepted an Iranian attack, the Bahrain Defence Force says."
+    },
+    {
+      "id": "5230154",
+      "time": "2026-11-22 04:35:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦和海灣合作委員會六個阿拉伯國家週六譴責伊朗襲擊巴林一處民用工業設施，警告此次打擊威脅地區安全並違反國際法。"
+    },
+    {
+      "id": "mkt:01a1ffd1-0b4f-7bbc-aca1-7cc50d0db85b",
+      "time": "2026-11-22 04:34:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain’s Interior Ministry has issued another alert over a potential threat."
+    },
+    {
+      "id": "5230151",
+      "time": "2026-11-22 04:31:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉車主釋出“FSD V15中全新的FSD視覺化介面”。\n馬斯克轉發並評論：就像GTA。"
+    },
+    {
+      "id": "mkt:01a1ffc2-adf6-7bbc-aca1-75359c951337",
+      "time": "2026-11-22 04:18:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Interior Ministry issues notice lifting the alert."
+    },
+    {
+      "id": "5230146",
+      "time": "2026-11-22 04:18:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗方面稱美軍“愛國者”導彈擊中巴林平民區】當地時間21日晚，伊朗方面訊息稱，一枚從美國第五艦隊軍事基地發射、原定用於攔截任務的“愛國者”導彈，墜落在了巴林的一處居民區。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1ffc0-cc37-7bbc-aca1-6c9a4fb89c71",
+      "time": "2026-11-22 04:16:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said its actions were in response to continued U.S. aggression and violations of Iranian airspace."
+    },
+    {
+      "id": "mkt:01a1ffbe-4005-7bbc-aca1-6765c4abf4fe",
+      "time": "2026-11-22 04:13:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Revolutionary Guard said it attacked two U.S. Patriot air-defense radars at a base in Bahrain."
+    },
+    {
+      "id": "5230142",
+      "time": "2026-11-22 04:13:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：襲擊了巴林基地的兩座美國愛國者防空雷達。"
+    },
+    {
+      "id": "mkt:01a1ffbd-9f9c-7bbc-aca1-5cff8ec6dead",
+      "time": "2026-11-22 04:12:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Ukraine, UK sign deal for Britain to produce strike drones for Ukraine】Ukraine’s medium- and long-range strike drones will be produced in the UK under a joint production agreement signed by the two countries’ defense ministers. The UK will fund production of combat-proven drones for Ukraine’s armed forces, with British manufacturing capacity set to help scale output. The countries also agreed to accelerate delivery of Lightweight Multirole Missiles, which are critical for intercepting jet-powered Shahed drones."
+    },
+    {
+      "id": "5230139",
+      "time": "2026-11-22 04:06:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴林稱一處民用工業設施遭伊朗襲擊】巴林內政部21日晚在社交媒體上說，該國一處民用工業設施當天遭伊朗襲擊，引發火災。初步資訊顯示，襲擊造成財產損失，暫無人員傷亡報告。 巴林內政部說，當地民防部門正在採取措施控制火勢。（新華社）"
+    },
+    {
+      "id": "5230136",
+      "time": "2026-11-22 04:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Kraken：已獲悉Cyber-Optimism充幣通道出現故障，相關充值可能延遲；其餘充值渠道執行正常。"
+    },
+    {
+      "id": "5230124",
+      "time": "2026-11-22 03:45:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特主導的多國聯軍稱攔截並摧毀一架來襲無人機】當地時間21日，沙特主導的多國聯軍發言人在社交平臺上發文表示，聯軍已攔截並摧毀一架由葉門胡塞武裝向沙特利雅得地區發射的無人機。胡塞武裝方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1ffa2-0b1c-7bbc-aca1-564edbb2b465",
+      "time": "2026-11-22 03:42:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran’s IRGC strikes two U.S. bases in Bahrain】Iranian reports said the IRGC struck two U.S. military bases in Bahrain on the evening of the 21st local time. Bahrain’s Interior Ministry said an Iranian attack also set fire to a civilian facility, with civil defense teams responding."
+    },
+    {
+      "id": "5230123",
+      "time": "2026-11-22 03:40:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗襲擊美國在巴林的兩個軍事基地】伊朗革命衛隊週六襲擊了美國在巴林的兩個軍事基地，以報復德黑蘭所稱的美方敵對行動。襲擊目標是謝赫伊薩空軍基地和朱法爾的美國海軍設施。目前尚不清楚損失或傷亡情況。巴林內政部報告稱，伊朗的一次襲擊擊中了一處民用工業設施，引發火災並造成財產損失，但無人員受傷。目前尚不清楚這些事件是否有關聯。"
+    },
+    {
+      "id": "mkt:01a1ff9e-4051-7bbc-aca1-4df953a837eb",
+      "time": "2026-11-22 03:38:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. senator says Pentagon restrictions on Canada mainly target think-tank events and social engagements】A Republican senator said Saturday that Pentagon restrictions on Canada mainly target U.S. military officials’ participation in think-tank events and social engagements, not military operations or intelligence sharing, AP reported. Canada’s defense minister said military cooperation remains “business as usual.” The Washington Post reported Friday that Defense Secretary Hegseth circulated a classified memo last week imposing new limits on U.S.-Canada military cooperation. Relations between the longtime allies are under strain from Trump’s trade war and repeated threats to make Canada the 51st U.S. state."
+    },
+    {
+      "id": "mkt:01a1ff9b-add0-7bbc-aca1-45dc99f18cd9",
+      "time": "2026-11-22 03:35:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Revolutionary Guard said an F-16 had squawked 7700, the international emergency code, contradicting a denial by the U.S. military."
+    },
+    {
+      "id": "5230119",
+      "time": "2026-11-22 03:34:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱襲擊了巴林境內的兩處美軍基地。"
+    },
+    {
+      "id": "mkt:01a1ff9a-7756-7bbc-aca1-3af53eda78c1",
+      "time": "2026-11-22 03:34:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "Iran’s Revolutionary Guards said they attacked two U.S. bases in Bahrain, Fars News Agency reported."
+    },
+    {
+      "id": "5230118",
+      "time": "2026-11-22 03:33:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林：民用工業設施遭襲，引發火災。火災是伊朗攻擊引發。"
+    },
+    {
+      "id": "mkt:01a1ff8e-1cf8-7bbc-aca1-35ee2c02700d",
+      "time": "2026-11-22 03:21:05",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Bahrain’s Interior Ministry said a civilian industrial facility was attacked amid what it called Iran’s blatant aggression, sparking a fire. Civil Defence is working to contain the blaze. Initial reports indicate material damage, with no casualties reported."
+    },
+    {
+      "id": "mkt:01a1ff89-f87f-7bbc-aca1-2889746b42af",
+      "time": "2026-11-22 03:16:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Russian cargo ship hit by drone in Baltic Sea; Finland tightens air and maritime controls】The Russian cargo ship Sparta II, bound for the Russian exclave of Kaliningrad, was hit by a drone and caught fire on Saturday in the Gulf of Finland before drifting into Finnish waters. Finland’s armed forces said the vessel was damaged in international waters west of Russia’s Gogland Island. A Finnish military spokesperson said Ukraine was likely behind the attack, but the motive was unclear. Finland imposed temporary air and maritime restrictions in the eastern Gulf of Finland to enable drone interception if necessary and protect public safety. The ship has anchored and its crew is being evacuated. Finland’s Border Guard said the cargo was unknown but could include military supplies. The U.S. Treasury said the vessel belongs to a company providing logistics services to the Russian Defence Ministry and is under U.S. sanctions."
+    },
+    {
+      "id": "5230117",
+      "time": "2026-11-22 03:12:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門無人機襲擊在利雅得引發了數聲爆炸。"
+    },
+    {
+      "id": "mkt:01a1ff85-14c8-7bbc-aca1-279dbc5055c1",
+      "time": "2026-11-22 03:11:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Elon Musk said the broad view that solar power will be the energy source of the future is correct. Generating power and building intelligence in near-Earth space and deeper space around the Sun would be much easier and offer far greater scope to scale. Part of the Moon could eventually become a “compute substrate” made of silicon solar panels and aluminum radiators, with Mercury likely next."
+    },
+    {
+      "id": "5230116",
+      "time": "2026-11-22 03:03:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國軍隊在巴林的第五艦隊基地遭到襲擊。"
+    },
+    {
+      "id": "mkt:01a1ff78-edd2-7bbc-aca1-1fb40b815d00",
+      "time": "2026-11-22 02:57:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE President Sheikh Mohammed bin Zayed met U.S. Homeland Security Secretary Markwayne Mullin in Abu Dhabi to discuss regional developments and related efforts."
+    },
+    {
+      "id": "mkt:01a1ff74-73ae-7bbc-aca1-15715455152a",
+      "time": "2026-11-22 02:53:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk: Put simply, one important benefit of a proof of the Riemann hypothesis so far is that it removes the conditional caveats from other mathematical theorems that depend on it. It is also another remarkable achievement by superintelligence."
+    },
+    {
+      "id": "5230115",
+      "time": "2026-11-22 02:50:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：對黎曼證明（迄今為止）實用性的簡單解釋是，它消除了其他依賴該證明的數學定理的條件性。當然，這也是超級智慧實現的又一件令人驚歎的事。"
+    },
+    {
+      "id": "mkt:01a1ff6d-f34b-7bbc-aca1-0fb5c9ced565",
+      "time": "2026-11-22 02:45:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan has told defense contractors that weapons procurement may be cut, Nikkei reports."
+    },
+    {
+      "id": "5230114",
+      "time": "2026-11-22 02:44:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本已通知承包商武器採購可能被削減。"
+    },
+    {
+      "id": "mkt:01a1ff6c-bf68-7bbc-aca1-0565dc00dbdb",
+      "time": "2026-11-22 02:44:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "According to Nikkei, Japan is considering scaling back missile and warship procurement."
+    },
+    {
+      "id": "5230113",
+      "time": "2026-11-22 02:43:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭邊防警衛隊：涉事船隻仍在燃燒，可見明火。"
+    },
+    {
+      "id": "5230112",
+      "time": "2026-11-22 02:43:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "芬蘭邊防警衛隊：一艘俄羅斯救援船參與救援工作。"
+    },
+    {
+      "id": "5230111",
+      "time": "2026-11-22 02:42:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本考慮減少導彈和軍艦採購。"
+    },
+    {
+      "id": "mkt:01a1ff6b-0519-7bbc-aca0-f98f3185608b",
+      "time": "2026-11-22 02:42:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The vessel is still burning, with flames visible. A Russian rescue vessel has arrived and is assisting with the rescue operation, Finland's Border Guard says."
+    },
+    {
+      "id": "mkt:01a1ff67-a3e4-7bbc-aca0-f6474c983252",
+      "time": "2026-11-22 02:39:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The crew of a distressed Russian cargo ship have been evacuated to another Russian vessel and are returning to Russia, the Finnish Border Guard said."
+    },
+    {
+      "id": "5230110",
+      "time": "2026-11-22 02:38:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【墨西哥軍方抓獲一名被美國聯邦調查局通緝的毒梟】當地時間11月21日，墨西哥國防部宣佈，該國特種部隊20日晚在錫那羅亞州成功抓獲綽號“矮子伊西德羅”的毒梟福斯托·伊西德羅·梅薩-弗洛雷斯。此人被列為美國聯邦調查局十大通緝要犯之一，美方曾懸賞500萬美元徵集線索。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1ff67-0fdc-7bbc-aca0-ef8bf1538a06",
+      "time": "2026-11-22 02:38:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mexican military captures FBI-wanted drug lord】Mexico’s Defense Ministry said special forces captured drug lord Fausto Isidro Meza-Flores, known as “El Chapo Isidro,” in Sinaloa state on the evening of Nov. 20. He was on the FBI’s Ten Most Wanted list, and the United States had offered a $5 million reward for information leading to his capture."
+    },
+    {
+      "id": "5230109",
+      "time": "2026-11-22 02:37:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國五角大樓備忘錄限制美方與加拿大軍方開展“社交活動”。"
+    },
+    {
+      "id": "5230108",
+      "time": "2026-11-22 02:35:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍：攔截並擊落葉門胡塞武裝向利雅得地區發射的無人機。"
+    },
+    {
+      "id": "mkt:01a1ff64-986c-7bbc-aca0-e0c6e6887cd6",
+      "time": "2026-11-22 02:35:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "The Saudi-led coalition said it intercepted and destroyed a drone launched by Yemen’s Houthi militants toward the Riyadh region."
+    },
+    {
+      "id": "mkt:01a1ff64-4cab-7bbc-aca0-d84f519017c0",
+      "time": "2026-11-22 02:35:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【Trump says he will work with incoming Democrats on 10% credit card rate cap】Trump told Fox News he is willing to work with the incoming Democratic Congress to cap credit card interest rates, fulfilling a 2024 campaign pledge. A 10% cap is the leading proposal, compared with a median U.S. credit card rate of about 22.2% in an August New York Fed survey. Banks and card issuers have strongly opposed a cap, warning it could restrict credit for lower-income and weaker-credit borrowers or reduce rewards. Lack of Republican support stalled action in the previous Congress, but the proposal could regain momentum as Democrats prepare to control both chambers."
+    },
+    {
+      "id": "5230107",
+      "time": "2026-11-22 02:30:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗霍爾木茲甘省錫裡克附近海面傳出爆炸聲】當地時間21日，伊朗方面訊息稱，位於霍爾木茲甘省東部的錫裡克居民報告，幾分鐘前聽到從海面方向傳來巨大的爆炸聲。爆炸的具體原因尚不明確，但可能與向未經授權的船隻發射警告性射擊或引爆水雷有關。據悉，在過去三天裡，霍爾木茲海峽內至少有12艘未經授權的船隻觸雷爆炸，並引發了火災。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1ff5f-8419-7bbc-aca0-d3d8888feaa9",
+      "time": "2026-11-22 02:30:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Explosions reported off Sirik in Iran’s Hormozgan province】Residents of Sirik in eastern Hormozgan province reported hearing a loud explosion from the sea on the 21st, Iranian sources said. The cause was unclear; it may have involved warning shots at unauthorized vessels or sea mines detonating. At least 12 unauthorized vessels have reportedly struck mines and caught fire in the Strait of Hormuz over the past three days."
+    },
+    {
+      "id": "mkt:01a1ff5d-4271-7bbc-aca0-cc70e8ef893b",
+      "time": "2026-11-22 02:27:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq’s Security Media Cell chief said police had taken control of three key positions in the Jurf area, with the operation proceeding smoothly. Oil pipelines, major roads and strategic sites in the area have been secured."
+    },
+    {
+      "id": "mkt:01a1ff5b-3c27-7bbc-aca0-c0587fbb6085",
+      "time": "2026-11-22 02:25:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "WHITE HOUSE: Trump met more than 20 world leaders, reached two new trade agreements and attended four major international summits during a four-day Asia trip, reaffirming U.S. alliances in the region."
+    },
+    {
+      "id": "5230106",
+      "time": "2026-11-22 02:25:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克安全媒體中心主任：傑爾夫地區的輸油管道、主要道路及重要據點已得到全面保護。"
+    },
+    {
+      "id": "5230105",
+      "time": "2026-11-22 02:24:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克安全媒體中心主任：警方已接管傑爾夫地區的3個主要據點，行動正順利推進。"
+    },
+    {
+      "id": "mkt:01a1ff5a-01de-7bbc-aca0-b81533c91b6e",
+      "time": "2026-11-22 02:24:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Ukraine says Crimea Bridge is a legitimate military target】Ukraine’s Defense Ministry said the Crimea Bridge, built without Kyiv’s authorization, is a route for Russian military equipment and fuel and therefore a legitimate military target. It cited the right to self-defense under Article 51 of the U.N. Charter, saying Russia had never sought Ukraine’s permission and Kyiv did not need Moscow’s permission to act. The ministry said Russia launched 148 drones and three ballistic missiles at Ukraine on the night of Nov. 21, responding to President Vladimir Putin’s Nov. 19 description of the bridge as a purely civilian facility."
+    },
+    {
+      "id": "5230104",
+      "time": "2026-11-22 02:22:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林周六響起防空警報，該國內政部警告存在潛在安全威脅，並敦促居民尋求庇護。內政部呼籲居民前往最近的安全地點，但未說明威脅的性質。"
+    },
     {
       "id": "mkt:01a1ff54-fa40-7bbc-aca0-b5c2791bdc47",
       "time": "2026-11-22 02:18:41",
@@ -81761,622 +82511,6 @@
         "國際"
       ],
       "text": "以色列國防軍與以色列安全域性聯合公告：不久前，以色列國防軍與以色列安全域性對哈馬斯軍事部門的一名高層實施了打擊，詳情稍後公佈。"
-    },
-    {
-      "id": "5214733",
-      "time": "2026-11-15 06:15:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院交通委員會委員施密特：空中交通基金應納入和解法案。"
-    },
-    {
-      "id": "5214732",
-      "time": "2026-11-15 05:56:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱霍爾木茲海峽以南2艘油輪觸雷發生爆炸】當地時間15日凌晨，伊朗伊斯蘭革命衛隊海軍表示，稍早前，兩艘油輪在霍爾木茲海峽觸碰了水雷，引發爆炸並導致火災。革命衛隊稱，這兩艘油輪當時存在違反相關規定行為，在關閉了導航系統和自動識別系統的情況下，試圖秘密透過霍爾木茲海峽。伊朗伊斯蘭革命衛隊海軍還表示，爆炸發生後，另外兩艘同樣試圖秘密透過該海峽的油輪在收到警告後，調轉航向，返回了波斯灣海域。（央視新聞）"
-    },
-    {
-      "id": "5214731",
-      "time": "2026-11-15 05:46:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊海軍：約一小時前，兩艘違規油輪關閉導航和自動識別系統，試圖從霍爾木茲海峽一條禁行航道偷偷透過時觸雷爆炸並起火。"
-    },
-    {
-      "id": "mkt:01a1dc06-c852-7bbc-abe3-917a224b1362",
-      "time": "2026-11-15 05:46:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian state news agency IRNA reported unexplained sounds in parts of Bandar Kong, Hormozgan province; local authorities have not yet announced a cause."
-    },
-    {
-      "id": "5214730",
-      "time": "2026-11-15 05:43:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：霍爾木茲甘省孔港部分地區傳出聲響。"
-    },
-    {
-      "id": "mkt:01a1dbf8-c1ea-7bbc-abe3-8f233f630dab",
-      "time": "2026-11-15 05:31:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SpaceX Starship spacecraft 'captured' by launch-tower mechanical arm in first recovery】SpaceX's Starship second stage returned on the 14th and was recovered after being \"captured\" by the launch tower's mechanical arm, marking the vehicle's 15th test flight. Starship launched from Texas on the afternoon of the 13th CT. The mission had aimed to recover both booster and ship at the launch site; after stage separation the Super Heavy booster did not return to the site and instead executed a controlled splashdown in the Gulf of Mexico. The flight lasted about 22.5 hours."
-    },
-    {
-      "id": "5214729",
-      "time": "2026-11-15 05:30:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美“星艦”飛船首次被髮射塔機械臂“捕獲”回收】美國太空探索技術公司重型運載火箭“星艦”的第二級飛船14日返回地球，並由發射塔機械臂“捕獲”回收，完成第15次試飛。這是“星艦”飛船首次由發射塔機械臂實施“捕獲”回收。 “星艦”於美國中部時間13日下午從得克薩斯州發射升空，實施此次試飛。此次試飛原計劃嘗試助推器和飛船均返回發射場回收。但火箭一二級分離後，“超級重型”助推器未能按原計劃返回發射場，而是在墨西哥灣海域受控濺落。整個試飛任務持續約22.5小時。（新華社）"
-    },
-    {
-      "id": "5214728",
-      "time": "2026-11-15 05:29:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【SpaceX在德州發射場以全新回收方式成功捕獲星艦】SpaceX在星艦返回德州發射場時成功將其捕獲。當地時間週六下午3點過後，星艦從南德州SpaceX星基地上空降落，先以腹部朝下的姿態下墜，隨後翻轉至直立姿態，來到發射塔旁。發射塔伸出的兩支機械臂抓住巨大的星艦，止住其下落。SpaceX稱，星艦是人類迄今為止建造過的最高、推力最強的火箭。"
-    },
-    {
-      "id": "5214727",
-      "time": "2026-11-15 05:26:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "過去30分鐘內，價值6.45億美元的加密貨幣多頭頭寸被平倉。"
-    },
-    {
-      "id": "5214726",
-      "time": "2026-11-15 05:24:17",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SpaceX：機甲哥斯拉（Mechazilla）成功捕獲星艦，向SpaceX全體團隊祝賀。"
-    },
-    {
-      "id": "mkt:01a1dbf1-8f62-7bbc-abe3-8182fc22e817",
-      "time": "2026-11-15 05:23:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX (SPCX.O): Mechazilla successfully captured Starship."
-    },
-    {
-      "id": "mkt:01a1dbf0-02c7-7bbc-abe3-7987d4057c01",
-      "time": "2026-11-15 05:21:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O"
-      ],
-      "text": "SpaceX (SPCX.O) Starship returned to its Texas launch tower for the first time after completing a 22-hour orbital flight, marking a key milestone for reusable rocket technology."
-    },
-    {
-      "id": "5214725",
-      "time": "2026-11-15 05:21:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX的星艦飛船在完成22小時軌道飛行後，首次返回德克薩斯州發射塔，這是火箭可重複使用性的關鍵節點。"
-    },
-    {
-      "id": "5214724",
-      "time": "2026-11-15 05:21:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX在得克薩斯州發射場以新型著陸方式捕獲星艦。"
-    },
-    {
-      "id": "5214723",
-      "time": "2026-11-15 05:19:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：星艦正在進行側傾機動，進入最終進近階段，返回星基地準備接受捕獲。"
-    },
-    {
-      "id": "5214722",
-      "time": "2026-11-15 05:18:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破64000美元，日內跌6.31%。"
-    },
-    {
-      "id": "5214721",
-      "time": "2026-11-15 05:14:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤白銀跌破43美元/盎司，日內跌幅3%。"
-    },
-    {
-      "id": "5214720",
-      "time": "2026-11-15 05:11:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌正應對AI對其廣告支柱業務造成的衝擊】谷歌高管不斷向投資者和廣告主強調AI蘊藏的機遇，以此安撫市場。谷歌利用AI判斷哪些搜尋可以觸發廣告、選擇使用者點選廣告後跳轉的落地頁，還能自動生成不同版本的廣告文案。在臺面之下，谷歌一邊開展合作，一邊評估潛在收購，目標是提升AI功能內廣告的實用性。但六位廣告主和代理機構表示，已經有不少廣告主感到不滿，開始把預算轉移到其他平臺，其中就包括Meta。和谷歌一樣，Meta也提供自動化創意工具來促成轉化；Meta的新款AI產品（例如Muse智慧代理）不會投放和主資訊流競爭的廣告，其廣告依附短影片、社交內容展示。營銷代理公司AccuraCast執行長法哈德·迪夫查負責為多個品牌採買廣告，他說：“今年市場上出現了谷歌真正的競品，比如ChatGPT廣告業務和Meta。我們會根據投放效果重新分配預算。”"
-    },
-    {
-      "id": "5214719",
-      "time": "2026-11-15 05:04:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約州州長霍楚爾：整個週末可能出現航班延誤和取消。"
-    },
-    {
-      "id": "5214718",
-      "time": "2026-11-15 05:04:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約州州長霍楚爾：預計本地區機場將持續出現延誤。"
-    },
-    {
-      "id": "5214717",
-      "time": "2026-11-15 05:03:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤白銀跌破43美元/盎司，日內跌幅2%。"
-    },
-    {
-      "id": "5214716",
-      "time": "2026-11-15 05:02:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "SpaceX告知烏克蘭，限速屬於技術問題。"
-    },
-    {
-      "id": "mkt:01a1dbdc-96c6-7bbc-abe3-75f0f2fe772a",
-      "time": "2026-11-15 05:00:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX (SPCX.O): Starship is re-entering Earth's atmosphere."
-    },
-    {
-      "id": "5214715",
-      "time": "2026-11-15 04:59:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：星艦正重返地球大氣層。"
-    },
-    {
-      "id": "5214713",
-      "time": "2026-11-15 04:55:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "閃迪暗盤跌超2%，現報834.45美元。"
-    },
-    {
-      "id": "5214712",
-      "time": "2026-11-15 04:55:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤金價（人民幣）日內跌超2%，現報811.402元/克。"
-    },
-    {
-      "id": "5214711",
-      "time": "2026-11-15 04:55:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤金價跌破3800美元/盎司，日內跌幅2%。"
-    },
-    {
-      "id": "5214710",
-      "time": "2026-11-15 04:54:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破65000美元，日內跌5.47%。"
-    },
-    {
-      "id": "5214709",
-      "time": "2026-11-15 04:54:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "以太坊跌破1800美元，日內跌7.73%。"
-    },
-    {
-      "id": "5214708",
-      "time": "2026-11-15 04:52:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "英特爾暗盤跌超2%，現報56.785美元。"
-    },
-    {
-      "id": "5214707",
-      "time": "2026-11-15 04:51:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國民主黨方面已向沙特、阿聯酋、卡達預警，告知即將啟動調查海灣國家與特朗普及其家族的資金交易、利益輸送嫌疑，核查這些重金、禮物是否換取特朗普政府政策傾斜。"
-    },
-    {
-      "id": "5214706",
-      "time": "2026-11-15 04:47:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "AMD暗盤跌破520美元，日內跌1.1%。"
-    },
-    {
-      "id": "5214705",
-      "time": "2026-11-15 04:42:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "英偉達暗盤跌超1%，現報158.8309美元。"
-    },
-    {
-      "id": "5214704",
-      "time": "2026-11-15 04:41:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX嘗試對星艦飛船本體實施捕獲回收。"
-    },
-    {
-      "id": "5214703",
-      "time": "2026-11-15 04:41:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "Meta暗盤跌超1%，現報627.985美元。"
-    },
-    {
-      "id": "mkt:01a1dbcb-5dab-7bbc-abe3-6f17d4fa4fd9",
-      "time": "2026-11-15 04:41:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran spokesman BAGHAEI says US fabricating excuses to evade responsibility for starting war】Iran Foreign Ministry spokesman BAGHAEI said US officials have invented deceptive arguments to avoid responsibility for the humanitarian, economic and geopolitical consequences of what he called their illegal aggression against Iran. He accused the US of twice launching unprovoked military attacks during diplomatic talks within nine months, assassinating Iran’s supreme leader and senior officials, causing civilian casualties including women and children and destroying critical infrastructure. BAGHAEI said the US is now politically and militarily cornered and is denying responsibility while proclaiming victory to mask its failure to achieve stated objectives."
-    },
-    {
-      "id": "mkt:01a1dbbf-e555-7bbc-abe3-63ffb0950d25",
-      "time": "2026-11-15 04:29:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "wright said the US is the world’s largest oil and gas producer and exporter and that under TRUMP this position will be further consolidated. DOE loans will help expand production from existing offshore platforms, bolster US energy security and generate about $1.6 bln in lease revenue."
-    },
-    {
-      "id": "mkt:01a1dbbf-7c82-7bbc-abe3-59fc9f1e8d17",
-      "time": "2026-11-15 04:28:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen's military says air defenses are intercepting multiple drones launched by Houthi forces toward Marib city. The city is densely populated and hosts large numbers of residents and internally displaced persons."
-    },
-    {
-      "id": "5214702",
-      "time": "2026-11-15 04:28:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：53分鐘後進行著陸點火。"
-    },
-    {
-      "id": "5214701",
-      "time": "2026-11-15 04:28:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：離軌制動點火正常。"
-    },
-    {
-      "id": "5214700",
-      "time": "2026-11-15 04:27:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門軍方：防空系統正在攔截胡塞武裝向馬里布市發射的多架無人機，該市居民和流離失所者密集。"
-    },
-    {
-      "id": "5214699",
-      "time": "2026-11-15 04:18:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使庫什納：我們這些致力於尋找解決方案的人仍在繼續認真和建設性的工作。這場衝突的人力代價是毀滅性的，問題仍然極其困難。然而，我們決心繼續艱苦努力，保持敏感談判所需的保密性，並找到一條結束這場可怕衝突、建立持久和平的道路。"
-    },
-    {
-      "id": "5214698",
-      "time": "2026-11-15 04:18:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使庫什納：任何最終協議都必須得到相關各方的同意，特朗普總統只會支援能夠加強烏克蘭和歐洲安全、並使未來衝突更不可能發生的安排。媒體報道了雙方提出的一些最大化立場，以及強烈的政治言論。在我們的私下討論中，雙方都理解，要結束這場衝突，務實的妥協是必要的。"
-    },
-    {
-      "id": "5214697",
-      "time": "2026-11-15 04:18:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使庫什納：正如美國總統特朗普所明確表示的，持久和平需要為烏克蘭提供可信的安全保障，並需要詳細、可操作的戰後安全安排，以降低再次爆發戰爭的風險。北約仍將是歐洲安全的關鍵支柱，並透過更強的軍事、溝通、衝突消除和相互降級機制加以強化，同時以切實可行的方式在爭端演變為危機之前加以解決。這就是為什麼我們正努力讓歐洲夥伴直接參與這些討論。"
-    },
-    {
-      "id": "mkt:01a1dbb5-3f79-7bbc-abe3-552ff7ba78b7",
-      "time": "2026-11-15 04:17:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Jared Kushner, senior adviser and son-in-law to Trump, said NATO will remain a key pillar of European security and needs strengthening through stronger military capabilities, improved communications, conflict-prevention and mutual de-escalation mechanisms, and practical dispute-resolution procedures to prevent disagreements escalating into crises."
-    },
-    {
-      "id": "5214696",
-      "time": "2026-11-15 04:17:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使庫什納：在三方會議及隨後與俄羅斯總統普京和烏克蘭總統澤連斯基的討論之後，一直與俄羅斯、烏克蘭及我們的歐洲夥伴就下一步行動保持密切磋商。我們現在的重點是推動莫斯科與歐洲夥伴之間的直接接觸，併為下一輪三方會談準備議程。這些討論中產生了一些新想法，目前正在探討中。有些可能直接帶來突破，另一些則可能演變為有助於彌合剩餘分歧的新提案。"
-    },
-    {
-      "id": "mkt:01a1dbb5-05a3-7bbc-abe3-4b56655df03c",
-      "time": "2026-11-15 04:17:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump senior adviser and son-in-law Kushner said lasting peace requires providing Ukraine with credible security guarantees and establishing detailed, feasible post-war security arrangements to reduce the risk of renewed hostilities."
-    },
-    {
-      "id": "mkt:01a1dbb4-a618-7bbc-abe3-4459eebdad9b",
-      "time": "2026-11-15 04:16:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kushner, senior advisor and son-in-law to the US president, said he and the US presidential special envoy’s peace team have held close consultations with Russia, Ukraine and European partners on next steps. Their current focus is pushing Moscow to engage directly with European partners and drafting the agenda for the next round of trilateral talks."
-    },
-    {
-      "id": "mkt:01a1dbad-aac7-7bbc-abe3-3980524164c4",
-      "time": "2026-11-15 04:09:14",
-      "tags": [
-        "MKT News",
-        "JPM.O"
-      ],
-      "text": "【JPMorgan credit-card chief Allison Biel to depart】Allison Biel, head of JPMorgan’s credit-card business, has told the bank she will leave to take an external role, JPMorgan said in an internal memo from a co-president. Biel runs one of the world’s largest credit-card franchises; the bank will name a successor for cards and related merchant services in the coming weeks. Biel joined JPMorgan in 2017 from American Express and led an expansion of its card business, launching products targeted at travelers and high-spending customers that directly competed with her former employer."
-    },
-    {
-      "id": "5214695",
-      "time": "2026-11-15 04:07:57",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【大摩：AI資本支出驅動的牛市邏輯依然穩固】英偉達公司領導層的動盪以及民主黨在中期選舉中獲勝，加劇了市場對人工智慧熱潮的擔憂，但摩根士丹利財富管理的Lisa Shalett表示，這些因素不會動搖本輪牛市的主要驅動力，即AI基礎設施資本支出。她表示，選舉結果不應被視為選民反對AI投資或資料中心建設。相反，選民要求加強對AI安全的監管，並更公平地分配資料中心開發的成本和收益。擔任摩根士丹利財富管理首席投資官的Shalett在接受採訪時表示，投資者過度關注政治動態和科技股波動，反而忽視了市場更長期的主線。"
-    },
-    {
-      "id": "5214694",
-      "time": "2026-11-15 04:04:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：星艦離軌點火一切正常。"
-    },
-    {
-      "id": "5214693",
-      "time": "2026-11-15 03:57:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊拉克查處石油走私，九名安全及石油官員遭解職】伊拉克總理週六解除了九名安全和石油部門官員的職務。此前一項調查證實，在伊朗支援的“真主黨旅”民兵組織據點朱爾夫·薩哈爾存在石油走私行為。其軍事發言人薩巴赫·努曼表示，總理在召開緊急安全會議審議調查結果後，下令將所有涉嫌參與走私活動的人員移交司法機關。被解職的官員包括巴比倫省警察局長、多名高階情報和安全官員、人民動員力量省指揮官、能源警察旅一名指揮官以及伊拉克石油管道公司負責人。宣告稱，調查人員證實了情報報告中記錄的石油走私、煉油廠存在及其他違規行為。"
-    },
-    {
-      "id": "mkt:01a1dba1-3180-7bbc-abe3-320ff5b4718a",
-      "time": "2026-11-15 03:55:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Qatar's UCC in talks to acquire two Venezuelan onshore oilfields】Qatar-based UCC Oil and Gas Holding is negotiating to take over two onshore oil and gas fields in Venezuela, targeting the El Furrial and Jusepin fields in northern Monagas state. Monagas is a major Venezuelan oil-producing region; Shell and other firms have already agreed to develop projects there this year. If completed, an El Furrial deal would give UCC access to one of PDVSA’s most valuable conventional oil assets. Foreign reports say the talks reflect UCC’s push to expand in Venezuela and note that the Trump administration in January removed Maduro and has since cooperated with his successor, Rodriguez."
-    },
-    {
-      "id": "5214692",
-      "time": "2026-11-15 03:38:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "航班追蹤網站FlightAware的資料顯示，週六有超過1萬架次航班延誤或被取消，航空公司正努力恢復正常航班安排。"
-    },
-    {
-      "id": "5214691",
-      "time": "2026-11-15 03:37:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【前沿 AI 研發回報持續縮水 行業專家否定模型快速自我迭代前景】以色列初創企業Tenzai聯合創始人兼CEO阿里爾·蔡特林表示，並不認同遞迴自我提升的設想。他表示，所謂“快速起飛”，也就是某一家廠商的模型高速自我迭代、甩開所有對手的情況，“基本不可能發生”。整體而言，AI發展速度大機率放緩，而不是加速。其中一個原因是：待研發的AI能力逐步和人類專家持平，人類專家越來越難評估AI產出成果。他說，每投入一美元資金帶來的AI能力提升幅度會持續縮水，這也是Anthropic、OpenAI這類企業需要鉅額資金的原因。如果廠商投入十倍成本，只換來模型能力翻倍，那麼衡量技術進步也會變得十分困難。“想要取得突破會越來越難，這個判斷是成立的，並且會持續下去。”"
-    },
-    {
-      "id": "5214690",
-      "time": "2026-11-15 03:28:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以方情報提示伊朗無人機襲擊風險，美方加強高層安保】以色列已向美國情報機構提供資訊，暗示伊朗正計劃發動無人機襲擊，目標包括美國總統特朗普及其政府高階成員。在美國情報機構尋求以色列協助評估威脅後，摩薩德已向中央情報局傳遞了有關這一所謂陰謀的具體情報。這些警告促使華盛頓加強安全措施，部分美國高階官員被轉移至受保護設施，特朗普據稱減少了公開露面。上述指控尚未得到獨立核實，中央情報局、白宮和伊朗當局均未公開證實報道所稱的無人機襲擊計劃。"
-    },
-    {
-      "id": "5214689",
-      "time": "2026-11-15 03:24:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：各團隊已完成表決，決定讓星艦返回星艦基地發射場。"
-    },
-    {
-      "id": "mkt:01a1db80-9814-7bbc-abe3-2d1545706a6c",
-      "time": "2026-11-15 03:20:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Iranian state television aired a video asserting an upgraded Khorramshahr ballistic missile can reach European military bases and explicitly named the UK's RAF Fairford as a potential target."
-    },
-    {
-      "id": "5214688",
-      "time": "2026-11-15 03:10:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "卡達UCC公司謀求委內瑞拉埃爾富里亞爾、胡塞平油氣田開發權。"
-    },
-    {
-      "id": "5214687",
-      "time": "2026-11-15 03:09:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊發言人：針對冷卻系統遭襲的荒謬指控是以色列的老套伎倆，目的是煽動恐伊情緒、拉攏歐洲支援。與美國和以色列不同，平民不在伊朗革命衛隊的打擊目標之列。"
-    },
-    {
-      "id": "5214686",
-      "time": "2026-11-15 03:07:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺警告稱，該國“霍拉姆沙赫爾”彈道導彈的改進型號可覆蓋美國在歐洲的軍事基地，並明確將英國費爾福德皇家空軍基地列為潛在打擊目標。"
-    },
-    {
-      "id": "5214685",
-      "time": "2026-11-15 03:03:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：必須明確的是，那些想要限制烏克蘭資源的人，最終是想迫使其接受不公正的和平，使其永久處於脆弱狀態，進而讓歐洲也陷入脆弱。這是一種失敗主義心態，是下一場戰爭的禍根。我們的目標很明確，為烏克蘭確保公正而穩固的和平，然後繼續與各方合作，加強歐洲共同安全框架。"
-    },
-    {
-      "id": "5214684",
-      "time": "2026-11-15 02:56:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國又有萬架航班取消或延誤】雖然地面停飛令已經解除，但當地時間11月14日，美國仍有大批航班延誤或取消。多家大型航司目前已取消約4500架次美國國內航班，另有約4400架次航班延誤。（CCTV國際時訊）"
-    },
-    {
-      "id": "5214680",
-      "time": "2026-11-15 02:52:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美聯邦航空局局長：全美航空運輸預計15日晚恢復正常】美國聯邦航空局局長布賴恩·貝德福德14日說，全美航空運輸預計15日晚能恢復正常。在全國航班停飛引發航空出行混亂後，貝德福德14日向美國公眾道歉，並稱“最糟糕的時期已經過去”，全國航空運輸預計15日晚能恢復正常。（新華社）"
-    },
-    {
-      "id": "mkt:01a1db63-eec9-7bbc-abe3-26172c51861d",
-      "time": "2026-11-15 02:48:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "L3Harris spokesperson said the company is taking the nationwide flight groundings seriously and is monitoring the impact on passengers, airlines and air traffic operations."
-    },
-    {
-      "id": "mkt:01a1db63-8793-7bbc-abe3-1fccacb97aaf",
-      "time": "2026-11-15 02:48:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "L3Harris said it is assisting the U.S. Federal Aviation Administration in its investigation of the aviation-system outage that occurred on Friday."
-    },
-    {
-      "id": "5214677",
-      "time": "2026-11-15 02:48:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "L3哈里斯公司發言人：公司嚴肅對待此次全國範圍的地面停飛及其對旅客、航空公司和空中交通執行的影響。"
-    },
-    {
-      "id": "5214676",
-      "time": "2026-11-15 02:47:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "L3Harris發言人：公司正在協助美國聯邦航空管理局（FAA）調查週五發生的航空系統停運事件。"
-    },
-    {
-      "id": "5214668",
-      "time": "2026-11-15 02:37:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【敘利亞大馬士革農村省發生汽車炸彈爆炸致2死1傷】敘利亞國家通訊社14日援引敘安全部隊訊息說，敘利亞大馬士革農村省傑拉馬納區發生汽車炸彈爆炸，造成包括一名女孩在內的兩人死亡，另有一人受傷。安全部隊已在現場設立警戒封鎖並展開調查。（新華社）"
-    },
-    {
-      "id": "mkt:01a1db59-3243-7bbc-abe3-14a27acf343d",
-      "time": "2026-11-15 02:36:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya TV reported Iraqi Prime Minister Zaidi dismissed the Babylon provincial police chief and the heads of the Defense and Interior ministries’ intelligence units stationed in the province."
-    },
-    {
-      "id": "mkt:01a1db58-b46d-7bbc-abe3-0ff328843dfd",
-      "time": "2026-11-15 02:36:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya reported the Iraqi prime minister dismissed several security and administrative officials after an oil-smuggling incident in the Jurf al-Sakhar area. He ordered security commanders at all levels to be held fully responsible for any oil smuggling."
-    },
-    {
-      "id": "5214659",
-      "time": "2026-11-15 02:29:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【五角大樓調整方案，擬小幅削減駐歐美軍】知情人士透露，特朗普政府對駐歐美軍的削減規模，將低於歐洲盟友此前擔憂的水平。盟友方面目前預計，美軍總共將削減約5000人，大部分裁撤集中在德國。最終決定權在特朗普總統手中，他此前多次批評歐洲盟友，指責其在美以對抗伊朗的戰事中沒有給予美方支援。"
     }
   ]
 }
