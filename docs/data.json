@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-22 01:46:57",
+  "updated": "2026-11-22 01:50:55",
   "count": 9228,
   "items": [
+    {
+      "id": "mkt:01a1ff37-cbd9-7bbc-aca0-868d9f426f71",
+      "time": "2026-11-22 01:46:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran’s Fars News Agency reported explosions heard near Sirik on the country’s southern coast. The cause was unclear; they may have been warning shots or a vessel hitting a mine."
+    },
     {
       "id": "5230100",
       "time": "2026-11-22 01:46:14",
@@ -82309,14 +82317,6 @@
         "其他"
       ],
       "text": "【胡塞武裝：沙特主導的聯軍對葉門發動72次空襲】當地時間11月14日晚，葉門胡塞武裝發表宣告稱，過去24小時內，沙烏地阿拉伯主導的多國聯軍對葉門薩達省、塔伊茲省、拉赫季省和焦夫省的目標發動了72次空襲。宣告還稱，自葉門新一輪軍事衝突升級以來，沙特主導的聯軍發動的空襲和導彈襲擊總數已達5020次。（央視新聞）"
-    },
-    {
-      "id": "5214643",
-      "time": "2026-11-15 01:47:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：投資者敦促英偉達考慮黃仁勳迴歸的可能性。"
     }
   ]
 }

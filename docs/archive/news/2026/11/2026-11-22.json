@@ -1,7 +1,15 @@
 {
   "date": "2026-11-22",
-  "count": 74,
+  "count": 75,
   "items": [
+    {
+      "id": "mkt:01a1ff37-cbd9-7bbc-aca0-868d9f426f71",
+      "time": "2026-11-22 01:46:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran’s Fars News Agency reported explosions heard near Sirik on the country’s southern coast. The cause was unclear; they may have been warning shots or a vessel hitting a mine."
+    },
     {
       "id": "5230100",
       "time": "2026-11-22 01:46:14",
