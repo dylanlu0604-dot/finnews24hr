@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-21 11:00:56",
-  "count": 9302,
+  "updated": "2026-11-21 11:04:44",
+  "count": 9301,
   "items": [
+    {
+      "id": "5229228",
+      "time": "2026-11-21 11:02:17",
+      "tags": [
+        "行業",
+        "公司",
+        "其他"
+      ],
+      "text": "【2026腦機介面十五項標誌性成果釋出】今日，在2026 腦機介面大會上，十五項腦機介面標誌性創新成果對外發布，主要包括芯智達“北腦一號”智慧腦機系統、中電雲腦非侵入式高精度腦電採集計算晶片、品馳醫療植入式腦機介面神經刺激器、階梯醫療無線植入式超柔性腦機介面系統、神舞科技ND系列多模態訊號採集系統等。這批成果集中展現國內在侵入式裝置、腦電晶片、訊號採集、醫療康復及工業安全等方向的最新進展。"
+    },
     {
       "id": "5229218",
       "time": "2026-11-21 11:00:14",
@@ -83040,29 +83050,6 @@
         "Impact mixed"
       ],
       "text": "【1.29 mln yuan-per-dose CAR-T added to China's reimbursement list】Nov 14 — China’s National Healthcare Security Administration said JW Therapeutics’ CAR-T drug Ruijiaolunsai has been added to the National Reimbursement Drug List. The therapy’s list price was 1.29 mln yuan per dose prior to inclusion; inclusion has cut the price to below 300,000 yuan per dose, according to Ma Jun, director of the Harbin Institute of Hematology and Oncology, who took part in the drug’s review and clinical-consensus drafting."
-    },
-    {
-      "id": "mkt:01a1d803-23c8-7bbc-abde-b99e7b5a9590",
-      "time": "2026-11-14 11:04:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【China adds record 51 Category I new drugs to 2026 national reimbursement drug list】China released its 2026 national reimbursement drug list (NRDL) and a parallel commercial health insurance innovative drug list, adding 107 medicines to the NRDL, including a record 51 Category I new drugs covering oncology, rare diseases, chronic and psychiatric indications. The NRDL now totals 3,331 products (1,935 Western drugs; 1,396 traditional Chinese medicines) and takes effect Jan. 1, 2027. The commercial list added 12 drugs — including the world’s first solid‑tumor CAR‑T and China’s first hemophilia gene therapy — bringing that list to 28."
-    },
-    {
-      "id": "5214259",
-      "time": "2026-11-14 11:02:50",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【百萬級CAR-T抗癌藥首次納入基本醫保 患者自付降至10萬元以內】百萬級CAR-T抗癌療法迎來歷史性突破，藥明巨諾瑞基奧侖賽注射液（商品名：倍諾達®）首次被納入基本醫保，患者經醫保報銷後，自付費用將降至10萬元以內。此次“天價藥”得以大幅降價進入基本醫保，核心在於關鍵原材料實現國產化，能夠大幅壓縮生產成本。（科創板日報）"
     }
   ]
 }
