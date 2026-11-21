@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-22 01:58:35",
+  "updated": "2026-11-22 02:02:25",
   "count": 9230,
   "items": [
+    {
+      "id": "mkt:01a1ff45-458f-7bbc-aca0-956f8f3b5eb6",
+      "time": "2026-11-22 02:01:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says Strait of Hormuz will remain closed until U.S. accepts its “reasonable and legitimate” conditions】Iranian Foreign Minister Abbas Araqchi said the Strait of Hormuz would remain closed until the United States accepts Iran’s reasonable and legitimate demands. Reopening the strait would be straightforward if Washington accepts reasonable terms consistent with international law, he said. The situation cannot be resolved unless the United States acknowledges its mistakes and honors previous commitments. Iran is ready to continue negotiations but also prepared to defend itself."
+    },
     {
       "id": "5230102",
       "time": "2026-11-22 01:56:33",
@@ -82327,14 +82339,6 @@
         "MKT News"
       ],
       "text": "According to Israel's i24News, Gadi Eisenkot, leader of Israel's National Unity party and opposition leader, said Netanyahu's call to form a national unity government was \"just another political stunt\" and that talks with the Likud bloc were already scheduled for Sunday."
-    },
-    {
-      "id": "5214646",
-      "time": "2026-11-15 01:59:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國紐約拉瓜迪亞機場航班恢復執行。"
     }
   ]
 }

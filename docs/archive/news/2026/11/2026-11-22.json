@@ -1,7 +1,19 @@
 {
   "date": "2026-11-22",
-  "count": 78,
+  "count": 79,
   "items": [
+    {
+      "id": "mkt:01a1ff45-458f-7bbc-aca0-956f8f3b5eb6",
+      "time": "2026-11-22 02:01:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says Strait of Hormuz will remain closed until U.S. accepts its “reasonable and legitimate” conditions】Iranian Foreign Minister Abbas Araqchi said the Strait of Hormuz would remain closed until the United States accepts Iran’s reasonable and legitimate demands. Reopening the strait would be straightforward if Washington accepts reasonable terms consistent with international law, he said. The situation cannot be resolved unless the United States acknowledges its mistakes and honors previous commitments. Iran is ready to continue negotiations but also prepared to defend itself."
+    },
     {
       "id": "5230102",
       "time": "2026-11-22 01:56:33",
