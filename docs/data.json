@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-21 18:29:42",
+  "updated": "2026-11-21 18:33:30",
   "count": 9243,
   "items": [
+    {
+      "id": "mkt:01a1fda8-aba6-7bbc-ac9e-19eeb49a8cc6",
+      "time": "2026-11-21 18:30:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran's IRGC says it shot down 19th U.S. MQ-1 drone】Iran's Islamic Revolutionary Guard Corps said on social media on the 21st that it shot down a U.S. MQ-1 drone over Qeshm Island, marking the 19th U.S. drone of the type it says it has downed. (Xinhua)"
+    },
+    {
+      "id": "5229825",
+      "time": "2026-11-21 18:30:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊擊落一架美軍MQ-1型無人機】伊朗伊斯蘭革命衛隊21日在社交媒體上說，革命衛隊當天在格什姆島上空擊落一架美軍MQ-1型無人機。這是伊方擊落的第19架美軍該型無人機。（新華社）"
+    },
     {
       "id": "5229824",
       "time": "2026-11-21 18:21:56",
@@ -82456,23 +82476,6 @@
         "MKT News"
       ],
       "text": "Pakistan foreign minister said the Economic Cooperation Organization (ECO) Council of Foreign Ministers meeting will be held in Islamabad on Nov. 15-16, 2026."
-    },
-    {
-      "id": "5214449",
-      "time": "2026-11-14 18:32:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：泛美衛生組織不再認定美國是無麻疹國家 】美國媒體13日報道，泛美衛生組織已經決定不再把美國認定為無麻疹國家。美國《華爾街日報》和有線電視新聞網（CNN）分別援引知情人士的話報道這一訊息。泛美衛生組織是世界衛生組織的地區性機構。一個國家或地區要被世衛組織認定為無麻疹狀態，必須連續12個月以上沒有出現同一毒株的本地傳播病例。美國於2000年宣佈消除麻疹。但自2025年以來，美國麻疹病例數已超過2000年至2024年這25年間的病例總和。（新華社）"
-    },
-    {
-      "id": "5214448",
-      "time": "2026-11-14 18:30:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "Meta暗盤突破640美元，日內漲1.6%。"
     }
   ]
 }

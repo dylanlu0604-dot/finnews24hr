@@ -1,7 +1,27 @@
 {
   "date": "2026-11-21",
-  "count": 788,
+  "count": 790,
   "items": [
+    {
+      "id": "mkt:01a1fda8-aba6-7bbc-ac9e-19eeb49a8cc6",
+      "time": "2026-11-21 18:30:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran's IRGC says it shot down 19th U.S. MQ-1 drone】Iran's Islamic Revolutionary Guard Corps said on social media on the 21st that it shot down a U.S. MQ-1 drone over Qeshm Island, marking the 19th U.S. drone of the type it says it has downed. (Xinhua)"
+    },
+    {
+      "id": "5229825",
+      "time": "2026-11-21 18:30:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊擊落一架美軍MQ-1型無人機】伊朗伊斯蘭革命衛隊21日在社交媒體上說，革命衛隊當天在格什姆島上空擊落一架美軍MQ-1型無人機。這是伊方擊落的第19架美軍該型無人機。（新華社）"
+    },
     {
       "id": "5229824",
       "time": "2026-11-21 18:21:56",
