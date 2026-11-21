@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-22 01:39:09",
+  "updated": "2026-11-22 01:43:01",
   "count": 9228,
   "items": [
+    {
+      "id": "mkt:01a1ff32-cc4d-7bbc-aca0-79bad294d55c",
+      "time": "2026-11-22 01:41:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【NATO chief vows to defend every inch of Poland】NATO Secretary-General Mark Rutte said the alliance would defend every inch of Polish territory after a reported airspace incursion, calling it a dangerous incident. Poland said Russian objects entered its airspace during a large-scale overnight attack on Ukraine. Debris was found at three sites in southeastern Poland; two objects may have been missiles and the third a jet-powered drone. The incident is under investigation. Russia has not commented."
+    },
+    {
+      "id": "5230099",
+      "time": "2026-11-22 01:40:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【北約秘書長：將捍衛波蘭“每一寸領土”】北約秘書長呂特21日就波蘭方面通報的領空遭侵犯事件表示，北約將捍衛波蘭的“每一寸領土”。據波蘭通訊社報道，呂特當日訪問波蘭首都華沙，在接受記者採訪時說，波蘭領空遭侵犯是一起“危險事件”，目前事件具體情況仍在調查中。（新華社）"
+    },
+    {
+      "id": "mkt:01a1ff30-a488-7bbc-aca0-72f5ee427afa",
+      "time": "2026-11-22 01:39:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "【Amazon nears $7.5 bln acquisition of AI startup Decart, FT reports】Amazon is in advanced talks to acquire AI startup Decart for $7.5 bln, with a deal potentially closing as early as early next week, the Financial Times reported. Talks could still fall apart. Decart’s software improves AI model efficiency and chip utilization; the acquisition could help Amazon Web Services compete with NVIDIA."
+    },
     {
       "id": "5230098",
       "time": "2026-11-22 01:33:43",
@@ -82283,32 +82319,6 @@
         "US Economy"
       ],
       "text": "【U.S. transportation secretary says first $12.5 bln tranche is being used to upgrade air traffic control infrastructure】U.S. Transportation Secretary Duffy said the first $12.5 bln tranche of congressional funding is being deployed to modernize U.S. air-traffic control. About 70% of communications links have been upgraded to high-speed fiber; 25 control towers have replaced 1970s-era paper flight progress strips with electronic systems; 143 towers have new ground-surface surveillance technology; and 469 radio sites have been modernized. Work is being accelerated under safety constraints and remains ongoing."
-    },
-    {
-      "id": "mkt:01a1db26-98b2-7bbc-abe2-f5c6a96393ef",
-      "time": "2026-11-15 01:41:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he is working with senators to advance the Film, Television and Entertainment Industry Revitalization Act; if enacted it would substantially benefit hundreds of thousands of blue‑collar workers, could be implemented rapidly and efficiently, and would benefit the entire United States."
-    },
-    {
-      "id": "mkt:01a1db24-fc94-7bbc-abe2-eb81fe3c7753",
-      "time": "2026-11-15 01:39:56",
-      "tags": [
-        "MKT News",
-        "LHX.O",
-        "Impact bearish"
-      ],
-      "text": "【U.S. Transportation Secretary says L3Harris may be responsible for U.S. air-traffic control outage】U.S. Transportation Secretary Duffy said on Saturday officials are investigating whether aerospace and defense contractor L3Harris Technologies is responsible for an air-traffic control system failure that grounded U.S. flights for more than four hours. Duffy said on Friday L3Harris was replacing copper cables with fiber at a remote Federal Aviation Administration facility when a router issued more than 1,000 connection requests to other routers every 4 to 5 seconds, overloading the communications system and disrupting aircraft communications and some radar data feeds. The system resumed after the FAA isolated the facility. Duffy said the fault could be due to improper installation or a defective router and added, \"we have not yet determined the exact cause.\""
-    },
-    {
-      "id": "5214640",
-      "time": "2026-11-15 01:39:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：正與參議員合作推進《娛樂業振興法案》。"
     }
   ]
 }
