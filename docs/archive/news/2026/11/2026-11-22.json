@@ -1,7 +1,87 @@
 {
   "date": "2026-11-22",
-  "count": 47,
+  "count": 56,
   "items": [
+    {
+      "id": "mkt:01a1ff14-d2cd-7bbc-aca0-28525fc5a891",
+      "time": "2026-11-22 01:08:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "French police fired tear gas to disperse protesters in Paris."
+    },
+    {
+      "id": "5230092",
+      "time": "2026-11-22 01:08:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院民主黨領袖傑弗里斯：將在下一屆國會討論涉及約旦河西岸的立法。"
+    },
+    {
+      "id": "mkt:01a1ff14-8bb9-7bbc-aca0-237d3dddfdac",
+      "time": "2026-11-22 01:08:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosions reported in Yemen's Hodeidah】A reporter in Hodeidah heard explosions. The area may have been hit by airstrikes from the Saudi-led coalition, but the exact location was unclear."
+    },
+    {
+      "id": "5230091",
+      "time": "2026-11-22 01:08:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院民主黨領袖傑弗里斯：新一屆國會啟動後，透過一項禁止定居者在約旦河西岸實施暴力的法案將是最重要的舉措。"
+    },
+    {
+      "id": "mkt:01a1ff13-fd19-7bbc-aca0-1a93b791f0c2",
+      "time": "2026-11-22 01:07:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Libya’s National Oil Corporation says losses from the closure of the Hamada pipeline exceed $30.8 mln."
+    },
+    {
+      "id": "5230090",
+      "time": "2026-11-22 01:07:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門荷臺達傳出爆炸聲】當地時間21日晚，總檯報道員在葉門荷臺達市聽到爆炸聲，該地區疑似遭沙特主導的多國聯軍空襲，但具體遭襲地點尚不明確。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1ff13-829c-7bbc-aca0-170b4fbbaede",
+      "time": "2026-11-22 01:07:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Trump says FBI database hack could have an “upside,” potentially uncovering election fraud information】U.S. President Donald Trump said Saturday that hackers breached an FBI computer system, adding the incident could have an “upside” if it helped uncover information about election fraud. The breach targeted the National Crime Information Center, a non-classified law enforcement database containing fingerprint records, wanted-person files and information on violent criminals and missing people, according to people familiar with the matter. It was unclear what data had been stolen. Trump said the breach might help establish whether voter fraud occurred and reveal the truth about the Russia investigation."
+    },
+    {
+      "id": "5230089",
+      "time": "2026-11-22 01:06:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國警方在巴黎向示威者發射催淚瓦斯以驅散人群。"
+    },
+    {
+      "id": "5230088",
+      "time": "2026-11-22 01:04:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司：哈馬達輸油管道關閉造成的損失超過3080萬美元。"
+    },
     {
       "id": "5230087",
       "time": "2026-11-22 00:59:10",
