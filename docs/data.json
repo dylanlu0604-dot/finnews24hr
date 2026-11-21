@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-21 17:54:51",
-  "count": 9249,
+  "updated": "2026-11-21 17:58:46",
+  "count": 9251,
   "items": [
+    {
+      "id": "5229818",
+      "time": "2026-11-21 17:55:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網自動測定：11月21日17時42分在印尼西南群島附近（南緯7.51度，東經127.50度）發生6.6級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5229817",
+      "time": "2026-11-21 17:55:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國產120kV冷凍透射電子顯微鏡釋出】11月21日，國產120kV冷凍透射電子顯微鏡TH-F120C在廣州釋出，這是我國推進高階科學儀器自主可控的一項突破，將為科研人員提供解析生物大分子結構、研究先進材料微觀特性的重要工具。據研發團隊介紹，冷凍電鏡是生命科學研究、藥物開發、病毒研究等的重要科研儀器。長期以來，我國冷凍電鏡整機依賴進口。此次釋出的TH-F120C加速電壓120kV、資訊解析度0.23奈米，關鍵核心部件全部實現自主研製。"
+    },
+    {
+      "id": "5229816",
+      "time": "2026-11-21 17:55:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼馬魯古省附近海域發生7.2級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間11月21日16時42分，印尼馬魯古省東北43公里海域發生7.2級地震，震源深度125公里。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1fd87-8816-7bbc-ac9e-0cd7a4be2c03",
+      "time": "2026-11-21 17:54:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude 7.2 earthquake strikes off Indonesia’s Maluku province】A magnitude 7.2 earthquake struck offshore 43 km northeast of Indonesia’s Maluku province at 4:42 p.m. local time on Nov. 21, at a depth of 125 km, the Indonesian Agency for Meteorology, Climatology and Geophysics said."
+    },
     {
       "id": "5229815",
       "time": "2026-11-21 17:53:34",
@@ -82524,27 +82556,6 @@
         "國際"
       ],
       "text": "國際原子能機構：軍事活動導致電網不穩定，本週烏克蘭核電站部分執行機組因此降功率執行。"
-    },
-    {
-      "id": "5214438",
-      "time": "2026-11-14 17:57:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【證監會接收！六家頭部公募集體申報，“A500”拼圖將補齊】寬基指數的風格細分佈局又邁出關鍵一步。11月13日，易方達基金、華夏基金、國泰基金、廣發基金、招商基金、博時基金等頭部公募扎堆上報的中證A500成長ETF，申報材料已獲證監會接收。這一批新產品，是市場在中證A500基礎寬基之上，專門為成長風格打造的指數工具，補齊了A500系列的成長拼圖。（券商中國）"
-    },
-    {
-      "id": "mkt:01a1d97c-9a5c-7bbc-abe0-c6d6cceafba4",
-      "time": "2026-11-14 17:56:24",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Zelenskiy says U.S. suggested ceding Donbas in exchange for NATO membership】Xinhua reported on the 14th that Ukrainian President Zelenskiy told reporters U.S. officials had suggested Ukraine cede the Donbas region in return for a path to NATO membership."
     }
   ]
 }
