@@ -1,7 +1,39 @@
 {
   "date": "2026-11-22",
-  "count": 56,
+  "count": 59,
   "items": [
+    {
+      "id": "mkt:01a1ff18-87f9-7bbc-aca0-3be585028c5b",
+      "time": "2026-11-22 01:12:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "California attorney general: Investigation into NVIDIA includes potential criminal violations."
+    },
+    {
+      "id": "5230093",
+      "time": "2026-11-22 01:11:46",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "加州總檢察長：對英偉達的調查涵蓋潛在刑法問題。"
+    },
+    {
+      "id": "mkt:01a1ff15-975a-7bbc-aca0-3505a220737e",
+      "time": "2026-11-22 01:09:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. House Democratic Leader Hakeem Jeffries: We will discuss West Bank-related legislation in the next Congress."
+    },
     {
       "id": "mkt:01a1ff14-d2cd-7bbc-aca0-28525fc5a891",
       "time": "2026-11-22 01:08:37",
