@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-22 02:18:04",
-  "count": 9233,
+  "updated": "2026-11-22 02:22:02",
+  "count": 9234,
   "items": [
+    {
+      "id": "mkt:01a1ff54-fa40-7bbc-aca0-b5c2791bdc47",
+      "time": "2026-11-22 02:18:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Al Jazeera reports Israeli airstrikes around the town of Baraachit in southern Lebanon."
+    },
+    {
+      "id": "mkt:01a1ff54-9cbe-7bbc-aca0-aea1a5cf8a92",
+      "time": "2026-11-22 02:18:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Northwest River Forecast Center: Runoff in the U.S. Northwest has fallen to 75%."
+    },
     {
       "id": "mkt:01a1ff50-2848-7bbc-aca0-a74752338d68",
       "time": "2026-11-22 02:13:25",
@@ -82357,14 +82377,6 @@
         "國際"
       ],
       "text": "【五角大樓調整方案，擬小幅削減駐歐美軍】知情人士透露，特朗普政府對駐歐美軍的削減規模，將低於歐洲盟友此前擔憂的水平。盟友方面目前預計，美軍總共將削減約5000人，大部分裁撤集中在德國。最終決定權在特朗普總統手中，他此前多次批評歐洲盟友，指責其在美以對抗伊朗的戰事中沒有給予美方支援。"
-    },
-    {
-      "id": "mkt:01a1db48-be26-7bbc-abe3-00cdc64abd27",
-      "time": "2026-11-15 02:18:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Israel's i24News, Gadi Eisenkot, leader of Israel's National Unity party and opposition leader, said Netanyahu's call to form a national unity government was \"just another political stunt\" and that talks with the Likud bloc were already scheduled for Sunday."
     }
   ]
 }
