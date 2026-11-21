@@ -1,7 +1,23 @@
 {
   "date": "2026-11-21",
-  "count": 578,
+  "count": 580,
   "items": [
+    {
+      "id": "mkt:01a1fbe5-35b8-7bbc-ac9b-d835f5fd1eca",
+      "time": "2026-11-21 10:17:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports the FBI’s National Crime Information Center was hacked."
+    },
+    {
+      "id": "5229113",
+      "time": "2026-11-21 10:15:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蔚來ES9地平線鎏金特別版正式上市】11月21日，蔚來宣佈，蔚來ES9地平線鎏金特別版正式上市，售價63.8萬元起；採用BaaS電池租用方式購買，售價53萬元起。"
+    },
     {
       "id": "5229112",
       "time": "2026-11-21 10:10:52",
