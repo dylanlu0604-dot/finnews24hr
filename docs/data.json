@@ -1,7 +1,47 @@
 {
-  "updated": "2026-11-22 01:23:08",
-  "count": 9225,
+  "updated": "2026-11-22 01:27:14",
+  "count": 9227,
   "items": [
+    {
+      "id": "mkt:01a1ff24-d093-7bbc-aca0-6da3c171bb76",
+      "time": "2026-11-22 01:26:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "House Democratic Leader Jeffries: We will discuss legislation related to the West Bank and halting U.S. arms exports to the region."
+    },
+    {
+      "id": "mkt:01a1ff24-9b6a-7bbc-aca0-67d4daed851f",
+      "time": "2026-11-22 01:25:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "The Financial Times reports that Amazon is close to acquiring AI startup Decart for $7.5 bln, with a deal potentially reached as early as the start of next week."
+    },
+    {
+      "id": "5230097",
+      "time": "2026-11-22 01:23:15",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "亞馬遜即將以75億美元收購人工智慧初創公司Decart。"
+    },
+    {
+      "id": "5230096",
+      "time": "2026-11-22 01:22:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門荷臺達市傳出四次爆炸聲。"
+    },
     {
       "id": "mkt:01a1ff21-4311-7bbc-aca0-597f054fb766",
       "time": "2026-11-22 01:22:12",
@@ -82261,23 +82301,6 @@
         "國際"
       ],
       "text": "美國總統特朗普：正與參議員合作推進《娛樂業振興法案》。"
-    },
-    {
-      "id": "5214633",
-      "time": "2026-11-15 01:27:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【達菲調查L3哈里斯公司在本次空管系統癱瘓事件中是否存在失職】美國交通部長肖恩·達菲表示，相關部門正在調查航空交通管制系統停運、全美航班停飛超四小時一事，責任是否在L3哈里斯技術公司。事發時，L3哈里斯正在一處偏遠的聯邦航空管理局站點，將銅線線路更換為光纖，一臺路由器向其他路由器大量發起連線請求，干擾了飛機通訊以及部分雷達訊號傳輸。官方認為本次癱瘓並非網路攻擊導致。達菲稱，計劃向國會申請500億美元緊急資金，用於升級老舊空管系統。"
-    },
-    {
-      "id": "5214632",
-      "time": "2026-11-15 01:23:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國交通部長週一將向國會提交“全額”空管資金申請】美國交通部長肖恩·達菲在新聞釋出會上表示：“我將提交那份全額申請。我會詳細說明，並與總統一道提交給國會。我們將在週一完成這件事。”達菲稱：“總統和我昨天和今天一直保持溝通。我確實提出了300億美元的申請。”達菲表示，他正試圖“得出一個認為國會願意給的數字”。"
     }
   ]
 }

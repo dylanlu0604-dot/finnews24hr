@@ -1,7 +1,47 @@
 {
   "date": "2026-11-22",
-  "count": 65,
+  "count": 69,
   "items": [
+    {
+      "id": "mkt:01a1ff24-d093-7bbc-aca0-6da3c171bb76",
+      "time": "2026-11-22 01:26:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "House Democratic Leader Jeffries: We will discuss legislation related to the West Bank and halting U.S. arms exports to the region."
+    },
+    {
+      "id": "mkt:01a1ff24-9b6a-7bbc-aca0-67d4daed851f",
+      "time": "2026-11-22 01:25:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "The Financial Times reports that Amazon is close to acquiring AI startup Decart for $7.5 bln, with a deal potentially reached as early as the start of next week."
+    },
+    {
+      "id": "5230097",
+      "time": "2026-11-22 01:23:15",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "亞馬遜即將以75億美元收購人工智慧初創公司Decart。"
+    },
+    {
+      "id": "5230096",
+      "time": "2026-11-22 01:22:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門荷臺達市傳出四次爆炸聲。"
+    },
     {
       "id": "mkt:01a1ff21-4311-7bbc-aca0-597f054fb766",
       "time": "2026-11-22 01:22:12",
