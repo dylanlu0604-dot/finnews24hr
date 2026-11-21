@@ -1,7 +1,33 @@
 {
   "date": "2026-11-22",
-  "count": 79,
+  "count": 82,
   "items": [
+    {
+      "id": "mkt:01a1ff50-2848-7bbc-aca0-a74752338d68",
+      "time": "2026-11-22 02:13:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Danish Prime Minister Mette Frederiksen said Europe should close its borders and decide for itself who can enter. Africa’s population is expected to nearly double by 2050, keeping pressure on Europe high."
+    },
+    {
+      "id": "5230103",
+      "time": "2026-11-22 02:12:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "丹麥首相弗雷澤裡克森：我認為我們應該關閉邊境。我相信歐洲自身應當決定誰能來到這裡。到2050年非洲人口幾乎將翻倍，歐洲面臨的壓力將持續居高不下。"
+    },
+    {
+      "id": "mkt:01a1ff4e-8e41-7bbc-aca0-9ed9c14ce681",
+      "time": "2026-11-22 02:11:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain’s Interior Ministry issued an alert over a potential threat."
+    },
     {
       "id": "mkt:01a1ff45-458f-7bbc-aca0-956f8f3b5eb6",
       "time": "2026-11-22 02:01:32",
