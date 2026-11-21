@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-21 18:18:09",
+  "updated": "2026-11-21 18:22:02",
   "count": 9248,
   "items": [
+    {
+      "id": "5229823",
+      "time": "2026-11-21 18:19:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國科微亮相世界計算大會，展示新一代端側AI NPU】據國科微訊息，11月19日，2026世界計算大會在長沙開幕。國科微以“構建端側AI芯引擎”為主題亮相，集中展示全系端側AI晶片、AI演算法及端側應用成果；公司研發副總裁、AI技術團隊帶頭人倪亞宇發表主題演講，詳解新一代端側AI NPU技術路線，加速端側AI在更多元場景落地。"
+    },
     {
       "id": "5229822",
       "time": "2026-11-21 18:16:25",
@@ -82514,16 +82522,6 @@
         "國際"
       ],
       "text": "烏克蘭稱襲擊了俄羅斯薩馬拉地區的一處輸油泵站。"
-    },
-    {
-      "id": "mkt:01a1d991-00b8-7bbc-abe0-e06081a4ef4b",
-      "time": "2026-11-14 18:18:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China capital market academic conference opens in Shanghai; Zhou Xiaochuan speaks, CSRC chair sets research agenda】Shanghai, Nov 14, 2026 — The 2026 China Capital Market Academic Conference opened in Shanghai. Zhou Xiaochuan, vice chairman of the 12th CPPCC, delivered the opening address. CSRC chairman Wu Qing, with remarks from Shanghai mayor Zhu Zhongming, outlined research priorities to underpin capital-market reform, development and stability. Wu said after 36 years China’s capital market has become globally influential and urged deeper study of: market development characteristics; long-term market-stability mechanisms; institutional inclusivity and adaptability; AI–capital market two-way empowerment; market microstructure; and China’s role in global financial governance. He called for tighter integration of frontier and foundational research, academic and policy work, and traditional and new research paradigms to inform high-quality reform and policy-making."
     }
   ]
 }
