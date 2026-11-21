@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-21 17:39:28",
+  "updated": "2026-11-21 17:43:27",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
   "count": 475,
   "history_summary": {
-    "cached": 471,
-    "fetched": 4,
+    "cached": 475,
+    "fetched": 0,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -19796,7 +19796,7 @@
                   "previous": "3.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-21 17:39:26"
             },
             {
@@ -19854,7 +19854,7 @@
                   "previous": "0.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-21 17:39:26"
             },
             {
@@ -19970,7 +19970,7 @@
                   "previous": "0"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-21 17:39:26"
             },
             {
@@ -27058,7 +27058,7 @@
                   "previous": "21.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-21 17:39:26"
             },
             {
@@ -47216,7 +47216,7 @@
           "previous": "3.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-21 17:39:26"
     },
     {
@@ -47274,7 +47274,7 @@
           "previous": "0.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-21 17:39:26"
     },
     {
@@ -47390,7 +47390,7 @@
           "previous": "0"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-21 17:39:26"
     },
     {
@@ -54466,7 +54466,7 @@
           "previous": "21.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-21 17:39:26"
     },
     {
