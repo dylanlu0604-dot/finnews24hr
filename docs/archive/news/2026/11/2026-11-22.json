@@ -1,7 +1,25 @@
 {
   "date": "2026-11-22",
-  "count": 75,
+  "count": 77,
   "items": [
+    {
+      "id": "mkt:01a1ff3e-0a0b-7bbc-aca0-8ae4a18f0e35",
+      "time": "2026-11-22 01:53:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Brussels Airport said most flights on Nov. 23 will be canceled as some staff join a nationwide protest."
+    },
+    {
+      "id": "5230101",
+      "time": "2026-11-22 01:53:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "比利時布魯塞爾機場公告：受部分工作人員參與全國示威活動影響，11月23日大部分航班將被迫取消。"
+    },
     {
       "id": "mkt:01a1ff37-cbd9-7bbc-aca0-868d9f426f71",
       "time": "2026-11-22 01:46:49",
