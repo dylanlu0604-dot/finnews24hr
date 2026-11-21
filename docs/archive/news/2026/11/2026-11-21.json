@@ -1,7 +1,31 @@
 {
   "date": "2026-11-21",
-  "count": 782,
+  "count": 785,
   "items": [
+    {
+      "id": "5229821",
+      "time": "2026-11-21 18:06:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：11月21日17時42分在印尼西南群島（南緯7.95度，東經127.55度）發生6.8級地震，震源深度150千米。"
+    },
+    {
+      "id": "mkt:01a1fd92-c824-7bbc-ac9e-15edc85e641f",
+      "time": "2026-11-21 18:06:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The governor of Russia’s Leningrad region said two drones attacked a cargo ship bound for Kaliningrad in neutral waters."
+    },
+    {
+      "id": "5229820",
+      "time": "2026-11-21 18:06:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯列寧格勒州州長稱，一艘駛往加里寧格勒的貨船在中立水域遭到兩架無人機襲擊。"
+    },
     {
       "id": "5229819",
       "time": "2026-11-21 18:04:58",
