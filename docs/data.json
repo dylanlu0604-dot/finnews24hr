@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-21 17:50:59",
+  "updated": "2026-11-21 17:54:51",
   "count": 9249,
   "items": [
+    {
+      "id": "5229815",
+      "time": "2026-11-21 17:53:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地質學研究中心：班達海發生6.77級地震。"
+    },
+    {
+      "id": "mkt:01a1fd84-87c8-7bbc-ac9e-02fae4ff1028",
+      "time": "2026-11-21 17:51:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia’s Defense Ministry said Russian Aerospace Forces used five FAB-500 bombs to destroy a Ukrainian drone control center in Kharkiv region."
+    },
     {
       "id": "5229814",
       "time": "2026-11-21 17:48:43",
@@ -82529,22 +82545,6 @@
         "Impact bearish"
       ],
       "text": "【Zelenskiy says U.S. suggested ceding Donbas in exchange for NATO membership】Xinhua reported on the 14th that Ukrainian President Zelenskiy told reporters U.S. officials had suggested Ukraine cede the Donbas region in return for a path to NATO membership."
-    },
-    {
-      "id": "5214437",
-      "time": "2026-11-14 17:54:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【整機22萬個零部件全部國產化 大型無人貨運飛機W5000試飛成功】今天，江蘇常州研發製造的大型無人貨運飛機W5000，在內蒙古鄂爾多斯順利完成試飛。該飛機最大載重5噸，最遠可飛2600公里，整機22萬個零部件全部國產化。作為大型支線物流無人機，W5000最大的優勢是“裝得多、飛得遠、成本低”。它機身自重5.8噸，最大載重達5噸，貨艙容積超65立方米，最遠航程2600公里，相容多種標準航空貨箱，可滿足區域物流、冷鏈運輸及應急保障等需求。截至目前，W5000意向訂單已達835架，客戶覆蓋國內多家物流企業，預計於2027年底正式投入商業運營。（央視新聞）"
-    },
-    {
-      "id": "5214436",
-      "time": "2026-11-14 17:52:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度將向義大利Elettra 2.0專案投資逾700萬歐元。"
     }
   ]
 }

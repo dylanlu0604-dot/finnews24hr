@@ -1,7 +1,23 @@
 {
   "date": "2026-11-21",
-  "count": 775,
+  "count": 777,
   "items": [
+    {
+      "id": "5229815",
+      "time": "2026-11-21 17:53:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地質學研究中心：班達海發生6.77級地震。"
+    },
+    {
+      "id": "mkt:01a1fd84-87c8-7bbc-ac9e-02fae4ff1028",
+      "time": "2026-11-21 17:51:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia’s Defense Ministry said Russian Aerospace Forces used five FAB-500 bombs to destroy a Ukrainian drone control center in Kharkiv region."
+    },
     {
       "id": "5229814",
       "time": "2026-11-21 17:48:43",
