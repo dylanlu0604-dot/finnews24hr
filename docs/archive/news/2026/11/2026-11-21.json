@@ -1,7 +1,25 @@
 {
   "date": "2026-11-21",
-  "count": 591,
+  "count": 593,
   "items": [
+    {
+      "id": "mkt:01a1fbf7-8d3b-7bbc-ac9b-f723d3430808",
+      "time": "2026-11-21 10:37:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "The White House said Trump signed an executive order to protect executive privilege and improve federal contracting efficiency."
+    },
+    {
+      "id": "5229123",
+      "time": "2026-11-21 10:36:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普簽署了關於“保護行政部門特權和提高聯邦合同效率”的行政命令。"
+    },
     {
       "id": "5229122",
       "time": "2026-11-21 10:33:36",
