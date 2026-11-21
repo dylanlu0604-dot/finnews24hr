@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-21 18:22:02",
-  "count": 9248,
+  "updated": "2026-11-21 18:25:53",
+  "count": 9246,
   "items": [
+    {
+      "id": "5229824",
+      "time": "2026-11-21 18:21:56",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "據中國地震臺網正式測定，2026年11月21日17時42分（北京時間），印尼西南群島海域發生6.8級地震，震源深度為150千米。自然資源部海嘯預警中心根據初步地震引數判斷，本次地震不會引發海嘯。"
+    },
     {
       "id": "5229823",
       "time": "2026-11-21 18:19:30",
@@ -82488,40 +82497,6 @@
         "國際"
       ],
       "text": "伊朗海軍：今天早上，另一艘違規油輪在霍爾木茲海峽東部限制區域起火，據報系因與海軍水雷相撞所致。霍爾木茲海峽東部由伊朗海軍完全控制和監視。關閉跟蹤系統並在限制區域作業的違規船隻的命運就是起火和爆炸。"
-    },
-    {
-      "id": "mkt:01a1d994-e1f4-7bbc-abe0-f69003606397",
-      "time": "2026-11-14 18:22:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukraine said it attacked an oil pipeline pumping station in Russia's Samara region."
-    },
-    {
-      "id": "mkt:01a1d994-619b-7bbc-abe0-eeec8703c957",
-      "time": "2026-11-14 18:22:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Iranian navy said an oil tanker struck a mine and caught fire in restricted waters east of the Strait of Hormuz, the second such incident reported today."
-    },
-    {
-      "id": "5214444",
-      "time": "2026-11-14 18:22:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭稱襲擊了俄羅斯薩馬拉地區的一處輸油泵站。"
     }
   ]
 }
