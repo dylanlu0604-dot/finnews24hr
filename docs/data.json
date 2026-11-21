@@ -1,7 +1,52 @@
 {
-  "updated": "2026-11-22 01:15:03",
-  "count": 9221,
+  "updated": "2026-11-22 01:19:02",
+  "count": 9224,
   "items": [
+    {
+      "id": "mkt:01a1ff1d-2c77-7bbc-aca0-4d620e651b2e",
+      "time": "2026-11-22 01:17:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "【California Nvidia probe examines potential criminal violations】California’s investigation into Nvidia’s chip sales and alleged misleading of investors is also examining potential criminal violations under state law, raising the stakes for the chipmaker. Attorney General Rob Bonta said Friday that Nvidia or former CEO Jensen Huang could have violated multiple California laws if they provided false information about chip sales. Bonta announced the probe Thursday; it remains preliminary, with no conclusions reached. The investigation is being conducted under state laws barring the misleading of investors and the public, including both civil and criminal provisions."
+    },
+    {
+      "id": "5230095",
+      "time": "2026-11-22 01:17:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）本輪埃博拉疫情死亡病例超5600例】當地時間11月21日，剛果（金）衛生部門最新資料顯示，截至目前，該國本輪埃博拉疫情已累計報告確診病例11613例，其中5678人死亡，總病死率為48.9%。目前已有3148名患者康復出院，1743人仍在接受治療或隔離，密切接觸者追蹤率為82.6%。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1ff1c-596b-7bbc-aca0-426127df719c",
+      "time": "2026-11-22 01:16:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【UAE risks Strait of Hormuz crossings to ship oil, with ADNOC emerging as key wartime carrier】The UAE is expanding its tanker fleet and organizing nighttime convoys to keep oil exports moving through the Strait of Hormuz. Abu Dhabi National Oil Co. (ADNOC), operating under protection coordinated with U.S. and UAE forces, has become a key wartime carrier in the Gulf but remains exposed to Iranian missile and drone attacks. More than 20 ADNOC-operated vessels have been attacked since April, according to people familiar with the matter. A vessel was hit on Tuesday night, leaving 11 crew members injured and one missing. ADNOC typically loads UAE or Iraqi crude inside the Gulf, crosses the strait in nighttime convoys and transfers cargo to other tankers offshore. The arrangement has helped restore UAE crude shipments quickly: more than 70% of crude transported through Hormuz in August was later transferred near the UAE and Oman. UAE crude and condensate exports through the strait rose from 11,300 bpd in March to 2.1 million bpd three months later, making the UAE the strait’s largest oil shipper."
+    },
+    {
+      "id": "5230094",
+      "time": "2026-11-22 01:15:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【加州英偉達調查涉及潛在刑事違法】美國加州針對英偉達晶片銷售、並就此誤導投資者的調查，同時在核查是否存在州法下的刑事違規行為，令這家晶片企業面臨更高風險。該州總檢察長羅布·邦塔週五稱，倘若英偉達或前執行長黃仁勳就相關晶片銷售情況向公眾提供虛假資訊，有可能觸犯多項加州法律。邦塔前一日剛宣佈啟動這項調查，調查目前仍處於初步階段，尚未形成任何結論。邦塔在採訪中表示：“我們參考的基本法律框架，是加州法律中禁止誤導投資者與公眾的條款，民事、刑事條款都包含在內。這一領域有多條不同法律作出相關禁令。”"
+    },
     {
       "id": "mkt:01a1ff18-87f9-7bbc-aca0-3be585028c5b",
       "time": "2026-11-22 01:12:40",
@@ -82221,19 +82266,6 @@
         "MKT News"
       ],
       "text": "Israeli Prime Minister Netanyahu said a national unity government is urgently needed and told Eisenkot they must reach consensus on Israel’s security issues."
-    },
-    {
-      "id": "mkt:01a1db0f-a3f5-7bbc-abe2-ddaccd178805",
-      "time": "2026-11-15 01:16:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CENTCOM said Gulf partner states have transported more than 1.7 billion barrels of crude through the Strait of Hormuz under U.S. protection."
     }
   ]
 }
