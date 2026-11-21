@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-22 01:19:02",
-  "count": 9224,
+  "updated": "2026-11-22 01:23:08",
+  "count": 9225,
   "items": [
+    {
+      "id": "mkt:01a1ff21-4311-7bbc-aca0-597f054fb766",
+      "time": "2026-11-22 01:22:12",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【French protest turnout falls as weeks-long demonstrations ease】Saturday protests across France over the cost of living and student rights were largely peaceful, with turnout down from a week earlier, offering the government a temporary reprieve. The Interior Ministry counted about 82,500 protesters nationwide, including 21,500 in Paris; organizers put the totals at 150,000 and 45,000, respectively. On Nov. 14, official figures showed 106,000 protesters, while organizers estimated 200,000. France deployed about 70,000 security personnel on Saturday, with isolated violence reported in Marseille and elsewhere. The protest wave began in September with student demands for school renovations, more teachers and university reforms, then broadened over rising living costs. The Oct. 17 protests drew about 565,000 people, according to the Interior Ministry."
+    },
+    {
+      "id": "mkt:01a1ff1d-e59b-7bbc-aca0-57f3eee915f9",
+      "time": "2026-11-22 01:18:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Deaths in current Ebola outbreak in Democratic Republic of Congo top 5,600】As of Nov. 21, the Democratic Republic of Congo had reported 11,613 confirmed cases in the current Ebola outbreak, with 5,678 deaths and a case fatality rate of 48.9%, according to the health ministry. A total of 3,148 patients had recovered and been discharged, while 1,743 remained in treatment or isolation. The contact-tracing rate was 82.6%."
+    },
     {
       "id": "mkt:01a1ff1d-2c77-7bbc-aca0-4d620e651b2e",
       "time": "2026-11-22 01:17:44",
@@ -82258,14 +82278,6 @@
         "國際"
       ],
       "text": "【美國交通部長週一將向國會提交“全額”空管資金申請】美國交通部長肖恩·達菲在新聞釋出會上表示：“我將提交那份全額申請。我會詳細說明，並與總統一道提交給國會。我們將在週一完成這件事。”達菲稱：“總統和我昨天和今天一直保持溝通。我確實提出了300億美元的申請。”達菲表示，他正試圖“得出一個認為國會願意給的數字”。"
-    },
-    {
-      "id": "mkt:01a1db12-2488-7bbc-abe2-e2ec934af5ff",
-      "time": "2026-11-15 01:19:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said a national unity government is urgently needed and told Eisenkot they must reach consensus on Israel’s security issues."
     }
   ]
 }
