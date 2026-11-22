@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-22 10:18:54",
-  "count": 9200,
+  "updated": "2026-11-22 10:22:44",
+  "count": 9201,
   "items": [
+    {
+      "id": "5230255",
+      "time": "2026-11-22 10:21:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國空間站多項空間科學實（試）驗有序推進】神二十三乘組三名航天員朱楊柱、張志遠、黎佳盈在軌將滿六個月，上週，他們持續開展空間科學實（試）驗、空間站組合體平臺照料等各項工作。根據微重力物理科學領域實驗安排，乘組完成了變重力科學實驗櫃內樣品回收，高溫材料實驗櫃內樣品更換及處置，線上維修裝調操作櫃內慣性粒子實驗裝置元件更換等工作；在空間新技術與應用領域，根據試驗安排，乘組完成了微生物防控材料、微生物快速檢測與技術防護兩個專案的樣品安裝工作。在空間站組合體平臺照料方面，三名航天員開展了再生生保系統裝置檢查維護、物資整理等工作。此外，乘組按計劃完成了艙外航天服的巡檢測試。(央視新聞)"
+    },
+    {
+      "id": "5230254",
+      "time": "2026-11-22 10:19:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞萬丹省警方22日表示，該省西冷縣一家糖果廠21日晚發生火災，目前仍有40餘名員工無法取得聯絡，相關部門正在核實其下落及安全狀況。（新華社）"
+    },
     {
       "id": "5230253",
       "time": "2026-11-22 10:15:43",
@@ -82137,17 +82153,6 @@
         "其他"
       ],
       "text": "沙特主導的聯軍稱，其在沙特東部地區攔截並摧毀了一架無人機。"
-    },
-    {
-      "id": "mkt:01a1dd02-3c15-7bbc-abe4-1935548e1ba5",
-      "time": "2026-11-15 10:21:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Houthi forces say they shot down Saudi CH-4 drone】Houthi military spokesman Yahya Saree said early today his forces shot down a Saudi-operated CH-4 armed reconnaissance drone over al-Jawf province while it was conducting hostile operations; it was the fifth such drone downed since the escalation."
     }
   ]
 }
