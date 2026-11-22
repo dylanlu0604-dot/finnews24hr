@@ -1,7 +1,28 @@
 {
   "date": "2026-11-22",
-  "count": 473,
+  "count": 475,
   "items": [
+    {
+      "id": "mkt:01a202ef-6086-7bbc-aca4-a120ee7c2a3c",
+      "time": "2026-11-22 19:06:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【EU and member states oppose Antalya climate agreement】The EU delegation said it was deeply disappointed with the draft COP31 decision and would not support an outcome that does not mention fossil fuels. It said the EU would not accept a UN climate conference that greenwashes fossil fuels, adding that the draft fails to address the climate emergency."
+    },
+    {
+      "id": "mkt:01a202ee-f7f7-7bbc-aca4-99d907e0c12e",
+      "time": "2026-11-22 19:05:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar with the matter said Anthropic asked some banks to refrain for six months from serving competitors, including OpenAI and DeepSeek, during its IPO. It also asked some IPO underwriters to limit deal teams to four senior bankers."
+    },
     {
       "id": "mkt:01a202ee-0c6c-7bbc-aca4-904d63d13b46",
       "time": "2026-11-22 19:04:44",
