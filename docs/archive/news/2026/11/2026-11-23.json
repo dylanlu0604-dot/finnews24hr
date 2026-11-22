@@ -1,7 +1,15 @@
 {
   "date": "2026-11-23",
-  "count": 93,
+  "count": 94,
   "items": [
+    {
+      "id": "mkt:01a20477-db8b-7bbc-aca7-6ba84a79a6aa",
+      "time": "2026-11-23 02:14:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand to cut tariffs on 99% of U.S. goods, including pharmaceuticals and autos, USTR says."
+    },
     {
       "id": "mkt:01a2046a-3555-7bbc-aca7-63eacbc56e60",
       "time": "2026-11-23 01:59:58",
