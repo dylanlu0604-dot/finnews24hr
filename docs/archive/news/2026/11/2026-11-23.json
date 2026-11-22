@@ -1,7 +1,24 @@
 {
   "date": "2026-11-23",
-  "count": 168,
+  "count": 170,
   "items": [
+    {
+      "id": "5230860",
+      "time": "2026-11-23 06:53:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲天然氣價格開盤上漲6.4%。"
+    },
+    {
+      "id": "mkt:01a20576-c0a0-7bbc-aca8-8ba85182fa31",
+      "time": "2026-11-23 06:53:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Eisenkot’s Yashar party and Likud fail to reach coalition agreement】Eisenkot’s Yashar party and Israeli Prime Minister Benjamin Netanyahu’s Likud held more than four hours of coalition talks on the 22nd but reached no agreement on several disputed issues. The parties said they would meet again, without setting a date. Discussions did not address a rotating premiership."
+    },
     {
       "id": "mkt:01a20575-58cf-7bbc-aca8-8184df35feca",
       "time": "2026-11-23 06:51:46",
