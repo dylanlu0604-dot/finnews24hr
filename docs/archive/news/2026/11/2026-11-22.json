@@ -1,7 +1,70 @@
 {
   "date": "2026-11-22",
-  "count": 455,
+  "count": 461,
   "items": [
+    {
+      "id": "5230421",
+      "time": "2026-11-22 18:37:19",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【中國結算釋出降費政策】11月22日，中國結算釋出《關於暫免收取部分債券登記結算費用的通知》，明確自2027年1月1日起至2028年12月31日，繼續暫免收取綠色公司債券、科技創新公司債券和民營企業公司債券（不含可轉換公司債券）發行人服務費及債券結算費。"
+    },
+    {
+      "id": "mkt:01a202d4-e5e8-7bbc-aca4-734c292dd030",
+      "time": "2026-11-22 18:37:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's CSDC announces bond fee waivers】China Securities Depository and Clearing Corp. said on Nov. 22 it will continue waiving issuer service fees and bond settlement fees for green, sci-tech innovation and private enterprise corporate bonds, excluding convertible bonds, from Jan. 1, 2027, through Dec. 31, 2028."
+    },
+    {
+      "id": "5230420",
+      "time": "2026-11-22 18:34:59",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【深交所釋出《關於進一步減免相關費用的通知》】11月22日，深交所釋出《關於進一步減免相關費用的通知》，推出新一批降費措施，包括免收交易單元使用費、網路投票服務費、減免交易通訊服務費、下調資料中心收費標準等，並將今年初已釋出的免收上市費、債券經手費等措施有效期再延長兩年。本次新推出的降費措施預計向市場讓利13.9億元，預計本年度深市整體降費金額超過22億元。"
+    },
+    {
+      "id": "mkt:01a202d2-b882-7bbc-aca4-6eee3a50b5dd",
+      "time": "2026-11-22 18:34:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Shenzhen Stock Exchange announces further fee cuts】The Shenzhen Stock Exchange announced a new round of fee cuts on Nov. 22, including waiving trading unit usage and online voting service fees, reducing trading communication fees and lowering data center charges. It also extended by two years the waivers of listing fees and bond handling fees announced earlier this year. The new measures are expected to save market participants 1.39 bln yuan, bringing total fee reductions in the Shenzhen market this year to more than 2.2 bln yuan."
+    },
+    {
+      "id": "5230419",
+      "time": "2026-11-22 18:34:11",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【深交所就創業板做市交易業務相關規則公開徵求意見】深交所就創業板做市交易業務相關規則公開徵求意見。本次徵求意見的《做市業務細則》，對創業板股票做市交易業務進行管理。一是明確做市服務申請備案要求。經中國證監會核准取得上市證券做市交易業務資格的證券公司，以備案方式向深交所申請為創業板股票提供做市服務。二是明確做市商權利與義務。做市商應透過做市專用證券賬戶開展做市交易業務。深交所定期對做市商做市服務進行評價，激勵做市商積極履行做市義務。三是明確對做市商的監督管理要求。做市商應當建立風險防範與業務隔離機制，健全內部控制和風險管理制度，確保合規有序開展做市交易業務。（深交所）"
+    },
+    {
+      "id": "mkt:01a202d1-fcb0-7bbc-aca4-61fd1a448a00",
+      "time": "2026-11-22 18:34:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shenzhen Stock Exchange Seeks Public Comment on ChiNext Market-Making Rules】The Shenzhen Stock Exchange is seeking public comment on rules governing market-making in ChiNext stocks. Securities firms approved by the CSRC to conduct market-making in listed securities may apply to the exchange by filing to provide the service. Market makers must use dedicated securities accounts; the exchange will periodically assess their performance to encourage them to meet their obligations. Firms must also establish risk controls, business-separation mechanisms and internal management systems to ensure compliant operations."
+    },
     {
       "id": "5230418",
       "time": "2026-11-22 18:32:39",
