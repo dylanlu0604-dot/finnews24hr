@@ -1,7 +1,38 @@
 {
-  "updated": "2026-11-22 18:07:13",
-  "count": 9215,
+  "updated": "2026-11-22 18:11:13",
+  "count": 9218,
   "items": [
+    {
+      "id": "5230413",
+      "time": "2026-11-22 18:08:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡總理將於11月23日至25日訪問澳大利亞出席領導人會議。"
+    },
+    {
+      "id": "mkt:01a202ba-687e-7bbc-aca4-475a7a9dacfd",
+      "time": "2026-11-22 18:08:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact mixed",
+        "S&P500",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: U.S.-listed AI stocks may face valuation pressure early in 2027, recover midyear and diverge late in the year】CITIC Securities expects the AI supply chain to face valuation pressure early in 2027, recover midyear and diverge late in the year. From now through Q1 2027, tighter data-center regulation and concerns over a mismatch between cloud service providers’ capital spending and operating cash flow may weigh on valuations and increase financing pressure on emerging cloud providers. In Q2-Q3, clearer Texas regulations and restrictions milder than expected could ease the policy risk premium, with upstream hardware stocks leading a valuation recovery; industry consolidation may also strengthen leading companies’ competitive positions. In Q4, rising demands for returns on AI commercialization investment, alongside a potential 2028 funding gap and private-credit refinancing pressures, may prompt a repricing of credit risk and drive capital toward companies with more predictable earnings."
+    },
+    {
+      "id": "5230412",
+      "time": "2026-11-22 18:07:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "科濟藥業將於2027年上半年提交CT1182註冊試驗申請。"
+    },
     {
       "id": "5230411",
       "time": "2026-11-22 18:05:58",
