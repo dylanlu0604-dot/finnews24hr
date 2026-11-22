@@ -1,7 +1,639 @@
 {
-  "updated": "2026-11-23 02:47:12",
-  "count": 9254,
+  "updated": "2026-11-23 06:52:47",
+  "count": 9233,
   "items": [
+    {
+      "id": "mkt:01a20575-58cf-7bbc-aca8-8184df35feca",
+      "time": "2026-11-23 06:51:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【Bessent reverses stance on Huang returning to Nvidia】U.S. Treasury Secretary Scott Bessent said in an interview on Nov. 23 that Huang is already an outsider. Asked whether Huang should return to lead Nvidia, Bessent said it was necessary to determine who ultimately bears responsibility and identify which employees at lower levels deliberately violated the rules."
+    },
+    {
+      "id": "5230859",
+      "time": "2026-11-23 06:51:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱遭沙特空襲致2死11傷】據葉門胡塞武裝控制的馬西拉電視臺22日報道，該組織控制區當天遭到沙烏地阿拉伯戰機空襲，共造成至少2人死亡、11人受傷。（新華社）"
+    },
+    {
+      "id": "5230858",
+      "time": "2026-11-23 06:50:44",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週一財經資訊提醒（以下均為北京時間）】 \n① 08:00 韓國11月1-20日進出口資料；\n② 16:15 法國11月製造業、服務業PMI初值；\n③ 16:30 德國11月製造業、服務業PMI初值；\n④ 17:00 歐元區11月製造業、服務業PMI初值；\n⑤ 17:30 英國11月製造業、服務業PMI初值 ；\n⑥ 19:30 歐洲央行管委科赫爾發表講話；\n⑦ 21:00 歐洲央行管委西姆庫斯、英國央行首席經濟學家皮爾發表講話；\n⑧ 21:30 美國10月芝加哥聯儲全國活動指數；\n⑨ 22:45 美國11月標普全球製造業、服務業PMI初值；\n⑩ 次日05:00 FOMC永久票委、紐約聯儲主席威廉姆斯發表講話。"
+    },
+    {
+      "id": "5230857",
+      "time": "2026-11-23 06:48:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝：對荷臺達市發動襲擊。"
+    },
+    {
+      "id": "5230856",
+      "time": "2026-11-23 06:47:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【權益類產品擔當主力年內新發基金規模突破萬億元大關】年內新發基金規模日前已突破萬億元大關。從產品結構看，權益類基金是發行主力軍，新模式浮動管理費基金大幅擴容，資產配置工具箱持續豐富。從最新動向看，基金新品依然在加速推出，200多隻基金正在或即將發行，公募逆週期佈局特徵明顯。與此同時，多家頭部公募掌門人發聲，看多中國資產。（上證報）"
+    },
+    {
+      "id": "5230855",
+      "time": "2026-11-23 06:47:08",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【理性看待短期外部擾動 機構：中國資產長期向好趨勢未改】過去一週，A股市場弱勢調整，投資者情緒受到一定擾動。對此，最新券商策略展望報告認為，海外流動性預期持續收緊，疊加美股科技龍頭大幅調整、AI 板塊整體情緒走弱，是近期A股風險偏好承壓的直接原因。當前，A股正處於悲觀預期出清、價效比不斷改善的過程中，多維度積極訊號正在逐步積累。中金公司表示：市場信心修復需要時間，但中國資產長期、穩健趨勢仍將延續。（上證報）"
+    },
+    {
+      "id": "5230854",
+      "time": "2026-11-23 06:44:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "週日，達美航空公司超過1600個航班因技術故障延誤。"
+    },
+    {
+      "id": "5230851",
+      "time": "2026-11-23 06:32:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【古特雷斯對COP31未就政治決定達成一致表示失望】聯合國秘書長古特雷斯22日發表宣告，對《聯合國氣候變化框架公約》第三十一次締約方大會（COP31）未能就政治決定達成一致表示失望。古特雷斯說，他對大會在未就總體成果達成共識的情況下閉幕深感失望，他與所有期望各國政府挺身應對氣候危機的人們一樣深感沮喪。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a2055a-7136-7bbc-aca8-780fa3e43bbb",
+      "time": "2026-11-23 06:22:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guterres disappointed COP31 failed to agree on political decisions】UN Secretary-General Guterres expressed disappointment on the 22nd that COP31 failed to agree on political decisions. He urged countries to move away from fossil fuels, accelerate emissions cuts and called on developed countries to honor climate finance commitments."
+    },
+    {
+      "id": "5230850",
+      "time": "2026-11-23 06:12:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加利福尼亞州中部一場音樂會上發生槍擊事件，9人受傷。"
+    },
+    {
+      "id": "5230849",
+      "time": "2026-11-23 06:12:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國總統特朗普將於今晚的晚宴上，向其發行的TRUMP加密模因幣持倉排名前四的持有者贈送18K金錶。弗洛伊德·梅威瑟、凱文·奧利裡等名人將出席本次晚宴。該代幣價格較歷史高點已經下跌98%。"
+    },
+    {
+      "id": "mkt:01a2054f-f893-7bbc-aca8-75f3dabb547d",
+      "time": "2026-11-23 06:10:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "The U.S. dollar index slipped 0.09% to 103.77 in early trading."
+    },
+    {
+      "id": "5230848",
+      "time": "2026-11-23 06:06:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：索馬利亞人已完全控制明尼蘇達州，其中約95%的人依靠某種社會救濟生活。"
+    },
+    {
+      "id": "5230846",
+      "time": "2026-11-23 06:02:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據CME“美聯儲觀察”：美聯儲12月加息25個基點的機率為91.4%。"
+    },
+    {
+      "id": "5230845",
+      "time": "2026-11-23 06:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：到2035年南澳銅礦副產品產量將增加50%。"
+    },
+    {
+      "id": "mkt:01a20546-0549-7bbc-aca8-6fd4c8d4947d",
+      "time": "2026-11-23 06:00:04",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia's S&P Global composite PMI fell to 46.1 in November, down from 48.2."
+    },
+    {
+      "id": "mkt:01a20546-03b7-7bbc-aca8-65fbaf6d0234",
+      "time": "2026-11-23 06:00:04",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Australia's S&P Global Manufacturing PMI fell to a preliminary 48.7 in November from 49.6."
+    },
+    {
+      "id": "mkt:01a20546-02a6-7bbc-aca8-5b63cc1a781d",
+      "time": "2026-11-23 06:00:03",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia’s S&P Global services PMI fell to a preliminary 46.2 in November from 48.5."
+    },
+    {
+      "id": "mkt:01a20545-f433-7bbc-aca8-492c3f8e81cd",
+      "time": "2026-11-23 06:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | S&P Global Manufacturing PMI, preliminary (Nov) | actual 48.7 | previous 49.6"
+    },
+    {
+      "id": "mkt:01a20545-f449-7bbc-aca8-501b0fa053b2",
+      "time": "2026-11-23 06:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | S&P Global Composite PMI, preliminary (Nov) | actual 46.1 | previous 48.2"
+    },
+    {
+      "id": "mkt:01a20545-f418-7bbc-aca8-41801e4dd787",
+      "time": "2026-11-23 06:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | S&P Global Services PMI, preliminary (Nov) | actual 46.2 | previous 48.5"
+    },
+    {
+      "id": "5230844",
+      "time": "2026-11-23 05:56:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：意識要麼是一種錯覺，要麼以梯度形式普遍存在。很難主張碳基可以產生意識，而矽基就不行。"
+    },
+    {
+      "id": "mkt:01a20541-626d-7bbc-aca8-3f8650704403",
+      "time": "2026-11-23 05:55:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Somalis had taken complete control of Minnesota, claiming nearly 95% received some form of public assistance."
+    },
+    {
+      "id": "mkt:01a20540-edf3-7bbc-aca8-3422510ac259",
+      "time": "2026-11-23 05:54:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Trump says he predicted stock-market plunge after Democratic victory and escalation in Iranian attacks】U.S. President Donald Trump said he had predicted that a Democratic win in the Nov. 3 midterm elections would send stocks sharply lower and prompt Iran to intensify attacks, adding that both had happened. Iran launched the most drones and missiles in more than a year last week, he said, but all were intercepted with no damage. Trump accused Democrats and Iran of trying to keep oil prices high, and said prices had posted a record decline since the election."
+    },
+    {
+      "id": "mkt:01a2053f-6d19-7bbc-aca8-2a56aadd6c48",
+      "time": "2026-11-23 05:52:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "Trump: Isn’t it strange that oil prices plunged after the midterm elections? I said this would happen. The whole thing is a giant scam!"
+    },
+    {
+      "id": "5230841",
+      "time": "2026-11-23 05:52:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普發文稱中期選舉印證其兩大預判，認為選舉過程十分蹊蹺】美國總統特朗普表示，他此前針對11月3日中期選舉作出兩項預判。其一，若民主黨贏得選舉，股市將大幅下跌，該情況已經出現；其二，伊朗的襲擊行動會變得更加激進，這一點也已應驗。他稱，伊朗上週發射的無人機和導彈數量創下一年多以來新高，不過這些目標均被擊落，沒有造成損失。特朗普提到，伊朗領導層認為民主黨軟弱無力、效率低下，會損害國家，但他不會允許這種局面發生。他認為民主黨與伊朗此前都竭力維持油價高位，而選舉結束之後油價出現創紀錄下跌。特朗普感慨，遺憾選民在投票前沒有看清這一點，整場選舉十分“蹊蹺”，他堅信美國最終會取得勝利。"
+    },
+    {
+      "id": "5230838",
+      "time": "2026-11-23 05:51:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：上週伊朗無人機和導彈未造成損害。"
+    },
+    {
+      "id": "5230837",
+      "time": "2026-11-23 05:51:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：伊朗上週發射的無人機和導彈均被擊落。"
+    },
+    {
+      "id": "5230835",
+      "time": "2026-11-23 05:50:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：伊朗上週發射的無人機和導彈數量超過以往任何時候。"
+    },
+    {
+      "id": "5230834",
+      "time": "2026-11-23 05:50:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：中期選舉過後油價暴跌，這事耐人尋味。我早就說過會發生這種情況。整件事就是一場巨大的騙局。"
+    },
+    {
+      "id": "5230833",
+      "time": "2026-11-23 05:50:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：整哥（中期）選舉情況 “很奇怪”。"
+    },
+    {
+      "id": "5230832",
+      "time": "2026-11-23 05:49:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國總統特朗普：油價在中期選舉後下跌，這難道不令人感興趣嗎？"
+    },
+    {
+      "id": "mkt:01a20539-0442-7bbc-aca8-21eaddfc0a95",
+      "time": "2026-11-23 05:45:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "New Zealand Q3 retail sales volume rose 3.5% YoY, up from 3.3% previously."
+    },
+    {
+      "id": "mkt:01a20538-f5a4-7bbc-aca8-19eae0b407d1",
+      "time": "2026-11-23 05:45:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Retail Sales Volume (YoY) (Q3) | actual 3.5% | previous 3.3%"
+    },
+    {
+      "id": "mkt:01a20538-f0a6-7bbc-aca8-12e5292e3782",
+      "time": "2026-11-23 05:45:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q3 retail sales volumes rose 2.2% QoQ, versus a prior 0.5% decline."
+    },
+    {
+      "id": "mkt:01a20538-e24e-7bbc-aca8-08784d5b1b64",
+      "time": "2026-11-23 05:45:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Retail Sales Volume (QoQ) (Q3) | actual 2.2% | previous -0.50%"
+    },
+    {
+      "id": "mkt:01a20535-430e-7bbc-aca8-014e2ad8922e",
+      "time": "2026-11-23 05:41:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Politico reports the Trump administration is preparing to launch digital trade investigations into the EU, Australia and South Korea."
+    },
+    {
+      "id": "5230827",
+      "time": "2026-11-23 05:41:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：預計銅需求增長需要新增供應，而新礦供應正變得更具挑戰性。"
+    },
+    {
+      "id": "5230822",
+      "time": "2026-11-23 05:40:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場資訊：特朗普政府正準備對歐盟、澳大利亞和韓國啟動數字貿易調查。"
+    },
+    {
+      "id": "5230811",
+      "time": "2026-11-23 05:30:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：推進戰略，將銅產量提升至2035年的50萬噸/年。"
+    },
+    {
+      "id": "mkt:01a20523-5afd-7bbc-aca7-f83086880429",
+      "time": "2026-11-23 05:22:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Eastern Libyan authorities said they had asked the UN Security Council to launch an urgent investigation into attacks on Russian and Maltese vessels in Benghazi."
+    },
+    {
+      "id": "mkt:01a20522-05d5-7bbc-aca7-f094a18167f9",
+      "time": "2026-11-23 05:20:45",
+      "tags": [
+        "MKT News",
+        "DAL.O",
+        "Impact bearish"
+      ],
+      "text": "【Delta system outage delays more than 360 flights at Atlanta airport】A Delta Air Lines system outage delayed 364 flights at Hartsfield-Jackson Atlanta International Airport on the morning of Nov. 22, according to U.S. media reports."
+    },
+    {
+      "id": "5230777",
+      "time": "2026-11-23 05:05:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【肯亞與剛果（金）同意全面恢復外交關係】肯亞總統魯託與剛果（金）總統齊塞克迪22日在剛果（布）北部城市奧約舉行的四方峰會上達成共識，兩國同意透過恢復大使往來等措施推動全面恢復外交關係，加強經濟合作，共同維護地區和平與穩定。（新華社）"
+    },
+    {
+      "id": "mkt:01a20513-c570-7bbc-aca7-efa5790bdb4a",
+      "time": "2026-11-23 05:05:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Kenya and Democratic Republic of Congo agree to fully restore diplomatic ties】Kenyan President Ruto and Democratic Republic of Congo President Felix Tshisekedi agreed at a four-way summit in Oyo, northern Republic of Congo, on the 22nd to fully restore diplomatic ties, including through an exchange of ambassadors, boost economic cooperation and support regional peace and stability."
+    },
+    {
+      "id": "5230769",
+      "time": "2026-11-23 04:55:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空：用於起飛航班重量與平衡計算的自動化系統執行正常。"
+    },
+    {
+      "id": "mkt:01a20509-32c0-7bbc-aca7-e50f23af5fa5",
+      "time": "2026-11-23 04:53:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At least 21 civilians were killed and 18 wounded in an attack on a livestock camp in South Sudan’s Warrap State on the night of the 21st, local officials said. The dead included 15 women, children and elderly people."
+    },
+    {
+      "id": "5230767",
+      "time": "2026-11-23 04:53:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南蘇丹一牧場遭襲 致至少21人死亡】南蘇丹地方官員表示，該國瓦拉卜州一處牧場21日晚遭襲，造成至少21名平民死亡、18人受傷。死者包括15名婦女、兒童和老人。（央視新聞）"
+    },
+    {
+      "id": "5230762",
+      "time": "2026-11-23 04:47:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【探測器進入水星軌道，但出現故障】歷經八年飛行，歐日聯合探測器貝皮·科倫坡成功進入太陽系最小、最內側行星水星的軌道。不過歐洲空間局週日通報，探測器推進器出現異常。歐空局週六確認，貝皮·科倫坡已入軌。該局週日在社交平臺發文稱，探測器入軌操作整體成功，但機動過程中，“因軟體問題，推進器點火時長短於預設方案”。歐空局表示：“探測器狀態安全，歐洲空間操作中心的技術團隊正在排查故障原因，相關更新訊息將於週一釋出。”"
+    },
+    {
+      "id": "mkt:01a204f0-0167-7bbc-aca7-dcc1cdea77aa",
+      "time": "2026-11-23 04:26:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CENTCOM commander concludes Middle East visit】CENTCOM commander Cooper concluded a weeklong Middle East visit on Nov. 22, meeting senior civilian and military officials in Israel, Qatar and Saudi Arabia to discuss the security situation and further cooperation. He also met with some of the 50,000 U.S. troops deployed in the region."
+    },
+    {
+      "id": "5230745",
+      "time": "2026-11-23 04:25:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：上將布拉德·庫珀於11月22日結束為期一週的中東訪問。期間，他與以色列、卡達和沙烏地阿拉伯的高階文職及軍事領導人會晤，討論了當前安全環境及持續合作機遇。"
+    },
+    {
+      "id": "5230741",
+      "time": "2026-11-23 04:19:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI首席科學家呼籲業界限制模型開發 奧特曼表示贊同】OpenAI首席科學家Jakub Pachocki提議，人工智慧公司應同意對開發能力日益強大的模型設限，直到研究人員有更好的方法來理解和監控這些模型的行為。Pachocki呼籲制定全行業標準，為AI開發設定界限，各家公司應同意在滿足特定安全要求之前不突破這些界限。“我進一步提議，根據困惑度和其他衡量指標設定共同限制，開發者承諾在我們理解和監控AI行為的能力達到某個具體里程碑之前不突破這些限制，”Pachocki寫道。Pachocki所提議的限制可以部分上基於一種被稱為困惑度的技術指標，該指標衡量AI模型預測下一段文字的能力。Pachocki沒有說明初始限制應設在什麼水平，也沒有說明何時開始實施。Pachocki警告稱，最早到2027年，AI就可能加速自身進化，其速度可能超過研究人員提高監控和理解這項技術能力的速度。OpenAI執行長奧特曼對這一提議表示支援，稱Pachocki的文章是“OpenAI一段時間以來發布的最重要內容”。他在X上的一篇帖子中表示，就共同限制達成一致將有助於確保“安全和控制”。"
+    },
+    {
+      "id": "5230736",
+      "time": "2026-11-23 04:19:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆擬修改福利申領資格條件。"
+    },
+    {
+      "id": "5230735",
+      "time": "2026-11-23 04:18:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆擬削減殘疾人福利。"
+    },
+    {
+      "id": "mkt:01a204e6-8c5d-7bbc-aca7-d23c45686663",
+      "time": "2026-11-23 04:15:47",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "US10Y"
+      ],
+      "text": "Russia is assessing how to respond to the attack on a Russian warship in Benghazi and will respond, Russia’s ambassador to Libya said."
+    },
+    {
+      "id": "mkt:01a204e1-dcaf-7bbc-aca7-cd9694617172",
+      "time": "2026-11-23 04:10:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Russia’s ambassador to Libya said Kyiv was trying to open a combat front in distant waters and draw third parties into its actions. The remarks followed an attack on a Russian warship off eastern Libya."
+    },
+    {
+      "id": "5230713",
+      "time": "2026-11-23 03:56:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯的辦公室已聯絡埃爾-賽義德的辦公室，尋求會面。"
+    },
+    {
+      "id": "mkt:01a204c4-aaa5-7bbc-aca7-c1cd53d5b448",
+      "time": "2026-11-23 03:38:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia’s Foreign Ministry condemned an attack on a UN building in Sudan’s capital, Khartoum."
+    },
+    {
+      "id": "mkt:01a204bf-f902-7bbc-aca7-b8d3e107f4da",
+      "time": "2026-11-23 03:33:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【UK PM Burnham plans to exempt EU students from £1,000 levy】UK Prime Minister Burnham is expected to push for EU students to be exempt from a levy on international students, under which UK universities would pay £925 a year for each overseas student from 2028. The levy is expected to raise £400 mln annually, including revenue from EU students, to fund means-tested grants for disadvantaged students. If EU enrolments return to pre-Brexit levels, the exemption could cost the Treasury up to £150 mln a year. EU officials are also seeking equal tuition-fee treatment for EU students within six months of a UK-EU reset deal, which could cost the government up to £450 mln a year in compensation for universities."
+    },
+    {
+      "id": "mkt:01a204b7-d625-7bbc-aca7-b57584f11706",
+      "time": "2026-11-23 03:24:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Goldman traders see entry point in U.S. stocks but warn risks remain】Goldman Sachs' trading desk says last week's U.S. equity selloff created a buy-the-dip opportunity, but elevated overall positioning suggests broader investor capitulation needed for a strong rebound may not yet have occurred. The bank's volatility panic index jumped to 9.8 out of 10 on Friday, near historical extremes. Hedge funds have sharply cut risk, with Goldman prime brokerage data showing net selling in global equities for a third straight week. Short sales were 1.5 times long purchases, while weekly shorting in U.S. single stocks reached its highest level since June 2022. Net leverage at fundamental long/short funds fell to 42.3%, a one-year low. Goldman said hedge fund equity de-risking was “fairly complete” and the market was nearing a “tactical entry” point. Key headwinds remain: overall equity positioning is still elevated, the Fed is expected to keep raising rates, and the profitability of massive AI investment remains uncertain."
+    },
+    {
+      "id": "5230701",
+      "time": "2026-11-23 03:24:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆計劃豁免歐盟學生的1000英鎊新稅。"
+    },
+    {
+      "id": "mkt:01a204af-b10a-7bbc-aca7-acbd567c6043",
+      "time": "2026-11-23 03:15:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthis say Saudi-led coalition launched 81 attacks on Yemen】Yemen’s Houthi movement said late on the 22nd that the Saudi-led coalition carried out 81 air and missile strikes over the previous 24 hours in the capital Sanaa and the provinces of Al Jawf, Taiz, Saada, Marib, Lahij, Al Bayda and Hodeidah."
+    },
+    {
+      "id": "5230700",
+      "time": "2026-11-23 03:13:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝：沙特主導的聯軍對葉門發動81次襲擊】當地時間22日晚，葉門胡塞武裝發表宣告稱，過去24小時內，沙特主導的多國聯軍對葉門首都薩那以及焦夫省、塔伊茲省、薩達省、馬裡卜省、拉赫季省、拜達省和荷臺達省發動了81次空襲和導彈襲擊。（央視新聞）"
+    },
+    {
+      "id": "5230699",
+      "time": "2026-11-23 03:06:20",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【高盛交易團隊認為美股已出現入場視窗，但同時提示風險】高盛交易部門稱，上週股市拋售創造了不錯的美股買入機會。但該行警示，投資者整體倉位水平仍偏高，市場尚未出現一輪足以催生強勢反彈的大規模恐慌性拋盤。高盛波動率恐慌指數上週五升至9.8（滿分10），逼近歷史極值。對沖基金大幅削減股票敞口，該行主經紀商資料顯示，全球股票連續第三週被淨賣出。空頭賣出規模與多頭買入規模之比達到1.5:1，美股個股單週做空規模創下2022年6月以來新高。基本面多空策略基金的淨槓桿（衡量風險偏好指標）降至42.3%，為一年最低。高盛交易團隊在週日發給客戶的研報中寫道，對沖基金的股票減倉已經相當充分，市場接近一個“戰術性入場”點位。但幾大阻力依舊存在：全市場投資者整體倉位偏高、美聯儲大機率繼續加息，以及鉅額AI投資能否轉化為未來盈利仍存在不確定性。交易員在研報中表示：“總體來看，近期這種恐慌行情，歷來是開始增加風險敞口的好時機。但當前市場環境有兩點關鍵不同，也是我們收到很多質疑的地方。”"
+    },
+    {
+      "id": "mkt:01a204a4-428d-7bbc-aca7-a7058d6c7230",
+      "time": "2026-11-23 03:03:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Netanyahu reportedly weighs unilateral strike on Iran】Israeli sources said on the 22nd that caretaker Prime Minister Benjamin Netanyahu is considering striking Iran without U.S. approval. Israel’s Military Intelligence Directorate warned at a recent closed-door meeting that such a move could trigger simultaneous conflict on multiple fronts."
+    },
+    {
+      "id": "5230698",
+      "time": "2026-11-23 03:02:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【內塔尼亞胡被曝正考慮單獨對伊朗動武】當地時間22日，據以色列方面訊息，以色列看守政府總理內塔尼亞胡正考慮在未經美國批准的情況下單獨對伊朗發動襲擊。以軍軍事情報局在近日一場閉門會議中警告，此舉可能引發多條戰線同時爆發衝突。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a204a2-71ae-7bbc-aca7-9de42a0b6a1c",
+      "time": "2026-11-23 03:01:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX’s Falcon 9 rocket launched the NROL-136 mission from California’s Pad 4E, 32 hours after the USSF-317 launch, setting a record for the fastest turnaround between launches from the same pad."
+    },
+    {
+      "id": "5230697",
+      "time": "2026-11-23 02:59:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：獵鷹9號火箭搭載NROL-136任務從加州4E發射臺升空，距USSF-317任務發射僅32小時，創下同一發射臺兩次發射間的最快週轉紀錄。"
+    },
+    {
+      "id": "mkt:01a204a0-1b2d-7bbc-aca7-9669fb53019a",
+      "time": "2026-11-23 02:58:51",
+      "tags": [
+        "MKT News",
+        "ASH.O",
+        "Impact bullish"
+      ],
+      "text": "【Clariant and CD&R in talks to acquire Ashland】Swiss chemicals group Clariant and U.S. private equity firm CD&R are in talks to acquire chemical manufacturer Ashland, people familiar with the matter said. They are discussing an all-cash deal valuing Ashland near its share price at Friday’s close. A deal could be reached within days, though no final decision has been made, talks could collapse and other bidders may emerge."
+    },
     {
       "id": "mkt:01a20494-17c8-7bbc-aca7-8fe9b62ea2d3",
       "time": "2026-11-23 02:45:43",
@@ -81777,826 +82409,6 @@
         "WTI"
       ],
       "text": "【This week's events/data: NVIDIA earnings, ANTHROPIC listing; APEC summit and Fed speakers】Top themes: NVIDIA earnings (Tue US close), ANTHROPIC listing (Thu) and the FOMC minutes (Thu) are primary rate/liquidity catalysts; multiple Fed speeches and Eurozone/UK central bankers (LAGARDE, BAILEY) could shift policy pricing; APEC leaders’ meeting in Shenzhen (Nov 18–19) is the key regional political event. Monday: China releases Oct retail sales and industrial output, plus NBS monthly house-price report; NY Fed president Williams speaks. Tuesday: US Oct retail sales, import PPI and industrial production data are headline risk for growth/inflation and markets; UK and Germany ZEW; KEVIN WARSH opens a Fed productivity/employment forum; NVIDIA reports after US close; JD.com, Weibo and Walt Disney report. Wednesday: US housing starts/permits and weekly API/EIA oil stocks will drive energy and rates sentiment; BOE chief BAILEY and ECB chief LAGARDE speak; Tencent reports. Thursday: FOMC minutes released (market-moving for rate path); ANTHROPIC begins trading; US initial jobless claims and Philly Fed manufacturing; SWIFT publishes RMB global payments share for Oct (FX/liquidity relevance); Kuaishou, NetEase, Alibaba, PDD and Futu report; NVIDIA interim CEO holds all-staff meeting. Friday: Japan core CPI, UK GfK confidence, Germany PPI and US Michigan final consumer sentiment; China posts one-year LPR to Nov 20 (policy rate signal); Leapmotor reports. Operational notes: NYMEX Dec WTI rolls on Nov 21 — final pit trade 03:30 and final electronic trade 06:00 (platforms may have earlier expiries); South Korea equity trading hours shortened to 09:00–15:30 on Thu for national exams. Minor data/events omitted."
-    },
-    {
-      "id": "5216147",
-      "time": "2026-11-16 06:52:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普將中期選舉失利與奧巴馬、克林頓和里根作比較】美國總統特朗普在社交媒體上釋出圖表，將共和黨在中期選舉中的失利與巴拉克·奧巴馬、比爾·克林頓和羅納德·里根執政時期的中期選舉失利進行比較，在其任上共和黨在眾議院失去48個席位，在參議院失去8個席位，損失席位最少。"
-    },
-    {
-      "id": "mkt:01a1e162-396b-7bbc-abe8-cb57349ac5c2",
-      "time": "2026-11-16 06:44:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US media: Vance to delay 2028 decision until next year, may reveal intent in late spring】Axios, citing two sources, reports Vice President Vance will not make a final decision on a 2028 presidential bid before next year and could wait until late spring to announce his intent. Vance remains an early GOP frontrunner to succeed Trump, but the party’s midterm losses have complicated his prospects and could reshape the 2028 field. Sources say he has not decided and that his timetable was set before the midterms, though advisers warn the schedule could change. A person close to Vance says his inner circle believes he should run and that he is likely to do so."
-    },
-    {
-      "id": "mkt:01a1e15e-6928-7bbc-abe8-c71a9bfd1ed5",
-      "time": "2026-11-16 06:40:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios, citing two people familiar with the matter, reports Vice President Vance may wait until late spring 2027 to announce a 2028 US presidential bid."
-    },
-    {
-      "id": "5216133",
-      "time": "2026-11-16 06:36:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "北京先通醫藥：全球發售H股最高發售價為每股68港元。"
-    },
-    {
-      "id": "5216127",
-      "time": "2026-11-16 06:36:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：美聯儲的職責不是影響任何單一商品或服務的價格。"
-    },
-    {
-      "id": "5216118",
-      "time": "2026-11-16 06:33:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯可能要到明年春末才會公佈2028年的大選計劃。"
-    },
-    {
-      "id": "5216109",
-      "time": "2026-11-16 06:31:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伯納姆將在倫敦金融城發表講話，稱脫歐並未取得預期效果】英國首相伯納姆週一將在倫敦金融城對聽眾表示，脫歐並未奏效，必須尋求新協議，率先從本週晚些時候和歐盟的峰會著手。首相將按照慣例，在倫敦市長大宴上發表外交政策演講。他會提出，自2016年脫歐公投之後，形勢已經改變，英國應當和鄰近的民主國家建立更緊密的關係。根據提前披露的講稿內容，伯納姆預計會說：“我們拿到手的脫歐方案沒有成功。我們失去的比得到的更多。”"
-    },
-    {
-      "id": "5216094",
-      "time": "2026-11-16 06:28:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱向沙特利雅得發射彈道導彈】葉門胡塞武裝11月15日發表宣告稱，胡塞武裝當天使用彈道導彈打擊了沙特首都利雅得的哈立德國王國際機場和一座金融中心，另外還使用無人機襲擊了沙特東西向輸油管道的兩座泵站。胡塞武裝稱這次襲擊泵站行動成功實現了預定目標。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a1e150-aa61-7bbc-abe8-bce8d73ee821",
-      "time": "2026-11-16 06:25:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Musk says Starship 42 in good condition, could fly after weeks of refurbishment】Musk wrote on social media that he inspected Starship’s heat shield earlier on Sunday local time and found the heat shield and engines generally in very good condition. He estimated Starship 42 could be ready to fly again after a few weeks of refurbishment, but said achieving aircraft‑like immediate reuse — i.e., no repairs beyond planned maintenance — would require many small fixes."
-    },
-    {
-      "id": "5216071",
-      "time": "2026-11-16 06:22:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國目前在中央司令部轄區內有3個航母打擊群。"
-    },
-    {
-      "id": "5216069",
-      "time": "2026-11-16 06:22:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英偉達風波衝擊全球算力格局 基金研判AI投資新變數】從一封道歉信到官宣辭任，短短數日，英偉達創始人黃仁勳的個人風波已經演變為一場席捲全球AI產業鏈的巨震。多家基金及相關機構認為，此次風波衝擊的並非全球AI產業的長期需求，而是英偉達作為全球AI晶片龍頭的確定性溢價。隨著全球算力競爭格局加速重塑，產業鏈有望從“一枝獨秀”走向“百花齊放”，國產算力也有望迎來重估契機。（證券時報）"
-    },
-    {
-      "id": "mkt:01a1e14c-0c9c-7bbc-abe8-b1d2a46ed28b",
-      "time": "2026-11-16 06:20:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Axios reported a U.S. official said the U.S. Navy carrier Roosevelt arrived in CENTCOM's area early Sunday. The U.S. military now has three carrier strike groups operating in the CENTCOM region."
-    },
-    {
-      "id": "5216037",
-      "time": "2026-11-16 06:14:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三星將在美國生產SpaceX衛星晶片】三星電子將擴建位於得克薩斯州奧斯汀的晶片工廠，為馬斯克旗下太空企業SpaceX生產星鏈衛星搭載的STM32V8微控制器（MCU）。三星已經在得州佈局晶圓代工基地，如今在原有客戶（特斯拉、英偉達、AMD的AI晶片訂單）之外新增SpaceX衛星晶片業務，其美國業務版圖正快速拓展至航天與國防領域。"
-    },
-    {
-      "id": "5216026",
-      "time": "2026-11-16 06:12:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟銀行監管機構放棄單一存款保險計劃。"
-    },
-    {
-      "id": "mkt:01a1e143-3bf2-7bbc-abe8-ac57971a92f6",
-      "time": "2026-11-16 06:10:42",
-      "tags": [
-        "MKT News",
-        "DXY"
-      ],
-      "text": "In early FX trading, the dollar index (DXY) slipped 0.04% to 103.37."
-    },
-    {
-      "id": "mkt:01a1e141-2bd4-7bbc-abe8-a2bb38e96692",
-      "time": "2026-11-16 06:08:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish",
-        "SPCX.O"
-      ],
-      "text": "South Korea's Seoul Economic Daily reports Samsung Electronics will produce satellite chips in the United States for SpaceX (SPCX.O)."
-    },
-    {
-      "id": "5216002",
-      "time": "2026-11-16 06:05:25",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "三星將在美國為SpaceX生產衛星晶片。"
-    },
-    {
-      "id": "5215993",
-      "time": "2026-11-16 06:03:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯選手米拉·安德烈耶娃擊敗烏克蘭選手埃琳娜·斯維託麗娜，奪得WTA年終總決賽冠軍。"
-    },
-    {
-      "id": "5215968",
-      "time": "2026-11-16 06:01:06",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將H股評級上調至超配，A股降至平配。"
-    },
-    {
-      "id": "mkt:01a1e139-f448-7bbc-abe8-9bb2380deecd",
-      "time": "2026-11-16 06:00:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【CME FedWatch: 95% chance of 25bp Fed hike in December】CME FedWatch shows a 95% probability the Federal Reserve will raise rates by 25bp in December and a 5% probability of a 50bp move. By January, probabilities are 25.2% for cumulative 25bp, 71.1% for cumulative 50bp and 3.7% for cumulative 75bp."
-    },
-    {
-      "id": "5215967",
-      "time": "2026-11-16 06:00:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "據CME“美聯儲觀察”：美聯儲12月加息25個基點的機率為95%。"
-    },
-    {
-      "id": "5215934",
-      "time": "2026-11-16 05:54:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SK海力士暗盤漲超1%，現報130.935美元。"
-    },
-    {
-      "id": "mkt:01a1e12f-e423-7bbc-abe8-976632c484a3",
-      "time": "2026-11-16 05:49:34",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【New Zealand services PSI expands fifth month, hits 3.5-year high】New Zealand's October services performance index (PSI) rose to 51.7 from 50.9, the highest since mid-2023 and the fifth consecutive month of expansion, driven by new orders and sales. The employment subindex fell to 49.9, the only component below the 50 expansion threshold. The print signals a broadening recovery and provides modest support to the New Zealand dollar by easing pressure on the RBNZ to add further policy support; however, flat employment and ongoing cost-of-living pressures indicate spare capacity persists. Traders are likely to view the data as confidence-boosting rather than a regime shift and will watch upcoming releases to see if consumption suppressed during the election begins to re-emerge."
-    },
-    {
-      "id": "5215897",
-      "time": "2026-11-16 05:46:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "AMD暗盤漲超1%，現報526.295美元。"
-    },
-    {
-      "id": "mkt:01a1e121-accf-7bbc-abe8-8faf6ab3a3dc",
-      "time": "2026-11-16 05:34:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand services performance index 51.7 in October, prior 50.9."
-    },
-    {
-      "id": "mkt:01a1e121-8d43-7bbc-abe8-85608520a38a",
-      "time": "2026-11-16 05:33:54",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Performance of Services Index (Oct) | actual 51.7 | previous 50.9"
-    },
-    {
-      "id": "5215876",
-      "time": "2026-11-16 05:31:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "問：伊朗沒有襲擊巴基斯坦，但中東其他國家遭到了襲擊。這是否說明有必要就美軍不在該地區設基地展開討論？\n\n卡達首相：阿曼遭到了襲擊，而阿曼沒有美國軍事基地。"
-    },
-    {
-      "id": "5215875",
-      "time": "2026-11-16 05:30:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭10月服務業PSI升至51.7。"
-    },
-    {
-      "id": "mkt:01a1e11c-2e5d-7bbc-abe8-7d8502cb2dd1",
-      "time": "2026-11-16 05:28:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "European Commission President Von der Leyen says the European Commission is committed to providing maximum support to Ukraine."
-    },
-    {
-      "id": "mkt:01a1e11c-14f9-7bbc-abe8-73376e3d1f4d",
-      "time": "2026-11-16 05:27:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Commission President von der Leyen said the EU will participate in Russia-Ukraine talks."
-    },
-    {
-      "id": "mkt:01a1e11c-1083-7bbc-abe8-6fbc5c3a42c0",
-      "time": "2026-11-16 05:27:55",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Pictet raises Japan equity weighting after US midterms to diversify】Pictet Asset Management has increased Japan equity exposure in its multi‑asset portfolios after the US midterm elections, lifting the Japan weight in its dynamic allocation fund to about 10% from roughly 8%. The firm says a decisive Democratic result could slow AI-driven growth and broaden the appeal of non-AI sectors, while lower oil prices relieve pressure on resource-poor economies such as Japan. Pictet has also added Japanese bank stocks, citing a steep, stable yield curve and wider loan margins from higher rates; the TOPIX Banks Index is up nearly 40% YTD versus a c.16% gain for TOPIX. The firm adds that weaker AI capex would lengthen the cycle and reduce the need for speculative AI allocations."
-    },
-    {
-      "id": "5215874",
-      "time": "2026-11-16 05:27:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞零售商Coles表示，正在調查一起網路安全事件，沒有客戶或供應商資料遭到洩露。"
-    },
-    {
-      "id": "mkt:01a1e117-3d74-7bbc-abe8-62ed10886d30",
-      "time": "2026-11-16 05:22:38",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "【ULA Vulcan fails to place Amazon's 40 LEO broadband satellites into planned orbit】United Launch Alliance said its Vulcan rocket, on its first mission for Amazon’s low Earth orbit broadband deployment, launched from Cape Canaveral Space Force Station at about 12:40 ET (01:40 Beijing time) but experienced an anomaly roughly 10 minutes after liftoff and did not deliver the 40 satellites to their planned orbit. No cause has been reported."
-    },
-    {
-      "id": "mkt:01a1e114-4d98-7bbc-abe8-5c4d2b3d9415",
-      "time": "2026-11-16 05:19:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli security cabinet reconvenes after six-week recess to focus on West Bank security】According to the Jerusalem Post, Israel’s security cabinet met on Sunday for the first time since early October, holding a three-hour session. Officials flagged concern the West Bank security situation could escalate; the IDF has prepared plans for a scenario in which Palestinian Authority security personnel turn their weapons against IDF troops and Israeli communities. Those plans were drafted by IDF Central Command and were due to be submitted to the cabinet in early October but were delayed by agenda changes."
-    },
-    {
-      "id": "5215873",
-      "time": "2026-11-16 05:19:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美“火神”火箭未能將亞馬遜衛星送入預定軌道】美國聯合發射聯盟公司的“火神”運載火箭15日首次執行亞馬遜低地軌道衛星發射任務，但升空約10分鐘後出現異常，未能將搭載的40顆寬頻通訊衛星送入預定軌道。據聯合發射聯盟公司介紹，“火神”運載火箭於美國東部時間當天12時40分許（北京時間16日1時40分許）從佛羅里達州卡納維拉爾角太空軍基地發射升空。此後，該公司發射負責人根據飛行資料確認，火箭在發射升空約10分鐘後出現異常，未能將亞馬遜衛星送入低地軌道。目前尚無具體資料判斷事故原因。（新華社）"
-    },
-    {
-      "id": "5215872",
-      "time": "2026-11-16 05:17:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "墨西哥瓜達拉哈拉販毒集團創始人米格爾·安赫爾·費利克斯·加利亞多去世，終年80歲。"
-    },
-    {
-      "id": "5215871",
-      "time": "2026-11-16 05:17:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱一艘油輪在霍爾木茲海峽以東觸雷起火】當地時間15日晚，伊朗軍隊海軍表示，稍早前，一艘油輪在霍爾木茲海峽以東觸雷，隨後起火。該油輪當時正航行於霍爾木茲海峽以東的一處限制區域內，且其導航系統處於關閉狀態。（央視新聞）"
-    },
-    {
-      "id": "5215870",
-      "time": "2026-11-16 05:13:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家運輸安全委員會：新奧爾良撞船事故油輪曾報告轉向系統故障。"
-    },
-    {
-      "id": "mkt:01a1e10e-19cc-7bbc-abe8-574d23609e8c",
-      "time": "2026-11-16 05:12:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NTSB: oil tanker involved in New Orleans collision experienced a \"steering failure\"; vessel's steering system had faults."
-    },
-    {
-      "id": "5215869",
-      "time": "2026-11-16 05:06:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國極右翼總統候選人勒龐：法國在世界上的聲音和影響力似乎有所削弱。放眼當今世界，我們感覺一切都在崩塌。一切都需要重建。"
-    },
-    {
-      "id": "5215868",
-      "time": "2026-11-16 05:06:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴林：由於伊朗支援的胡塞武裝發動武裝襲擊的威脅上升，以及伊朗試圖針對該地區美國政府官員和設施，在巴林的美國人應提高警惕。請留意潛在警報、航班取消、空域關閉和出行中斷。"
-    },
-    {
-      "id": "5215867",
-      "time": "2026-11-16 05:01:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：我們正在準備對現有支援烏克蘭的聯盟工作進行審查，評估哪些聯盟真正履行了任務，哪些仍是空殼。"
-    },
-    {
-      "id": "mkt:01a1e104-0b70-7bbc-abe8-4c865db94463",
-      "time": "2026-11-16 05:01:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Institutions: Markets eye Fed officials' speeches and October minutes for next rate cues】With U.S. data light this week, traders are focused on Federal Reserve officials' speeches and the October FOMC minutes for signals on the policy path. Priya Misra, portfolio manager at JP Morgan Asset Management, said officials' remarks and the minutes are now key to gauging the Fed's reaction function and the urgency of further hikes after Fed Governor Waller floated the possibility of a large increase. Misra added most investors view Waller as a minority voice and do not expect many more hikes even among hawks, but warned that if markets judge the Fed to be lagging, volatility could rise in coming days. Waller's earlier suggestion that a 50bp hike is possible amid recent inflation trends triggered a bond-market selloff."
-    },
-    {
-      "id": "5215866",
-      "time": "2026-11-16 04:48:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤金價突破3850美元/盎司，日內漲幅1%。"
-    },
-    {
-      "id": "5215865",
-      "time": "2026-11-16 04:47:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：英國納稅人將補貼工資以幫助企業招聘年輕人。"
-    },
-    {
-      "id": "5215864",
-      "time": "2026-11-16 04:43:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：10月，俄羅斯傷亡人數超過5萬，包括陣亡和受傷。11月的數字也必須保持同樣高的水平。"
-    },
-    {
-      "id": "5215863",
-      "time": "2026-11-16 04:35:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "知情人士透露，特朗普政府已指示美國軍方研究對一名高階將領提起刑事訴訟。五角大樓政治領導層指控該將領向記者提供了敏感資訊。"
-    },
-    {
-      "id": "mkt:01a1e0e5-2f1f-7bbc-abe8-422f7f6bc4e5",
-      "time": "2026-11-16 04:27:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. State Department issues travel advisory for Bahrain】The U.S. State Department's Bureau of Consular Affairs advised U.S. citizens in Bahrain to exercise increased caution amid rising armed-attack threats from Yemen-based Houthi militants and Iranian efforts to target U.S. government personnel and facilities in the region. The advisory warns of possible security alerts, flight cancellations, airspace closures and other travel disruptions."
-    },
-    {
-      "id": "mkt:01a1e0e2-3f11-7bbc-abe8-39305eeac896",
-      "time": "2026-11-16 04:24:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bearish"
-      ],
-      "text": "United Launch Alliance's \"Vulcan\" rocket failed shortly after launch, destroying 40 Amazon (AMZN.O) low‑Earth‑orbit internet satellites."
-    },
-    {
-      "id": "mkt:01a1e0e0-364f-7bbc-abe8-3239403e57ab",
-      "time": "2026-11-16 04:22:32",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "IRGC Navy public relations said several hours earlier a tanker transiting the eastern Strait of Hormuz in violation of a restricted zone struck a mine and caught fire. The vessel had turned off its navigation systems."
-    },
-    {
-      "id": "5215862",
-      "time": "2026-11-16 04:21:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：一艘違反規定的油輪不久前在霍爾木茲海峽以東海域觸雷起火。該油輪當時關閉了導航系統，正航行於海峽以東的受限區域。"
-    },
-    {
-      "id": "mkt:01a1e0dd-b9fb-7bbc-abe8-2d76647e9d5f",
-      "time": "2026-11-16 04:19:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia envoy says IAEA politicizing Iran nuclear issue】Russia's permanent representative to international organizations in Vienna, Mikhail Ulyanov, told Kommersant on Sunday that the IAEA is losing its status as an impartial organization due to politicized handling of Iran's nuclear program. He said the IAEA safeguards system remains a relatively effective mechanism but is increasingly used by Western governments as a tool to pressure states, which erodes the technical basis of safeguards and undermines impartiality."
-    },
-    {
-      "id": "5215861",
-      "time": "2026-11-16 04:10:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約原油暗盤突破87美元，日內漲超1%。"
-    },
-    {
-      "id": "mkt:01a1e0d4-bb23-7bbc-abe8-20b8942fea4e",
-      "time": "2026-11-16 04:10:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran foreign minister responds to Rubio remark 'Don't cite law to one who holds the sword'】US Secretary of State Rubio on Friday attacked the International Criminal Court and warned it not to try to impose laws Washington does not recognise on Americans, citing the Roman leader Pompey: 'Don't cite the law to one who holds the sword.' Iranian foreign minister Araghchi replied on social media, saying the phrase came from a Roman general who suffered a crushing defeat in his final campaign and was later beheaded, and adding: 'Those who cannot remember history are condemned to repeat it.'"
-    },
-    {
-      "id": "5215860",
-      "time": "2026-11-16 03:57:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國土安全部長：無人機是我們最大的擔憂，伊朗的威脅持續存在。"
-    },
-    {
-      "id": "5215859",
-      "time": "2026-11-16 03:57:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部發言人表示，如果愛沙尼亞真的打算關閉邊境，這是又一輪“恐俄症”。"
-    },
-    {
-      "id": "5215858",
-      "time": "2026-11-16 03:54:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美光暗盤漲超1%，現報765.955美元。"
-    },
-    {
-      "id": "mkt:01a1e0c3-fe1f-7bbc-abe8-1bf5038dd1da",
-      "time": "2026-11-16 03:51:43",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "A Russian Foreign Ministry spokesman said if Estonia does intend to close the border, that would be another outbreak of 'Russophobia'."
-    },
-    {
-      "id": "mkt:01a1e0c0-aaa1-7bbc-abe8-106f8ec078fd",
-      "time": "2026-11-16 03:48:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukrainian President Zelenskiy said Russian casualties in October, including killed and wounded, exceeded 50,000. He said Ukraine has disabled more than 55% of Russia's oil refining capacity to date."
-    },
-    {
-      "id": "5215857",
-      "time": "2026-11-16 03:45:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：已使俄羅斯超過55%的煉油產能癱瘓。"
-    },
-    {
-      "id": "5215856",
-      "time": "2026-11-16 03:44:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：我認為當前利率並不具有限制性。"
-    },
-    {
-      "id": "mkt:01a1e0b4-9f7a-7bbc-abe8-0c84dfe30689",
-      "time": "2026-11-16 03:34:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US Homeland Security secretary says prepared to respond to Iranian assassination threats against Trump】US Secretary of Homeland Security Mark Wayne Marlin told Fox News the United States is fully prepared to respond to Iranian threats to assassinate President Trump and members of his cabinet. He said agencies will treat every threat \"seriously\" to ensure the safety of Trump, his family and the public."
-    },
-    {
-      "id": "5215855",
-      "time": "2026-11-16 03:32:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "奧克蘭機場10月旅客總量同比持平。"
-    },
-    {
-      "id": "mkt:01a1e0ac-2030-7bbc-abe8-06144fa4429a",
-      "time": "2026-11-16 03:25:39",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Australia, Canada, Italy and the UK said in a joint statement the humanitarian situation in the Gaza Strip is dire and urged Israel to stop delaying and immediately allow humanitarian aid rapid, unhindered access across the entire territory."
-    },
-    {
-      "id": "5215854",
-      "time": "2026-11-16 03:24:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "澳大利亞、加拿大、義大利和英國在聯合宣告中表示，加沙當地的人道主義局勢十分嚴峻，簽署方敦促以色列停止拖延，允許在整個加沙地帶立即、迅速和不受阻礙地提供人道主義援助。"
-    },
-    {
-      "id": "mkt:01a1e0a8-acdb-7bbc-abe7-f876cd42eec2",
-      "time": "2026-11-16 03:21:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran deputy foreign minister Karibabadi said the IAEA's request to inspect Iran's damaged nuclear facilities may be intended to assess the actual strike effectiveness of US weapons. He said Iran will not permit IAEA access to those sites until Iran's conditions are met and the war has permanently ended."
-    },
-    {
-      "id": "mkt:01a1e0a4-8ea5-7bbc-abe7-f105cb7bba00",
-      "time": "2026-11-16 03:17:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran deputy foreign minister says US sea and air blockade has failed】Iran's deputy foreign minister told Press TV that the US has proven untrustworthy and has not implemented conditions Iran set, making a deal impossible under current circumstances. He said US military attempts have failed and that Washington's sea and air blockade of Iran has failed. Iran's armed forces are prepared to respond to any military aggression, and it is not possible to wage a war and expect the consequences to fall solely on Iran."
-    },
-    {
-      "id": "mkt:01a1e0a0-495b-7bbc-abe7-efdcbb6d2b43",
-      "time": "2026-11-16 03:12:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) rose more than 3% in after-hours trading to $165.17."
-    },
-    {
-      "id": "5215853",
-      "time": "2026-11-16 03:11:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "英偉達暗盤漲超3%，現報165.1674美元。"
-    },
-    {
-      "id": "mkt:01a1e09e-bacd-7bbc-abe7-e7af18a5ee21",
-      "time": "2026-11-16 03:11:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact mixed"
-      ],
-      "text": "【FT: Jensen Huang weighing return as NVIDIA CEO; allies forming Silicon Valley 'war room' to lobby White House】The Financial Times reports Jensen Huang is considering returning as CEO of NVIDIA (NVDA.O). Multiple sources say Huang has discussed the possibility with close associates. Allies are assembling a Silicon Valley \"war room\" of tech executives to lobby for his reinstatement and to seek White House support."
-    },
-    {
-      "id": "5215852",
-      "time": "2026-11-16 03:10:28",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗媒體：格什姆島已啟動防空系統。"
-    },
-    {
-      "id": "5215851",
-      "time": "2026-11-16 03:09:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞典中間黨選擇與社民黨進行談判。"
-    },
-    {
-      "id": "5215850",
-      "time": "2026-11-16 03:07:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長加里巴巴迪：美國已表明其不可信。美國未落實伊朗的部分條件，在此情況下無法達成協議。美國已嘗試軍事選項，但以失敗告終。"
-    },
-    {
-      "id": "5215849",
-      "time": "2026-11-16 03:04:35",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "市場資訊：黃仁勳與盟友討論重返英偉達擔任CEO事宜。"
-    },
-    {
-      "id": "5215848",
-      "time": "2026-11-16 03:01:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "NEXTCHEM將以2.2億美元收購Chart Industries的IPSMR液化天然氣技術。"
-    },
-    {
-      "id": "5215847",
-      "time": "2026-11-16 03:00:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【ULA火神火箭飛行中途失敗，亞馬遜Leo衛星丟失】聯合發射聯盟的火神火箭週日發射升空，但因遭遇一處未說明的問題，未能將亞馬遜公司的衛星送入軌道。這枚火箭由波音公司與洛克希德·馬丁公司合資企業製造，週日本地時間下午12時40分從佛羅里達州卡納維拉爾角升空。這是該火箭九個月來的首次飛行，對這艘飽受延期與技術故障困擾的運載工具而言，是一次期待已久的復飛。"
-    },
-    {
-      "id": "mkt:01a1e094-6719-7bbc-abe7-dc350f645d12",
-      "time": "2026-11-16 02:59:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Zelenskiy says since early September Dnipropetrovsk Oblast has recorded the most attacks and strikes, totaling 131; Kyiv Oblast 125; Zhytomyr and Sumy Oblasts each exceeded 100."
-    },
-    {
-      "id": "mkt:01a1e094-26e1-7bbc-abe7-d6ceb3dae532",
-      "time": "2026-11-16 02:59:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said that following Russian strikes the situation in Zaporizhzhia and Dnipropetrovsk oblasts is severe; widespread power outages have occurred and repair work remains underway."
-    },
-    {
-      "id": "mkt:01a1e093-5b91-7bbc-abe7-cfd9630c0076",
-      "time": "2026-11-16 02:58:35",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran deputy foreign minister says US response to Iran's conditions lacks enforceability】Iranian media quoted the deputy foreign minister saying the US response to Iran's conditions lacks enforceability, noting Washington has delayed implementation of some demands and that reduces the likelihood of an agreement. He warned the US may be using negotiations to buy time and to create conditions for an attack, and said Washington must provide guarantees that all Iranian conditions will be implemented."
-    },
-    {
-      "id": "mkt:01a1e091-bd19-7bbc-abe7-c729e18a41d4",
-      "time": "2026-11-16 02:56:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market news: Iran's foreign minister arrives in Pakistan."
-    },
-    {
-      "id": "5215846",
-      "time": "2026-11-16 02:56:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長抵達巴基斯坦。"
-    },
-    {
-      "id": "mkt:01a1e08e-0b69-7bbc-abe7-b9016dcb2a80",
-      "time": "2026-11-16 02:52:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi-led coalition spokesperson said the coalition again intercepted and destroyed a drone over Saudi Arabia's Medina region."
-    },
-    {
-      "id": "5215845",
-      "time": "2026-11-16 02:52:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特領導的聯軍：在麥地那地區攔截並摧毀了又一架無人機。"
-    },
-    {
-      "id": "mkt:01a1e08c-fc2a-7bbc-abe7-b344118bb9d6",
-      "time": "2026-11-16 02:51:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's foreign minister urged greater pressure on the Russian regime to compel Putin to take peace efforts seriously and end Russia's aggression against Ukraine."
-    },
-    {
-      "id": "mkt:01a1e08c-8a65-7bbc-abe7-a81eb3309db7",
-      "time": "2026-11-16 02:51:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli outlet: US not planning immediate military action against Iran】Israeli i24News sources say Washington is not planning a new round of airstrikes on Iran in the immediate term despite Israeli pressure. Mossad chief Gofman briefed senior US officials in Washington on Iran’s recent military build-up. Sources add the decision rests with President Trump; an attack is not on the agenda in the very near term but could change. Israeli sources say domestic Israeli politics have not shifted Trump’s calculus; he is weighing whether further action would deliver decisive results after two prior rounds and the political timing before the new US Congress convenes in January."
-    },
-    {
-      "id": "5215841",
-      "time": "2026-11-16 02:50:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆關於青年就業：將考慮工黨政治家約翰·米爾本關於青年與工作的建議，將在未來幾周內做出全面回應。"
-    },
-    {
-      "id": "5215839",
-      "time": "2026-11-16 02:48:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "ULA表示目前尚無具體資料以查明失敗的原因。"
-    },
-    {
-      "id": "5215838",
-      "time": "2026-11-16 02:48:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤金價（人民幣）日內漲超1%，現報823.9112元/克。"
-    },
-    {
-      "id": "5215837",
-      "time": "2026-11-16 02:48:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤金價日內漲超1%，現報3840.56美元/盎司。"
     }
   ]
 }
