@@ -1,7 +1,23 @@
 {
   "date": "2026-11-22",
-  "count": 471,
+  "count": 473,
   "items": [
+    {
+      "id": "mkt:01a202ee-0c6c-7bbc-aca4-904d63d13b46",
+      "time": "2026-11-22 19:04:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar with the matter said banks privately complained that ANTHROPIC’s IPO was affected by 11th-hour changes, rushed approvals and unusually high concerns about information leaks."
+    },
+    {
+      "id": "5230429",
+      "time": "2026-11-22 19:01:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟及成員國反對安塔利亞氣候協定】歐盟代表團釋出宣告表示，歐盟代表團對最終的COP31宣告決定草案深感失望，我們不會支援一項甚至沒有提及化石燃料的總體決定。我們不會接受一場為化石燃料進行“漂綠”的聯合國氣候變化大會，提交給我們的草案根本沒有解決我們面臨的氣候緊急狀況。"
+    },
     {
       "id": "5230428",
       "time": "2026-11-22 18:53:45",
