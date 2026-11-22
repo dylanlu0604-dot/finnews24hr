@@ -1,7 +1,60 @@
 {
-  "updated": "2026-11-23 01:35:31",
-  "count": 9272,
+  "updated": "2026-11-23 01:39:22",
+  "count": 9278,
   "items": [
+    {
+      "id": "mkt:01a20456-c935-7bbc-aca7-41eb8b4af138",
+      "time": "2026-11-23 01:38:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump: Iranians keep talking, but they are good at making excuses and evading."
+    },
+    {
+      "id": "5230650",
+      "time": "2026-11-23 01:38:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗人總是說個不停，但很擅長迴避和搪塞。"
+    },
+    {
+      "id": "mkt:01a20455-c777-7bbc-aca7-3e68490d67e5",
+      "time": "2026-11-23 01:37:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reported that Trump said indirect talks with Iran are ongoing but have yielded no tangible results."
+    },
+    {
+      "id": "5230649",
+      "time": "2026-11-23 01:37:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗的間接對話仍在進行，但尚未取得實際成果。"
+    },
+    {
+      "id": "5230648",
+      "time": "2026-11-23 01:36:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：美國應開火打擊試探封鎖的伊朗船隻。"
+    },
+    {
+      "id": "mkt:01a20453-36fe-7bbc-aca7-37f992f813ae",
+      "time": "2026-11-23 01:34:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fox News reports that President Trump is inclined to resume strikes on Iran after the New Year if no deal is reached."
+    },
     {
       "id": "5230647",
       "time": "2026-11-23 01:34:25",
