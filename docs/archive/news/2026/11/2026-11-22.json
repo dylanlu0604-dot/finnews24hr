@@ -1,7 +1,31 @@
 {
   "date": "2026-11-22",
-  "count": 453,
+  "count": 455,
   "items": [
+    {
+      "id": "5230418",
+      "time": "2026-11-22 18:32:39",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【滬深北交易所調整融資保證金比例】2026年11月22日，經中國證監會批准，滬深北交易所釋出通知調整融資保證金比例，將投資者融資買入證券的最低保證金比例由100%調低至80%，相關規則調整自2026年11月30日起施行。"
+    },
+    {
+      "id": "mkt:01a202d0-9537-7bbc-aca4-5dcae1ded85d",
+      "time": "2026-11-22 18:32:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Shanghai, Shenzhen and Beijing stock exchanges cut margin requirement】Approved by the CSRC on Nov. 22, 2026, the Shanghai, Shenzhen and Beijing stock exchanges lowered the minimum margin ratio for securities purchases financed through margin trading to 80% from 100%, effective Nov. 30, 2026."
+    },
     {
       "id": "5230417",
       "time": "2026-11-22 18:27:48",
