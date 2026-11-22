@@ -1,7 +1,477 @@
 {
   "date": "2026-11-22",
-  "count": 180,
+  "count": 233,
   "items": [
+    {
+      "id": "5230253",
+      "time": "2026-11-22 10:15:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：SpaceX在20年內送入軌道的有效載荷質量已超過美國自1957年以來其餘所有發射的總和。"
+    },
+    {
+      "id": "5230252",
+      "time": "2026-11-22 10:14:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞反對黨呼籲修改天然氣保供方案】澳大利亞反對黨聯盟在本週法案投票前，對政府要求液化天然氣出口商增加國內供氣的計劃提出更多顧慮。政府方案擬從 2028 年起，強制 LNG 出口商預留最高 20% 的供應量供給本土市場，保障澳大利亞國內用氣。政府週六表示相關談判仍在推進。影子資源與北澳事務部長蘇珊・麥克唐納週日稱，她擔憂該國內天然氣預留機制賦予部長過大的干預許可權。“法案不能帶有主觀彈性，條文應當清晰、透明，尤其是政策要鼓勵數十億美元規模的礦產資源開發投資。”麥克唐納同時提出，法案在對等責任、西澳豁免條款、市場供應過剩等方面存在疑點。她表示：“一旦政策設計失當，對澳洲南部本土企業而言風險極高。”油氣行業強烈反對這項改革的核心條款，包括強制出口商低於成本銷售天然氣；而工會與部分商業團體則支援該方案。"
+    },
+    {
+      "id": "5230251",
+      "time": "2026-11-22 10:14:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年腦機介面創新發展研究報告發布 昌平加速邁向全球腦機介面創新高地】11月21日，以“腦智芯聯 機遇昌平”為主題的2026腦機介面大會在昌平石油科技交流中心開幕。開幕式上，《2026年腦機介面創新發展研究報告》正式釋出。報告從技術定義、系統架構、產業態勢、趨勢預測四個層面，系統梳理了全球腦機介面技術與產業的最新進展。報告描繪的產業圖景，與昌平的產業佈局正相互印證。(北京釋出)"
+    },
+    {
+      "id": "mkt:01a20106-d95b-7bbc-aca2-8ad4d38c9bb3",
+      "time": "2026-11-22 10:12:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【South Korea aims to finalize regional growth-engine support plan by year-end】South Korea aims to finalize a plan by year-end to develop regional growth industries, including semiconductors, batteries and robotics, YONHAP reported. The Ministry of Trade, Industry and Energy will discuss the “5 hubs, 3 special regions” initiative on the 23rd-24th. The plan is expected to specify fiscal, financial, tax, talent, R&D and infrastructure support for investment by anchor companies, alongside regulatory exemptions and institutional reforms."
+    },
+    {
+      "id": "5230250",
+      "time": "2026-11-22 10:09:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平安證券鍾正生：中國製造業競爭優勢，正在轉化為上市公司經營成果】近日，平安證券首席經濟學家鍾正生在接受記者採訪時認為，觀察中國股市的中長期投資價值，需要更加重視實體經濟正在發生的積極變化。從製造業競爭力來看，鍾正生指出，中國製造業全球競爭優勢不斷增強，產業鏈配套和價值創造能力更加突出。資料顯示，中國製造業增加值連續16年位居全球第一，競爭優勢逐步從傳統消費品向中間品、資本品等生產環節拓展。根據OECD資料，2024年中國製造業中間品貿易順差達到4797億美元，消費品和資本品順差分別達到6832億美元、3948億美元。在他看來，製造業競爭優勢逐步轉化為上市公司經營成果，企業出海與全球產業鏈擴張帶來新的增長空間。鍾正生談道，“我國在鞏固傳統制造優勢的同時，先進裝備、關鍵材料和高技術產品的競爭力不斷提高，產業升級為企業發展創造了更廣闊的空間。”經濟新動能延續較快增長，也為資本市場培育更多優質投資標的。據鍾正生統計，2026年前三季度，以高階製造、數字經濟、現代服務等為代表的新動能對中國經濟增長的貢獻率保持在40%以上。10月高技術製造業增加值同比增長17.6%，創近五年單月最高增速。前10月智慧財產權產品投資增長9.2%，體現出企業創新投入的韌性。展望未來，鍾正生表示，中國產業向新向優將進一步拓展中國股市的投資機遇，提升人民幣資產的配置價值。(券商中國)"
+    },
+    {
+      "id": "5230249",
+      "time": "2026-11-22 10:09:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美情報主管收到警告：若不解釋烏克蘭星盾限速問題，國會將凍結 SpaceX相關資金】一名國會民主黨資深議員警告，如果特朗普政府與馬斯克拒絕披露是誰下令對烏克蘭軍用星盾衛星服務限速，議員將扣留馬斯克旗下 SpaceX 所研發系統的政府撥款。即將在明年 1 月出任眾議院情報委員會主席的民主黨議員吉姆・海姆斯，向國家情報總監傑伊・克萊頓傳送一份密件。相關媒體拿到密件節選，海姆斯要求釐清近數月烏克蘭星盾連線多次被限速的緣由。他在寫給克萊頓的信中表示：“簡單來說，如果政府無法完全掌控這套系統，本委員會就不能為其研發專案撥款。我需要你協助推動資訊透明，這樣我們才有信心繼續審批 SpaceX 作為主要供應商的相關專案資金。”越來越多民主黨議員表態要調查烏克蘭星盾系統的限制措施，烏克蘭國防高度依賴該系統。"
+    },
+    {
+      "id": "mkt:01a20100-2141-7bbc-aca2-83e374efd69d",
+      "time": "2026-11-22 10:05:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranian strike on U.S. base raises tensions】Iran’s Nov. 21 strike on a U.S. military base in Bahrain escalated tensions with Washington. Several tankers have recently struck mines and caught fire in the Strait of Hormuz, while Iran says it has downed dozens of U.S. drones since the 40-day U.S.-Israeli-Iranian war. Qatar, Oman and other Gulf states can help ease tensions but cannot secure a U.S. sanctions lift or guarantee Iranian concessions, Iranian commentary says, urging both sides to reassess their goals amid the current neither-war-nor-peace standoff."
+    },
+    {
+      "id": "mkt:01a200ff-8887-7bbc-aca2-7c40fc9ca2cd",
+      "time": "2026-11-22 10:04:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【AI tools fuel 'solo entrepreneur' gold rush; Anthropic IPO may accelerate trend】Novo founder Michael Rangel told Fox News that AI tools are set to trigger a gold rush for entrepreneurs and small businesses. Anthropic's landmark IPO could accelerate the trend, with a surge in businesses run by founders without employees. Rangel said the opportunity remains underrecognized in the U.S."
+    },
+    {
+      "id": "5230248",
+      "time": "2026-11-22 10:01:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：義大利前國家警察總長被發現在住所死亡，梅洛尼發聲】綜合美聯社等媒體當地時間21日報道，義大利前國家警察總長詹尼·德·傑納羅被發現在住所死亡。據美聯社報道，詹尼·德·傑納羅本週被發現在位於義大利托斯卡納地區的住所死亡，有關部門正在調查具體情況。對於詹尼·德·傑納羅死亡，義大利總理梅洛尼21日在一份宣告中回應稱，她“深感震驚”。（環球網）"
+    },
+    {
+      "id": "5230247",
+      "time": "2026-11-22 09:56:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗打擊美基地博弈再度升溫】據總檯駐伊朗記者觀察，隨著伊朗當地時間11月21日晚對巴林境內美軍基地實施打擊，伊美博弈再度升溫，危機走向牽動中東全域性。一段時間以來，已經有多艘油輪在霍爾木茲海峽發生觸雷起火，此外據伊朗統計，自美以伊40天戰爭後，伊朗已經陸續擊落了數十架美軍各型號無人機。伊朗輿論認為，卡達和阿曼等國家做出了許多外交斡旋努力，海灣國家可以在緩和緊張局勢方面發揮作用，但他們無法讓美國解除對伊制裁，也無法確保伊朗在談判桌上做出讓步，因此，面對當前伊美“非戰非和”的局面，雙方必須重新審視各自的戰略目標。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a200f7-1a04-7bbc-aca2-7120c045c15d",
+      "time": "2026-11-22 09:55:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's ISNA reports that a light aircraft crashed in Chile's capital, injuring four people."
+    },
+    {
+      "id": "5230246",
+      "time": "2026-11-22 09:52:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【腦機介面報告：全球企業增至1175家 中國三大城市群集聚190餘家】2026腦機介面大會發布《腦機介面創新發展研究報告（2026）》。《報告》指出，腦機介面產業在2026年取得了新進展，全球企業數量從原有的800多家增長到了1175家，市場變現主要來自兩個領域：一是科研，二是醫療。目前中國腦機介面產業集聚在三大城市群，分別為京津冀、長三角和粵港澳。這三大城市群，分佈著190多家腦機介面企業，佔全國的77.4%。前五大省市分別為廣東省、北京市、上海市、江蘇省和浙江省。產業的下一個趨勢是產業整合分化與治理監管並行，同質化發展會逐漸走向專業深耕與分工。"
+    },
+    {
+      "id": "5230245",
+      "time": "2026-11-22 09:51:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國最大在野黨國民力量黨院內代表鄭點植22日就韓美股市同步大幅下跌一事表示：“希望政府提前準備緊急應對措施，以防出現‘黑色星期一’。”鄭點植稱：“當前股市形勢不容樂觀。"
+    },
+    {
+      "id": "mkt:01a200f2-857a-7bbc-aca2-6b0766c56967",
+      "time": "2026-11-22 09:50:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea opposition warns of ‘Black Monday’ risk, urges government to prepare market measures】YONHAP: South Korea’s main opposition People Power Party floor leader Jung Jeom-sik urged the government to prepare emergency measures ahead of a potential “Black Monday,” after the KOSPI and KOSDAQ each plunged more than 5% on Friday. He said investors feared an even steeper selloff on Monday and called for steps to curb panic and prevent further losses and disruption."
+    },
+    {
+      "id": "mkt:01a200ee-0a58-7bbc-aca2-61ee12f4f88e",
+      "time": "2026-11-22 09:45:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AOUN: Lebanon’s independence can only be complete once the Israeli occupation ends."
+    },
+    {
+      "id": "5230244",
+      "time": "2026-11-22 09:29:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家銀行發債按下“暫停鍵”】10月末以來，債券市場持續調整，部分商業銀行的發債計劃也按下了“暫停鍵”。截至11月20日，工商銀行、浦發銀行、興業銀行、鄭州銀行、張家港農商行、湖北銀行均釋出公告推遲了債券發行。業內受訪人士向記者表示，此輪銀行集體推遲發債是其在成本與時機之間的主動權衡，並非信用資質惡化的訊號，但其所折射的債市負反饋鏈條值得關注。銀行推遲發債的直接觸發因素，是發行利率的顯著上行。新發債券票面利率抬升，疊加二級市場承接意願偏弱、認購偏謹慎，簿記定價容易偏離銀行預期，發行人因而選擇暫緩發行，等待更友好的利率視窗。（中證報）"
+    },
+    {
+      "id": "5230243",
+      "time": "2026-11-22 09:25:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中越北部灣第41次聯合巡邏圓滿結束】11月21日，中國海軍與越南海軍艦艇編隊圓滿完成第41次北部灣聯合巡邏。此次聯合巡邏為期2天，航行32小時，總航程351海里，中越雙方各派出2艘海軍艦艇參加，中方任務兵力為海軍梧州艦和恩施艦。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a200d7-ae41-7bbc-aca2-59627f858116",
+      "time": "2026-11-22 09:21:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【MOFCOM spokesperson responds to FCC plan to bar Chinese telecom operators from directly obtaining U.S. internet phone number resources】MOFCOM has noted the matter and urges the U.S. to immediately revoke the measures and return to resolving the issue through consultations. China will take necessary measures to safeguard its interests."
+    },
+    {
+      "id": "5230242",
+      "time": "2026-11-22 09:18:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就美國聯邦通訊委員會擬禁止中國電信運營商直接獲取美國網際網路電話號碼資源答記者問】\n\n問：美東時間11月19日，美國聯邦通訊委員會（FCC）投票透過有關規則，擬禁止中國電信、中國聯通、中國移動等被列入“覆蓋清單”的電信運營商直接獲取美國網際網路電話號碼資源。請問商務部對此有何評論？\n\n答：我們注意到有關情況。美國聯邦通訊委員會濫用監管權力，泛化所謂國家安全風險，在缺乏事實依據的情況下，違反非歧視和公平競爭原則，肆意汙衊、惡意打壓中國電信企業在美運營。該機構近期持續推動中美兩國在電信、通訊和檢測認證領域脫鉤斷鏈，有關做法違背兩國元首達成的重要共識，破壞中美經貿穩定局面，中方對此堅決反對。\n\n中方敦促美方立即撤銷有關措施，回到透過磋商解決問題的正確道路上。中方將採取必要措施，堅定維護自身利益。（商務部）"
+    },
+    {
+      "id": "5230241",
+      "time": "2026-11-22 09:15:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家中醫藥管理局認證中心：未與任何大模型企業合作，亦未開展測評】近期部分人工智慧大模型產品及其運營、推廣主體宣稱其大模型經過了中醫類別醫師資格考試試題測試，國家中醫藥管理局中醫師資格認證中心釋出宣告：中心從未以任何形式向社會公開、釋出或出售中醫類別醫師資格考試歷年試題（含真題、原題）、參考答案及相關考試資料，亦未授權任何單位或個人公開、釋出、銷售。市場上以“歷年真題”“官方真題”“內部題庫”“原題還原”等名義提供、銷售或用於訓練、測評人工智慧大模型的內容，均非中心提供。中心從未與任何人工智慧大模型企業、平臺或相關機構建立合作關係；未授權任何主體使用中心名稱、簡稱、標識、考試資料及考試資料用於大模型訓練、產品宣傳或者商業推廣；中心未對任何大模型產品開展過測評、認證、認可或者推薦。"
+    },
+    {
+      "id": "5230238",
+      "time": "2026-11-22 09:15:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊稱打擊巴林美軍雷達】當地時間11月21日晚，伊朗伊斯蘭革命衛隊宣佈，為回應美軍“持續的侵略行徑及對伊朗領空的侵犯”，革命衛隊發射導彈和無人機打擊了巴林的裡法和阿瓦利兩處軍事基地，美軍“愛國者”防空系統的兩部雷達遭到打擊。#伊朗稱打擊巴林兩處美軍基地# 革命衛隊表示，自當天清晨起，美軍在該地區開展的所謂“護航”與“空中掩護”行動，“不僅未能實現其既定目標”，反而導致其負責保護的目標“遭受嚴重損毀”。在此之後，隨著美軍兩架無人機侵犯伊朗領空，革命衛隊航空航天部隊隨即對這兩處基地的美軍目標實施了打擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a200d1-23a7-7bbc-aca2-54c13918af97",
+      "time": "2026-11-22 09:13:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【France sees sixth straight Saturday of protests】Protesters took to the streets in Paris and elsewhere on Saturday, the sixth consecutive weekend of demonstrations since protests on Oct. 17 escalated into serious unrest. Turnout was the lowest yet. The Interior Ministry said 82,500 people demonstrated nationwide, while unions organizing the marches put attendance at 150,000. Participants included unions, student groups and Yellow Vest activists. The government deployed 70,000 police and gendarmes."
+    },
+    {
+      "id": "5230237",
+      "time": "2026-11-22 09:13:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國連續第6個週六舉行示威活動】法國巴黎等多地民眾21日舉行新的示威遊行。這是法國自10月17日抗議釀成嚴重騷亂以來，連續第6個週六舉行示威活動，但規模創新低。（新華社）"
+    },
+    {
+      "id": "5230236",
+      "time": "2026-11-22 09:06:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇省省長劉小濤會見香港航商總會主席趙式慶】據新華日報，11月19日下午，江蘇省省長劉小濤在南京會見香港航商總會主席、華光海運董事長趙式慶。雙方表示，將用好江蘇岸線碼頭條件和造船業、航運業基礎，發揮香港國際航運中心優勢，深化港航服務業、航運管理、遠洋航線等合作，因地制宜探索航運綠色轉型路徑，加強運力協同聯動，共築航運開放平臺，攜手打造更有韌性的生產、貿易、運輸全產業鏈，更好服務國家發展戰略。"
+    },
+    {
+      "id": "5230235",
+      "time": "2026-11-22 09:06:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告：東海部分海域進行軍事訓練活動】據中國海事局網站訊息，寧波海事局釋出航行警告，11月22日12時至16時，東海部分海域進行軍事訓練活動，禁止駛入。"
+    },
+    {
+      "id": "5230234",
+      "time": "2026-11-22 09:05:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百年未解數學難題“黎曼猜想”被AI攻克？陶哲軒：學界消化理解尚需時日】11月20日，Anthropic數學家萊文特·阿爾波格（Levent Alpoge）在其個人網站上釋出了一篇四頁筆記，稱其與AI系統Claude合作，完成了對黎曼猜想的證明。阿爾波格沒有附上描述證明過程的傳統數學論文，而是連結了一段可驗證結果的龐大計算機程式碼。該程式碼用Lean（一種將數學陳述轉化為可驗證形式的語言）編寫。菲爾茲獎得主陶哲軒表示，從非常初步的分析看，該證明似乎用到了朗蘭茲綱領和算術幾何領域的各類現代前沿成果，“我估計學界消化理解這項成果尚需時日。”"
+    },
+    {
+      "id": "mkt:01a200c8-31aa-7bbc-aca2-4f984c43a140",
+      "time": "2026-11-22 09:04:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【Tesla launches FSD v15 in the U.S.】Tesla said it has begun rolling out the first version of FSD v15 to Early Access Program members in the U.S., claiming a 25-fold improvement in handling safety-critical scenarios. The update adds Tesla Reality View, which overlays camera feeds with FSD driving plans, and improves driving over potholes and debris as well as speed control near schools and in bad weather. It also adds a bike-rack mode that enables FSD use with bike racks and other hitch-mounted accessories."
+    },
+    {
+      "id": "5230233",
+      "time": "2026-11-22 09:03:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特斯拉在美推出FSDv15】特斯拉今日宣佈在美國市場推出 FSD v15，目前已向早期體驗計劃（EAP）成員推送首批版本。官方宣稱，本次更新對安全關鍵場景的處理能力提升了 25 倍。本次更新還帶來了“Tesla Reality View”全新視覺化介面，車機螢幕上可顯示攝像頭畫面疊加 FSD 行駛規劃，支援全屏顯示、地圖或分屏檢視，也可以選擇使用安靜模式。導航可以將轉彎等資訊疊加在視覺化介面中，轉向燈提示音將變得更輕柔，並在閃爍數次後逐漸減弱直至消失。此外，本次更新還提升了坑窪、碎片、坑洞等惡劣路況的行駛體驗，車輛在學校和惡劣天氣下的速度控制也將更加自然。特斯拉還新增了“腳踏車架模式”，可在車輛安裝腳踏車架或其他拖車鉤配件時使用 FSD。"
+    },
+    {
+      "id": "5230232",
+      "time": "2026-11-22 09:01:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港特區2026年選舉委員會界別分組一般選舉今日舉行】2026年香港特區選舉委員會界別分組一般選舉於今日（22日）上午9時開始投票。本次選舉共有856名候選人，將競逐31個界別分組共723個席位。  （大灣區之聲）"
+    },
+    {
+      "id": "5230231",
+      "time": "2026-11-22 09:00:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【五糧液普五八代、1618零售均價大漲 飛天茅臺小幅上揚 青花汾20、古井貢古20、青花郎重挫 白酒大單品總價連續第二天走升】新浪財經“酒價內參”過去24小時收集的資料顯示，11月22日中國白酒業12大單品的終端零售均價四漲五跌三平，下跌酒品數量稍佔優勢，但上漲端的累計漲幅小幅超出，整體價盤連續第二天溫和上行。上漲端，飛天茅臺的零售均價上漲1元至1761元，昨日平盤後小幅上揚，1760元一線顯露一定支撐力；五糧液普五八代大漲10元至778元，逆轉此前五連跌頹勢，自過去一個月最低點強勁反彈；五糧液1618上漲5元至813元，也迅速走出昨天創下的近30天最低谷；洋河夢之藍M6+上漲2元至598元，昨日重跌後陣腳暫穩，再度蓄力叩響600元關口。下跌端，精品茅臺下跌2元至2386元，已連續七天下行，距i茅臺放量投放的定價2359元為27元；青花汾20下跌4元至379元，昨日大漲後迅速回撥；古井貢古20下跌3元至524元，昨日漲幅之最而今日跌幅領先，盤面的輪動效應明顯；青花郎下跌3元至668元，昨天大額漲幅損失一半；水晶劍南春小跌1元至400元，兩連跌後退守400元大關，後市如何進退值得關注。持平方面，茅臺1935維持在685元，昨日明顯上漲後暫事休整；國窖1573零售均價仍為860元，昨日大漲7元后鞏固價盤；習酒君品保持在623元，成功守護昨日不菲戰果。\n\n今日白酒業12大單品的終端零售總價繼續小幅反彈，漲跌輪動態勢明顯，五糧液系兩款產品漲勢強勁，帶動整體價盤連續第二天走升。如果12大單品各取一瓶整體打包售賣，今日總售價為10475元，較昨日溫和上漲5元，攀上3天以來高點。"
+    },
+    {
+      "id": "mkt:01a200c4-814b-7bbc-aca2-45fa223cfa61",
+      "time": "2026-11-22 09:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceX Dragon completes 35th commercial resupply mission】SpaceX’s Dragon spacecraft returned from the International Space Station on Saturday, splashing down off the coast of Los Angeles and completing the company’s 35th commercial resupply mission. NASA said it brought back thousands of pounds of cargo, including research samples on vascular aging, cancer treatment and astronaut sleep and health."
+    },
+    {
+      "id": "5230230",
+      "time": "2026-11-22 08:57:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Claude宣稱攻克黎曼猜想數小時後，斯坦福數學家公佈純人類證明】北京時間11月22日，據科技媒體The Decoder報道，圍繞數學界最著名的未解難題之一——黎曼猜想，一場人工智慧與人類數學家的“證明競賽”正在上演。Anthropic數學家萊文特·阿爾佩格（Levent Alpge）宣佈，他與Claude合作找到了廣義黎曼猜想的證明。僅數小時後，斯坦福大學研究人員也公開了一份完全由人類獨立完成的競爭性證明草稿。 不過，兩項成果目前均有待數學界進一步驗證。"
+    },
+    {
+      "id": "mkt:01a200be-6812-7bbc-aca2-3d223ea30ebb",
+      "time": "2026-11-22 08:53:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sohu’s Zhang Chaoyang denies receiving warning letter, says he has not provided securities advice】A Beijing Securities Regulatory Bureau decision to issue a warning letter to a person named Zhang Chaoyang was mistakenly linked online to Sohu founder, Chairman and CEO Zhang Chaoyang. He said on Nov. 21 that he was not the person involved, had received no warning letter and had never provided securities advisory services. The individual named in the decision has no connection to Sohu or its founder."
+    },
+    {
+      "id": "5230229",
+      "time": "2026-11-22 08:51:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同名同姓引發誤讀 搜狐張朝陽闢謠“被出具警示函”：未收到，也未從事證券諮詢】近日，北京證監局披露的一份對“張朝陽”採取出具警示函措施的決定在網路傳播，部分輿論將該“張朝陽”與搜狐創始人、董事局主席兼執行長張朝陽相關聯。11月21日，張朝陽在搜狐影片關注流中公開回應稱，此“張朝陽”並非本人，自己從未收到警示函，也未從事證券諮詢業。經核實，該監管措施所涉“張朝陽”與搜狐及搜狐創始人張朝陽無任何關聯，僅為同名同姓。針對網路誤傳，張朝陽在搜狐影片關注流中回應：“搞錯了吧，此張朝陽不是我吧，首先我並沒有收到警示函，其次我也沒有從事證券諮詢業啊。”他同時表示：“看來AI還是不行，區別不了同名同姓的人。”"
+    },
+    {
+      "id": "5230228",
+      "time": "2026-11-22 08:47:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國誠通總經理郭祥玉赴成渝地區開展工作調研】中國誠通訊息，11月19日至21日，集團黨委副書記、總經理郭祥玉帶隊赴成渝地區開展工作調研。11月19日，郭祥玉帶隊調研成都瑞雪豐泰精密電子公司和成都電氣公司，詳細瞭解超高精度射頻類、太赫茲類及鐳射通訊精密零元件產品製造流程、核心技術及市場應用情況、高階工業節能透平裝備研發製造等情況。11月20日，郭祥玉帶隊赴重慶與中國長安汽車黨委書記、董事長朱華榮，黨委常委、總會計師王錕就加強多領域合作座談交流，並調研中國長安汽車天樞智慧實驗室，深入瞭解首個央企自研智慧駕駛輔助解決方案——長安天樞領航及中國長安汽車在智慧化、未來產業領域的發展成果。在渝期間，郭祥玉還帶隊會見了重慶市科技局黨委書記、局長方磊，雙方圍繞強化資本賦能、推動科技創新與產業創新深度融合進行交流。"
+    },
+    {
+      "id": "5230227",
+      "time": "2026-11-22 08:41:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2026年度領航級智慧工廠培育名單公佈 陝西1家工廠入選】近日，工業和資訊化部等六部門印發2026年度領航級智慧工廠培育名單。經省級有關部門推薦、專家評審、實地核查、現場答辯、網上公示等程式，全國共34家工廠入選。陝西省有1家上榜，為中航西安飛機工業集團股份有限公司的“大型飛機柔性協同高效能製造智慧工廠”。中航西飛是國家大型航空裝備研製生產基地、大中型民用飛機核心機體部件供應商，具備產品研發、製造、試驗試飛、維修保障全週期能力。(西安釋出)"
+    },
+    {
+      "id": "mkt:01a200b3-3c5e-7bbc-aca2-302ddc1f9e25",
+      "time": "2026-11-22 08:41:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Libya Hamada pipeline shutdown for more than 20 days causes over $30 mln in losses】Libya’s National Oil Corp. said an armed group has forcibly shut the Hamada pipeline for more than 20 days, cutting output and causing significant economic losses. Production has fallen by an average 14,418 bpd since the shutdown, resulting in estimated revenue losses of about $1.4706 mln a day, while affected fields continue to incur fixed operating costs. The affected fields are Hamada (NC5 and NC8) and Tihara (NC4), operated by Arabian Gulf Oil Co. Cumulative lost output has reached 302,778 barrels, with revenue losses estimated at about $30.7925 mln at current average oil prices."
+    },
+    {
+      "id": "mkt:01a200b1-27bb-7bbc-aca2-2f825dc5d3fa",
+      "time": "2026-11-22 08:38:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "Magnificent 7",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "【CICC: Renewed external headwinds drive market overshoot; maintain confidence】CICC said renewed external shocks are the main reason for recent market weakness. Fed rate-hike expectations have risen, negative global AI narratives have increased, and NVIDIA management changes and U.S. restrictions on remote access to computing capacity have added uncertainty for overseas tech leaders. Volatility in major global equity markets has also weighed on A shares. Recent performance has fallen short of CICC’s expectations; confidence may take time to recover, but the firm said there is no need to be overly pessimistic and that China assets remain on a long-term path of steady progress. CICC recommends maintaining a barbell approach, with high-dividend assets and tactical exposure to high-growth sectors for potential rebounds."
+    },
+    {
+      "id": "5230226",
+      "time": "2026-11-22 08:31:54",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中金：外部“逆風”再起引致超調 保持信心】中金公司研報指出，近期市場表現不佳主要來自外部衝擊再度提升，“逆風”再起。具體來看：第一，美聯儲加息預期再度升溫。第二，全球AI相關負面敘事邊際明顯增加。英偉達管理層變動，海外科技龍頭經營前景再添不確定性；美國算力管制延伸至遠端訪問。第三，全球主要股市明顯波動也影響A股表現。外部挑戰增加背景下近期市場表現低於中金此前預期，信心修復需要時間但不必過度悲觀，中國資產長期、穩進趨勢仍將延續。配置層面，繼續關注“啞鈴型”結構：高股息資產；景氣成長擇時佈局反彈時機。"
+    },
+    {
+      "id": "mkt:01a200a8-9660-7bbc-aca2-22328da4bb17",
+      "time": "2026-11-22 08:29:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC: A magnitude 4.2 earthquake struck Mindanao, Philippines, at a depth of 10 km."
+    },
+    {
+      "id": "5230225",
+      "time": "2026-11-22 08:18:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利比亞輸油管道遭武裝組織封鎖，損失超3070萬美元】利比亞國家石油公司（NOC）稱，武裝組織封鎖哈馬達輸油管道，造成損失超過3070萬美元。這條管道連線哈馬達油田與該國最大的扎維耶煉油廠。 該公司表示：“武裝組織強行關停哈馬達輸油管道，封鎖時長超20天，已經造成鉅額經濟損失與產量下滑。”資料顯示，原油減產總量302778桶，價值超3070萬美元。利比亞國家石油公司指出，管道關停後原油日均損失14418桶，對應每日收入損失147.0636萬美元，受影響油田的運營成本還會帶來額外損失。"
+    },
+    {
+      "id": "5230224",
+      "time": "2026-11-22 08:15:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海電氣與中國重燃簽署合資合作框架協議】11月20日，2026年重型燃氣輪機現代產業鏈共鏈行動大會暨產業化推進會在上海臨港召開。會上，國家電投集團中國重燃集中推介300兆瓦自主重型燃機產品，並與上海電氣簽署合資合作框架協議，同時與上海汽輪機廠簽署產業鏈黨建聯建共建協議。大會發布首批重型燃氣輪機現代產業鏈“場景＋平臺”，公佈自主重型燃氣輪機研製需求。"
+    },
+    {
+      "id": "5230223",
+      "time": "2026-11-22 08:12:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：英國與其他 10 個國家共同參與北約“星運(StarLIFT)”計劃，旨在構建靈活的衛星發射服務網路。"
+    },
+    {
+      "id": "5230222",
+      "time": "2026-11-22 08:11:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國懸賞重金查處高考作弊者】韓國總統李在明21日說，今年韓國大學修學能力考試，也就是高考當中，作弊行為的舉報者可獲得1億韓元（約50萬元人民幣）獎金。李在明在社交媒體寫道，舉報者每舉報一起作弊，可獲得1億韓元。此外，作弊者如果主動承認作弊，並舉報其他作弊者，不僅可從輕處罰，同樣也能獲得獎金。李在明說，高考作弊“是與公職人員腐敗同等嚴重的犯罪行為”，是對數十萬其他考生多年努力成果的“盜竊”，將對作弊者追查到底、嚴懲不貸。近期，韓國發生多起利用人工智慧工具作弊事件，引發民眾廣泛擔憂。韓國教育部20日說，在19日舉行的高考中查處了111名違規攜帶智慧裝置的考生。李在明20日在總統府青瓦臺召開會議，呼籲對高考制度進行全面改革，應對人工智慧快速發展下，各類新型作弊手段給考試公平帶來的挑戰。(央視新聞)"
+    },
+    {
+      "id": "5230221",
+      "time": "2026-11-22 08:10:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄羅斯國家原子能公司：伊俄關係及布什爾核電站專案不懼外部壓力】俄羅斯國家原子能公司執行長阿列克謝·利哈喬夫週六晚接受俄羅斯媒體採訪時表示，伊朗與俄羅斯的關係在任何外部壓力面前都很穩固。無論是布什爾核電站專案，還是伊朗與俄羅斯的友好關係，都在任何外部壓力面前保持穩固，尤其是在美國和以色列對伊朗的攻擊之後，這一點得到了證明。利哈喬夫表示，在與伊朗官員協調後，俄羅斯大部分專家已撤離布什爾核電站現場。俄羅斯總統普京密切關注相關事態，並透過國際層面的溝通，確保核電站設施及俄方專家的安全。他強調，俄方從未懷疑該專案會繼續列入公司的優先事項，也堅信此次事件後，俄羅斯與伊朗之間的友誼將進一步鞏固。"
+    },
+    {
+      "id": "mkt:01a20092-4134-7bbc-aca2-1ae974561961",
+      "time": "2026-11-22 08:05:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Rosatom: Russia-Iran ties, Bushehr project resilient to external pressure】Rosatom CEO Alexei Likhachev said Russia-Iran ties and the Bushehr nuclear power plant project remain resilient to external pressure, including after U.S. and Israeli attacks on Iran. Most Russian specialists have evacuated the site in coordination with Iranian officials. Putin is monitoring developments and using international channels to ensure the safety of the plant and Russian personnel. Likhachev said the project remains a priority and Russia-Iran ties are likely to strengthen."
+    },
+    {
+      "id": "mkt:01a2008f-538f-7bbc-aca2-12d509ff5995",
+      "time": "2026-11-22 08:02:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosatom CEO: Iran-Russia ties remain firm despite external pressure."
+    },
+    {
+      "id": "5230220",
+      "time": "2026-11-22 07:59:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【澳大利亞房屋拍賣數量減少，清盤率小幅上升】澳大利亞房產拍賣成交率小幅回升，但入市房源持續減少，樓市仍處在下行週期。房產研究機構 Cotality 資料顯示，本週各大首府城市初步綜合拍賣成交率升至 46.9%，較前一週上升 2.9 個百分點。Cotality 研究主管蒂姆・勞利斯週日表示：“雖然成交率有所上漲，但這是今春以來第二低的初步資料，仍低於春季均值 50.1% 和冬季均值 52.3%。”"
+    },
+    {
+      "id": "5230219",
+      "time": "2026-11-22 07:54:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國秋冬種進入尾聲 主產區積極應對超強厄爾尼諾影響】現在，全國秋冬種進入尾聲，主產區因地制宜開展冬季田管，為來年豐收夯實基礎。農業農村部最新農情排程顯示，目前冬油菜播種已基本結束。湖南今年在18個縣開展油菜新品種展示示範，同時大力推廣機械化播種、移栽等技術，全省油菜機械直播面積達769萬畝。河南農業部門提前印發麥播技術、病蟲害防控、品種選用等指導檔案，細化晚播小麥防災減災、肥水管理等配套技術方案，給農戶提供清晰的田間管理指引。受超強厄爾尼諾事件影響，今冬明春我國氣候將出現明顯波動。冬季氣溫總體偏高，但寒潮頻次略偏多、冷暖起伏大，給作物越冬帶來挑戰，目前主產區正積極應對。（央視新聞）"
+    },
+    {
+      "id": "5230218",
+      "time": "2026-11-22 07:49:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗副外長證實調解方卡達代表團訪問德黑蘭】據伊朗伊斯蘭共和國通訊社21日報道，伊朗外交部負責法律和國際事務的副部長加里巴巴迪當天證實，卡達代表團20日晚訪問德黑蘭，與伊方舉行了約兩小時會談。伊朗正與包括卡達在內的調解方保持接觸，探討能否再次推動外交途徑解決與美國之間的衝突問題。加里巴巴迪當天在德黑蘭出席活動期間表示，伊朗提出的“兩日計劃”仍然有效，這是伊方目前提出的唯一方案。只要美國能夠滿足該計劃的條件，雙方就能推動相關程序向前發展。加里巴巴迪表示，伊美目前尚未啟動談判。如果展開談判，雙方將討論相關技術細節。他強調，伊朗堅持不將濃縮核材料運出境外，“如果將這些材料運出境，為了滿足伊朗國核心反應堆的需求，就不得不向其他國家尋求幫助”。（新華社）"
+    },
+    {
+      "id": "mkt:01a20081-a4c8-7bbc-aca2-0fe6f14cf07f",
+      "time": "2026-11-22 07:47:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran's ongoing economic war 'far harder' than military conflict, president says】Iran is engaged in a “silent” economic war that is far harder than military conflict, President Pezeshkian said. Attempts to cause famine and shortages in domestic markets had failed, with production continuing, he said, urging greater national unity in the face of “enemy invasion and asymmetric warfare.”"
+    },
+    {
+      "id": "mkt:01a20081-0334-7bbc-aca2-053e2e49404f",
+      "time": "2026-11-22 07:46:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Canada formally joins NATO Innovation Fund】Canada has formally joined the NATO Innovation Fund, becoming its 25th member and the first from North America, Defense Minister David McGuinty said on the 21st. Established in 2022, the fund invests in frontier technologies to strengthen members’ defense, security and resilience."
+    },
+    {
+      "id": "5230217",
+      "time": "2026-11-22 07:39:20",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【阿聯酋在霍爾木茲海峽開展高風險石油轉運業務】阿聯酋國家石油公司已悄然成為霍爾木茲海峽石油運輸的主力，該公司擴充油輪船隊，頂住伊朗襲擊，在其他運營商不敢通行的危險航道維持原油外運。阿布扎比國家石油公司（ADNOC）這項高風險航執行動得到美軍保護，抵禦伊朗導彈與無人機打擊，是美國打破伊朗對海峽封鎖圖謀的關鍵一環，但船隻與船員為此付出巨大代價。阿聯酋最初的目標是保障本國核心石油出口業務運轉。隨著船隊規模擴大、航道經驗積累，它開始為其他客戶提供轉運服務，躋身波斯灣戰時石油貿易核心。ADNOC 還折價採購伊拉克原油，再轉售給海峽以外的買家。石油研究機構 Commodity Context 創始人羅裡・約翰斯頓表示：“在本輪衝突中，阿聯酋是海灣國家裡行動最大膽、最願意承擔風險的一方。”"
+    },
     {
       "id": "5230216",
       "time": "2026-11-22 07:26:25",
