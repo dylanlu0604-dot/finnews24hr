@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-22 11:27:15",
-  "count": 9185,
+  "updated": "2026-11-22 11:31:03",
+  "count": 9184,
   "items": [
+    {
+      "id": "5230269",
+      "time": "2026-11-22 11:28:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【丘成桐回應AI輔助證明黎曼猜想】近日，美國人工智慧企業Anthropic的數學家，宣稱與自家研發的大模型Claude合作，證明了黎曼猜想。對此，丘成桐在接受採訪時回應：這是一個很興奮的時代，也是很危險的時代，我認為還是數學家佔主導的，將數學整個平臺提升到另一個水平。找到真理有很多不同的方法，我們還是要鼓勵的。"
+    },
     {
       "id": "5230268",
       "time": "2026-11-22 11:21:46",
@@ -81986,28 +81994,6 @@
         "宏觀"
       ],
       "text": "【廣東省委書記黃坤明一行考察調研2026年APEC領導人會議周新聞中心】11月15日上午，中央政治局委員，廣東省委書記黃坤明與廣東省委常委、深圳市委書記靳磊，深圳市委副書記、市長李運一行走進位於深圳市福田會展中心的2026年APEC領導人會議周新聞中心駐地，在工作人員帶領下，黃坤明仔細檢視媒體工作區、技術支援區、新聞釋出廳和茶歇區等場所，詢問現場工作人員技術和後勤保障等工作，並向證券時報記者表示，新聞中心準備得“很好、很溫馨”。他還叮囑媒體記者“要工作好，休息好和吃好。”"
-    },
-    {
-      "id": "mkt:01a1dd40-d751-7bbc-abe4-624b362e61ac",
-      "time": "2026-11-15 11:29:36",
-      "tags": [
-        "MKT News",
-        "LUV.O",
-        "Impact bearish"
-      ],
-      "text": "Dallas Love Field airport in Texas has suspended arrivals and departures after a possible bomb threat; local, state and federal law enforcement are responding. Inbound flights have been diverted to other Dallas-area airports."
-    },
-    {
-      "id": "mkt:01a1dd40-b751-7bbc-abe4-5f46a0ca68cf",
-      "time": "2026-11-15 11:29:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【IEA's Birol says China’s clean-energy buildout supports global energy transition】IEA Executive Director Fatih Birol said at COP31 that balancing energy security with the green transition is a shared challenge. He said China’s clean-energy deployment and green-industrial advantages will help other countries accelerate low-carbon transitions. Birol added that rising geopolitical tensions are speeding global energy transitions, driven by climate goals as well as energy-security and economic-development concerns."
     }
   ]
 }
