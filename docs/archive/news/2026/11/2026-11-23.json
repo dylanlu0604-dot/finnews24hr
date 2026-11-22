@@ -1,7 +1,41 @@
 {
   "date": "2026-11-23",
-  "count": 225,
+  "count": 228,
   "items": [
+    {
+      "id": "5230905",
+      "time": "2026-11-23 07:27:37",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【受AI擔憂影響 韓國儲存晶片股盤前下跌】隨著人工智慧（AI）交易退潮持續，韓國儲存晶片股在盤前交易中下跌，延續了上週五美股的大幅拋售走勢。在Nextrade平臺上，三星電子股價盤前下跌5.6%，SK海力士下跌6%。儘管韓國當局在週日承諾將加大穩定市場的力度，但上述跌勢依然出現。上週五，標普500指數進入技術性回撥區間，納斯達克100指數創下自2020年3月以來的最差單週表現。被稱為華爾街“恐慌指數”的VIX指數飆升至2025年4月以來的最高水平。韓國KOSPI指數上週五下跌5.2%。"
+    },
+    {
+      "id": "mkt:01a20595-40b0-7bbc-aca8-f5eca05c3558",
+      "time": "2026-11-23 07:26:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【JP Morgan: Recent market pullback driven mainly by deleveraging in AI trades】U.S. equity futures opened higher in Asian trading. JP Morgan said the recent pullback in risk assets was driven mainly by deleveraging in AI-linked trades amid weak sentiment, alongside pricing of a more hawkish Fed response. The bank remains confident in the AI supercycle’s durability, citing lower leverage and improved investor positioning. U.S. Treasury Secretary Bessent warned Sunday that excessive Fed tightening in response to the latest inf data could hurt the U.S. economy, noting signs of fragility in the financial system."
+    },
+    {
+      "id": "5230904",
+      "time": "2026-11-23 07:26:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“車電融合”漸成主流 二線新能源動力電池企業崛起】伴隨“車電融合”節奏加快，二線新能源動力電池企業正在迅速崛起。中國汽車動力電池產業創新聯盟日前釋出資料顯示，中創新航、國軒高科、億緯鋰能、欣旺達等企業的動力電池銷量顯著提升，甚至出現三位數增長，正在逐漸縮小與寧德時代、比亞迪兩家頭部企業的差距。近期，欣旺達等二線動力電池企業還在持續擴大與新能源車企在股權投資、研發製造等方面的合作。業內專家分析稱，隨著全球新能源化浪潮的持續，中國新能源汽車產業鏈合作駛入新階段。國內車企以戰略投資者等身份與動力電池企業結對合作，有望重塑國內新能源汽車產業鏈格局。車企在注入資金的同時，能帶來更多下游訂單，同時還將賦能動力電池企業加大研發力度，加速電化學領域等源頭創新。（上海證券報）"
+    },
     {
       "id": "mkt:01a20594-955b-7bbc-aca8-eb6a5ddec6f2",
       "time": "2026-11-23 07:25:53",
