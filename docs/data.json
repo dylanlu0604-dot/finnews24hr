@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-23 02:43:27",
-  "count": 9255,
+  "updated": "2026-11-23 02:47:12",
+  "count": 9254,
   "items": [
+    {
+      "id": "mkt:01a20494-17c8-7bbc-aca7-8fe9b62ea2d3",
+      "time": "2026-11-23 02:45:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Northwest River Forecast Center: River flows in the U.S. Northwest remain unchanged at 75%."
+    },
+    {
+      "id": "5230696",
+      "time": "2026-11-23 02:44:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇丹首都遭無人機襲擊 一聯合國設施受損】據蘇丹民間機構、地方組織和目擊者22日的訊息，該國首都喀土穆及其西北恩圖曼市多處目標當天遭無人機襲擊，造成4人死亡、約10人受傷。一處聯合國設施在襲擊中受損。（新華社）"
+    },
+    {
+      "id": "mkt:01a20491-e183-7bbc-aca7-803ffc675020",
+      "time": "2026-11-23 02:43:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Eastern Libyan government: Libyan forces are responding to a third unmanned boat attack off the coast of Benghazi."
+    },
     {
       "id": "mkt:01a2047e-eddb-7bbc-aca7-7dac662f9942",
       "time": "2026-11-23 02:22:36",
@@ -82569,45 +82597,6 @@
         "焦點"
       ],
       "text": "暗盤金價日內漲超1%，現報3840.56美元/盎司。"
-    },
-    {
-      "id": "5215835",
-      "time": "2026-11-16 02:47:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "ULA：火神火箭未能將亞馬遜衛星送入軌道。"
-    },
-    {
-      "id": "mkt:01a1e088-9103-7bbc-abe7-a16b81a6e783",
-      "time": "2026-11-16 02:46:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Fed's Schmid: Inflation still too high, Fed has work to do】Kansas City Fed President Schmid said Sunday inflation remains uncomfortably above the Fed’s 2% target and is moving in the wrong direction; the Fed has tools and a responsibility to address overheating price pressures. He rejected views that recent inflation is purely supply-driven and therefore beyond the Fed’s control, arguing inflation reflects supply–demand imbalances and that strong demand is required for supply shocks to raise prices. He also disputed the claim that demand-driven inflation from areas such as AI infrastructure is insensitive to monetary policy."
-    },
-    {
-      "id": "5215834",
-      "time": "2026-11-16 02:46:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "ULA：火神（Vulcan）火箭升空約10分鐘後出現問題。"
-    },
-    {
-      "id": "5215833",
-      "time": "2026-11-16 02:45:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國聯手盟友加強AI關鍵技術和供應鏈保護】美國與日本、澳大利亞、以色列和英國等盟友同意建立一份支撐人工智慧發展的關鍵技術和供應鏈聯合清單，以便加強保護。美國負責經濟事務的副國務卿Jacob Helberg表示，韓國、印度、卡達和阿聯酋也已簽署《持久繁榮安全基礎舊金山宣言》。德國、瑞典、荷蘭和歐盟委員會將於下週簽署。"
     }
   ]
 }

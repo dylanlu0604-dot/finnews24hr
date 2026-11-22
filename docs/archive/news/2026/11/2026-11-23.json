@@ -1,7 +1,35 @@
 {
   "date": "2026-11-23",
-  "count": 97,
+  "count": 100,
   "items": [
+    {
+      "id": "mkt:01a20494-17c8-7bbc-aca7-8fe9b62ea2d3",
+      "time": "2026-11-23 02:45:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Northwest River Forecast Center: River flows in the U.S. Northwest remain unchanged at 75%."
+    },
+    {
+      "id": "5230696",
+      "time": "2026-11-23 02:44:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇丹首都遭無人機襲擊 一聯合國設施受損】據蘇丹民間機構、地方組織和目擊者22日的訊息，該國首都喀土穆及其西北恩圖曼市多處目標當天遭無人機襲擊，造成4人死亡、約10人受傷。一處聯合國設施在襲擊中受損。（新華社）"
+    },
+    {
+      "id": "mkt:01a20491-e183-7bbc-aca7-803ffc675020",
+      "time": "2026-11-23 02:43:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Eastern Libyan government: Libyan forces are responding to a third unmanned boat attack off the coast of Benghazi."
+    },
     {
       "id": "mkt:01a2047e-eddb-7bbc-aca7-7dac662f9942",
       "time": "2026-11-23 02:22:36",
