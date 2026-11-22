@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-23 02:17:05",
-  "count": 9277,
+  "updated": "2026-11-23 02:20:52",
+  "count": 9279,
   "items": [
+    {
+      "id": "5230685",
+      "time": "2026-11-23 02:20:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯護衛艦“水星”號在利比亞班加西港遭烏克蘭無人艇襲擊後沉沒。"
+    },
+    {
+      "id": "mkt:01a2047a-37ac-7bbc-aca7-77e6681f0ac7",
+      "time": "2026-11-23 02:17:28",
+      "tags": [
+        "MKT News",
+        "FTSE100",
+        "Impact bearish",
+        "CPG.L"
+      ],
+      "text": "【Compass Group reportedly plans to move primary listing to New York】Compass Group plans to move its primary listing from London to New York and could announce the decision as soon as Tuesday, when it reports results, the FT reported, citing people familiar with the matter. It is unclear whether the UK catering group would retain a separate London listing. A top-20 FTSE 100 constituent by market value, its departure would deal another major blow to London’s public markets."
+    },
     {
       "id": "mkt:01a20477-db8b-7bbc-aca7-6ba84a79a6aa",
       "time": "2026-11-23 02:14:53",
