@@ -1,7 +1,36 @@
 {
   "date": "2026-11-23",
-  "count": 88,
+  "count": 91,
   "items": [
+    {
+      "id": "mkt:01a2045a-6286-7bbc-aca7-5c080453f308",
+      "time": "2026-11-23 01:42:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he had seen clips of protests in Iran and urged protesters to keep going."
+    },
+    {
+      "id": "mkt:01a2045a-3577-7bbc-aca7-5382b0a05dc9",
+      "time": "2026-11-23 01:42:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump: There is currently no indication Iran is ready to reach a deal."
+    },
+    {
+      "id": "mkt:01a20457-2064-7bbc-aca7-493a5c70d170",
+      "time": "2026-11-23 01:39:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Trump said the U.S. would sink Iranian ships if Tehran tried to breach the U.S. naval blockade."
+    },
     {
       "id": "mkt:01a20456-c935-7bbc-aca7-41eb8b4af138",
       "time": "2026-11-23 01:38:46",

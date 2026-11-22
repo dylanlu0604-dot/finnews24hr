@@ -1,7 +1,36 @@
 {
-  "updated": "2026-11-23 01:39:22",
-  "count": 9278,
+  "updated": "2026-11-23 01:43:10",
+  "count": 9280,
   "items": [
+    {
+      "id": "mkt:01a2045a-6286-7bbc-aca7-5c080453f308",
+      "time": "2026-11-23 01:42:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he had seen clips of protests in Iran and urged protesters to keep going."
+    },
+    {
+      "id": "mkt:01a2045a-3577-7bbc-aca7-5382b0a05dc9",
+      "time": "2026-11-23 01:42:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump: There is currently no indication Iran is ready to reach a deal."
+    },
+    {
+      "id": "mkt:01a20457-2064-7bbc-aca7-493a5c70d170",
+      "time": "2026-11-23 01:39:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Trump said the U.S. would sink Iranian ships if Tehran tried to breach the U.S. naval blockade."
+    },
     {
       "id": "mkt:01a20456-c935-7bbc-aca7-41eb8b4af138",
       "time": "2026-11-23 01:38:46",
@@ -82818,14 +82847,6 @@
         "國際"
       ],
       "text": "俄羅斯媒體：國際冰球聯合會宣佈，由於俄當局的立場，俄羅斯青年冰球隊將無法參加在加拿大舉行的世界錦標賽。"
-    },
-    {
-      "id": "5215796",
-      "time": "2026-11-16 01:42:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯合發射聯盟的火神火箭搭載亞馬遜Leo衛星升空。"
     }
   ]
 }
