@@ -1,7 +1,15 @@
 {
   "date": "2026-11-22",
-  "count": 447,
+  "count": 448,
   "items": [
+    {
+      "id": "mkt:01a202c0-2aa7-7bbc-aca4-4a3b412efef8",
+      "time": "2026-11-22 18:14:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Singapore's prime minister will visit Australia from Nov. 23-25 to attend a leaders' meeting."
+    },
     {
       "id": "5230413",
       "time": "2026-11-22 18:08:55",
