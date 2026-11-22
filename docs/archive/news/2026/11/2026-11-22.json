@@ -1,7 +1,15 @@
 {
   "date": "2026-11-22",
-  "count": 240,
+  "count": 241,
   "items": [
+    {
+      "id": "mkt:01a20122-f26b-7bbc-aca2-9ca0a948386e",
+      "time": "2026-11-22 10:43:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP: A consortium involving South Korea has won a 560 bln won design contract for a high-speed railway in Vietnam."
+    },
     {
       "id": "5230259",
       "time": "2026-11-22 10:39:03",
