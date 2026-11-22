@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-22 18:53:44",
-  "count": 9229,
+  "updated": "2026-11-22 18:57:34",
+  "count": 9227,
   "items": [
+    {
+      "id": "5230428",
+      "time": "2026-11-22 18:53:45",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【上交所正推動修訂科創板做市商規則】11月22日，上交所正推動修訂《上海證券交易所證券交易業務指南第8號——科創板股票做市》。規則修訂聚焦最佳化做市報價義務指標、完善做市商競爭評價機制、提升做市週轉效率、強化風險防控要求等方面，兼顧做市商交易能力提升和做市業務規範管理，提高做市商履行義務要求，激勵做市商擴大報價規模，促進做市業務形成良性生態，引導做市商更加規範、持續、穩定供給流動性，推動做市報價進一步提質增效。（證券時報）"
+    },
     {
       "id": "5230427",
       "time": "2026-11-22 18:51:29",
@@ -82427,33 +82436,6 @@
         "MKT News"
       ],
       "text": "【China 2026 film box office tops CNY 32.0 bln】As of Nov. 15, 2026, China’s 2026 film box office including presales exceeded CNY 32.0 bln. The current top-five releases are all domestic films. The film sector’s full-chain output since the start of 2026 is estimated near CNY 500 bln."
-    },
-    {
-      "id": "mkt:01a1deda-83fe-7bbc-abe5-988b1add2fd5",
-      "time": "2026-11-15 18:57:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukraine said missiles struck a petrochemical plant and a refinery in Russia's Tatarstan and defence facilities in Bryansk."
-    },
-    {
-      "id": "mkt:01a1deda-5565-7bbc-abe5-9283913bd5cc",
-      "time": "2026-11-15 18:56:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran says French allegation linking it to supermarket refrigeration cyberattack unfounded】Iranian foreign ministry spokesman Baghaei on Nov. 15 dismissed French claims that Iran was responsible for a recent cyberattack on refrigeration systems at French supermarkets as baseless, saying European states have developed a habit of making accusations without providing evidence. He urged the French government to stop the allegations, calling the conduct an internationally unlawful act."
-    },
-    {
-      "id": "5215676",
-      "time": "2026-11-15 18:55:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱法國指其網攻製冷系統沒依據】針對法國指責伊朗應對近期法國超市制冷系統受到網路攻擊“負有責任”，伊朗外交部發言人巴加埃今天（11月15日）表示，歐洲國家似乎已經養成了一種習慣，即在提出指控時，完全不覺得有必要提供任何證據或正當理由。所謂的指控不過是法國為了轉移對其自身失職行為的關注而採取的手段。巴加埃強調，針對伊朗的指控完全沒有任何依據，要求法國政府停止這種針對伊朗的指控，這一行為構成國際不法行為。 （CCTV國際時訊）"
     }
   ]
 }
