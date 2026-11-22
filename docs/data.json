@@ -1,7 +1,48 @@
 {
-  "updated": "2026-11-23 07:08:24",
-  "count": 9249,
+  "updated": "2026-11-23 07:12:04",
+  "count": 9251,
   "items": [
+    {
+      "id": "5230881",
+      "time": "2026-11-23 07:10:01",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、“持續做大做強先進製造業”\n2、各地加強權益保障、糾紛調解、技能培訓等工作 管理服務跟上，新就業群體安心奔忙\n3、雲南深入推進新時代興邊富民行動\n4、四川仁壽縣依託大資料讓監督更精準——關注一塊防滑墊 查清一筆民生賬\n5、天津濱海新區著力培育科技創新生態\n6、圖片報道\n7、導讀"
+    },
+    {
+      "id": "mkt:01a20585-7fbe-7bbc-aca8-b8bfaec1f0f0",
+      "time": "2026-11-23 07:09:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【Nasdaq futures jump after selloff as markets await U.S. inflation data】U.S. equity futures rose in early Asian trading Monday, offering respite after an AI trade unwind drove a sharp selloff on Wall Street Friday. S&P 500 futures gained 1.1% and Nasdaq 100 futures rose 1.8%. Friday’s decline heightened concerns that losses in U.S. tech stocks could broaden into a wider risk-off move. The MSCI Asia-Pacific index is down about 18% from its June high, nearing bear-market territory, as investors watch for policymakers to restore confidence and stem further losses. Markets are also focused on Wednesday’s U.S. PCE inflation data. The selloff prompted traders to scale back bets on a December Fed rate hike and drove investors into U.S. Treasuries."
+    },
+    {
+      "id": "5230880",
+      "time": "2026-11-23 07:09:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國達美航空系統故障致數百航班延誤】美國達美航空公司技術系統出現故障，導致22日進出亞特蘭大國際機場的數百個航班出現延誤。 美國聯邦航空管理局釋出的資訊顯示，達美航空飛往亞特蘭大國際機場的航班平均延誤近一個小時，涉及約20個航線控制中心。 達美航空公司表示，航班延誤是由於其重量與平衡自動化系統出現故障。公司正與空管部門協調，採取措施防止在亞特蘭大國際機場登機口和停機坪區域出現擁堵。當天上午，達美航空透過人工方式安排航班起飛，同時繼續努力恢復自動化系統。 根據航班追蹤網站釋出的資料，截至美東時間22日11時，有681個進出亞特蘭大國際機場的航班出現延誤，其中包括591個達美航空的航班。 近期，美國機場因系統故障多次出現航班延誤事件。（新華社）"
+    },
+    {
+      "id": "5230879",
+      "time": "2026-11-23 07:08:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新股提示：科創板傲拓科技今日申購】今日可申購科創板新股傲拓科技，傲拓科技發行市盈率24.03倍，申購程式碼為787845，申購價格18.18元。"
+    },
     {
       "id": "5230878",
       "time": "2026-11-23 07:04:04",
@@ -82532,23 +82573,6 @@
         "市場"
       ],
       "text": "【英偉達在Hyperliquid上因黃仁勳迴歸傳聞上漲4.5%】在有關被罷免的CEO黃仁勳正討論重返公司的報道傳出後，Hyperliquid區塊鏈上掛鉤英偉達股價的永續期貨合約漲幅高達4.5%。該合約報價一度觸及166.97美元。據《金融時報》報道，隨著多位矽谷盟友開始遊說他迴歸，黃仁勳一直在探討重返公司的想法。"
-    },
-    {
-      "id": "5216220",
-      "time": "2026-11-16 07:10:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星SDI獲Jupiter Power 16吉瓦時磷酸鐵鋰電池訂單。"
-    },
-    {
-      "id": "5216219",
-      "time": "2026-11-16 07:09:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "據福布斯估算，在黃仁勳辭職引發英偉達股價下跌後，包括臨時執行長科萊特·克雷斯在內的三名英偉達高管，身家已不再達到十億美元級別。"
     }
   ]
 }
