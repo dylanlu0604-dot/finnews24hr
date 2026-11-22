@@ -1,7 +1,25 @@
 {
   "date": "2026-11-23",
-  "count": 246,
+  "count": 248,
   "items": [
+    {
+      "id": "mkt:01a205ab-4d96-7bbc-aca9-07ba21a1ebb4",
+      "time": "2026-11-23 07:50:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Dutch front-month gas futures rose 7.12% to 94.76 euros/MWh, ICE data showed."
+    },
+    {
+      "id": "5230922",
+      "time": "2026-11-23 07:50:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所資料顯示，荷蘭近月天然氣合約上漲7.12%，至每兆瓦時94.76歐元。"
+    },
     {
       "id": "5230921",
       "time": "2026-11-23 07:47:48",
