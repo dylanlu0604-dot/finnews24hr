@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-23 01:58:17",
-  "count": 9276,
+  "updated": "2026-11-23 02:02:03",
+  "count": 9277,
   "items": [
+    {
+      "id": "mkt:01a2046a-3555-7bbc-aca7-63eacbc56e60",
+      "time": "2026-11-23 01:59:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump favors striking Iran after New Year if no deal is reached】U.S. President Donald Trump told Fox News he favors resuming hostilities against Iran after the New Year if no deal is reached. Indirect talks are ongoing but have made no substantive progress, he said, accusing Iran of deception and delay. Any Iranian vessel attempting to breach the blockade would meet the same fate as the rest of Iran’s navy and sink to the bottom of the sea, he added."
+    },
+    {
+      "id": "5230659",
+      "time": "2026-11-23 01:58:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【若達不成協議 特朗普傾向於新年後打擊伊朗】美國總統特朗普表示，如果無法達成協議，他傾向於在新年後恢復對伊朗的打擊。特朗普表示，目前仍在與伊朗進行間接對話。特朗普形容伊朗人是“專業的踢踏舞演員”，並補充說，他們所做的就只是空談。"
+    },
     {
       "id": "mkt:01a2045a-6286-7bbc-aca7-5c080453f308",
       "time": "2026-11-23 01:42:41",
@@ -82805,15 +82829,6 @@
         "市場"
       ],
       "text": "紐約原油暗盤突破87美元，日內漲超0.6%。"
-    },
-    {
-      "id": "5215802",
-      "time": "2026-11-16 02:00:11",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "葉門胡塞武裝稱，用兩枚彈道導彈襲擊利雅得哈立德國王機場和金融中心。沙特未證實胡塞武裝的說法。"
     }
   ]
 }
