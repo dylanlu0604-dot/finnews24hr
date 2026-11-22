@@ -1,7 +1,47 @@
 {
   "date": "2026-11-23",
-  "count": 221,
+  "count": 225,
   "items": [
+    {
+      "id": "mkt:01a20594-955b-7bbc-aca8-eb6a5ddec6f2",
+      "time": "2026-11-23 07:25:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【Is the U.S. stock selloff nearing an end? Strategist says bulls still need to prove their case】U.S. stock futures rebounded Monday after all three major indexes closed in correction territory Friday. Investors are assessing whether last week’s selloff has established a firm market floor or left room for further declines, with volatile technology stocks in focus. Roundhill Chief Investment Strategist Drew Pettit said the indiscriminate selling across sectors that spread beyond technology could signal the selloff is nearing its end, but bulls still need to provide convincing evidence to reverse prevailing pessimism. Fundamentally, he sees the market’s floor as much higher; technically, bulls need a series of catalysts to show the long-term earnings growth thesis remains intact."
+    },
+    {
+      "id": "5230903",
+      "time": "2026-11-23 07:25:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【達美航空系統出故障 亞特蘭大機場數百航班延誤】美國達美航空公司技術系統出現故障，導致11月22日進出亞特蘭大國際機場的數百個航班出現延誤。美國聯邦航空局釋出的資訊顯示，達美航空飛往亞特蘭大國際機場的航班平均延誤近一個小時，涉及約20個航線控制中心。達美航空公司表示，航班延誤是由於其重量與平衡自動化系統出現故障。公司正與空管部門協調，採取措施防止在亞特蘭大國際機場登機口和停機坪區域出現擁堵。當天上午，達美航空透過人工方式安排航班起飛，同時繼續努力恢復自動化系統。根據航班追蹤網站釋出的資料，截至美東時間22日11時，有681個進出亞特蘭大國際機場的航班出現延誤，其中包括591個達美航空的航班。（新華社）"
+    },
+    {
+      "id": "5230902",
+      "time": "2026-11-23 07:25:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債期貨在亞洲早盤交易中下跌。"
+    },
+    {
+      "id": "5230901",
+      "time": "2026-11-23 07:25:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國民主黨在擊敗共和黨資深權力人物之一後，鎖定自1992年以來最大的眾議院多數席位。民主黨人查克·哈伯德在北卡羅來納州擊敗資深共和黨眾議員弗吉尼亞·福克斯，將該黨席位推至至少258席，對共和黨領導層造成重大打擊。在還有四場選舉結果未定之際，民主黨已成功翻轉44席，並同時掌控參議院，為明年1月新國會召開時在國會山上演激烈權力鬥爭鋪平道路。特朗普現在將面對民主黨控制的國會，該國會正準備發起一波針對其政府的調查浪潮，並推翻共和黨在醫療保健和醫療補助方面的政策。"
+    },
     {
       "id": "5230900",
       "time": "2026-11-23 07:22:04",
