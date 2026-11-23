@@ -1,7 +1,33 @@
 {
   "date": "2026-11-23",
-  "count": 666,
+  "count": 669,
   "items": [
+    {
+      "id": "mkt:01a206a2-55b8-7bbc-acac-fd35d2ae529d",
+      "time": "2026-11-23 12:20:31",
+      "tags": [
+        "MKT News",
+        "2269.HK",
+        "Impact bullish"
+      ],
+      "text": "【WuXi Biologics completes PPQ manufacturing for commercial project at New Jersey site】WuXi Biologics said on Nov. 23 that its MFG18 biologics drug substance facility in Cranbury, New Jersey, had completed process performance qualification (PPQ) manufacturing for a commercial project, marking the start of commercial production at the site."
+    },
+    {
+      "id": "mkt:01a2069f-dc78-7bbc-acac-f18662aabf05",
+      "time": "2026-11-23 12:17:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hong Kong Mortgage Corp., AIIB sign letter of intent】Hong Kong Mortgage Corp. and the Asian Infrastructure Investment Bank signed a letter of intent in Hong Kong on Nov. 20, establishing a framework for cooperation. The two plan to explore joint financing opportunities in sustainable infrastructure, integrate climate strategies into infrastructure investment, develop talent in sustainable infrastructure finance, exchange digital tools and deepen cooperation on infrastructure loan securitizations, with the aim of mobilizing more private capital for infrastructure."
+    },
+    {
+      "id": "5231880",
+      "time": "2026-11-23 12:17:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【楊宏斌任新疆生產建設兵團副司令員、中國新建集團公司副總經理】新疆生產建設兵團官網“兵團領導”欄目近期更新後顯示，此前擔任新疆生產建設兵團黨委常委的楊宏斌，已任新疆生產建設兵團副司令員、中國新建集團公司副總經理。"
+    },
     {
       "id": "5231879",
       "time": "2026-11-23 12:16:40",
