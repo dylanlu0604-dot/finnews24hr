@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-23 12:36:29",
+  "updated": "2026-11-23 21:14:45",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 462,
+  "count": 464,
   "history_summary": {
     "cached": 462,
-    "fetched": 0,
+    "fetched": 2,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,12 +18,128 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 222,
+      "count": 224,
       "dates": [
         {
           "date": "2026-11-23",
-          "count": 29,
+          "count": 31,
           "events": [
+            {
+              "id": "capital:1185429",
+              "fid": "1185429",
+              "interval": "this_week",
+              "date": "2026-11-23",
+              "time": "00:00",
+              "datetime": "2026-11-23 00:00:00",
+              "display_time": "11/23 00:00",
+              "country": "中國",
+              "title": "中國10月全社會用電量(億千瓦時)",
+              "importance": 2,
+              "previous": "8997",
+              "forecast": "--",
+              "actual": "8709",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185429",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "10/21",
+                  "actual": "8997",
+                  "forecast": "-",
+                  "previous": "10332"
+                },
+                {
+                  "date": "09/20",
+                  "actual": "10332",
+                  "forecast": "-",
+                  "previous": "10400"
+                },
+                {
+                  "date": "08/21",
+                  "actual": "10400",
+                  "forecast": "-",
+                  "previous": "8981"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "8981",
+                  "forecast": "-",
+                  "previous": "8671"
+                },
+                {
+                  "date": "06/18",
+                  "actual": "8671",
+                  "forecast": "-",
+                  "previous": "8205"
+                },
+                {
+                  "date": "05/19",
+                  "actual": "8205",
+                  "forecast": "-",
+                  "previous": "8595"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-23 21:14:43"
+            },
+            {
+              "id": "capital:1185428",
+              "fid": "1185428",
+              "interval": "this_week",
+              "date": "2026-11-23",
+              "time": "00:00",
+              "datetime": "2026-11-23 00:00:00",
+              "display_time": "11/23 00:00",
+              "country": "中國",
+              "title": "中國10月全社會用電量同比",
+              "importance": 3,
+              "previous": "1.2 %",
+              "forecast": "-- %",
+              "actual": "1.6 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185428",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "10/21",
+                  "actual": "1.2",
+                  "forecast": "-",
+                  "previous": "1.7"
+                },
+                {
+                  "date": "09/20",
+                  "actual": "1.7",
+                  "forecast": "-",
+                  "previous": "1.7"
+                },
+                {
+                  "date": "08/21",
+                  "actual": "1.7",
+                  "forecast": "-",
+                  "previous": "3.7"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "3.7",
+                  "forecast": "-",
+                  "previous": "6.9"
+                },
+                {
+                  "date": "06/18",
+                  "actual": "6.9",
+                  "forecast": "-",
+                  "previous": "6"
+                },
+                {
+                  "date": "05/19",
+                  "actual": "6",
+                  "forecast": "-",
+                  "previous": "3.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-23 21:14:43"
+            },
             {
               "id": "capital:1179147",
               "fid": "1179147",
@@ -385,8 +501,8 @@
               "importance": 1,
               "previous": "55.8",
               "forecast": "56",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "55.3",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179154",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -443,8 +559,8 @@
               "importance": 1,
               "previous": "56.2",
               "forecast": "56.3",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "56.3",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179152",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -501,8 +617,8 @@
               "importance": 1,
               "previous": "54.7",
               "forecast": "54.5",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "56",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179153",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -559,7 +675,7 @@
               "importance": 1,
               "previous": "2.2 %",
               "forecast": "1.9 %",
-              "actual": "-- %",
+              "actual": "1.9 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179155",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -617,7 +733,7 @@
               "importance": 1,
               "previous": "3.33 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "3.33 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179156",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -674,9 +790,9 @@
               "title": "法國11月服務業PMI初值",
               "importance": 1,
               "previous": "46.2",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "46.9",
+              "actual": "46.6",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179158",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -732,9 +848,9 @@
               "title": "法國11月綜合PMI初值",
               "importance": 1,
               "previous": "46.6",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "48.1",
+              "actual": "46.2",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179159",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -790,9 +906,9 @@
               "title": "法國11月製造業PMI初值",
               "importance": 2,
               "previous": "49.5",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "49.9",
+              "actual": "47.9",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179157",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -849,7 +965,7 @@
               "importance": 1,
               "previous": "7.24 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "7.11 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179160",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -906,9 +1022,9 @@
               "title": "德國11月服務業PMI初值",
               "importance": 1,
               "previous": "52.5",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "52.3",
+              "actual": "54",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179162",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -964,9 +1080,9 @@
               "title": "德國11月綜合PMI初值",
               "importance": 1,
               "previous": "53.4",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "53.3",
+              "actual": "55",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179163",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -1022,9 +1138,9 @@
               "title": "德國11月製造業PMI初值",
               "importance": 2,
               "previous": "54.2",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "54",
+              "actual": "55",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179161",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -1080,9 +1196,9 @@
               "title": "歐元區11月服務業PMI初值",
               "importance": 1,
               "previous": "51.4",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "51.8",
+              "actual": "51.2",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179165",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -1138,9 +1254,9 @@
               "title": "歐元區11月綜合PMI初值",
               "importance": 1,
               "previous": "51.7",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "51.9",
+              "actual": "51.7",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179166",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -1196,9 +1312,9 @@
               "title": "歐元區11月製造業PMI初值",
               "importance": 2,
               "previous": "52.7",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "52.8",
+              "actual": "52.9",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179164",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -1254,9 +1370,9 @@
               "title": "英國11月服務業PMI初值",
               "importance": 2,
               "previous": "52.8",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "53",
+              "actual": "52",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179168",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -1312,9 +1428,9 @@
               "title": "英國11月綜合PMI初值",
               "importance": 1,
               "previous": "52.9",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "53.1",
+              "actual": "52.3",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179169",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -1370,9 +1486,9 @@
               "title": "英國11月製造業PMI初值",
               "importance": 2,
               "previous": "52.8",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "53",
+              "actual": "52.7",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179167",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -26864,6 +26980,122 @@
   ],
   "items": [
     {
+      "id": "capital:1185429",
+      "fid": "1185429",
+      "interval": "this_week",
+      "date": "2026-11-23",
+      "time": "00:00",
+      "datetime": "2026-11-23 00:00:00",
+      "display_time": "11/23 00:00",
+      "country": "中國",
+      "title": "中國10月全社會用電量(億千瓦時)",
+      "importance": 2,
+      "previous": "8997",
+      "forecast": "--",
+      "actual": "8709",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185429",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "10/21",
+          "actual": "8997",
+          "forecast": "-",
+          "previous": "10332"
+        },
+        {
+          "date": "09/20",
+          "actual": "10332",
+          "forecast": "-",
+          "previous": "10400"
+        },
+        {
+          "date": "08/21",
+          "actual": "10400",
+          "forecast": "-",
+          "previous": "8981"
+        },
+        {
+          "date": "07/15",
+          "actual": "8981",
+          "forecast": "-",
+          "previous": "8671"
+        },
+        {
+          "date": "06/18",
+          "actual": "8671",
+          "forecast": "-",
+          "previous": "8205"
+        },
+        {
+          "date": "05/19",
+          "actual": "8205",
+          "forecast": "-",
+          "previous": "8595"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-23 21:14:43"
+    },
+    {
+      "id": "capital:1185428",
+      "fid": "1185428",
+      "interval": "this_week",
+      "date": "2026-11-23",
+      "time": "00:00",
+      "datetime": "2026-11-23 00:00:00",
+      "display_time": "11/23 00:00",
+      "country": "中國",
+      "title": "中國10月全社會用電量同比",
+      "importance": 3,
+      "previous": "1.2 %",
+      "forecast": "-- %",
+      "actual": "1.6 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185428",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "10/21",
+          "actual": "1.2",
+          "forecast": "-",
+          "previous": "1.7"
+        },
+        {
+          "date": "09/20",
+          "actual": "1.7",
+          "forecast": "-",
+          "previous": "1.7"
+        },
+        {
+          "date": "08/21",
+          "actual": "1.7",
+          "forecast": "-",
+          "previous": "3.7"
+        },
+        {
+          "date": "07/15",
+          "actual": "3.7",
+          "forecast": "-",
+          "previous": "6.9"
+        },
+        {
+          "date": "06/18",
+          "actual": "6.9",
+          "forecast": "-",
+          "previous": "6"
+        },
+        {
+          "date": "05/19",
+          "actual": "6",
+          "forecast": "-",
+          "previous": "3.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-23 21:14:43"
+    },
+    {
       "id": "capital:1179147",
       "fid": "1179147",
       "interval": "this_week",
@@ -27224,8 +27456,8 @@
       "importance": 1,
       "previous": "55.8",
       "forecast": "56",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "55.3",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179154",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -27282,8 +27514,8 @@
       "importance": 1,
       "previous": "56.2",
       "forecast": "56.3",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "56.3",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179152",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -27340,8 +27572,8 @@
       "importance": 1,
       "previous": "54.7",
       "forecast": "54.5",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "56",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179153",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -27398,7 +27630,7 @@
       "importance": 1,
       "previous": "2.2 %",
       "forecast": "1.9 %",
-      "actual": "-- %",
+      "actual": "1.9 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179155",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -27456,7 +27688,7 @@
       "importance": 1,
       "previous": "3.33 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "3.33 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179156",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -27513,9 +27745,9 @@
       "title": "法國11月服務業PMI初值",
       "importance": 1,
       "previous": "46.2",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "46.9",
+      "actual": "46.6",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179158",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -27571,9 +27803,9 @@
       "title": "法國11月綜合PMI初值",
       "importance": 1,
       "previous": "46.6",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "48.1",
+      "actual": "46.2",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179159",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -27629,9 +27861,9 @@
       "title": "法國11月製造業PMI初值",
       "importance": 2,
       "previous": "49.5",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "49.9",
+      "actual": "47.9",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179157",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -27688,7 +27920,7 @@
       "importance": 1,
       "previous": "7.24 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "7.11 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179160",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -27745,9 +27977,9 @@
       "title": "德國11月服務業PMI初值",
       "importance": 1,
       "previous": "52.5",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "52.3",
+      "actual": "54",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179162",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -27803,9 +28035,9 @@
       "title": "德國11月綜合PMI初值",
       "importance": 1,
       "previous": "53.4",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "53.3",
+      "actual": "55",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179163",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -27861,9 +28093,9 @@
       "title": "德國11月製造業PMI初值",
       "importance": 2,
       "previous": "54.2",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "54",
+      "actual": "55",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179161",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -27919,9 +28151,9 @@
       "title": "歐元區11月服務業PMI初值",
       "importance": 1,
       "previous": "51.4",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "51.8",
+      "actual": "51.2",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179165",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -27977,9 +28209,9 @@
       "title": "歐元區11月綜合PMI初值",
       "importance": 1,
       "previous": "51.7",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "51.9",
+      "actual": "51.7",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179166",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -28035,9 +28267,9 @@
       "title": "歐元區11月製造業PMI初值",
       "importance": 2,
       "previous": "52.7",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "52.8",
+      "actual": "52.9",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179164",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -28093,9 +28325,9 @@
       "title": "英國11月服務業PMI初值",
       "importance": 2,
       "previous": "52.8",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "53",
+      "actual": "52",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179168",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -28151,9 +28383,9 @@
       "title": "英國11月綜合PMI初值",
       "importance": 1,
       "previous": "52.9",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "53.1",
+      "actual": "52.3",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179169",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -28209,9 +28441,9 @@
       "title": "英國11月製造業PMI初值",
       "importance": 2,
       "previous": "52.8",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "53",
+      "actual": "52.7",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179167",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
