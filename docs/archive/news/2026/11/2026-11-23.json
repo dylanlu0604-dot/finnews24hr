@@ -1,7 +1,233 @@
 {
   "date": "2026-11-23",
-  "count": 1167,
+  "count": 1190,
   "items": [
+    {
+      "id": "mkt:01a208bc-ffa2-7bbc-acba-ce9462109411",
+      "time": "2026-11-23 22:08:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Jensen Huang: I can't wait to get back to work at NVIDIA."
+    },
+    {
+      "id": "5233155",
+      "time": "2026-11-23 22:08:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：美國司法部長已證實，美國政府沒有證據表明他從事任何非法行為。"
+    },
+    {
+      "id": "mkt:01a208bc-abdc-7bbc-acba-c50901852a00",
+      "time": "2026-11-23 22:08:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME tin extends intraday gains to 4.00%, trading at $42,720/ton. Shanghai’s most-active tin contract rises 4.78% to 325,000 yuan/ton."
+    },
+    {
+      "id": "5233154",
+      "time": "2026-11-23 22:08:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元下跌0.5%，至159.42。"
+    },
+    {
+      "id": "mkt:01a208bc-87ed-7bbc-acba-b9fefac51d56",
+      "time": "2026-11-23 22:08:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "U.S. President Donald Trump congratulated NVIDIA CEO Jensen Huang and said the company should continue its internal investigation."
+    },
+    {
+      "id": "5233153",
+      "time": "2026-11-23 22:08:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國沒有理由認為黃仁勳的迴歸會構成風險。"
+    },
+    {
+      "id": "mkt:01a208bc-41b5-7bbc-acba-b72f732c0cc9",
+      "time": "2026-11-23 22:08:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "U.S. President Trump: Nvidia's board made the right decision."
+    },
+    {
+      "id": "5233152",
+      "time": "2026-11-23 22:08:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：黃仁勳是一位愛國者，是國家的寶貴財富。"
+    },
+    {
+      "id": "5233151",
+      "time": "2026-11-23 22:07:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅日內漲超3.00%，現報12526.500美元/噸。"
+    },
+    {
+      "id": "5233150",
+      "time": "2026-11-23 22:07:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：國家需要黃仁勳在英偉達的領導。"
+    },
+    {
+      "id": "5233149",
+      "time": "2026-11-23 22:07:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：英偉達應繼續內部調查。"
+    },
+    {
+      "id": "5233148",
+      "time": "2026-11-23 22:07:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：祝賀黃仁勳。"
+    },
+    {
+      "id": "5233147",
+      "time": "2026-11-23 22:07:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普：英偉達董事會已作出正確決定。"
+    },
+    {
+      "id": "mkt:01a208bb-a8ea-7bbc-acba-a82c8ecc9011",
+      "time": "2026-11-23 22:07:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "EURUSD",
+        "Impact bullish",
+        "GBPUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Nvidia-related news prompted traders to increase bets on rate hikes by the European Central Bank and Bank of England."
+    },
+    {
+      "id": "mkt:01a208bb-8e1f-7bbc-acba-a7f4f5558a8a",
+      "time": "2026-11-23 22:07:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "MU.O",
+        "INTC.O"
+      ],
+      "text": "【U.S. semiconductor stocks surge, NVIDIA gains more than 30%】U.S. semiconductor stocks surged in premarket trading, with NVIDIA (NVDA) up as much as 30%. Marvell Technology (MRVL) rose 17%, Micron Technology (MU) and Arm (ARM) gained 16%, Intel (INTC) climbed 12%, ASML (ASML) added 11% and Qualcomm (QCOM) rose 10%."
+    },
+    {
+      "id": "5233146",
+      "time": "2026-11-23 22:07:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克100指數期貨漲幅擴大至近7%。"
+    },
+    {
+      "id": "5233145",
+      "time": "2026-11-23 22:06:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數期貨漲幅擴大至4.4%。"
+    },
+    {
+      "id": "5233144",
+      "time": "2026-11-23 22:06:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "德國國債收益率上升4.27個基點至3.102%；黃仁勳重新擔任英偉達執行長後，股市大漲。"
+    },
+    {
+      "id": "5233143",
+      "time": "2026-11-23 22:06:01",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "英偉達訊息公佈後，交易員加大對歐洲央行和英國央行加息的押注。"
+    },
+    {
+      "id": "5233142",
+      "time": "2026-11-23 22:05:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "NEBIUS股價飆升，盤前上漲29%。"
+    },
+    {
+      "id": "5233141",
+      "time": "2026-11-23 22:05:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "FORVIA股價盤前漲幅擴大至8.5%，創10月7日以來最大單日漲幅。"
+    },
+    {
+      "id": "5233140",
+      "time": "2026-11-23 22:05:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價漲幅擴大，盤前最後上漲31.3%。"
+    },
+    {
+      "id": "5233139",
+      "time": "2026-11-23 22:04:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指上漲2%，報106,725.60點。"
+    },
     {
       "id": "5233138",
       "time": "2026-11-23 22:04:51",
