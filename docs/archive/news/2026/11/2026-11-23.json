@@ -1,7 +1,50 @@
 {
   "date": "2026-11-23",
-  "count": 1054,
+  "count": 1059,
   "items": [
+    {
+      "id": "5233056",
+      "time": "2026-11-23 21:41:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【倫敦金屬交易所將下調電子交易費用，並提高場外交易收費】倫敦金屬交易所（LME）將於明年下調客戶在其電子平臺上的交易費用，同時提高多類雙邊交易及場外交易（OTC）的收費標準。此舉旨在提升電子交易的流動性，並增強價格透明度。LMEselect電子平臺上執行的客戶交易，費用將下調4.0%至7.4%，新費率自2027年1月1日起生效。LME在一份公告中表示：“過去兩年下調電子交易費用，旨在鼓勵交易集中在電子平臺上進行，從而促進價格透明形成。”相比之下，大多數會員與客戶之間的“場外雙邊交易”費用將上調19.4%至19.7%。"
+    },
+    {
+      "id": "5233055",
+      "time": "2026-11-23 21:40:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達美股盤前漲超9%，該股上週五大跌14%，較10月高點回落近50%。"
+    },
+    {
+      "id": "mkt:01a208a2-9572-7bbc-acb9-c5f9bbd0054e",
+      "time": "2026-11-23 21:40:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SAMR concludes 440 merger reviews in first three quarters】China’s SAMR concluded 440 merger reviews in the first three quarters of 2026: 420 unconditional approvals, 17 withdrawals after acceptance, two conditional approvals and one prohibition. Manufacturing accounted for 162 cases, or 38.6%. Other sectors with the most cases were utilities (51), transportation, warehousing and postal services (40), wholesale and retail (28), financial services (27) and real estate (26)."
+    },
+    {
+      "id": "mkt:01a208a1-d5d6-7bbc-acb9-bafb2b7e225a",
+      "time": "2026-11-23 21:39:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India sees no issues with its trade agreements with other countries despite a dispute over tariffs on Scotch whisky, the trade secretary said."
+    },
+    {
+      "id": "5233054",
+      "time": "2026-11-23 21:38:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易部長：在蘇格蘭威士忌關稅爭議之後，我們認為貿易協定下的其他國家沒有任何問題。"
+    },
     {
       "id": "5233053",
       "time": "2026-11-23 21:37:40",
