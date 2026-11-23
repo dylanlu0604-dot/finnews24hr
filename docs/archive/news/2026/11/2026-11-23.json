@@ -1,7 +1,35 @@
 {
   "date": "2026-11-23",
-  "count": 683,
+  "count": 686,
   "items": [
+    {
+      "id": "mkt:01a206af-8fd9-7bbc-acad-19e7f98024ef",
+      "time": "2026-11-23 12:34:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "【AMP chief economist says Australia recession risk rises to 40%】AMP Chief Economist Shane Oliver said Australia’s recession risk is high and rising, reaching 40%. The economy is showing signs of strain after five RBA rate hikes this year. Warning signals include falling house prices, weaker consumer and business confidence, mounting mortgage repayment stress, more layoffs and rising business failures. The RBA raised its cash rate this month to 4.85%, an 18-year high, to tackle stubbornly high inflation. October unemployment unexpectedly rose to 4.9%, its highest in five years, from 4.1% at the start of the year. Oliver said the direction of the unemployment rate matters more than its still-low level by historical standards. Weak jobs data and a tech-stock sell-off have prompted money markets to price in a possible RBA rate cut as early as May 2027."
+    },
+    {
+      "id": "5231893",
+      "time": "2026-11-23 12:34:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上週末三家地方國資上市公司密集調整董事長，均系工作調動】11月20日至22日，A股市場迎來一波地方國資上市公司董事長人事調整潮。新五豐（600975.SH）、佛塑科技（000973.SZ）、萬年青（000789.SZ）先後釋出公告，公司董事長因工作調動或組織安排辭去職務。三家企業均屬地方國有控股上市公司，本次人事變動均源於國資系統內部幹部統籌任用，屬於正常組織調整範疇，且各家均已完成過渡安排，生產經營未受明顯衝擊。（澎湃）"
+    },
+    {
+      "id": "5231892",
+      "time": "2026-11-23 12:32:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【AMP經濟學家：澳大利亞經濟衰退風險很高且仍在上升】AMP Ltd.首席經濟學家Shane Oliver稱，澳大利亞經濟陷入衰退的風險“很高且仍在上升”，在該國央行今年五次加息的壓力下，經濟顯露出承壓跡象。“我們認為經濟衰退的風險很高且仍在上升，目前已達40%，” Oliver週一在一份研報中寫道。他指出，房價走軟、消費者和企業信心惡化、抵押貸款償債困難事件增多、裁員增加以及企業倒閉數量增加，都加劇了這一風險。媒體對經濟學家的最新月度調查顯示，未來12個月澳大利亞經濟發生衰退的可能性為25%。該國將經濟連續兩個季度收縮定義為技術性衰退。"
+    },
     {
       "id": "5231891",
       "time": "2026-11-23 12:31:27",
