@@ -1,7 +1,50 @@
 {
   "date": "2026-11-23",
-  "count": 620,
+  "count": 626,
   "items": [
+    {
+      "id": "5231846",
+      "time": "2026-11-23 11:45:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里雲：為了提升服務質量與系統穩定性，基礎網路團隊計劃在2026-11-27進行網路裝置最佳化工作，最佳化內容為軟體維護/升級、冷補丁。影響範圍：上海 可用區D/B/L/K、上海雲預發演練環境 可用區C、華東2 金融雲 可用區K、張家口 可用區C、河源專屬雲汽車合規 可用區 A、河源 可用區A。預計部分會導致2次短暫的網路抖動/延遲/丟包，每次大約3秒鐘。請您在此期間儘量避免進行操作，若有業務操作，請避開變更視窗進行。給您帶來的不便敬請諒解。"
+    },
+    {
+      "id": "mkt:01a20682-086a-7bbc-acac-a2f3fa747af4",
+      "time": "2026-11-23 11:45:14",
+      "tags": [
+        "MKT News",
+        "600584.SS"
+      ],
+      "text": "【AgiBot Genie G2 robots enter JCET chip-testing line】AgiBot’s first batch of Genie G2 robots has completed integration at JCET’s automotive electronics plant in Shanghai’s Lingang area and begun trial operations in a chip-testing workshop, handling tasks including tray loading and unloading. The robots are connected to the factory’s manufacturing execution and equipment automation systems (MES/EAP) and can load trays awaiting testing, unload tested trays and automatically sort passing and failing products without human intervention. The companies will validate the robots in additional semiconductor packaging and testing processes."
+    },
+    {
+      "id": "5231845",
+      "time": "2026-11-23 11:43:44",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【國產算力迎新契機，換擋是為了更好地前行，創業板算力ETF華夏（158041）探底回升放量上漲】11月23日，創業板算力ETF華夏（158041）觸底回升，截止午盤漲0.49%，放量成交3.16億元。資金流向方面，近五日獲得淨申購1.28億元。興業證券表示，國產算力迎新契機，AI應用前沿不斷突破。英偉達財報驗證算力高景氣，美國加強對國內先進算力的出口管制，有望帶來國產算力發展的新契機。建議以時間換空間，逢低加倉國產算力核心龍頭。國盛證券認為，AI產業長期增長邏輯並未改變，但隨著算力基建與投資規模擴大，社會治理約束、高利率環境下商業回報壓力及基礎設施供給瓶頸逐步顯現。因此，在經歷恐慌下跌後，市場必須從敘事、融資和基礎設施建設三個維度重新建立錨點，AI產業換擋前行具有現實必要性，換擋是為了更好地前行。資料顯示，創業板算力ETF華夏（158041）緊密跟蹤創業板算力基礎設施指數，指數聚焦AI算力基礎設施產業鏈，是一鍵佈局算力硬體核心環節的便捷工具。"
+    },
+    {
+      "id": "5231844",
+      "time": "2026-11-23 11:43:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "1Point1贏得哥斯大黎加國家電信研究所（INA）價值1080萬美元的四年合同。"
+    },
+    {
+      "id": "5231843",
+      "time": "2026-11-23 11:42:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "塔塔鋼鐵股價在盤前交易中下跌1.8%。"
+    },
     {
       "id": "5231842",
       "time": "2026-11-23 11:41:24",
@@ -20,6 +63,15 @@
         "市場"
       ],
       "text": "塔塔鋼鐵收購股份後，APL APOLLO <APLA.NS> 盤前交易中股價下跌 7.85%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202611233937133523",
+      "time": "2026-11-23 11:41:04",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲觀察：利率期貨交易員預計12月加息機率不再是100%】芝商所的美聯儲觀察工具顯示，利率期貨交易員目前已不再百分百預計美聯儲下月將會加息——最新定價顯示下月加息25個基點的機率約為95.2%，按兵不動的機率則為4.8%。在一週前，市場交易員不僅百分百定價了下月加息，甚至一度預計有超過10%的機率大幅加息50個基點。"
     },
     {
       "id": "mkt:01a2067d-ea82-7bbc-acac-9b1db8b21f52",
