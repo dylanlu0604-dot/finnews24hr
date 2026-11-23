@@ -1,7 +1,44 @@
 {
-  "updated": "2026-11-23 11:39:02",
-  "count": 9183,
+  "updated": "2026-11-23 11:42:45",
+  "count": 9187,
   "items": [
+    {
+      "id": "5231842",
+      "time": "2026-11-23 11:41:24",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲觀察：利率期貨交易員預計12月加息機率不再是100%】上週美股遭遇劇烈拋售，兩大主要股指——標普500指數與道指相較近期高點，跌幅雙雙突破了10%，正式步入技術性回撥區間。而隨著股市重挫，交易員也迅速削減了對美聯儲後續加息力度的押注。芝商所的美聯儲觀察工具顯示，利率期貨交易員目前已不再百分百預計美聯儲下月將會加息——最新定價顯示下月加息25個基點的機率約為95.2%，按兵不動的機率則為4.8%。在一週前，市場交易員不僅百分百定價了下月加息，甚至一度預計有超過10%的機率大幅加息50個基點。"
+    },
+    {
+      "id": "5231841",
+      "time": "2026-11-23 11:41:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "塔塔鋼鐵收購股份後，APL APOLLO <APLA.NS> 盤前交易中股價下跌 7.85%。"
+    },
+    {
+      "id": "mkt:01a2067d-ea82-7bbc-acac-9b1db8b21f52",
+      "time": "2026-11-23 11:40:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Ant Group CEO: AI-enabled health management has vast demand potential】Ant Group CEO Han Xinyi said AI is expanding the scope of personal health management, shifting care from one-size-fits-all to personalized and from treatment-focused to health-focused. He said this is among AI’s most profound impacts on healthcare, on par with AI-driven medical services and drug discovery. AI is rapidly raising both the floor and ceiling of healthcare, making services more accessible and equitable while reshaping pharmaceutical R&D, Han said at the 2026 Ant Afu Healthcare Ecosystem Conference."
+    },
+    {
+      "id": "5231840",
+      "time": "2026-11-23 11:39:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【標普500指數期貨站上7100點】美股標普500指數期貨站上7100點，日內漲2.38%，納斯達克100指數期貨漲3.15%，道瓊斯指數期貨漲1.71%。"
+    },
     {
       "id": "5231839",
       "time": "2026-11-23 11:38:20",
