@@ -1,7 +1,202 @@
 {
-  "updated": "2026-11-23 21:34:27",
-  "count": 8917,
+  "updated": "2026-11-23 21:38:19",
+  "count": 8939,
   "items": [
+    {
+      "id": "5233053",
+      "time": "2026-11-23 21:37:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "庫拉利發表利率評論後，福林兌歐元上漲0.6%。"
+    },
+    {
+      "id": "5233052",
+      "time": "2026-11-23 21:37:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行副行長庫拉利：12月通脹報告將為全面評估這些因素提供空間。"
+    },
+    {
+      "id": "mkt:01a208a0-4cbf-7bbc-acb9-b78dd4d13ff1",
+      "time": "2026-11-23 21:37:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary Central Bank Deputy Governor Kurali: Domestic and international factors will be assessed when determining the scope for monetary policy action."
+    },
+    {
+      "id": "5233051",
+      "time": "2026-11-23 21:37:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元跌至一年低點 1.3064 美元。"
+    },
+    {
+      "id": "mkt:01a208a0-2d98-7bbc-acb9-a9164c3e13a0",
+      "time": "2026-11-23 21:37:24",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "India's trade secretary said the UK government had raised the issue of tariffs on Scotch whisky with India."
+    },
+    {
+      "id": "mkt:01a208a0-0d38-7bbc-acb9-a43d6625621c",
+      "time": "2026-11-23 21:37:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Hungary central bank Deputy Governor Kurali: The central bank ended its easing cycle in September; pausing is consistent with a cautious, data-driven approach."
+    },
+    {
+      "id": "5233050",
+      "time": "2026-11-23 21:37:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國汽車流通協會：10月全國二手車市場交易量150.74萬輛，同比下降14.25%】中國汽車流通協會資料顯示，2026年10月，全國二手車市場交易量150.74萬輛，環比下降4.16%，同比下降14.25%，交易金額為937.97億元。2026年1-10月，二手車累計交易量1587.12萬輛，同比下降3.76%，與同期相比減少61.95萬輛，累計交易金額為10301.98億元。"
+    },
+    {
+      "id": "5233049",
+      "time": "2026-11-23 21:37:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利庫拉利表示，國內和全球風險正被綜合評估。"
+    },
+    {
+      "id": "5233048",
+      "time": "2026-11-23 21:36:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易秘書：英國政府已向印度政府提出蘇格蘭威士忌關稅問題。"
+    },
+    {
+      "id": "5233047",
+      "time": "2026-11-23 21:36:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【古爾曼：蘋果AI智慧體最早明年底推出】知名科技記者馬克・古爾曼表示，蘋果近期針對Siri的裁員，主要裁撤負責語音助手舊底層架構的員工，新一代AI系統研發團隊並未受到波及。 古爾曼表示，儘管蘋果力求加快開發節奏、把重大更新分散到全年推送，但員工尚未感受到公司運轉模式有明顯變化。他還提到，蘋果正面臨激烈競爭：其他AI廠商迭代模型與服務的頻率遠高於蘋果一年一度的作業系統更新週期。 古爾曼認為，這套機制讓蘋果在後續開發週期裡，很難靈活應對競品的技術突破。他同時指出Siri現存短板：響應速度慢、第三方應用整合有限，聽寫體驗甚至出現下滑。 報道稱蘋果正在開發更先進的AI智慧體，但古爾曼預計該產品最早2027年底才會推出。"
+    },
+    {
+      "id": "5233046",
+      "time": "2026-11-23 21:36:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "庫拉利表示，匈牙利央行9月結束了寬鬆週期。"
+    },
+    {
+      "id": "5233045",
+      "time": "2026-11-23 21:36:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡說，該國面臨“重大威脅”。"
+    },
+    {
+      "id": "5233044",
+      "time": "2026-11-23 21:35:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行副行長庫拉利：這些有利因素將隨著時間的推移逐步反映在匈牙利央行的政策利率中。"
+    },
+    {
+      "id": "5233043",
+      "time": "2026-11-23 21:35:45",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【太古股份：擬配售2.53億股國泰航空股份】太古股份公告稱，公司於2026年11月23日與摩根大通、摩根士丹利及滙豐訂立配售協議，擬以每股14.23港元配售252,655,000股國泰航空股份，佔國泰航空已發行股份總數約4.15%。預計所得款項淨額約35.75億港元，擬用作一般營運資金，預計錄得收益約8.70億港元。配售完成後，公司對國泰航空持股將由約39.15%降至約35.00%。該事項構成上市規則項下主要交易，已獲持股約69.20%的香港太古集團有限公司書面批准，無需召開股東大會。配售事項尚需滿足先決條件，存在不確定性。"
+    },
+    {
+      "id": "mkt:01a2089e-7b02-7bbc-acb9-9f6a9666cd0e",
+      "time": "2026-11-23 21:35:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India has released a detained container carrying bulk Scotch whisky from a port, the trade secretary said."
+    },
+    {
+      "id": "5233042",
+      "time": "2026-11-23 21:35:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易秘書：裝有散裝蘇格蘭威士忌的被扣押集裝箱已從印度港口放行。"
+    },
+    {
+      "id": "mkt:01a2089e-007e-7bbc-acb9-944ce4f7d072",
+      "time": "2026-11-23 21:35:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. strategic oil reserves fall to lowest since 1982】U.S. crude stocks in the Strategic Petroleum Reserve fell to 273.5 mln barrels last week, the lowest since August 1982, DOE data showed. The decline is part of an earlier agreement to release 172 mln barrels from the reserve."
+    },
+    {
+      "id": "5233041",
+      "time": "2026-11-23 21:35:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行副行長庫拉利：財政整頓、經常賬戶穩定、工資增速放緩、政府的歐元目標以及有利的國內通脹趨勢，顯著改善了風險狀況。"
+    },
+    {
+      "id": "mkt:01a2089d-b987-7bbc-acb9-8d2cc766d254",
+      "time": "2026-11-23 21:34:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary Central Bank Deputy Governor Kurali says forint volatility is too high."
+    },
+    {
+      "id": "5233040",
+      "time": "2026-11-23 21:34:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行副行長庫拉利表示福林波動過大。"
+    },
+    {
+      "id": "mkt:01a2089d-7f91-7bbc-acb9-811cf424ee19",
+      "time": "2026-11-23 21:34:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Hungary central bank Deputy Governor Kurali: Global risk sentiment has deteriorated significantly."
+    },
+    {
+      "id": "5233039",
+      "time": "2026-11-23 21:33:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利愛迪生公司股票復牌後下跌0.4%。"
+    },
     {
       "id": "mkt:01a2089c-d819-7bbc-acb9-7aa207b8a688",
       "time": "2026-11-23 21:33:46",
