@@ -1,7 +1,52 @@
 {
   "date": "2026-11-23",
-  "count": 679,
+  "count": 683,
   "items": [
+    {
+      "id": "5231891",
+      "time": "2026-11-23 12:31:27",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛儲存行業展望：下調三星與海力士目標價，極端下行風險已計入股價】高盛釋出的全球半導體儲存行業報告中指出，AI 算力需求將繼續支撐 2027 年儲存晶片維持嚴重供不應求，但受消費電子疲軟及中國廠商擴產影響，2028 年供需將趨於緩和。高盛分析師 Giuni Lee 等下調了 2028 年傳統 DRAM與 NAND 價格預測，並將三星電子目標價從 50 萬韓元下調至 35 萬韓元，SK 海力士目標價從 350 萬韓元下調至 200 萬韓元。不過高盛透過三項壓力測試指出，兩家公司當前股價已提前反映了 2028年 AI 資本開支零增長及儲存價格再跌 40%的悲觀預期，疊加 2027至 2028 年高達 17%至 22%的股東回報率，繼續維持對兩家巨頭的買入評級。"
+    },
+    {
+      "id": "mkt:01a206ab-8441-7bbc-acad-17577cd0c18a",
+      "time": "2026-11-23 12:30:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【EU, Indonesia Sign Trade Deal to Eliminate Tariffs on Most Goods】The EU and Indonesia signed a comprehensive economic partnership agreement in Brussels on Saturday after more than a decade of negotiations, agreeing to eliminate tariffs on most goods and sign an investment protection deal. Tariffs on key EU exports, including meat and dairy, will be scrapped, while duties on cars, machinery, chemicals and pharmaceuticals will be cut. About 90% of Indonesian exports to the EU will become tariff-free, with remaining tariffs phased out over three to 15 years or subject to preferential quotas. The EU expects exports to Indonesia to rise nearly 40% over 15 years and Indonesia’s goods and services exports to the EU to grow more than 14%. The agreements are projected to add 16 billion euros to EU GDP and 27 billion euros to Indonesia’s. They require European Parliament approval and Indonesian ratification, with provisional application expected in early 2027."
+    },
+    {
+      "id": "mkt:01a206a9-f5d6-7bbc-acad-0c75196890bd",
+      "time": "2026-11-23 12:28:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Goldman Sachs cuts PTs on Samsung Electronics and SK Hynix】Goldman Sachs cut its PTs on Samsung Electronics and SK Hynix on a weaker 2028 pricing outlook. It now forecasts 2028 DRAM prices will fall 19% YoY, versus a previous forecast of a 5% decline, and NAND prices will fall 21%, versus 14% previously. Samsung's PT was cut to KRW 350,000 from KRW 500,000, and SK Hynix's to KRW 2 million from KRW 3.5 million."
+    },
+    {
+      "id": "5231890",
+      "time": "2026-11-23 12:28:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "政府訊息人士稱，在發現 Bisleri 存在問題後，印度將在全國範圍內對 Bisleri 和其他瓶裝水品牌的樣本進行更多檢測。"
+    },
     {
       "id": "5231889",
       "time": "2026-11-23 12:27:48",
