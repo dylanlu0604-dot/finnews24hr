@@ -1,7 +1,116 @@
 {
   "date": "2026-11-23",
-  "count": 1021,
+  "count": 1032,
   "items": [
+    {
+      "id": "mkt:01a2089c-d819-7bbc-acb9-7aa207b8a688",
+      "time": "2026-11-23 21:33:46",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury adviser Zervos: Financial conditions tightened last week."
+    },
+    {
+      "id": "5233038",
+      "time": "2026-11-23 21:33:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部顧問戴維·澤沃斯：上週金融環境趨緊。"
+    },
+    {
+      "id": "5233037",
+      "time": "2026-11-23 21:33:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯11月1日至20日透過港口發運110萬噸穀物。"
+    },
+    {
+      "id": "mkt:01a2089a-fca4-7bbc-acb9-73743dae57bb",
+      "time": "2026-11-23 21:31:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "The Trump Trade",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said he hopes NVIDIA CEO Jensen Huang will return to NVIDIA soon."
+    },
+    {
+      "id": "5233036",
+      "time": "2026-11-23 21:31:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普表示，希望黃仁勳很快回到英偉達。"
+    },
+    {
+      "id": "5233035",
+      "time": "2026-11-23 21:31:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Adocyte公司獲得以色列創新局第二筆撥款，用於將其突破性胰腺癌早期檢測技術商業化。"
+    },
+    {
+      "id": "mkt:01a2089a-2693-7bbc-acb9-6f57023521ac",
+      "time": "2026-11-23 21:30:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "The Chicago Fed National Activity Index fell to -0.06 in October from 0.07."
+    },
+    {
+      "id": "mkt:01a2089a-1877-7bbc-acb9-6667342b91ec",
+      "time": "2026-11-23 21:30:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Chicago Fed National Activity Index (Oct) | actual -0.06 | previous 0.07"
+    },
+    {
+      "id": "5233034",
+      "time": "2026-11-23 21:30:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "Klarna擴大與Visa的合作協議。"
+    },
+    {
+      "id": "5233033",
+      "time": "2026-11-23 21:30:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "信實全球集團董事長及高階高管個人購入公司約11%的流通股。"
+    },
+    {
+      "id": "5233032",
+      "time": "2026-11-23 21:30:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "芝加哥聯儲10月全國活動指數為-0.06。"
+    },
     {
       "id": "mkt:01a20899-84a7-7bbc-acb9-5a9804749a33",
       "time": "2026-11-23 21:30:08",
