@@ -1,7 +1,55 @@
 {
   "date": "2026-11-23",
-  "count": 661,
+  "count": 666,
   "items": [
+    {
+      "id": "5231879",
+      "time": "2026-11-23 12:16:40",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【印尼盾與股市因MSCI會談訊息雙雙反彈】據媒體報道，MSCI執行長亨利·費爾南德斯（Henry Fernandez）告訴印尼總統普拉博沃，該指數編制機構願意考慮替代方案，以避免將該國市場地位直接下調兩級。受此訊息提振，印尼盾和當地股市雙雙走高，表現優於周邊同類市場。美元兌印尼盾匯率下跌0.4%至18,202，此前該匯率在過去兩週已累計上漲0.9%。 多數主要新興市場貨幣兌美元走弱。雅加達綜合指數在早些時候下跌1.6%後，上漲1.2%。該指數有望終結此前的五連跌。交易所資料顯示，上週五，全球投資者淨賣出5180萬美元的印尼股票。三菱日聯銀行（MUFG Bank）外匯策略師Lloyd Chan表示：“最新的MSCI相關訊息對印尼盾構成邊際利好，因此市場可能不太熱衷於直接做多美元兌印尼盾。”"
+    },
+    {
+      "id": "mkt:01a2069d-0a48-7bbc-acac-e87ca9f32729",
+      "time": "2026-11-23 12:14:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Highway and waterway upgrades account for over 33% of China transport investment in first 10 months】Investment in upgrading and digitally transforming China’s highways and waterways rose as a share of transport infrastructure investment, exceeding 33% in the first 10 months. More than 80% of China’s national comprehensive transport network has been built, while 40% of transport infrastructure has been in service for over 20 years. By 2030, over 50% of ordinary roads are expected to be more than 15 years old and over 50% of railways to have been in operation for more than 20 years."
+    },
+    {
+      "id": "5231878",
+      "time": "2026-11-23 12:14:33",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【東吳證券：看好保險股低估值、高股息屬性的配置價值 行業維持“增持”評級】東吳證券釋出研報稱，基本面仍具韌性，看好保險股低估值、高股息屬性的配置價值。1)上市險企歷史每股股息整體態勢穩中有升，近三年增長明顯，且目前各公司分紅政策主要為維持每股股息的穩定增長，因此無需擔憂淨利潤波動的影響，具有明顯紅利屬性。按11月18日收盤價計算，A股保險股TTM股息率大多在5%左右，H股多家已經超過6%，股息率吸引力已經較為明顯。2)2026Q3末公募基金對保險股持倉比例微升至0.46%，仍屬欠配。2026年11月18日保險板塊估值2026E 0.47-0.80倍PEV、0.92-1.65倍PB，處於歷史低位，行業維持“增持”評級。"
+    },
+    {
+      "id": "5231877",
+      "time": "2026-11-23 12:13:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年前十個月我國公路水路更新和數智化改造投資佔比超33%】記者從交通運輸部瞭解到，今年以來我國公路水路更新和數智化改造完成投資佔比不斷提升。今年前十個月，這項投資佔交通建設投資的比重超33%。最新資料顯示，我國國家綜合立體交通網建成率已超80%，但目前服役超過20年的交通基礎設施佔四成；到2030年，我國路齡超過15年的普通公路和投產年限超過20年的鐵路佔比將超過50%。"
+    },
+    {
+      "id": "5231876",
+      "time": "2026-11-23 12:13:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海微電子、中芯聚源等在無錫成立股權投資基金】企查查APP顯示，近日，微科聚源股權投資基金（無錫）合夥企業（有限合夥）成立，出資額為1.2億元，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動；創業投資（限投資未上市企業）。企查查股權穿透顯示，該合夥企業由中芯聚源私募基金管理（上海）有限公司全資子公司聚源盛業投資（寧波）有限公司、上海微電子裝備（集團）股份有限公司旗下上海微諾科企業管理有限公司等共同持股。"
+    },
     {
       "id": "5231875",
       "time": "2026-11-23 12:12:52",
