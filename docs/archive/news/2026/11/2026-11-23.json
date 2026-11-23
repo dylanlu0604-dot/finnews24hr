@@ -1,7 +1,115 @@
 {
   "date": "2026-11-23",
-  "count": 995,
+  "count": 1007,
   "items": [
+    {
+      "id": "mkt:01a20892-588f-7bbc-acb9-49ee3cd7dff1",
+      "time": "2026-11-23 21:22:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India will honor its commitments under the India-UK trade agreement, the trade secretary says."
+    },
+    {
+      "id": "5233019",
+      "time": "2026-11-23 21:22:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易部長：印度遵守印英貿易協定項下的承諾。"
+    },
+    {
+      "id": "mkt:01a20891-d71f-7bbc-acb9-41bd47b98486",
+      "time": "2026-11-23 21:21:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China's SC crude oil futures main contract fell 2.00% intraday to 571.30 yuan/bbl."
+    },
+    {
+      "id": "mkt:01a20891-bc88-7bbc-acb9-39e7ca5a9eac",
+      "time": "2026-11-23 21:21:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude extends intraday losses to 2%, trading at $90.68/bbl."
+    },
+    {
+      "id": "5233018",
+      "time": "2026-11-23 21:21:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內跌2%，現報8108.00元。"
+    },
+    {
+      "id": "5233017",
+      "time": "2026-11-23 21:21:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "上週，美國戰略石油儲備的原油庫存降至2.735億桶，為1982年以來的最低水平。"
+    },
+    {
+      "id": "5233016",
+      "time": "2026-11-23 21:21:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "CrowdStrike執行長表示，公司業績指引未包含已宣佈的Zscaler收購交易。"
+    },
+    {
+      "id": "5233015",
+      "time": "2026-11-23 21:21:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌2%，現報90.61美元/桶。"
+    },
+    {
+      "id": "5233014",
+      "time": "2026-11-23 21:21:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌2%，現報8455.00元。"
+    },
+    {
+      "id": "5233013",
+      "time": "2026-11-23 21:21:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌2%，現報81.74美元/桶。"
+    },
+    {
+      "id": "5233012",
+      "time": "2026-11-23 21:19:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡表示，大多數民眾希望組建團結政府。回應以色列反對派領導人艾森科特稱，那些輕視威脅的人是出於政治原因。他表示應與宗教黨派組建團結政府，並應與他們解決徵兵問題。"
+    },
+    {
+      "id": "mkt:01a2088e-d073-7bbc-acb9-3489a72eca3f",
+      "time": "2026-11-23 21:18:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A spokesman for the speaker of Libya’s House of Representatives said there is currently no official information on Ukrainian soldiers being in Libya."
+    },
     {
       "id": "mkt:01a2088d-de10-7bbc-acb9-2e434741bd7f",
       "time": "2026-11-23 21:17:24",
