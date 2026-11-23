@@ -1,7 +1,57 @@
 {
   "date": "2026-11-23",
-  "count": 642,
+  "count": 647,
   "items": [
+    {
+      "id": "5231867",
+      "time": "2026-11-23 12:05:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大快活集團：中期溢利增加150.0%至3300萬港元】大快活集團公告，截至2026年9月30日止六個月，收入增加5.3%，為15.98億港元（2025年：15.175億港元）；公司權益股東應占本期間溢利增加150.0%，為3300萬港元（2025年：1320萬港元）；毛利率上升至8.8%（2025年：8.1%）；每股基本盈利為25.5港仙（2025年：10.20港仙）；董事會宣派中期股息為每股15港仙；經調整EBITDA由7900萬港元上升至9620萬港元；銀行存款及現金和現金等價物增加10.1%，為6.33億港元。"
+    },
+    {
+      "id": "5231865",
+      "time": "2026-11-23 12:05:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【英諾賽科：獲納入恒生科技指數成份股，2026年12月7日起生效】英諾賽科公告，根據恒生指數有限公司於2026年11月20日刊發的指數檢討結果，公司已獲納入恒生科技指數成份股，自2026年12月7日起生效。董事會認為，此舉體現公司在收入增長、市場流動性及科技產業地位等方面的綜合競爭力，反映資本市場對公司業務發展、科技創新能力及增長潛力的認可，並有助於提升公司在資本市場的知名度、拓寬投資者基礎及提升H股市場關注度與交易流動性。"
+    },
+    {
+      "id": "mkt:01a20693-1581-7bbc-acac-bbfd4ee089ab",
+      "time": "2026-11-23 12:03:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Market Themes",
+        "China EV Leaders",
+        "Hang Seng Index",
+        "Impact bearish",
+        "2899.HK",
+        "Impact bullish"
+      ],
+      "text": "【Hong Kong stocks: HSI falls 0.64% at midday; gold shares rise】Hong Kong stocks opened lower and recovered in choppy morning trade, after the Hang Seng Tech Index briefly fell more than 3%. At midday, the HSI was down 0.64% and the Hang Seng Tech Index 1.09%. Gold stocks rose against the market, with Chifeng Gold up more than 7% and Zijin Mining up more than 3%. Optical communications and biopharma shares also gained, while film, memory, PCB, liquid-cooling and port-transport stocks were active. EV makers led declines, with Leapmotor down more than 14% and XPeng more than 7%; battery, property, new-consumer, OLED, autonomous-driving and building-material stocks also fell."
+    },
+    {
+      "id": "5231864",
+      "time": "2026-11-23 12:02:47",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【盈利預期與增量資金共振可期，滬深300ETF華泰柏瑞（510300）半日成交額達22.42億元，重倉股新易盛漲8.17%】11月23日，截止午盤，滬深300ETF華泰柏瑞（510300）跌0.42%，成交額22.42億元。重倉股方面，新易盛漲8.17%，中際旭創漲4.78%，紫金礦業、藥明康德漲超2%。規模方面，截止11月20日，華泰柏瑞滬深300ETF（510300）最新份額為551.85億份，最新規模為2223.18億元，穩居非貨幣ETF規模榜首，流動性優勢突出。東吳證券認為，近月以來資本市場穩市託底持續推進，增量資金流入為市場提供支撐，超跌後的修復視窗或臨近。申萬宏源認為，雖然當前宏觀經濟遭遇多方面衝擊，但部分傳統行業出清正在加速，中下游行業的出清更加明顯，對物價和利潤的支撐已經顯現，資產週轉率也呈築底改善跡象。隨著剛性成本下降、AI投資“擠出效應”減弱，2027年社會集團消費的空間釋放值得期待。申萬宏源還表示，人工智慧、半導體、算力基礎設施、高階製造等科技產業趨勢仍在延續，技術突破與產業落地有望催生新的回報來源，資本市場發展仍需市場信心、增量資金與盈利預期形成共振。在產品費率方面，滬深300ETF華泰柏瑞（510300）的管理費率、託管費率分別為0.15%/年、0.05%/年，是當前A股市場權益指數產品中的最低一檔費率結構水平。投資者可借道該產品，一鍵佈局A股核心資產，把握低位配置機會。"
+    },
+    {
+      "id": "5231863",
+      "time": "2026-11-23 12:01:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【直真科技在浙江成立智慧裝置公司】企查查APP顯示，近日，勤智算（浙江）智慧裝置有限公司成立，法定代表人為曹金鋒，註冊資本為1000萬元，經營範圍包含計算機軟硬體及外圍裝置製造；雲端計算裝置製造；雲端計算裝置銷售；資料處理和儲存支援服務等。企查查股權穿透顯示，該公司由直真科技旗下深圳勤資料科技有限公司全資持股。"
+    },
     {
       "id": "5231862",
       "time": "2026-11-23 12:01:06",
