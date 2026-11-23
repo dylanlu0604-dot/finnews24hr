@@ -1,7 +1,334 @@
 {
-  "updated": "2026-11-23 22:01:30",
-  "count": 9019,
+  "updated": "2026-11-23 22:05:26",
+  "count": 9042,
   "items": [
+    {
+      "id": "5233138",
+      "time": "2026-11-23 22:04:51",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達美股盤前漲幅擴大至30%。訊息面上，英偉達董事會一致同意恢復黃仁勳CEO職務。"
+    },
+    {
+      "id": "5233137",
+      "time": "2026-11-23 22:04:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "戴爾科技盤前股價上漲超過22%。"
+    },
+    {
+      "id": "mkt:01a208b9-1cce-7bbc-acba-9dc5dc48b2ec",
+      "time": "2026-11-23 22:04:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold briefly climbed to $3,665.90 an ounce, up more than 3% on the day."
+    },
+    {
+      "id": "5233136",
+      "time": "2026-11-23 22:04:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安聘請Mandiant、SlowMist和Verichains進行獨立第三方安全審查。"
+    },
+    {
+      "id": "mkt:01a208b9-1674-7bbc-acba-93fc608f458e",
+      "time": "2026-11-23 22:04:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Anthropic shares rose 4.2%."
+    },
+    {
+      "id": "5233135",
+      "time": "2026-11-23 22:04:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "ANTHROPIC 股價盤前飆升，上漲 4.2%。"
+    },
+    {
+      "id": "mkt:01a208b8-d97d-7bbc-acba-8fe837246545",
+      "time": "2026-11-23 22:04:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "U.S. cloud services and data center stocks rose premarket after NVIDIA reinstated Jensen Huang as CEO. CoreWeave gained 29%, IREN 22.7%, Nebius 27.3%, Applied Digital 21.5%, Core Scientific 16.4% and Hut 8 17.6%."
+    },
+    {
+      "id": "mkt:01a208b8-a8b6-7bbc-acba-84d8c453c521",
+      "time": "2026-11-23 22:04:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME copper is up 2.00% at $12,408/mt, while LME zinc has gained 2.00% to $3,563/mt."
+    },
+    {
+      "id": "5233134",
+      "time": "2026-11-23 22:03:44",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "英偉達重新任命黃仁勳為執行長，美國Neocloud和資料中心公司股價盤前上漲，APPLIED DIGITAL 上漲 21.5%，CORE SCIENTIFIC 上漲 16.4%，HUT 8 上漲 17.6%。CoreWeave 上漲 29%，IREN 上漲 22.7%，Nebius 上漲 27.3%。"
+    },
+    {
+      "id": "mkt:01a208b7-eb69-7bbc-acba-7c9ca379771d",
+      "time": "2026-11-23 22:03:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "The most-active Shanghai tin futures contract rose 4.00% intraday to 322,680 yuan/mt."
+    },
+    {
+      "id": "5233133",
+      "time": "2026-11-23 22:03:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME三個月期錫<CMSN3>上漲4%，至每噸42,500美元。"
+    },
+    {
+      "id": "5233132",
+      "time": "2026-11-23 22:02:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "Vivakor簽署協議，以4000萬美元收購Direct Midstream。"
+    },
+    {
+      "id": "5233131",
+      "time": "2026-11-23 22:02:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達表示，哈維·C·瓊斯將繼續擔任董事會主席。"
+    },
+    {
+      "id": "5233130",
+      "time": "2026-11-23 22:02:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內漲4%，現報322680.00元。"
+    },
+    {
+      "id": "mkt:01a208b7-41bc-7bbc-acba-735616644d79",
+      "time": "2026-11-23 22:02:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's central bank kept its benchmark rate at 3.25%, as expected."
+    },
+    {
+      "id": "5233129",
+      "time": "2026-11-23 22:02:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "COREWEAVE股價盤前上漲31%。"
+    },
+    {
+      "id": "5233128",
+      "time": "2026-11-23 22:02:25",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "以色列央行表示，謝克爾大幅貶值，同時全球股指大幅下跌，但以色列的風險溢價仍與2023年10月7日之前的水平相似。"
+    },
+    {
+      "id": "5233127",
+      "time": "2026-11-23 22:02:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅日內漲超2.00%，現報12404.040美元/噸。"
+    },
+    {
+      "id": "5233126",
+      "time": "2026-11-23 22:02:18",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "標普500指數期貨漲幅擴大至3.8%。"
+    },
+    {
+      "id": "5233125",
+      "time": "2026-11-23 22:02:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破3660美元/盎司，日內漲3.60%。"
+    },
+    {
+      "id": "mkt:01a208b6-eaaa-7bbc-acba-6d440038fcf7",
+      "time": "2026-11-23 22:02:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm's gains quickly widened to 10%."
+    },
+    {
+      "id": "5233124",
+      "time": "2026-11-23 22:02:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨漲4.01%，現報7212.750點；道瓊斯指數期貨漲2.44%，現報49393.910點；納斯達克指數期貨漲6.35%，現報26723.090點。"
+    },
+    {
+      "id": "mkt:01a208b6-d925-7bbc-acba-62aee402dbaf",
+      "time": "2026-11-23 22:02:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "The iShares Semiconductor ETF surged 13% in premarket trading."
+    },
+    {
+      "id": "5233123",
+      "time": "2026-11-23 22:01:59",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【黃仁勳： 很榮幸重返英偉達】黃仁勳表示：“我很榮幸重返英偉達，在新一輪工業革命開啟之際，帶領這家全球最重要的科技企業之一。我懷著極大的謙卑之心扛起這份責任，並重申我的承諾。感謝英偉達董事會在整個過程中審慎考量、給予信任。特別感謝哈維·瓊斯作為董事會主席的擔當，也感謝科萊特·克雷斯以及高管團隊在此期間帶領公司穩步前行。我由衷感謝全體員工、股東、行業同仁以及全球合作伙伴給予的鼎力支援。最重要的是，感謝家人的關愛與支援。我已經迫不及待重返工作崗位。”"
+    },
+    {
+      "id": "5233122",
+      "time": "2026-11-23 22:01:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元上漲0.5%，至159.37。"
+    },
+    {
+      "id": "mkt:01a208b6-99d5-7bbc-acba-5bbe27b73fca",
+      "time": "2026-11-23 22:01:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose more than $40 at one point, reaching a high of $3,659.78 an ounce."
+    },
+    {
+      "id": "mkt:01a208b6-88fd-7bbc-acba-528d2fef221e",
+      "time": "2026-11-23 22:01:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【NVIDIA: Will Continue Investigating Jensen Huang】NVIDIA (NVDA.O) said Kress’s tenure as interim CEO has ended and he will remain CFO. The board has formed a committee to investigate related reports and will continue investigating Jensen Huang. The company is seeking a new chief compliance officer and is confident that restoring the arrangements will pose no national security risk."
+    },
+    {
+      "id": "5233121",
+      "time": "2026-11-23 22:01:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率最新上漲8.51個基點，至4.698%。"
+    },
+    {
+      "id": "5233120",
+      "time": "2026-11-23 22:01:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報10337.00元。"
+    },
+    {
+      "id": "5233119",
+      "time": "2026-11-23 22:01:31",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "英偉達董事會投票決定恢復黃仁勳職務後，美國國債收益率上升；10 年期美國國債收益率最後上漲 4.37 個基點，至 4.956%。"
+    },
+    {
+      "id": "5233118",
+      "time": "2026-11-23 22:01:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "高通迅速將盤前漲幅擴大到10%。"
+    },
+    {
+      "id": "5233117",
+      "time": "2026-11-23 22:01:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "幣安聘請三家公司進行獨立的第三方安全調查。"
+    },
+    {
+      "id": "5233116",
+      "time": "2026-11-23 22:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克100指數期貨漲幅擴大至6%。"
+    },
     {
       "id": "mkt:01a208b5-a80b-7bbc-acba-48f5d9f66a32",
       "time": "2026-11-23 22:00:52",
@@ -80353,86 +80680,6 @@
         "焦點"
       ],
       "text": "【AMD完成對World Labs的收購，李飛飛出任執行副總裁兼首席科學家】11月16日，AMD宣佈完成對AI研究公司World Labs的收購，以增強其在AI模型領域的研發能力。World Labs專注於開發可建立和模擬互動式3D環境的AI模型，以及機器人學習與模擬技術。World Labs創始人李飛飛加入AMD，擔任執行副總裁兼首席科學家，直接向AMD董事長兼執行長蘇姿豐彙報。"
-    },
-    {
-      "id": "5218192",
-      "time": "2026-11-16 22:04:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【西班牙加那利群島兩天湧入逾兩千移民】西班牙海上救援部門15日說，過去兩天內已有近2200名非法移民乘船抵達加那利群島。 加那利群島是西班牙17個自治區之一，位於非洲西北部海域，與非洲大陸最近距離僅100多公里，是許多非法移民經大西洋偷渡至歐洲的登陸地。為躲避海上檢查和攔截，很多偷渡者選擇繞遠航行，在海上的時間可能長達數天乃至數週。由於當地海域在秋季更適宜航行，這一時期抵達加那利群島的非法移民人數往往激增。（新華社）"
-    },
-    {
-      "id": "5218191",
-      "time": "2026-11-16 22:03:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【戴爾釋出支撐企業級智慧體AI規模化擴充套件的可信資料與AI基礎設施底座】據戴爾科技，依託420多項產品與6500多家客戶基礎，戴爾與英偉達聯合打造的AI工廠（Dell AI Factory with NVIDIA）實現全棧覆蓋，助力企業充滿信心地將AI應用推向生產環境。大規模AI資料準備：全新戴爾AI資料平臺（Dell AI Data Platform）功能及生態系統整合，將企業資料轉化為AI智慧體可訪問和使用的可信、受治理的上下文資訊，並執行在客戶自主擁有和掌控的基礎設施上。智慧體AI的智慧化管理：全新的計算與網路軟體管理工具可加速智慧體工作負載、簡化運維流程，幫助企業更快地從基礎設施部署邁向生產環境。適用於各類用例的經過驗證的端到端解決方案：不斷擴充套件的經過驗證的AI解決方案生態系統、全新透過驗證的模組化基礎設施以及戴爾的新服務，為企業從概念驗證（PoC）到生產環境提供了更低風險的落地路徑。"
-    },
-    {
-      "id": "5218190",
-      "time": "2026-11-16 22:03:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "TensorWave：AI基礎設施產能預計將於2027年上半年開始投產，預計到2028年初完成全面部署。"
-    },
-    {
-      "id": "5218189",
-      "time": "2026-11-16 22:03:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉：預計2029年開始生產。"
-    },
-    {
-      "id": "5218188",
-      "time": "2026-11-16 22:03:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "TENSORWAVE：將為OPENAI提供457兆瓦的IT容量，覆蓋美國多個資料中心站點，由AMD INSTINCT MI455X GPU提供支援。"
-    },
-    {
-      "id": "5218187",
-      "time": "2026-11-16 22:02:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI曾探討以至少50億美元收購Goodfire。"
-    },
-    {
-      "id": "5218186",
-      "time": "2026-11-16 22:02:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴爾推出面向企業AI的代理式資料閘道器。"
-    },
-    {
-      "id": "5218185",
-      "time": "2026-11-16 22:02:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "華碩宣佈，搭載英特爾酷睿Ultra X9 vPro的ExpertBook B5 Flip G2與ExpertBook Ultra現已在美上市。"
-    },
-    {
-      "id": "5218184",
-      "time": "2026-11-16 22:02:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃克森美孚旗下控股子公司啟動票據收購要約，規模最高達30億美元。"
-    },
-    {
-      "id": "5218183",
-      "time": "2026-11-16 22:02:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃克森美孚：以現金要約收購部分未償票據。"
     }
   ]
 }
