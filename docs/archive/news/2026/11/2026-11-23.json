@@ -1,7 +1,101 @@
 {
   "date": "2026-11-23",
-  "count": 1076,
+  "count": 1085,
   "items": [
+    {
+      "id": "5233074",
+      "time": "2026-11-23 21:53:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌4%，現報4080.00元。"
+    },
+    {
+      "id": "5233073",
+      "time": "2026-11-23 21:52:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌3%，現報89.78美元/桶。"
+    },
+    {
+      "id": "mkt:01a208ad-e310-7bbc-acba-06deb6ef25ee",
+      "time": "2026-11-23 21:52:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Oil extends decline; Brent falls below $90】Brent crude fell below $90 a barrel, down 2.76% on the day. WTI crude touched $82 a barrel, down 3.33%."
+    },
+    {
+      "id": "5233072",
+      "time": "2026-11-23 21:51:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌3%，現報80.90美元/桶。"
+    },
+    {
+      "id": "5233071",
+      "time": "2026-11-23 21:51:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守90美元/桶，日內跌2.85%。"
+    },
+    {
+      "id": "5233070",
+      "time": "2026-11-23 21:51:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守81美元/桶，日內跌2.90%。"
+    },
+    {
+      "id": "mkt:01a208ac-adbf-7bbc-acb9-fc13a90d3301",
+      "time": "2026-11-23 21:51:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon will acquire Decart’s AI optimization technology to advance customer-facing chip and model innovation."
+    },
+    {
+      "id": "mkt:01a208ac-1b82-7bbc-acb9-f5a0d41be6ce",
+      "time": "2026-11-23 21:50:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon will bring Decart AI’s co-founder and team aboard."
+    },
+    {
+      "id": "5233069",
+      "time": "2026-11-23 21:49:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌2%，現報2969.00元。"
+    },
     {
       "id": "5233068",
       "time": "2026-11-23 21:49:13",
