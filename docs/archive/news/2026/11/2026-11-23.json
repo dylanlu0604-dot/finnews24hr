@@ -1,7 +1,76 @@
 {
   "date": "2026-11-23",
-  "count": 653,
+  "count": 661,
   "items": [
+    {
+      "id": "5231875",
+      "time": "2026-11-23 12:12:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【藥明生物美國新澤西基地完成商業化專案PPQ生產】11月23日，藥明生物宣佈，其位於美國新澤西州克蘭伯裡的生物藥原液十八廠（MFG18）成功完成商業化專案工藝效能確認（PPQ）生產。"
+    },
+    {
+      "id": "mkt:01a2069b-429f-7bbc-acac-e50c5b9198cb",
+      "time": "2026-11-23 12:12:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ant Group open-sources LingSante-3.1-flash medical AI model】Ant Group said on Nov. 23 it had open-sourced LingSante-3.1-flash, a medical AI model that it said achieved open-source state-of-the-art results across several reasoning, safety-alignment and agent benchmarks. The model ranked first among open-source models on InclusionMed’s global medical AI index. Designed for professional medical use, it supports context windows of up to 1 mln tokens and can analyze complex cases, retrieve and synthesize medical evidence, and assist with multistep tasks using tools. It is already deployed in Ant Afu."
+    },
+    {
+      "id": "5231874",
+      "time": "2026-11-23 12:12:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【螞蟻阿福宣佈啟動全球化，國際版App將在多個國家和地區上線】11月23日上午訊息，2026螞蟻阿福醫療健康生態大會舉行。會上，螞蟻阿福宣佈啟動國際化，阿福國際版App即將上線全球多個國家和地區。海外使用者也將可以免費使用阿福，獲取健康問答、健康管理等服務。阿福App特色的拍報告、拍皮膚、深度問答等功能也將在國際版上線。在香港地區，阿福香港版App支援簡體中文、繁體中文（含粵語）和英文提問交流，並將率先上線跨境就醫、跨境商保直付等本地特色服務。未來，香港居民透過阿福香港版App跨境就醫將更加便捷，包括找醫院、找醫生、預約體檢和牙科服務等。商保跨境直付方面，未來香港使用者憑保單在阿福香港版App內啟用醫療保障卡後，即可實現香港保單在螞蟻健康服務網路內醫院就醫的商保直付，不用自己墊資。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a20699-cc2e-7bbc-acac-d9d02966c1cd",
+      "time": "2026-11-23 12:11:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BofA expects unanimous Bank of Korea rate hike this week】BofA Global Research expects the Bank of Korea to raise rates on Thursday, likely in a unanimous decision. With headline inf above 2.5%, the case for further tightening to curb price pressures remains strong. South Korea’s growing current-account surplus supports the won, while continued foreign equity selling is weighing on domestic markets, with the KOSPI struggling to hold above 5,000. The Bank of Korea’s 2027 GDP growth forecast is a key figure to watch: a revision above 3.5% would signal a more upbeat view of the current semiconductor upcycle and raise the risk of further hikes, implying a tighter policy stance than BofA currently expects."
+    },
+    {
+      "id": "mkt:01a20699-a956-7bbc-acac-d460d3b9aab8",
+      "time": "2026-11-23 12:11:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【18 actively managed ETFs trade nearly 6 bln yuan in half a day】The first batch of actively managed ETFs began trading on Nov. 23. The 18 funds recorded nearly 6 bln yuan in combined turnover by midday, with Morgan and Huabao products rising and the other 16 posting slight declines."
+    },
+    {
+      "id": "5231873",
+      "time": "2026-11-23 12:10:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "大快活集團：根據購回授權建議股份購回。"
+    },
+    {
+      "id": "mkt:01a20698-f255-7bbc-acac-cd1c16ce8cd2",
+      "time": "2026-11-23 12:10:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Foreign inflows lift Indian stocks to recoup all year-to-date losses】Indian stocks recouped all year-to-date losses on Monday as foreign inflows returned and investors rotated into previously shunned markets amid a retreat in the AI trade. Global funds have poured more than $12 bln into Indian equities since November, a record monthly inflow. If sustained, the buying could help 2026 avoid becoming the biggest year for foreign outflows from Indian assets—a prospect that seemed almost inevitable just a month ago."
+    },
+    {
+      "id": "5231872",
+      "time": "2026-11-23 12:10:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【巴西天氣不均影響作物，大豆期貨連續上漲】受週末巴西部分地區遭遇極端天氣影響，大豆期貨連續第二個交易日上漲。這引發了市場對該國即將到來的農作物可能受損的擔憂，同時也提升了美國大豆出口的吸引力。週一，芝加哥期貨交易所最活躍的大豆合約漲幅一度達到0.7%，玉米期貨也小幅走高。隨著美國大豆收穫工作已基本完成，市場焦點將轉向南美，巴西出口是美國豆農最大的競爭對手之一。上週五，巴西南部的南里奧格蘭德州遭遇猛烈風暴，引發了人們對這一主要農業區可能受損的擔憂，目前該地區正處於下一季大豆播種的後期階段。厄爾尼諾現象通常會為該國這一地區帶來高於平均水平的降雨，增加了農作物可能遭受洪澇災害的風險。與此同時，據氣象預報機構Vaisala稱，該國其他地區亟需更多降水。該機構在週五的一份報告中表示：“巴中西部地區可能還需要更多降雨，才能完全恢復土壤水分儲備。”"
+    },
     {
       "id": "5231871",
       "time": "2026-11-23 12:07:23",
