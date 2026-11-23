@@ -1,7 +1,109 @@
 {
   "date": "2026-11-23",
-  "count": 1238,
+  "count": 1249,
   "items": [
+    {
+      "id": "mkt:01a208ce-af31-7bbc-acbb-6269302e9fa6",
+      "time": "2026-11-23 22:28:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The most-active BMD Malaysia palm oil futures contract is up 2.00% at 4,224 ringgit/mt."
+    },
+    {
+      "id": "5233195",
+      "time": "2026-11-23 22:27:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲6%，現報10539.00元。"
+    },
+    {
+      "id": "5233194",
+      "time": "2026-11-23 22:27:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "邁威爾科技美股盤前漲超20%。"
+    },
+    {
+      "id": "mkt:01a208cd-ceb7-7bbc-acbb-581c0fbaed79",
+      "time": "2026-11-23 22:27:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "Mainland China futures rose sharply, with Shanghai silver up nearly 6%, tin more than 5%, copper more than 4%, gold more than 3%, zinc more than 2%, and international copper and aluminum more than 1%."
+    },
+    {
+      "id": "5233193",
+      "time": "2026-11-23 22:26:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬錶示，會議並不意味著就礦場未來作出決定。"
+    },
+    {
+      "id": "5233192",
+      "time": "2026-11-23 22:26:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破64000美元，日內漲4.89%。"
+    },
+    {
+      "id": "5233191",
+      "time": "2026-11-23 22:25:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【DeepSeek最新估值或達6078億元】近日，杭州深度求索人工智慧基礎技術研究有限公司（DeepSeek）完成工商變更，暗示公司新一輪融資已經落地。資料顯示，DeepSeek的註冊資本由1644.75萬元增至1991.87萬元，增幅達21.1%。進一步深挖本輪外部融資的統一持股平臺，杭州程硯企業管理諮詢合夥企業新增31名合夥人，認繳出資額由0.6萬元增至34.39億元。有市場訊息稱，此輪融資DeepSeek合計募集資金1055億元人民幣，DeepSeek投後估值6078億元。（21財經）"
+    },
+    {
+      "id": "5233190",
+      "time": "2026-11-23 22:25:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "銅連續主力合約日內漲4%，現報96110.00元。"
+    },
+    {
+      "id": "mkt:01a208cb-ff0d-7bbc-acbb-55754d2b473d",
+      "time": "2026-11-23 22:25:16",
+      "tags": [
+        "MKT News",
+        "ENI.MI",
+        "Impact bullish"
+      ],
+      "text": "ENI: Indonesian authorities approve development of the Geng North gas field."
+    },
+    {
+      "id": "5233189",
+      "time": "2026-11-23 22:25:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印尼當局批准埃尼集團開發Geliga油田。"
+    },
+    {
+      "id": "5233188",
+      "time": "2026-11-23 22:24:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅日內漲超4.00%，現報12651.555美元/噸。"
+    },
     {
       "id": "5233187",
       "time": "2026-11-23 22:23:48",
