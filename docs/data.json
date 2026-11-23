@@ -1,7 +1,141 @@
 {
-  "updated": "2026-11-23 22:13:03",
-  "count": 9069,
+  "updated": "2026-11-23 22:16:50",
+  "count": 9077,
   "items": [
+    {
+      "id": "mkt:01a208c3-c76c-7bbc-acbb-287157e0888d",
+      "time": "2026-11-23 22:16:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. credit default risk eased further after Jensen Huang returned to his post."
+    },
+    {
+      "id": "mkt:01a208c3-47c1-7bbc-acbb-2759537270f8",
+      "time": "2026-11-23 22:15:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "AMZN.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Amazon reportedly to spend $7.5 billion to acquire AI startup Decart’s technology】Amazon (AMZN.O) has agreed to acquire most of startup Decart AI’s business to strengthen the AI infrastructure of its cloud-computing unit. The deal includes the technology behind Decart’s optimization stack, software designed to help AI models run efficiently across different hardware, as well as the company’s founding team and AI researchers and engineers, Amazon said in a blog post on Monday."
+    },
+    {
+      "id": "mkt:01a208c3-19aa-7bbc-acbb-1ed0392bc3c6",
+      "time": "2026-11-23 22:15:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.AS",
+        "Impact bullish",
+        "STM.PA",
+        "ASMI.AS"
+      ],
+      "text": "The Stoxx 600 extended gains, up 1.4%, led by technology stocks. French and Benelux semiconductor shares, including STMicroelectronics, BE Semiconductor Industries, ASM International, ASML and Soitec, rose 7.7%-9.9%."
+    },
+    {
+      "id": "5233168",
+      "time": "2026-11-23 22:15:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "Workday完成對C1.AI的收購。"
+    },
+    {
+      "id": "mkt:01a208c2-7047-7bbc-acbb-17b3b8d85c8c",
+      "time": "2026-11-23 22:14:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "New York copper futures extend intraday gains to 4%, trading at $5.7045/lb."
+    },
+    {
+      "id": "5233167",
+      "time": "2026-11-23 22:14:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲6%，現報44.06美元/盎司。"
+    },
+    {
+      "id": "5233166",
+      "time": "2026-11-23 22:14:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數<.STOXX>擴大漲幅，目前上漲1.4%，因科技股反彈。"
+    },
+    {
+      "id": "5233165",
+      "time": "2026-11-23 22:14:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內漲5%，現報325770.00元。"
+    },
+    {
+      "id": "5233164",
+      "time": "2026-11-23 22:14:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲5%，現報10436.00元。"
+    },
+    {
+      "id": "5233163",
+      "time": "2026-11-23 22:14:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破44美元/盎司，日內漲5.89%。"
+    },
+    {
+      "id": "5233162",
+      "time": "2026-11-23 22:14:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國勞工機構釋出401(k)ESG投資擬議規則。"
+    },
+    {
+      "id": "5233161",
+      "time": "2026-11-23 22:13:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：願積極支援尼泊爾開展泥石流災後重建】11月23日，外交部發言人郭嘉昆主持例行記者會。會後有外媒記者提問，據報道，尼泊爾計劃召開一次國際會議，為泥石流災後重建籌集資金。尼方稱中國已表達支援意願，但具體金額尚未確定，中方還同意分享更多預警和氣候資料。中方對此有何回應？郭嘉昆表示，尼泊爾是中國山水相連的友好鄰邦，尼泊爾北部地區大規模泥石流災害發生後，中方第一時間宣佈向尼方受災地區提供緊急援助，開展國際救援合作。中國政府向尼方提供了現匯援助和5批緊急援助物資，派遣二十餘名隧道救援和法醫鑑定專家赴尼，持續共享氣象、水文、地質等資訊資料。社會各界友好人士也紛紛伸出援手，及時向尼泊爾人民送去中國人民的關心和支援。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a208c0-fb22-7bbc-acbb-08fe41335bfd",
+      "time": "2026-11-23 22:13:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Germany's 2-year bond yield rose 4.27 bps to 3.102%."
+    },
     {
       "id": "mkt:01a208c0-0948-7bbc-acbb-03399ac63372",
       "time": "2026-11-23 22:12:12",
@@ -80942,48 +81076,6 @@
         "國際"
       ],
       "text": "【高盛銀行家透過美國防部副部長拿下多筆防務合同】據知情人士透露，美國國防部副部長史蒂夫·範伯格，引導多家正在和聯邦政府談判數十億美元武器採購合同的企業，去找他長期合作的高盛集團銀行家。 知情人士稱，範伯格向洛克希德·馬丁、RTX等企業建議，聘請吉姆·多諾萬。多諾萬是高盛資深交易撮合人，多年來和範伯格以及他此前創辦的賽伯樂資本（Cerberus Capital Management）深度合作。兩家軍工企業最終都聘請了多諾萬。"
-    },
-    {
-      "id": "5218205",
-      "time": "2026-11-16 22:16:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國嚴重欺詐辦公室：就倫敦資本與金融公司倒閉調查起訴八名個人。"
-    },
-    {
-      "id": "5218204",
-      "time": "2026-11-16 22:16:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【貝萊德在市場拋售後增持股票敞口，並調整人工智慧相關押注】貝萊德正在其規模達3000億美元的模型投資組合業務中增加股票敞口，將股票超配比例從1%提高至3%，因預計經濟增長和企業盈利將保持韌性。該公司正在分散其人工智慧投資，增持美國和海外大盤股，並增加對長久期政府債券的敞口。這輪調倉已推動數十億美元ETF資金流入，其中包括30億美元流入國際策略、32億美元流入美國主題策略。"
-    },
-    {
-      "id": "5218203",
-      "time": "2026-11-16 22:16:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守47美元/盎司，日內跌4.32%。"
-    },
-    {
-      "id": "5218202",
-      "time": "2026-11-16 22:15:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "賽諾菲與泛加拿大製藥聯盟簽署意向書。"
-    },
-    {
-      "id": "5218201",
-      "time": "2026-11-16 22:15:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華虹半導體：根據新股票期權計劃授出5212.18萬份股票期權】華虹半導體公告稱，公司於2026年11月13日根據2026年10月22日採納的新股票期權計劃，向董事陳一敏及1696名集團僱員授出52,121,800份股票期權，可認購最多52,121,800股公司普通股，須待被授予人接納後方可作實。本次授出期權行使價為73.75港元，等待期為3年，滿足歸屬條件後按30%、30%、40%的比例分別於授出後第三、四、五週年分批歸屬，期權有效期為7年。其中授予陳一敏134,700份期權，授予僱員51,987,100份期權。"
     }
   ]
 }

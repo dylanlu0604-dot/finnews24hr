@@ -1,7 +1,141 @@
 {
   "date": "2026-11-23",
-  "count": 1202,
+  "count": 1215,
   "items": [
+    {
+      "id": "mkt:01a208c3-c76c-7bbc-acbb-287157e0888d",
+      "time": "2026-11-23 22:16:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. credit default risk eased further after Jensen Huang returned to his post."
+    },
+    {
+      "id": "mkt:01a208c3-47c1-7bbc-acbb-2759537270f8",
+      "time": "2026-11-23 22:15:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "AMZN.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Amazon reportedly to spend $7.5 billion to acquire AI startup Decart’s technology】Amazon (AMZN.O) has agreed to acquire most of startup Decart AI’s business to strengthen the AI infrastructure of its cloud-computing unit. The deal includes the technology behind Decart’s optimization stack, software designed to help AI models run efficiently across different hardware, as well as the company’s founding team and AI researchers and engineers, Amazon said in a blog post on Monday."
+    },
+    {
+      "id": "mkt:01a208c3-19aa-7bbc-acbb-1ed0392bc3c6",
+      "time": "2026-11-23 22:15:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.AS",
+        "Impact bullish",
+        "STM.PA",
+        "ASMI.AS"
+      ],
+      "text": "The Stoxx 600 extended gains, up 1.4%, led by technology stocks. French and Benelux semiconductor shares, including STMicroelectronics, BE Semiconductor Industries, ASM International, ASML and Soitec, rose 7.7%-9.9%."
+    },
+    {
+      "id": "5233168",
+      "time": "2026-11-23 22:15:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "Workday完成對C1.AI的收購。"
+    },
+    {
+      "id": "mkt:01a208c2-7047-7bbc-acbb-17b3b8d85c8c",
+      "time": "2026-11-23 22:14:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "New York copper futures extend intraday gains to 4%, trading at $5.7045/lb."
+    },
+    {
+      "id": "5233167",
+      "time": "2026-11-23 22:14:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲6%，現報44.06美元/盎司。"
+    },
+    {
+      "id": "5233166",
+      "time": "2026-11-23 22:14:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數<.STOXX>擴大漲幅，目前上漲1.4%，因科技股反彈。"
+    },
+    {
+      "id": "5233165",
+      "time": "2026-11-23 22:14:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內漲5%，現報325770.00元。"
+    },
+    {
+      "id": "5233164",
+      "time": "2026-11-23 22:14:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲5%，現報10436.00元。"
+    },
+    {
+      "id": "5233163",
+      "time": "2026-11-23 22:14:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破44美元/盎司，日內漲5.89%。"
+    },
+    {
+      "id": "5233162",
+      "time": "2026-11-23 22:14:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國勞工機構釋出401(k)ESG投資擬議規則。"
+    },
+    {
+      "id": "5233161",
+      "time": "2026-11-23 22:13:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：願積極支援尼泊爾開展泥石流災後重建】11月23日，外交部發言人郭嘉昆主持例行記者會。會後有外媒記者提問，據報道，尼泊爾計劃召開一次國際會議，為泥石流災後重建籌集資金。尼方稱中國已表達支援意願，但具體金額尚未確定，中方還同意分享更多預警和氣候資料。中方對此有何回應？郭嘉昆表示，尼泊爾是中國山水相連的友好鄰邦，尼泊爾北部地區大規模泥石流災害發生後，中方第一時間宣佈向尼方受災地區提供緊急援助，開展國際救援合作。中國政府向尼方提供了現匯援助和5批緊急援助物資，派遣二十餘名隧道救援和法醫鑑定專家赴尼，持續共享氣象、水文、地質等資訊資料。社會各界友好人士也紛紛伸出援手，及時向尼泊爾人民送去中國人民的關心和支援。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a208c0-fb22-7bbc-acbb-08fe41335bfd",
+      "time": "2026-11-23 22:13:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Germany's 2-year bond yield rose 4.27 bps to 3.102%."
+    },
     {
       "id": "mkt:01a208c0-0948-7bbc-acbb-03399ac63372",
       "time": "2026-11-23 22:12:12",
