@@ -1,7 +1,82 @@
 {
   "date": "2026-11-23",
-  "count": 608,
+  "count": 616,
   "items": [
+    {
+      "id": "5231839",
+      "time": "2026-11-23 11:38:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智元精靈G2進入長電科技晶片測試產線，承擔料盤上下料等工作】11月23日，介面新聞獲悉，智元首批精靈G2機器人已在上海臨港的長電科技汽車電子工廠完成併線，進入晶片測試車間開展試執行，承擔料盤上下料等工作。據智元介紹，精靈G2已接入工廠現有的製造執行與裝置自動化系統（MES/EAP），可在無人工介入的情況下，完成待測料盤上料、已測料盤下料及良品與不良品自動分道等操作。後續雙方將圍繞更多封測工序開展驗證。"
+    },
+    {
+      "id": "5231838",
+      "time": "2026-11-23 11:38:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股英偉達夜盤漲超7%】美股英偉達夜盤現漲7.13%，現報134.48美元，總市值為3.25萬億美元。美股臺積電夜盤漲超7.03%，現報341.1美元，總市值為1.77萬億美元。美股SpaceX夜盤漲超3.03%，現報131.66美元，總市值為1.79萬億美元。"
+    },
+    {
+      "id": "5231837",
+      "time": "2026-11-23 11:37:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【中國代表團出席聯合國氣候變化安塔利亞大會】2026年11月9日至22日，《聯合國氣候變化框架公約》（以下簡稱《公約》）第三十一次締約方大會（COP31）在土耳其安塔利亞召開。本屆大會共有194個締約方、約2200家觀察員組織、1100餘家媒體，共計9萬多人註冊參會。生態環境部部長黃潤秋出席COP31多場高階別會議，副部長李高擔任中國代表團團長率團全程參會，中國氣候變化事務特使劉振民擔任代表團顧問。生態環境部、中央對外聯絡部、外交部、國家發展改革委、財政部、農業農村部、商務部、國家能源局、國家林草局、中國氣象局、中國民航局、中國科學院、中國社科院等有關部門和研究單位及香港、澳門特別行政區政府參團與會。（生態環境部）"
+    },
+    {
+      "id": "5231834",
+      "time": "2026-11-23 11:36:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "野村證券將網易 ADR 目標價從 155.00 美元下調至 140.00 美元。"
+    },
+    {
+      "id": "mkt:01a2067a-2b66-7bbc-acac-9106b884d0e1",
+      "time": "2026-11-23 11:36:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【A-share midday: ChiNext up 1.22%, humanoid robot stocks hit limit-up wave】China’s major indexes recovered from opening losses in morning trade, with the ChiNext rising more than 1% intraday. At midday, the Shanghai Composite was down 0.96%, the Shenzhen Composite Index was up 0.24% and the ChiNext was up 1.22%. Humanoid robot stocks surged, with multiple shares including Amphenol (?), Hengong Precision and Weihong Technology rising 20% to their daily limits; more than 10 stocks, including Changhua Group, Yijiahe and Guangyang, hit their daily limits. Unitree Robotics-W gained more than 9%. Electronic components also rallied, with multiple stocks including Dongjing Electronics, Zhongjing Electronics and Shiyun Circuit hitting their daily limits. CPO, CRO, film and television, optical fiber, physical AI, gaming and MLCC stocks also outperformed. Oil and gas exploration, logistics, property, automakers, power and retail lagged. Turnover in Shanghai and Shenzhen was about 916.4 billion yuan, up about 60.6 billion yuan from the same period in the previous session. About 1,700 stocks rose and 3,800 fell across Shanghai, Shenzhen and Beijing."
+    },
+    {
+      "id": "mkt:01a2067a-1e43-7bbc-acac-8a45d7427295",
+      "time": "2026-11-23 11:36:36",
+      "tags": [
+        "MKT News",
+        "NTES.O",
+        "Impact bearish"
+      ],
+      "text": "Nomura cuts NetEase PT to $140 from $155."
+    },
+    {
+      "id": "5231828",
+      "time": "2026-11-23 11:35:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆多地陸續公佈2026年雪（秋）假時間】連日來，新疆烏魯木齊市、阿勒泰地區、博爾塔拉蒙古自治州、哈密市、伊犁哈薩克自治州等地陸續公佈雪假、秋假時間。（央視新聞）"
+    },
+    {
+      "id": "5231826",
+      "time": "2026-11-23 11:35:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三峰環境：海外市場是公司未來市場開發的重點方向】三峰環境在2026年第三季度業績說明會上表示，公司將持續推進國內國際雙輪驅動的市場開發戰略，海外市場是公司未來市場開發的重點方向。目前公司海外市場主要以裝置出口、海外工程和運營服務出海等輕資產業務為主，已經取得了較好的業績，並將進一步加強上述海外業務的拓展。未來公司會審慎考慮海外優質專案投資。公司財務狀況良好，資本開支壓力較低。"
+    },
     {
       "id": "5231825",
       "time": "2026-11-23 11:34:42",
