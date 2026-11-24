@@ -1,7 +1,227 @@
 {
   "date": "2026-11-24",
-  "count": 392,
+  "count": 415,
   "items": [
+    {
+      "id": "mkt:01a20b2e-0e98-7bbc-acc7-cd69fabeea11",
+      "time": "2026-11-24 09:31:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "【Bond futures open lower】China's most-active 2-year Bond futures (TS) contract fell 0.01%, the 5-year (TF) fell 0.02%, the 10-year (T) fell 0.05% and the 30-year (TL) fell 0.24%."
+    },
+    {
+      "id": "5234093",
+      "time": "2026-11-24 09:31:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.79%，成分股中，源傑科技漲9.65%，生益電子漲9.03%，瀾起科技漲7.27%，佰維儲存漲7.10%。"
+    },
+    {
+      "id": "mkt:01a20b2d-fb16-7bbc-acc7-c0fe33935f44",
+      "time": "2026-11-24 09:31:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Chinese stock index futures open higher】The most-active CSI 300 futures contract rose 1.08%, the SSE 50 gained 0.31%, the CSI 500 rose 2.18% and the CSI 1000 advanced 2.66%."
+    },
+    {
+      "id": "5234090",
+      "time": "2026-11-24 09:31:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.98%。聯瑞轉債、奧士轉債、歐通轉債、澳弘轉債、華懋轉債漲幅居前，分別漲11.95%、7.78%、7.35%、7.27%、6.87%。愛科轉債、炬申轉債、艾為轉債、重銀轉債、常銀轉債跌幅居前，分別跌1.12%、0.25%、0.22%、0.16%、0.04%。"
+    },
+    {
+      "id": "mkt:01a20b2d-d208-7bbc-acc7-bbd157304882",
+      "time": "2026-11-24 09:31:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "9868.HK",
+        "Impact bullish",
+        "9866.HK",
+        "1211.HK"
+      ],
+      "text": "Hong Kong-listed Chinese EV stocks rebound. XPeng (9868.HK) gains more than 3%, with BAIC Motor (1958.HK), GAC Group (2238.HK), Nio (9866.HK), Geely Automobile (0175.HK), Leapmotor (9863.HK) and BYD (1211.HK) also rising."
+    },
+    {
+      "id": "5234089",
+      "time": "2026-11-24 09:31:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【消費電子板塊持續走高，共達電聲、科森科技漲停】消費電子板塊持續走高，共達電聲、科森科技漲停，博碩科技、凱旺科技、奧尼電子漲超10%，光大同創、慧為智慧、顯盈科技、英力股份、貝隆精密等跟漲。"
+    },
+    {
+      "id": "5234087",
+      "time": "2026-11-24 09:31:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【人形機器人概念反覆活躍 鋒龍股份2連板】人形機器人概念反覆活躍，鋒龍股份2連板，福萊新材、中大力德、上緯新材、五洲新春跟漲。"
+    },
+    {
+      "id": "5234084",
+      "time": "2026-11-24 09:30:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【神舟二十四號具備執行發射任務條件 優先採用自主快速交會對接策略】今天（11月24日）上午，神舟二十四號載人飛行任務新聞釋出會在酒泉衛星發射中心召開。發言人介紹，按計劃，神舟二十四號載人飛船入軌後，優先採用自主快速交會對接策略，對接於天和核心艙前向埠，形成三船三艙組合體。目前，船箭飛行產品質量受控，航天員乘組狀態良好，地面系統設施裝置執行穩定，空間站組合體狀態正常，具備執行發射任務條件。神舟二十三號載人飛船完成任務後將返回東風著陸場。"
+    },
+    {
+      "id": "5234083",
+      "time": "2026-11-24 09:30:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內跌4%，現報4517.00元。"
+    },
+    {
+      "id": "mkt:01a20b2c-bc3d-7bbc-acc7-b39be1bbf10c",
+      "time": "2026-11-24 09:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's A-share CPO stocks extended their rally, with Focuslight Technologies surging more than 18%. Zhishang Technology, Robotechnik, TFC Communication, JPT, Zhongshi Technology and Sijia Photonics also rose."
+    },
+    {
+      "id": "5234082",
+      "time": "2026-11-24 09:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲3%，現報5932.20點。"
+    },
+    {
+      "id": "5234081",
+      "time": "2026-11-24 09:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達3.38%，成分股中，蘅東光漲14.56%，惠豐鑽石漲9.20%，曙光數創漲8.44%，戈碧迦漲8.42%。"
+    },
+    {
+      "id": "5234080",
+      "time": "2026-11-24 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.20%， 10年期主力合約跌0.02%， 5年期主力合約跌0.01%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "5234079",
+      "time": "2026-11-24 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達3.25%，成分股中，源傑科技漲11.29%，生益電子漲10.44%，瀾起科技漲8.17%，佰維儲存漲7.22%。"
+    },
+    {
+      "id": "5234078",
+      "time": "2026-11-24 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲2.89%， 滬深300指數期貨連續漲1.29%， 中證500指數期貨連續漲2.37%， 上證50指數期貨連續漲0.47%。"
+    },
+    {
+      "id": "5234077",
+      "time": "2026-11-24 09:29:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO板塊高開，炬光科技、羅博特科漲超15%】CPO板塊高開，炬光科技、羅博特科漲超15%，中際旭創、聯訊儀器、仕佳光子、天孚通訊漲超10%。"
+    },
+    {
+      "id": "5234076",
+      "time": "2026-11-24 09:29:04",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【多家機構上調英偉達目標價或評級】黃仁勳迴歸英偉達擔任CEO，隨後多家機構上調了英偉達目標價或評級。Melius Research將英偉達評級從持有上調至買入，目標價220美元。伯恩斯坦上調英偉達評級至跑贏大盤，維持目標價200美元。Baird將英偉達列為看漲優選標的（Fresh Pick）。花旗集團將英偉達目標價從每股225美元上調至240美元，維持英偉達買入評級。"
+    },
+    {
+      "id": "mkt:01a20b2b-b5fb-7bbc-acc7-afc5e9d31073",
+      "time": "2026-11-24 09:29:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenzhou-24 to conduct 90 research projects】The Shenzhou-24 mission is set to conduct 90 scientific and technical experiments, mainly in space life sciences, materials science, microgravity fluid physics and combustion, fundamental physics, space medicine and new space technologies."
+    },
+    {
+      "id": "5234075",
+      "time": "2026-11-24 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲2%，現報5910.20點。"
+    },
+    {
+      "id": "5234074",
+      "time": "2026-11-24 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報6214.00點。"
+    },
+    {
+      "id": "mkt:01a20b2b-9712-7bbc-acc7-a3fc2228d2aa",
+      "time": "2026-11-24 09:28:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China’s A-share components sector opened sharply higher. Zhongjing Electronics rose for a fourth straight session limit-up, while Aoshikang Technology hit the daily limit for a second session. Dongshan Precision, Shengyi Technology, Kinwong Electronics and Avary Holding also hit the daily limit. Victory Giant Technology, Kesheng Electronics and Shengyi Electronics rose more than 10%, while WUS Printed Circuit, Huazheng New Material, Xunjiexing and Guanghe Technology gained."
+    },
+    {
+      "id": "mkt:01a20b2b-02cb-7bbc-acc7-99393f60c9b8",
+      "time": "2026-11-24 09:28:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China’s cobalt-related A-shares rose, with Tengyuan Cobalt up more than 9% and Hanrui Cobalt, China Tungsten and Hightech, Huayou Nickel Brand, GEM and Dowstone Technology also gaining. The Democratic Republic of Congo, the world’s largest cobalt producer, will again fully suspend cobalt exports from Nov. 30 to address a global supply glut and cobalt’s sustained price decline in recent months."
+    },
+    {
+      "id": "5234073",
+      "time": "2026-11-24 09:27:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF開盤：創業板人工智慧ETF領漲10.05%，央企共贏ETF領跌2.48%】ETF開盤漲跌不一，創業板人工智慧ETF（159381）領漲10.05%，創業板人工智慧ETF（159388）漲10.03%，港股通醫療ETF（158003）漲9.79%，央企共贏ETF（517090）領跌2.48%，銀行ETF（159253）跌2.0%，銀行ETF（512730）跌1.86%。"
+    },
     {
       "id": "5234072",
       "time": "2026-11-24 09:27:45",
