@@ -1,7 +1,96 @@
 {
   "date": "2026-11-24",
-  "count": 956,
+  "count": 965,
   "items": [
+    {
+      "id": "5235595",
+      "time": "2026-11-24 19:14:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【環球印務：兩起追償權訴訟一審均被駁回，涉案金額合計約2799.08萬元】環球印務公告，公司此前就為子公司逾期貸款承擔擔保責任後向相關方追償提起訴訟，涉案金額分別約2013.46萬元、785.62萬元。近日公司收到西安市雁塔區人民法院送達的兩份《民事判決書》，一審判決均駁回公司全部訴訟請求，案件受理費分別由公司負擔14.45萬元、67554元。公司將在規定期限內提起上訴，最終判決結果尚存在不確定性，尚不能確定對公司本期利潤或期後利潤的影響。"
+    },
+    {
+      "id": "5235594",
+      "time": "2026-11-24 19:14:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米盧偉冰：小米汽車10月份交付量超5萬，接下來還將有較大提升】11月24日，小米集團總裁盧偉冰在財報電話會上披露，小米汽車10月份交付量超5萬，創年內單月新高，接下來還將有較大提升。盧偉冰表示，增程市場依然大有可為，小米澎程的上市也為該賽道帶來了新的驚喜，上市首月鎖單超7萬，穩態期銷量保持平穩。同時小米澎程也很大程度拓展豐富了小米汽車的使用者構成，在更多圈層實現破圈：澎程使用者年齡大於SU7/YU7，截至目前35歲以上使用者佔比超50%。"
+    },
+    {
+      "id": "5235593",
+      "time": "2026-11-24 19:13:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和仁科技：通策醫療擬協議轉讓14%公司股份】和仁科技公告稱，公司持股19.01%的股東通策醫療於2026年11月23日與深圳市宏旺微電子有限公司簽署《股份轉讓協議》，擬以11.43元/股的價格協議轉讓其持有的公司3675.84萬股股份，佔公司總股本的14%，轉讓總價款作價4.20億元。本次權益變動完成後，通策醫療持有公司股份比例將降至5.01%，不會導致公司實際控制人發生變化，不會對公司治理結構及持續經營產生重大影響。"
+    },
+    {
+      "id": "5235590",
+      "time": "2026-11-24 19:12:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米CFO林世偉：小米AI相關收入持續增加，今年160億元AI投入正穩健落地】11月24日晚，小米集團CFO林世偉在財報電話會上表示，小米對AI的投入非常堅決，今年將在AI領域投入160億元，目前正在沿著規劃穩健落地，小米MiMo大模型的API呼叫量和AI相關收入都在持續增加。林世偉介紹稱，小米AI業務現在還處於大規模投入期，除了持續投入基座模型的研發，還在加快推動AI落地“人車家全生態”，例如小米18 Fold就搭載了MiMo端側大模型，澎湃OS 4的“超級小愛2.0”也深度整合了MiMo大模型。"
+    },
+    {
+      "id": "5235588",
+      "time": "2026-11-24 19:11:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鐵路12306App新增候補兌現等資訊提醒】從中國鐵路12306技術中心瞭解到，鐵路部門日前在鐵路12306App系統通知中新增候補兌現情況、列車執行調整等資訊提醒。旅客可在App內檢視候補兌現結果，以及列車停運、折返、恢復開行、席位調整等資訊。此次服務最佳化後，旅客在鐵路12306（網站和App）辦理購票、改簽、退票、候補、預約等業務時，鐵路部門將透過12306App系統通知、旅客選擇的通知渠道（微信或支付寶）以及預留的電子郵箱等方式向旅客傳送相關服務資訊。（新華社）"
+    },
+    {
+      "id": "mkt:01a20d40-f2d0-7bbc-acd2-2953ff8438e0",
+      "time": "2026-11-24 19:11:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China-Europe freight trains via Suifenhe surpass 5,000】More than 5,000 China-Europe freight trains had passed through Suifenhe port in Heilongjiang as of Nov. 24."
+    },
+    {
+      "id": "mkt:01a20d40-e3bf-7bbc-acd2-20e8778effd0",
+      "time": "2026-11-24 19:11:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "ANT.O",
+        "Impact bearish"
+      ],
+      "text": "Anthropic (ANT.O) shares fell 5% in premarket trading, slipping below their $83 IPO price."
+    },
+    {
+      "id": "mkt:01a20d40-757f-7bbc-acd2-1be4c889c755",
+      "time": "2026-11-24 19:10:57",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "【U.S. malls poised for a revival】U.S. mall owners and retailers are betting on festive in-person experiences to draw online shoppers, with dining, entertainment and shared activities becoming increasingly important. Brands are offering in-store promotions and upgrading locations to give shoppers a reason to visit. About 84% of Americans planning to shop over Thanksgiving weekend intend to visit physical stores, the highest share since 2019, according to the International Council of Shopping Centers. A separate JLL survey found 55% of U.S. holiday shoppers plan to visit indoor malls this season, up from about 50% last year."
+    },
+    {
+      "id": "5235587",
+      "time": "2026-11-24 19:10:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "Anthropic在盤前交易中跌破83美元的IPO發行價。"
+    },
     {
       "id": "5235586",
       "time": "2026-11-24 19:10:19",
