@@ -1,7 +1,92 @@
 {
-  "updated": "2026-11-25 05:08:03",
-  "count": 8624,
+  "updated": "2026-11-25 05:11:46",
+  "count": 8633,
   "items": [
+    {
+      "id": "mkt:01a20f66-2f19-7bbc-acdc-84f50f541e1a",
+      "time": "2026-11-25 05:11:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dell Technologies (DELL.N) authorized an additional $25 bln in repurchases of its Class C common stock."
+    },
+    {
+      "id": "mkt:01a20f65-ff2e-7bbc-acdc-7e3552d87370",
+      "time": "2026-11-25 05:11:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DELL.O",
+        "Impact bullish"
+      ],
+      "text": "Dell Technologies received $60.2 bln in new orders in the third quarter, with its AI backlog reaching $132.3 bln at quarter-end."
+    },
+    {
+      "id": "mkt:01a20f65-9e5d-7bbc-acdc-75ef6e4e6fb0",
+      "time": "2026-11-25 05:10:47",
+      "tags": [
+        "MKT News",
+        "DELL.O"
+      ],
+      "text": "Dell Technologies’ third-quarter Infrastructure Solutions Group (ISG) revenue was $41.97 billion, while Client Solutions Group (CSG) revenue was $12.89 billion."
+    },
+    {
+      "id": "mkt:01a20f65-17af-7bbc-acdc-6b2585ff870d",
+      "time": "2026-11-25 05:10:13",
+      "tags": [
+        "MKT News",
+        "DELL.O"
+      ],
+      "text": "Dell Technologies reported third-quarter operating cash flow of $4.5 bln."
+    },
+    {
+      "id": "mkt:01a20f64-cd96-7bbc-acdc-629a2c4dc14a",
+      "time": "2026-11-25 05:09:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DELL.O",
+        "Impact bullish"
+      ],
+      "text": "Dell Technologies expects full-year revenue from AI-optimized servers to reach $78 billion."
+    },
+    {
+      "id": "5236366",
+      "time": "2026-11-25 05:09:50",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲助理行長西爾克表示，紐西蘭的支付系統仍然可靠。"
+    },
+    {
+      "id": "5236365",
+      "time": "2026-11-25 05:09:35",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲助理行長西爾克表示，紐西蘭需要建立一條路徑，以提供現代經濟所需的零售支付能力。"
+    },
+    {
+      "id": "5236364",
+      "time": "2026-11-25 05:09:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【戴爾上調AI伺服器營收指引 Q3業績大幅超預期 盤後股價上漲】戴爾2027財年第三季度業績大增，總營收549.4億美元，調整後EPS 9.45美元，均高於市場預期。單季AI最佳化伺服器營收220.3億美元，同比大增，AI伺服器訂單602億美元，季末訂單儲備1323億美元。公司上調全年指引，將AI最佳化伺服器營收預期由740億美元上調至780億美元，同時上調總營收、EPS及四季度業績預期。董事會批准新增250億美元股票回購額度。戴爾盤後股價上漲超2%。"
+    },
+    {
+      "id": "mkt:01a20f64-1963-7bbc-acdc-5fd21b210e75",
+      "time": "2026-11-25 05:09:07",
+      "tags": [
+        "MKT News",
+        "DELL.O",
+        "Impact bullish"
+      ],
+      "text": "Dell Technologies expects fourth-quarter revenue of $56.3 bln, above the $53.61 bln market consensus."
+    },
     {
       "id": "mkt:01a20f62-c46b-7bbc-acdc-56c370f71f99",
       "time": "2026-11-25 05:07:40",
