@@ -1,7 +1,71 @@
 {
   "date": "2026-11-24",
-  "count": 475,
+  "count": 482,
   "items": [
+    {
+      "id": "mkt:01a20b3f-64c8-7bbc-acc8-533c73db8826",
+      "time": "2026-11-24 09:50:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan’s 2-year bond yield fell 2 bps to 1.800%."
+    },
+    {
+      "id": "5234181",
+      "time": "2026-11-24 09:49:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【衛星導航板塊走高，東華測試、新雷能漲超10%】衛星導航板塊走高，東華測試、新雷能漲超10%，旋極資訊、開普雲、華力創通、信維通訊、廣聯航空等跟漲。"
+    },
+    {
+      "id": "5234180",
+      "time": "2026-11-24 09:49:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：11月24日09時32分在尼泊爾（北緯27.85度，東經87.95度）發生4.5級地震，震源深度10千米。"
+    },
+    {
+      "id": "5234179",
+      "time": "2026-11-24 09:49:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金飾克價漲回1100元】11月24日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所上調，老廟黃金報價1098元/克，較昨日漲10元；周大福報價1103元/克，較昨日漲12元；老鳳祥報價1100元/克，較昨日漲12元。"
+    },
+    {
+      "id": "mkt:01a20b3d-0027-7bbc-acc8-4b3719728112",
+      "time": "2026-11-24 09:47:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Analysts say Huang’s return removes biggest overhang on Nvidia stock】Yorkville Ives analysts said Jensen Huang’s return as Nvidia CEO removes the stock’s biggest overhang. The brokerage maintained its Outperform rating and $225 PT, but said the target could rise to $300. “The gap between $225 and $300 is the value Huang brings once governance issues are behind him,” the analysts said. The end of an independent committee probe, clarity from an export investigation and fourth-quarter results delivered by a CEO whose tenure is no longer a topic on earnings calls could be key to a re-rating, they said."
+    },
+    {
+      "id": "5234178",
+      "time": "2026-11-24 09:47:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量1547億元。"
+    },
+    {
+      "id": "5234177",
+      "time": "2026-11-24 09:47:30",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：若寒冷天氣持續，荷蘭TTF天然氣價格存在進一步上行風險】高盛估計，如果此次寒潮持續，西北歐冬季結束時天然氣庫存僅會達到14%滿庫水平，為2018年創紀錄低點9%以來的最低水平。高盛表示，出口流量從11月初的戰前水平60%以上降至過去一週的25%，表明中東液化天然氣供應前景仍不確定，這給今年冬季TTF價格帶來進一步上行風險。"
+    },
     {
       "id": "mkt:01a20b3b-c9cd-7bbc-acc8-40f1a986c532",
       "time": "2026-11-24 09:46:37",
