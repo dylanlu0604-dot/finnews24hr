@@ -1,7 +1,88 @@
 {
-  "updated": "2026-11-25 05:30:33",
-  "count": 8655,
+  "updated": "2026-11-25 05:34:16",
+  "count": 8663,
   "items": [
+    {
+      "id": "mkt:01a20f7a-ce3e-7bbc-acdc-e930a8304b0f",
+      "time": "2026-11-25 05:33:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Nov.20) | actual 1647000M | consensus 1357000M | previous 351000M"
+    },
+    {
+      "id": "mkt:01a20f7a-bc94-7bbc-acdc-e2452a884bcd",
+      "time": "2026-11-25 05:33:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. API gasoline inventories fell 47,000 barrels in the week ended Nov. 20, versus expectations for a 1.833 million-barrel build and a prior 5.122 million-barrel build."
+    },
+    {
+      "id": "mkt:01a20f7a-ae03-7bbc-acdc-da42afad2ebf",
+      "time": "2026-11-25 05:33:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Nov.20) | actual -47000M | consensus 1833000M | previous 5122000M"
+    },
+    {
+      "id": "mkt:01a20f7a-99de-7bbc-acdc-d31da03db9dc",
+      "time": "2026-11-25 05:33:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API crude inventories rose by 126,000 barrels in the week to Nov. 20, versus expectations for a 900,000-barrel build and a previous increase of 5.278 mln barrels."
+    },
+    {
+      "id": "mkt:01a20f7a-8917-7bbc-acdc-cbf619eb48c3",
+      "time": "2026-11-25 05:33:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Nov.20) | actual 126000M | consensus 900000M | previous 5278000M"
+    },
+    {
+      "id": "5236403",
+      "time": "2026-11-25 05:32:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國總統特朗普稱過去兩週汽油價格下跌20%“有點奇怪”，並表示降價恰好發生在11月中期選舉之後。"
+    },
+    {
+      "id": "5236401",
+      "time": "2026-11-25 05:30:54",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【出發！湯洪波、武毅和穆罕默德·齊尚·阿里三名航天員領命出征】11月25日，神舟二十四號載人飛行任務航天員乘組出征儀式在酒泉衛星發射中心問天閣圓夢園廣場舉行。湯洪波、武毅和穆罕默德·齊尚·阿里三名航天員領命出征。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a20f77-790f-7bbc-acdc-c0ebeed9a10a",
+      "time": "2026-11-25 05:30:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The FAA issued a ground stop at Chicago O’Hare International Airport."
+    },
     {
       "id": "mkt:01a20f76-77cb-7bbc-acdc-ba1920197e56",
       "time": "2026-11-25 05:29:11",
