@@ -1,7 +1,90 @@
 {
   "date": "2026-11-25",
-  "count": 250,
+  "count": 259,
   "items": [
+    {
+      "id": "5236355",
+      "time": "2026-11-25 05:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：OpenAI GPT-6無需專用生物模型即可完成蛋白質設計。"
+    },
+    {
+      "id": "5236354",
+      "time": "2026-11-25 05:02:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "Anthropic股價下跌6.5%，收盤價跌破83美元的IPO發行價。"
+    },
+    {
+      "id": "5236353",
+      "time": "2026-11-25 05:02:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "Workday展望財年訂閱收入為99.58億美元。"
+    },
+    {
+      "id": "5236352",
+      "time": "2026-11-25 05:02:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "DeepHealth獲得FDA批准，推出首款基於3D乳腺X光影像預測五年乳腺癌風險的人工智慧技術。"
+    },
+    {
+      "id": "5236351",
+      "time": "2026-11-25 05:01:38",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "神舟二十四號載人飛船瞄準今天8點18分發射，飛船將搭乘長征二號F遙二十四火箭在酒泉衛星發射中心升空。航天員湯洪波、武毅以及巴基斯坦航天員穆罕默德·齊尚·阿里將開啟他們的太空之旅。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a20f5d-173c-7bbc-acdc-3aa74f5719db",
+      "time": "2026-11-25 05:01:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "AMD.O",
+        "Nasdaq100"
+      ],
+      "text": "【U.S. stocks close: Nasdaq falls nearly 1.5%; Nvidia drops nearly 6%, Anthropic closes below IPO price】The Dow rose 0.86% on Tuesday, while the S&P 500 fell 0.49% and the Nasdaq dropped 1.48%. Anthropic fell 6.5%, closing below its IPO price. Nvidia lost 5.8%, AMD fell 8.8% and Dell dropped 13%. The Nasdaq Golden Dragon China Index rose 0.13%, while NetEase fell more than 2%."
+    },
+    {
+      "id": "5236350",
+      "time": "2026-11-25 05:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.88%，標普500指數跌0.47%，納指跌1.46%。亞德諾跌17.37%，慧與跌16.33%，Astera Labs Inc跌13.91%，美元樹漲11.18%，科斯塔漲8.06%，Moderna漲7.29%。“七姐妹”方面：蘋果漲1.40%，微軟漲0.75%，特斯拉跌0.20%，谷歌跌1.06%，亞馬遜跌1.21%，Meta Platforms跌1.29%，英偉達跌5.94%。"
+    },
+    {
+      "id": "5236349",
+      "time": "2026-11-25 05:00:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約證交所表示，11月中旬的空頭頭寸下降0.8%，至229.9億股。"
+    },
+    {
+      "id": "5236348",
+      "time": "2026-11-25 05:00:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加州金融保護與創新部：責令Afterpay因非法“先買後付”貸款支付268萬美元罰款。"
+    },
     {
       "id": "5236347",
       "time": "2026-11-25 05:00:03",
