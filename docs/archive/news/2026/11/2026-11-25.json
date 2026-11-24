@@ -1,7 +1,23 @@
 {
   "date": "2026-11-25",
-  "count": 331,
+  "count": 333,
   "items": [
+    {
+      "id": "mkt:01a20f90-39ab-7bbc-acdd-4f8f45b53cac",
+      "time": "2026-11-25 05:57:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi media outlet Al Hadath reported explosions in Yemen’s Hodeidah."
+    },
+    {
+      "id": "5236432",
+      "time": "2026-11-25 05:57:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門訊息人士：葉門荷臺達傳出爆炸聲。"
+    },
     {
       "id": "5236425",
       "time": "2026-11-25 05:49:26",
