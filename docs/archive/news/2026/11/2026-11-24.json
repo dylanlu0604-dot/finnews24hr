@@ -1,7 +1,53 @@
 {
   "date": "2026-11-24",
-  "count": 999,
+  "count": 1004,
   "items": [
+    {
+      "id": "5235630",
+      "time": "2026-11-24 19:31:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【元隆雅圖：擬登出25.2萬份預留授予股票期權】元隆雅圖公告稱，公司於2026年11月23日召開第五屆董事會第十六次會議，審議透過登出2022年股票期權激勵計劃預留授予部分股票期權的議案。本次登出合計252,000份股票期權，其中2名激勵物件離職對應登出42,000份，因2025年度公司層面業績未達預留授予第三個行權期考核標準對應登出210,000份。本次登出完成後，公司2022年股票期權激勵計劃實施完畢，無尚未行權的股票期權。"
+    },
+    {
+      "id": "5235629",
+      "time": "2026-11-24 19:31:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "據報道，俄羅斯財政部長西盧安諾夫表示，2026年預算執行情況可能好於預期，赤字約佔國內生產總值的3%。"
+    },
+    {
+      "id": "mkt:01a20d52-a3bb-7bbc-acd2-79d762e39414",
+      "time": "2026-11-24 19:30:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "Chen Jining, a member of the Chinese Communist Party Politburo and Shanghai party secretary, is under investigation by the Central Commission for Discipline Inspection and National Supervisory Commission for suspected serious violations of discipline and law."
+    },
+    {
+      "id": "5235628",
+      "time": "2026-11-24 19:30:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【陳吉寧涉嫌嚴重違紀違法正接受中央紀委國家監委審查調查】中央政治局委員、上海市委書記陳吉寧涉嫌嚴重違紀違法，目前正接受中央紀委國家監委審查調查。(新華社)"
+    },
+    {
+      "id": "5235626",
+      "time": "2026-11-24 19:30:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基：已訂購12艘集裝箱船。"
+    },
     {
       "id": "mkt:01a20d51-97f3-7bbc-acd2-7237ab267c84",
       "time": "2026-11-24 19:29:40",

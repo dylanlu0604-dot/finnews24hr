@@ -1,7 +1,53 @@
 {
-  "updated": "2026-11-24 19:30:06",
-  "count": 8756,
+  "updated": "2026-11-24 19:33:57",
+  "count": 8742,
   "items": [
+    {
+      "id": "5235630",
+      "time": "2026-11-24 19:31:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【元隆雅圖：擬登出25.2萬份預留授予股票期權】元隆雅圖公告稱，公司於2026年11月23日召開第五屆董事會第十六次會議，審議透過登出2022年股票期權激勵計劃預留授予部分股票期權的議案。本次登出合計252,000份股票期權，其中2名激勵物件離職對應登出42,000份，因2025年度公司層面業績未達預留授予第三個行權期考核標準對應登出210,000份。本次登出完成後，公司2022年股票期權激勵計劃實施完畢，無尚未行權的股票期權。"
+    },
+    {
+      "id": "5235629",
+      "time": "2026-11-24 19:31:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "據報道，俄羅斯財政部長西盧安諾夫表示，2026年預算執行情況可能好於預期，赤字約佔國內生產總值的3%。"
+    },
+    {
+      "id": "mkt:01a20d52-a3bb-7bbc-acd2-79d762e39414",
+      "time": "2026-11-24 19:30:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "Chen Jining, a member of the Chinese Communist Party Politburo and Shanghai party secretary, is under investigation by the Central Commission for Discipline Inspection and National Supervisory Commission for suspected serious violations of discipline and law."
+    },
+    {
+      "id": "5235628",
+      "time": "2026-11-24 19:30:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【陳吉寧涉嫌嚴重違紀違法正接受中央紀委國家監委審查調查】中央政治局委員、上海市委書記陳吉寧涉嫌嚴重違紀違法，目前正接受中央紀委國家監委審查調查。(新華社)"
+    },
+    {
+      "id": "5235626",
+      "time": "2026-11-24 19:30:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基：已訂購12艘集裝箱船。"
+    },
     {
       "id": "mkt:01a20d51-97f3-7bbc-acd2-7237ab267c84",
       "time": "2026-11-24 19:29:40",
@@ -78116,178 +78162,6 @@
         "公司"
       ],
       "text": "【年內6家信託公司增資獲批 “百億俱樂部”將擴容至11家】記者據企業預警通行政許可資料梳理，截至發稿，2026年已有包括華宸信託、愛建信託、國民信託、西藏信託、上海信託和紫金信託在內的6家公司獲批增資。從年度變化看，2024年、2025年獲批增資的信託公司分別為2家、7家，今年以來的數量已接近去年全年。此外，上海信託、西藏信託和紫金信託均在四季度獲得批覆，近期增資批覆有所集中。分析人士指出，本輪信託公司密集增資是監管硬約束與業務轉型需要的結果。金樂函式金融分析師廖鶴凱認為，增資潮體現了行業透過夯實資本來支撐轉型探索、緩釋轉型風險的集體共識。整體看，這輪增資提升風險緩衝能力的同時，也加速了行業競爭格局的洗牌。（21財經）"
-    },
-    {
-      "id": "5220012",
-      "time": "2026-11-17 19:33:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報984.00美元/盎司。"
-    },
-    {
-      "id": "5220011",
-      "time": "2026-11-17 19:33:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度10年期基準政府債券收益率收於7.2528%；此前收盤報7.3169%。"
-    },
-    {
-      "id": "mkt:01a1e948-67ab-7bbc-ac1b-79641b66d74b",
-      "time": "2026-11-17 19:33:18",
-      "tags": [
-        "MKT News",
-        "DIS.O",
-        "Impact bullish"
-      ],
-      "text": "Disney's fourth-quarter entertainment revenue was $11.89 bln, above the $11.48 bln market estimate."
-    },
-    {
-      "id": "5220010",
-      "time": "2026-11-17 19:33:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500迷你期貨下跌0.05%，納斯達克100期貨上漲0.24%，道指期貨下跌0.41%。"
-    },
-    {
-      "id": "5220009",
-      "time": "2026-11-17 19:33:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "華特迪士尼公司：第四財季和全財年ESPN網路平臺的消費使用量創下2015財年以來最高紀錄，觀看時長分別增長4%和10%。"
-    },
-    {
-      "id": "mkt:01a1e948-15c2-7bbc-ac1b-70f063d02628",
-      "time": "2026-11-17 19:32:57",
-      "tags": [
-        "MKT News",
-        "DIS.O"
-      ],
-      "text": "Disney's fourth-quarter entertainment operating income was $1.33 billion."
-    },
-    {
-      "id": "5220008",
-      "time": "2026-11-17 19:32:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "華特迪士尼：這些不利因素較第三季度同比影響有所緩和。"
-    },
-    {
-      "id": "mkt:01a1e947-da7e-7bbc-ac1b-6e5d840e9d4b",
-      "time": "2026-11-17 19:32:42",
-      "tags": [
-        "MKT News",
-        "DIS.N",
-        "Impact bullish"
-      ],
-      "text": "Disney (DIS.N) announced a $2 per-share dividend."
-    },
-    {
-      "id": "mkt:01a1e947-949a-7bbc-ac1b-615ffef34289",
-      "time": "2026-11-17 19:32:24",
-      "tags": [
-        "MKT News",
-        "DIS.N",
-        "Impact bullish"
-      ],
-      "text": "Walt Disney (DIS.N) reported fiscal Q4 revenue of $25.95 bln, up from $22.464 bln a year earlier."
-    },
-    {
-      "id": "5220007",
-      "time": "2026-11-17 19:32:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪士尼：目前預計效率計劃將在2029財年實現約30億美元的年度運營費用節省。"
-    },
-    {
-      "id": "mkt:01a1e947-8683-7bbc-ac1b-5beb2046b8dc",
-      "time": "2026-11-17 19:32:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "China EV Leaders",
-        "BMW.DE",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "【China's NDRC backs BMW's development in China】China's NDRC Vice Chairman Shen Zhulin met BMW Group Chairman Nie Kewei on Nov. 16 to discuss the China-Europe auto industry and BMW's operations in China. Shen said China has a large auto market and a comprehensive supply chain, and the NDRC supports BMW's development in China and deeper cooperation with Chinese companies to share in growth of the new-energy vehicle industry."
-    },
-    {
-      "id": "5220006",
-      "time": "2026-11-17 19:32:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪士尼：本季度美國國內公園的國際遊客人數持續減少，面臨逆風。"
-    },
-    {
-      "id": "5220005",
-      "time": "2026-11-17 19:32:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪士尼展望2027財年娛樂部門營業利潤將以高個位數增長，剔除第53周的影響。"
-    },
-    {
-      "id": "5220004",
-      "time": "2026-11-17 19:31:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "迪士尼第四財季營收259.5億美元，高於市場預期的251.8億美元。公司預計2027財年分部營業利潤（剔除第53周影響）將增長約8%。此外，迪士尼第四財季體育業務營業利潤為13.9億美元。"
-    },
-    {
-      "id": "5220002",
-      "time": "2026-11-17 19:31:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪士尼第四季度調整後每股收益 1.77 美元，預計 1.66 美元。"
-    },
-    {
-      "id": "mkt:01a1e946-c36c-7bbc-ac1b-521b96412ed7",
-      "time": "2026-11-17 19:31:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "The Wall Street Journal reports that Google (GOOG.O) has signed a power deal with geothermal startup Quaise Energy."
-    },
-    {
-      "id": "5220001",
-      "time": "2026-11-17 19:31:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌與Quaise Energy達成價值逾5億美元的能源協議。"
-    },
-    {
-      "id": "5220000",
-      "time": "2026-11-17 19:30:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大族數控：高精微針測試機相關產品已透過下游頭部客戶驗證並批次交付】11月17日，大族數控（301200.SZ）釋出投資者關係活動記錄表。公司介紹了其產品在AI PCB加工應用的情況。在AI伺服器PCB領域，公司推出的大扭力主軸機械通孔方案與最佳化升級的3D背鑽方案產品在客戶端廣泛應用，可實現31.5:1高厚徑比通孔、0-4mil高精度背鑽（CPK＞1.33）量產加工；公司提供CO2、UV、超快等不同型別鐳射可選的組合方案，適配複雜盲孔、不同配方高頻高速CCL材質HDI板的加工需求，可覆蓋多樣化工藝要求；壓合方案適配高頻高速材料混壓高多層板量產需求；LDI產品可將線路極差管控在3μm以內，滿足±7%以內的嚴苛阻抗控制要求；高精度四線測試機等檢測裝置效能優於海內外競品，市佔率穩步提升。在800G/1.6T高速光模組的類載板領域，冷鐳射鑽孔方案突破傳統CO2鐳射熱效應缺陷，可穩定加工50μm密集微孔；高精度CCD對位六軸成型機量產精度達±25μm，高精微針測試機可實現1.6T光模組BGA Pitch≤150μm的超高精度測試，相關產品已透過下游頭部客戶驗證並批次交付。"
-    },
-    {
-      "id": "5219999",
-      "time": "2026-11-17 19:30:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌與Quaise Energy簽署電力協議。"
     }
   ]
 }
