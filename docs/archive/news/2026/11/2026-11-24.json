@@ -1,7 +1,156 @@
 {
   "date": "2026-11-24",
-  "count": 844,
+  "count": 860,
   "items": [
+    {
+      "id": "mkt:01a20d27-6b02-7bbc-acd1-2aa86d6aafa4",
+      "time": "2026-11-24 18:43:36",
+      "tags": [
+        "MKT News",
+        "1810.HK",
+        "Impact bullish"
+      ],
+      "text": "【Xiaomi smartphone revenue rises 8.2% QoQ in Q3; global market share gains for third straight quarter】Xiaomi President Lu Weibing said the smartphone business is stabilizing, with global market share rising for a third consecutive quarter. Q3 revenue increased 8.2% QoQ, while global smartphone ASP surged nearly 40% YoY to a record high. The recovery was driven by continued product-mix optimization, including lower shipments of low-end models to maintain channel health."
+    },
+    {
+      "id": "mkt:01a20d27-64e9-7bbc-acd1-20b602470c64",
+      "time": "2026-11-24 18:43:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Zelensky confirmed Ukraine struck a Russian vessel in the Gulf of Finland."
+    },
+    {
+      "id": "5235515",
+      "time": "2026-11-24 18:43:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克100指數期貨跌幅擴大至1.5%。"
+    },
+    {
+      "id": "5235514",
+      "time": "2026-11-24 18:43:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盧偉冰：小米手機Q3收入環比增長8.2%，全球市場份額連續三季度提升】小米集團合夥人、集團總裁盧偉冰在財報電話會上表示，小米手機業務逐步企穩，全球市場份額連續三季度提升，Q3收入環比增長8.2%，全球智慧手機平均售價同比大增近40%，創下歷史新高。盧偉冰表示，手機業務回暖主要得益於產品結構持續最佳化，主動減少低端機出貨量、保持渠道健康度。"
+    },
+    {
+      "id": "mkt:01a20d26-d02f-7bbc-acd1-19f2a0245327",
+      "time": "2026-11-24 18:42:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Zelenskiy hopes the new U.S. Congress will pressure Putin if Trump's peace efforts fail."
+    },
+    {
+      "id": "5235512",
+      "time": "2026-11-24 18:41:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德石股份：部分董事及高管首次增持公司股份88000股，增持金額90.62萬元】德石股份公告，公司董事長程貴華、董事兼總經理孫寶生等7名董事及高階管理人員計劃自2026年11月24日起6個月內，以集中競價方式增持公司股票，增持金額合計不低於200萬元且不超過300萬元。2026年11月24日，上述增持主體首次實施增持計劃，合計增持公司股票88000股，成交金額合計90.62萬元（不含交易費用）。本次增持後，增持主體合計持股由325.42萬股增至334.22萬股，持股比例由1.6687%增至1.7138%。"
+    },
+    {
+      "id": "5235509",
+      "time": "2026-11-24 18:41:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示歐洲人正推動舉行四方烏克蘭會談。"
+    },
+    {
+      "id": "5235508",
+      "time": "2026-11-24 18:41:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基證實烏克蘭在芬蘭灣擊中一艘俄羅斯船隻。"
+    },
+    {
+      "id": "5235507",
+      "time": "2026-11-24 18:41:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "尼德漢姆首次覆蓋遊戲驛站公司並給予買入評級，目標價33美元。"
+    },
+    {
+      "id": "5235506",
+      "time": "2026-11-24 18:40:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行表示，在為期六個月的指數化長期回購操作中分配了43.7億英鎊。"
+    },
+    {
+      "id": "5235505",
+      "time": "2026-11-24 18:40:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基希望美國國會能在美國總統特朗普的和平努力失敗時向俄羅斯總統普京施壓。"
+    },
+    {
+      "id": "mkt:01a20d24-8fbf-7bbc-acd1-139f03076cd0",
+      "time": "2026-11-24 18:40:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【LME set to approve aluminum brand from major new Indonesian smelter, easing global supply crunch】The LME is nearing final approval for aluminum produced by Indonesia’s PT Hua Chin Aluminum Indonesia to be delivered against exchange contracts, potentially adding supply as the global market faces historic tightness. The company applied to register its brand in May. Hua Chin is one of several new Indonesian smelters under construction and ramping up, with annual capacity of 480,000 tonnes that could help ease exchange inventory shortages and price pressure."
+    },
+    {
+      "id": "5235504",
+      "time": "2026-11-24 18:40:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯認為歐洲在烏克蘭談判中發揮的作用沒有附加價值。"
+    },
+    {
+      "id": "5235503",
+      "time": "2026-11-24 18:40:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威國家石油公司正與軍方及北約密切合作。"
+    },
+    {
+      "id": "mkt:01a20d23-aa6b-7bbc-acd1-0d2810678fd7",
+      "time": "2026-11-24 18:39:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "Market Regions",
+        "Europe & UK",
+        "1810.HK",
+        "Impact bullish"
+      ],
+      "text": "【Xiaomi's overseas-bound models to enter Sweden, Germany, Spain and Italy】Xiaomi Group President Lu Weibing said on the company's third-quarter earnings call that Xiaomi plans to enter Europe in 2027. It has set up an R&D and design center in Germany and signed eight leading German dealers. Overseas-bound models will target Sweden, Germany, Spain and Italy, after high-speed and functional testing at seven proving grounds."
+    },
+    {
+      "id": "5235501",
+      "time": "2026-11-24 18:39:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍表示不久前殺死了一名哈馬斯高階武裝分子。"
+    },
     {
       "id": "5235500",
       "time": "2026-11-24 18:39:00",
