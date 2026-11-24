@@ -1,7 +1,135 @@
 {
-  "updated": "2026-11-24 09:20:44",
-  "count": 8943,
+  "updated": "2026-11-24 09:24:26",
+  "count": 8949,
   "items": [
+    {
+      "id": "5234040",
+      "time": "2026-11-24 09:23:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破3670美元/盎司，日內漲0.97%。"
+    },
+    {
+      "id": "5234039",
+      "time": "2026-11-24 09:23:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破3700美元/盎司，日內漲0.51%。"
+    },
+    {
+      "id": "5234038",
+      "time": "2026-11-24 09:23:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國總統李在明表示，對國債串通投標的處罰並不過分。"
+    },
+    {
+      "id": "mkt:01a20b26-70f1-7bbc-acc7-816cea0bafd9",
+      "time": "2026-11-24 09:23:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "03317.HK",
+        "Impact bullish",
+        "06651.HK",
+        "09880.HK"
+      ],
+      "text": "Hong Kong-listed physical AI stocks extended gains for a second straight session. Xunce (03317.HK) rose more than 8%, while 51World (06651.HK), Yunji (02670.HK), UBTech (09880.HK) and Hesai-W (02525.HK) also advanced."
+    },
+    {
+      "id": "mkt:01a20b25-c996-7bbc-acc7-7c16944c69e0",
+      "time": "2026-11-24 09:22:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "03308.HK",
+        "Impact bullish",
+        "06166.HK",
+        "02384.HK"
+      ],
+      "text": "Hong Kong-listed optical communications stocks opened sharply higher, with Innolight (03308.HK) and Cambridge Industries Group (06166.HK) up 15% and Dongshan Precision (02384.HK) up nearly 15%. Everwin Technology (01729.HK), Yangtze Optical Fibre and Cable (06869.HK) and Lightelligence (01879.HK) also rose."
+    },
+    {
+      "id": "5234037",
+      "time": "2026-11-24 09:22:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "來自香港的航天員黎家盈在神舟二十三號任務中擔任載荷專家，在空間科學研究、技術試驗和科普授課等方面很好完成了各項任務。（新華社）"
+    },
+    {
+      "id": "5234036",
+      "time": "2026-11-24 09:22:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行進行 5,160 億元人民幣隔夜逆回購操作 操作利率 1.25%。央行公開市場今日淨投放165.0億元人民幣。"
+    },
+    {
+      "id": "mkt:01a20b24-e817-7bbc-acc7-72fa91edb507",
+      "time": "2026-11-24 09:21:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "The PBOC conducted 516 bln yuan of overnight reverse repos on Nov. 24, 2026, using a fixed-rate, quantity-based tender and fully meeting primary dealers’ demand."
+    },
+    {
+      "id": "mkt:01a20b24-8a90-7bbc-acc7-68b24b18760f",
+      "time": "2026-11-24 09:21:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "03308.HK"
+      ],
+      "text": "Hong Kong shares opened higher, with the HSI up 1.09% and the Hang Seng Tech Index up 2.05%. Optical communications, PCBs, liquid cooling and physical AI led gains. Innolight (03308.HK) rose 15% at the open."
+    },
+    {
+      "id": "mkt:01a20b24-6809-7bbc-acc7-673cc7d4c165",
+      "time": "2026-11-24 09:21:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong shares opened higher on Tuesday, Nov. 24. The HSI rose 1.09% to 22,627.29, the Hang Seng Tech Index gained 2.05% to 3,579.83, the China Enterprises Index advanced 0.8% to 7,587.92 and the Red Chip Index added 0.35% to 3,763.44."
+    },
+    {
+      "id": "5234035",
+      "time": "2026-11-24 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數漲1.09%，恒生科技指數漲2.05%】智譜漲14.99%，MINIMAX-W漲14.96%，聯想集團漲10.40%，天數智芯漲7.99%，寧德時代漲5.61%，濰柴動力漲5.27%，阿里巴巴-W漲4.76%。"
+    },
+    {
+      "id": "5234034",
+      "time": "2026-11-24 09:20:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡總理黃循財表示，任何單一國家都無法決定全球人工智慧治理。"
+    },
     {
       "id": "5234020",
       "time": "2026-11-24 09:18:42",
@@ -79832,59 +79960,6 @@
         "焦點"
       ],
       "text": "A股三大股指開盤齊跌，上證指數跌0.47%，深證成指跌0.80%，創業板指跌0.86%。"
-    },
-    {
-      "id": "5218842",
-      "time": "2026-11-17 09:24:22",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【工大衛星啟動IPO輔導】證監會網站披露，哈爾濱工大衛星技術股份有限公司（以下簡稱“工大衛星”）於2026年11月16日在黑龍江證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為中信建投證券。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202611173932681521",
-      "time": "2026-11-17 09:21:39",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展7140億元隔夜逆回購操作，操作利率為1.25%。"
-    },
-    {
-      "id": "5218841",
-      "time": "2026-11-17 09:21:19",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放2,540億元人民幣。"
-    },
-    {
-      "id": "5218840",
-      "time": "2026-11-17 09:21:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股開盤：恒生指數跌0.98%，恒生科技指數跌1.09%】百度集團-W跌3.26%，阿里巴巴-W跌3.27%，聯想集團跌3.50%，智譜跌3.56%，嗶哩嗶哩-W跌3.84%，MINIMAX-W跌4.00%，蔚來-SW跌5.26%。"
-    },
-    {
-      "id": "5218839",
-      "time": "2026-11-17 09:20:53",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行進行 7,140 億元人民幣隔夜逆回購操作， 操作利率 1.25%。"
-    },
-    {
-      "id": "5218838",
-      "time": "2026-11-17 09:20:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【高樂股份在哈爾濱成立科技公司 含AI及積體電路業務】企查查APP顯示，近日，哈爾濱大章科技有限公司成立，經營範圍包含人工智慧硬體銷售；人工智慧雙創服務平臺；積體電路晶片設計及服務；積體電路晶片及產品製造等。企查查股權穿透顯示，該公司由高樂股份全資持股。"
     }
   ]
 }
