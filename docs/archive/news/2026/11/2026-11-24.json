@@ -1,7 +1,121 @@
 {
   "date": "2026-11-24",
-  "count": 333,
+  "count": 346,
   "items": [
+    {
+      "id": "5233961",
+      "time": "2026-11-24 09:08:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日股上揚 黃仁勳迴歸令AI交易重燃】由於黃仁勳重掌英偉達緩解了此前因其辭職而加劇的AI投資放緩擔憂，日本股市上漲。截至東京時間上午10點01分，東證指數上漲2.8%，報3776.77點；日經225指數上漲4.63%，報59041.95點。東京股市投資者在結束三天小長假後重返市場，首次有機會將英偉達決定讓黃仁勳復職掌舵的訊息計入定價。他的迴歸推動華爾街創下自2025年4月以來的最佳單日表現，納斯達克100指數飆升6.9%，從熊市邊緣強勢反彈。“黃仁勳的迴歸將緩解市場對AI相關企業融資的擔憂，”野村資產管理首席策略師Hideyuki Ishiguro表示。“全球範圍內的倉位調整大多已在上週末完成，而改善的市場環境應能支撐今日的買盤。”"
+    },
+    {
+      "id": "5233959",
+      "time": "2026-11-24 09:08:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲3.8%至242.52點。"
+    },
+    {
+      "id": "mkt:01a20b18-50d4-7bbc-acc7-2d76b25e6ab1",
+      "time": "2026-11-24 09:07:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "After entering orbit, the Shenzhou-24 crewed spacecraft will first use a 3.5-hour autonomous rapid rendezvous and docking strategy, docking at the forward port of the Tianhe core module to form a three-spacecraft, three-module complex."
+    },
+    {
+      "id": "5233957",
+      "time": "2026-11-24 09:07:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【神23將返回東風著陸場】神舟二十三號載人飛船完成任務後將返回東風著陸場。"
+    },
+    {
+      "id": "5233956",
+      "time": "2026-11-24 09:07:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【神24具備執行發射任務條件】神舟二十四號船箭飛行產品質量受控，航天員乘組狀態良好，空間站組合體狀態正常，具備執行發射任務條件。"
+    },
+    {
+      "id": "5233955",
+      "time": "2026-11-24 09:07:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "神舟二十三號乘組中的1名航天員，將繼續在軌駐留，完成一年期在軌駐留試驗。"
+    },
+    {
+      "id": "5233953",
+      "time": "2026-11-24 09:06:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【神24將自主快速交會對接】神舟二十四號載人飛船入軌後，將優先採用3.5小時自主快速交會對接策略，對接於天和核心艙前向埠，形成三船三艙組合體。"
+    },
+    {
+      "id": "5233952",
+      "time": "2026-11-24 09:06:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【徐工集團、交銀投資等成立工程機械產業基金】企查查APP顯示，近日，江蘇徐工交融工程機械產業基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由徐州工程機械集團有限公司全資子公司徐工集團產業投資發展（徐州）有限公司、交銀金融資產投資有限公司等共同出資。"
+    },
+    {
+      "id": "5233943",
+      "time": "2026-11-24 09:05:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【粵桂股份：電子級硫酸剛出產品 正在驗證過程中】粵桂股份在互動平臺表示，公司密切關注電池技術的發展趨勢與方向；公司電子級硫酸剛出產品，正在驗證過程中；10萬噸精製溼法磷酸工業方向可供給下游磷酸鐵，同時可供下游農業方向。"
+    },
+    {
+      "id": "5233938",
+      "time": "2026-11-24 09:04:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【穆罕默德·齊尚·阿里成為中國載人工程首位外籍航天員】在今天（11月24日）上午舉行的神舟二十四號載人飛行任務新聞釋出會上，發言人介紹，執行神舟二十四號載人飛行任務的航天員乘組由湯洪波、武毅、穆罕默德·齊尚·阿里組成，湯洪波擔任指令長。"
+    },
+    {
+      "id": "mkt:01a20b14-d287-7bbc-acc7-21d91cfe08bd",
+      "time": "2026-11-24 09:04:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's most-active live hog futures contract rose more than 2% intraday to 9,705 yuan/metric ton."
+    },
+    {
+      "id": "mkt:01a20b14-bd7f-7bbc-acc7-1ab313bbafc5",
+      "time": "2026-11-24 09:03:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "China futures were mostly higher at the open. Shanghai silver rose nearly 6%, tin gained more than 4%, and lithium carbonate, gold, European-route container freight, palladium, copper and live hog futures rose more than 2%. Asphalt and low-sulfur fuel oil fell more than 3%, fuel oil dropped nearly 3%, and Shanghai crude oil slid more than 2%."
+    },
+    {
+      "id": "5233933",
+      "time": "2026-11-24 09:03:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞總理阿爾巴尼斯：已與新加坡敲定關於基本物資供應的諒解備忘錄。"
+    },
     {
       "id": "mkt:01a20b14-3c5d-7bbc-acc7-13da3c1decdf",
       "time": "2026-11-24 09:03:25",
