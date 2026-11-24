@@ -1,7 +1,43 @@
 {
   "date": "2026-11-25",
-  "count": 246,
+  "count": 250,
   "items": [
+    {
+      "id": "5236347",
+      "time": "2026-11-25 05:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.19%】震坤行漲7.34%，AIFU漲6.25%，MAAS漲4.76%，愛奇藝漲4.95%，小牛電動漲4.90%。"
+    },
+    {
+      "id": "5236346",
+      "time": "2026-11-25 04:59:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至11月23日，美國政府距離41.1萬億美元的借款上限還差5756億美元。"
+    },
+    {
+      "id": "mkt:01a20f58-f0cb-7bbc-acdc-343dc0b5767c",
+      "time": "2026-11-25 04:56:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Israeli media: Defense minister says Iran is developing chemical weapons】Israeli Defense Minister Israel Katz said Iran is developing chemical weapons but is not yet capable of launching a chemical attack on Israel, Israeli media reported on the 24th. He provided no details or evidence. Katz said Israel would not allow Iran to obtain chemical weapons and was preparing for all scenarios, including a preemptive Iranian strike."
+    },
+    {
+      "id": "5236345",
+      "time": "2026-11-25 04:55:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：以防長稱伊朗“正在研發化學武器”】據以色列媒體24日報道，以國防部長卡茨當天稱伊朗“正在研發化學武器”，但他未提供任何細節或證據。據報道，卡茨說，伊朗“正在研發化學武器”但尚不具備對以色列發動化武襲擊的能力，以方“絕不允許伊朗獲得化學武器”，正在為包括“伊朗先發制人打擊以色列”在內的所有可能情況做準備。（新華社）"
+    },
     {
       "id": "5236344",
       "time": "2026-11-25 04:54:17",
