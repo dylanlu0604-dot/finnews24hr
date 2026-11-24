@@ -1,7 +1,56 @@
 {
-  "updated": "2026-11-24 09:54:36",
-  "count": 8969,
+  "updated": "2026-11-24 09:58:25",
+  "count": 8963,
   "items": [
+    {
+      "id": "5234205",
+      "time": "2026-11-24 09:57:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東：到2030年初步建成清潔低碳安全高效的新型能源體系】據大眾日報，11月23日下午，山東省新聞辦舉行“開局起步‘十五五’”主題系列新聞釋出會，解讀《山東省新型能源體系建設“十五五”規劃》。《規劃》共設定能源保障、綠色轉型、降碳提效、創新發展、惠民利民5大類18項可量化、可落地的指標，總體目標是，到2030年初步建成清潔低碳安全高效的新型能源體系。“十五五”時期，山東將按“3+3+3”總體佈局推進新型電力系統建設，重點理順“發電、輸電、用電”鏈條。發電側統籌推進核電、風電、光伏協同開發，推動非化石能源由裝機主體向發電量主體轉變；電網側強化主配微網協同，到2030年500千伏電網形成“六橫六縱”環網，配電網可承載分散式新能源7500萬千瓦；用電側探索跨區域綠電直連，規模發展綠電制氫（氨、醇）。同時，補強調節、供應、民生三項核心能力，到2030年在運抽水蓄能800萬千瓦左右，新型儲能3000萬千瓦左右，虛擬電廠可調規模400萬千瓦以上。"
+    },
+    {
+      "id": "5234202",
+      "time": "2026-11-24 09:56:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華為算力概念震盪回升 華勝天成8天4板】早盤華為算力概念震盪回升，華勝天成走出8天4板，真視通、拓維資訊、四川長虹、常山北明、星華新材、軟通動力等衝高。"
+    },
+    {
+      "id": "5234199",
+      "time": "2026-11-24 09:56:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潤邦股份旗下KOCH Solutions獲Viscaria挪威納爾維克港新訂單】11月24日，據潤邦股份訊息，近日，潤邦股份旗下KOCH Solutions成功與Viscaria簽署新專案合同，將為其位於挪威的納爾維克港專案提供物料搬運和輸送成套系統。"
+    },
+    {
+      "id": "5234196",
+      "time": "2026-11-24 09:56:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【宇樹市值重回3000億】宇樹科技高開後走高，截至發稿漲7.34%，股價報759.98元，總市值重回3000億元。"
+    },
+    {
+      "id": "5234188",
+      "time": "2026-11-24 09:54:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股光通訊概念走強 羅博特科漲超20%】港股光通訊概念走強，羅博特科漲超20%，劍橋科技、中際旭創跟漲。"
+    },
+    {
+      "id": "5234187",
+      "time": "2026-11-24 09:54:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌7個基點至2.715%。"
+    },
     {
       "id": "5234186",
       "time": "2026-11-24 09:54:04",
@@ -80029,115 +80078,6 @@
         "MKT News"
       ],
       "text": "【China's LingSheng retains No. 1 in TOP500 and HPCG rankings】China's National Supercomputing Shenzhen Center said its LingSheng exascale system retained the top spot in the latest TOP500 rankings, released Nov. 17 at the SC26 conference in Chicago, with Linpack double-precision performance of 2.198 exaflops, about 21% ahead of second-ranked U.S. system El Capitan at 1.809 exaflops. LingSheng also topped the HPCG ranking at 22 petaflops. The system has supported 22 applications at 10-million-core scale and more than 220 domain applications; XLSDFT research conducted on the system was shortlisted for the 2026 ACM Gordon Bell Prize."
-    },
-    {
-      "id": "mkt:01a1e73a-0c90-7bbc-ac0b-522437d747d7",
-      "time": "2026-11-17 09:58:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "The most-active iron ore futures contract is down 2.00% at 643 yuan/mt."
-    },
-    {
-      "id": "5218917",
-      "time": "2026-11-17 09:57:40",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "11月17日上午，習近平將同出席APEC領導人非正式會議的外國領導人舉行雙邊會晤。（央視新聞）"
-    },
-    {
-      "id": "5218916",
-      "time": "2026-11-17 09:57:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.04%，成分股中，並行科技漲5.24%，錦華新材漲4.50%，華嶺股份漲2.61%，同惠電子漲2.07%。"
-    },
-    {
-      "id": "5218915",
-      "time": "2026-11-17 09:57:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【TOP500、HPCG雙榜第一！“靈晟”蟬聯全球超算榜首】當地時間11月17日，在美國芝加哥舉行的SC26國際超級計算大會期間，新一期全球超算TOP500榜單正式釋出：國家超級計算深圳中心“靈晟”E級超算以2.198EFlops（每秒219.8億億次）的Linpack雙精度實測效能蟬聯世界第一，領先第二名美國“El Capitan”（1.809EFlops）約21%，並以22PFlops繼續保持HPCG榜單榜首。繼今年6月首次登頂後，中國超算再奪世界第一，也是時隔九年重攀超算之巔後的穩固領跑。系統首創線上加速（Online Acceleration）全CPU超智融合架構，實現從晶片、網路、儲存到系統軟體的全棧自主可控，已支撐22項千萬核級全機規模應用，適配220餘款領域應用。基於“靈晟”開展的XLSDFT科研應用成果入圍2026年ACM戈登貝爾獎，展現國產E級算力支撐重大原創科研的能力。"
-    },
-    {
-      "id": "5218914",
-      "time": "2026-11-17 09:57:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "mkt:01a1e738-bbba-7bbc-ac0b-4b80e141f5bf",
-      "time": "2026-11-17 09:56:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Xi Jinping will hold bilateral meetings with foreign leaders attending the APEC Economic Leaders' Meeting on the morning of Nov. 17."
-    },
-    {
-      "id": "5218913",
-      "time": "2026-11-17 09:56:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【煤炭板塊持續走弱，新大洲A跌停】煤炭板塊持續走弱，新大洲A跌停，鄭州煤電、安泰集團、雲煤能源、大有能源、昊華能源、兗礦能源等跟跌。"
-    },
-    {
-      "id": "mkt:01a1e738-3b99-7bbc-ac0b-4257ab1f7009",
-      "time": "2026-11-17 09:56:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【CPCA: China passenger vehicle inventory reaches 3.34 mln units at end-October, equivalent to 60 days of sales】China’s passenger vehicle inventory rose 130,000 from September to 3.34 mln units at end-October 2026, down 70,000 from a year earlier, with stocks rising in both September and October, CPCA Secretary General Cui Dongshu said. Inventory equates to 60 days of sales based on projected domestic retail volumes over the next three months, versus 50 days in October 2023, 49 days in 2024 and 61 days in 2025, leaving stock levels under pressure. Among automakers that produce only new-energy vehicles, inventory climbed 100,000 month on month to a record 980,000 units, 200,000 above the November 2025 peak. Cui also said market optimism was 23% in October and post-month satisfaction was 21% in early November, citing the heavy impact of high fuel prices."
-    },
-    {
-      "id": "5218912",
-      "time": "2026-11-17 09:56:16",
-      "tags": [
-        "公司",
-        "市場",
-        "國際",
-        "原創"
-      ],
-      "text": "【Anthropic最快將於12月11日納入羅素1000指數】Anthropic計劃中的IPO可能帶來數十億美元的指數跟蹤基金買盤，不過，這家人工智慧(AI)初創企業在被納入兩大主要股指之前，等待時間可能比SpaceX更長。根據富時羅素的一份通知，如果Anthropic按計劃於週四開始交易，並符合提前納入條件，可能會在12月11日收盤後加入羅素1000指數。根據納斯達克100指數的編制規則，Anthropic可能在12月21日開盤前被納入該指數。相比之下，SpaceX於6月上市約一週後便加入羅素1000指數，並在開始交易後不到一個月被納入納斯達克100指數。"
-    },
-    {
-      "id": "mkt:01a1e738-09c2-7bbc-ac0b-39ff081bcbae",
-      "time": "2026-11-17 09:56:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Market sources: Japan to postpone issuance of new floating-rate bonds."
-    },
-    {
-      "id": "5218911",
-      "time": "2026-11-17 09:55:30",
-      "tags": [
-        "行業"
-      ],
-      "text": "【乘聯分會崔東樹：全國乘用車行業10月末庫存334萬輛、庫存60天】11月17日，乘聯分會秘書長崔東樹發文稱，2026年10月末全國乘用車行業庫存334萬輛，環比上月增13萬輛，同比2025年10月下降7萬輛，形成9-10月庫存持續回升的特徵。預測團隊2025年對市場預測很樂觀，2025年10月開始滿意度持續暴跌到低位。2026年10月樂觀度23%，11月初的10月月後滿意度為21%，預期低但滿意度也差，主要是高油價的衝擊太大。根據2026年10月底的庫存與未來3個月國內零售量綜合預估的現有庫存支撐未來銷售天數在60天，相對於2023年10月的50天、2024年10月的49天，2025年10月的61天，今年10月的總體庫存天數相對仍有壓力。從僅生產新能源車的企業的庫存變化特徵分析看，2023年年初庫存20萬輛，隨後進入庫存快速增長期，2025年4月僅生產新能源車的企業的庫存達到88萬輛，這是近期的峰值。隨著反內卷的推動，2026年10月僅生產新能源車的企業的總庫存上升到98萬輛，環比上月增10萬臺，較2025年11月峰值78萬庫存增20萬輛，創歷史新高。"
-    },
-    {
-      "id": "5218910",
-      "time": "2026-11-17 09:55:19",
-      "tags": [
-        "資料"
-      ],
-      "text": "【2026年1-10月北京規模以上工業執行情況】1-10月，工業生產實現平穩較快增長,全市規模以上工業增加值按可比價格計算，比上年同期增長6.5%。高階製造引領發展，規模以上高技術製造業、戰略性新興產業分別增長25.1%和18.6%（二者有交叉）。四大支柱行業“三增一降”。1-10月，36個工業大類行業中，13個行業增加值同比實現增長。四大支柱行業中，計算機、通訊和其他電子裝置製造業增長45.4%；醫藥製造業增長5.5%；電力、熱力生產和供應業增長1.3%；汽車製造業下降15.5%。從主要工業產品看，1-10月，全市生產積體電路302.8億塊，比上年同期增長21.8%。生產風力發電機組1441.9萬千瓦時，增長7.7%。生產汽車105.4萬輛，下降10.7%。其中，轎車50.0萬輛，下降21.7%；運動型多用途乘用車（SUV）43.7萬輛，增長3.7%；新能源汽車59.2萬輛，增長9.1%。生產手機7442.9萬臺，下降32.5%。出口保持穩定。1-10月，工業企業實現銷售產值22568.9億元，比上年同期增長0.1%。其中，實現出口交貨值1847億元，增長5.2%，醫藥製造業和汽車製造業增勢較好，分別增長25.2%和10.8%。（北京市統計局）"
     }
   ]
 }
