@@ -1,7 +1,175 @@
 {
   "date": "2026-11-25",
-  "count": 309,
+  "count": 326,
   "items": [
+    {
+      "id": "5236411",
+      "time": "2026-11-25 05:37:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "惠普股價在盤後交易中轉跌，最新下跌4%。"
+    },
+    {
+      "id": "5236410",
+      "time": "2026-11-25 05:37:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "高通執行長獎勵計劃的條件是要求股價上漲超過三倍。"
+    },
+    {
+      "id": "5236409",
+      "time": "2026-11-25 05:36:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國上週API原油庫存增超12萬桶】美國石油協會（API）資料顯示，上週，美國API原油庫存 +12.6萬桶，之前一週 +527.8萬桶。上週API庫欣原油庫存 -66.6萬桶，前值 -169.1萬桶。上週API成品油汽油庫存 -4.7萬桶（前值 +512.2萬桶）、餾分油庫存 +164.7萬桶（前值 +35.1萬桶）。"
+    },
+    {
+      "id": "5236408",
+      "time": "2026-11-25 05:36:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通授予執行長價值5000萬美元的價值創造限制性股票獎勵。"
+    },
+    {
+      "id": "5236407",
+      "time": "2026-11-25 05:35:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通授予首席財務官兼營運長帕爾基瓦拉1500萬美元限制性股票獎勵。"
+    },
+    {
+      "id": "5236406",
+      "time": "2026-11-25 05:35:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通：董事會批准為執行長和首席財務官頒發特別長期股權激勵獎勵。"
+    },
+    {
+      "id": "mkt:01a20f7b-ddca-7bbc-acdd-4773da265dc0",
+      "time": "2026-11-25 05:35:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API Cushing crude inventories fell 666,000 barrels in the week ended Nov. 20, versus a 1.691 million-barrel draw in the prior week."
+    },
+    {
+      "id": "mkt:01a20f7b-cfa7-7bbc-acdd-3f967dd8475a",
+      "time": "2026-11-25 05:35:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Nov.20) | actual -666000M | previous -1691000M"
+    },
+    {
+      "id": "mkt:01a20f7b-cbac-7bbc-acdd-31a784fbc09b",
+      "time": "2026-11-25 05:35:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. API crude oil production was 436,000 b/d in the week ended Nov. 20, up from 51,000 b/d previously."
+    },
+    {
+      "id": "mkt:01a20f7b-b7f2-7bbc-acdd-28a558786ec7",
+      "time": "2026-11-25 05:34:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Nov.20) | actual 436000M | previous 51000M"
+    },
+    {
+      "id": "mkt:01a20f7b-ab9d-7bbc-acdd-205275d58da6",
+      "time": "2026-11-25 05:34:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. API product imports fell 55,000 b/d in the week ended Nov. 20, versus a previous increase of 147,000 b/d."
+    },
+    {
+      "id": "mkt:01a20f7b-9c9f-7bbc-acdd-1dcfc2f2cbe6",
+      "time": "2026-11-25 05:34:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports (Nov.20) | actual -55000M | previous 147000M"
+    },
+    {
+      "id": "mkt:01a20f7b-7ec7-7bbc-acdd-119df4022167",
+      "time": "2026-11-25 05:34:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. API crude oil imports rose by 101,000 barrels in the week ended Nov. 20, versus a 178,000-barrel decline previously."
+    },
+    {
+      "id": "mkt:01a20f7b-6ce4-7bbc-acdd-0c6c9c44c3ca",
+      "time": "2026-11-25 05:34:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports (Nov.20) | actual 101000M | previous -178000M"
+    },
+    {
+      "id": "mkt:01a20f7b-557b-7bbc-acdd-0560042fb26f",
+      "time": "2026-11-25 05:34:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. API heating oil inventories fell 90,000 barrels in the week to Nov. 20, versus a 273,000-barrel drop previously."
+    },
+    {
+      "id": "mkt:01a20f7b-47c3-7bbc-acdc-ff456a9c6661",
+      "time": "2026-11-25 05:34:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Nov.20) | actual -90000M | previous -273000M"
+    },
+    {
+      "id": "mkt:01a20f7a-de4d-7bbc-acdc-f1d3a7c69c4e",
+      "time": "2026-11-25 05:34:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. API distillate inventories rose 1.647 mln barrels in the week to Nov. 20, versus an expected increase of 1.357 mln barrels and a prior rise of 351,000 barrels."
+    },
     {
       "id": "mkt:01a20f7a-ce3e-7bbc-acdc-e930a8304b0f",
       "time": "2026-11-25 05:33:56",
