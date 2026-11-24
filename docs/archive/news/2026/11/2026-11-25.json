@@ -1,7 +1,104 @@
 {
   "date": "2026-11-25",
-  "count": 259,
+  "count": 270,
   "items": [
+    {
+      "id": "mkt:01a20f62-c46b-7bbc-acdc-56c370f71f99",
+      "time": "2026-11-25 05:07:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dell Technologies reported third-quarter revenue of $41.974 bln, below the $49.318 bln market estimate."
+    },
+    {
+      "id": "5236363",
+      "time": "2026-11-25 05:06:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "戴爾美股盤後漲近4%。"
+    },
+    {
+      "id": "5236362",
+      "time": "2026-11-25 05:06:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾第三季度人工智慧最佳化伺服器營收為220.3億美元，預期為193億美元。"
+    },
+    {
+      "id": "5236361",
+      "time": "2026-11-25 05:05:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾預計全年營收2020億美元，此前中點預期為1920億美元，市場預期為1935億美元。"
+    },
+    {
+      "id": "mkt:01a20f60-f1b2-7bbc-acdc-4be00a58a2d9",
+      "time": "2026-11-25 05:05:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "The Dow Jones Industrial Average rose 424.46 points, or 0.86%, to 50,019.77 on Tuesday, Nov. 24. The S&P 500 fell 36.07 points, or 0.50%, to 7,201.10, while the Nasdaq Composite dropped 356.02 points, or 1.48%, to 23,733.54."
+    },
+    {
+      "id": "5236360",
+      "time": "2026-11-25 05:05:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾預計全年調整後每股收益29.68美元，此前中點預期為25.5美元，市場預期為25.88美元。"
+    },
+    {
+      "id": "5236359",
+      "time": "2026-11-25 05:05:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾預計本財年人工智慧最佳化伺服器營收為780億美元，此前預期為740億美元。"
+    },
+    {
+      "id": "5236358",
+      "time": "2026-11-25 05:05:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾第三季度人工智慧伺服器積壓訂單為1323億美元，預期為1173億美元。"
+    },
+    {
+      "id": "5236357",
+      "time": "2026-11-25 05:04:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "Workday公司：第三季度業績反映出我們的人工智慧產品組合持續獲得採用。"
+    },
+    {
+      "id": "mkt:01a20f5f-c165-7bbc-acdc-46d781005254",
+      "time": "2026-11-25 05:04:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said its GPT-6 models can autonomously design proteins, using reasoning and code to generate novel protein structures and amino acid sequences without specialized biology models."
+    },
+    {
+      "id": "5236356",
+      "time": "2026-11-25 05:04:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱沙特主導聯軍空襲薩那國際機場所在區域】葉門胡塞武裝24日夜間訊息稱，沙特主導的聯軍空襲了葉門首都薩那國際機場所在區域。機場本身是否被炸尚不清晰。（央視新聞）"
+    },
     {
       "id": "5236355",
       "time": "2026-11-25 05:03:21",
