@@ -1,7 +1,40 @@
 {
   "date": "2026-11-25",
-  "count": 298,
+  "count": 301,
   "items": [
+    {
+      "id": "mkt:01a20f76-77cb-7bbc-acdc-ba1920197e56",
+      "time": "2026-11-25 05:29:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【JP Morgan sets 2027 S&P 500 target at 8,200, below Wall Street consensus】JP Morgan strategists expect the U.S. stock rally to extend through end-2027, setting an S&P 500 target of 8,200, below the 8,471 market consensus and 8,700 targets from Morgan Stanley and Goldman Sachs. The target implies about 14% upside from current levels. Despite a recent selloff in AI-related stocks and weaker sentiment, the team says the AI investment cycle remains intact, with computing demand strong and durable. The team, led by Dubravko Lakos-Bujas, forecasts S&P 500 companies’ 2027 EPS at about $430, a valuation of roughly 19 times earnings and aggregate earnings growth of about 15%. It says the market is underestimating AI demand and that near-term industry bottlenecks and valuation resets do not signal a slowdown in AI adoption."
+    },
+    {
+      "id": "mkt:01a20f76-53b8-7bbc-acdc-b3e9d2f053fd",
+      "time": "2026-11-25 05:29:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An SEC filing shows Micron Technology CEO Sanjay Mehrotra received total compensation of $39.7 million in 2026."
+    },
+    {
+      "id": "mkt:01a20f75-53a2-7bbc-acdc-aa97f3f25b18",
+      "time": "2026-11-25 05:27:56",
+      "tags": [
+        "MKT News",
+        "HPQ.O",
+        "Impact bullish"
+      ],
+      "text": "HP shares rose more than 10% after hours after earnings topped expectations."
+    },
     {
       "id": "5236393",
       "time": "2026-11-25 05:23:44",
