@@ -1,7 +1,103 @@
 {
   "date": "2026-11-24",
-  "count": 965,
+  "count": 976,
   "items": [
+    {
+      "id": "5235604",
+      "time": "2026-11-24 19:18:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅日內跌超4.00%，現報11986.880美元/噸。"
+    },
+    {
+      "id": "5235603",
+      "time": "2026-11-24 19:18:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺積電美股盤前跌超2%，現報356.19美元。"
+    },
+    {
+      "id": "mkt:01a20d46-73d8-7bbc-acd2-43d6021f4ee6",
+      "time": "2026-11-24 19:17:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "CITIGROUP raised NVIDIA's PT to $240 from $225."
+    },
+    {
+      "id": "5235602",
+      "time": "2026-11-24 19:16:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美股納斯達克100指數期貨跌超2%，標普500指數期貨跌1.02%，道瓊斯指數期貨跌0.51%。"
+    },
+    {
+      "id": "5235601",
+      "time": "2026-11-24 19:16:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿麗亞娜航天公司的火箭搭載亞馬遜衛星升空。"
+    },
+    {
+      "id": "5235600",
+      "time": "2026-11-24 19:15:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "鞋站集團盤前下跌33%，並下調全年銷售展望。"
+    },
+    {
+      "id": "mkt:01a20d44-644d-7bbc-acd2-3b74f23621fd",
+      "time": "2026-11-24 19:15:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The UK government announced sanctions targeting the Houthi movement."
+    },
+    {
+      "id": "mkt:01a20d44-5cca-7bbc-acd2-3242eb35bd60",
+      "time": "2026-11-24 19:15:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Anthropic falls more than 6% premarket, below IPO price】Anthropic fell 6.7% to $81.71 in U.S. premarket trading, below its $83 IPO price. Axios reported that many employees at Anthropic and OpenAI believe the capabilities of unreleased internal models have become so powerful they cannot be safely released to the public."
+    },
+    {
+      "id": "5235599",
+      "time": "2026-11-24 19:15:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府宣佈針對胡塞武裝的制裁方案。"
+    },
+    {
+      "id": "5235598",
+      "time": "2026-11-24 19:14:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車平均漲價0.5%。"
+    },
+    {
+      "id": "5235596",
+      "time": "2026-11-24 19:14:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "塔塔汽車乘用車公司將上調轎車和SUV的價格。"
+    },
     {
       "id": "5235595",
       "time": "2026-11-24 19:14:17",
