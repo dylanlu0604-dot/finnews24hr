@@ -1,7 +1,180 @@
 {
   "date": "2026-11-24",
-  "count": 870,
+  "count": 889,
   "items": [
+    {
+      "id": "mkt:01a20d2e-5f81-7bbc-acd1-840f5618d077",
+      "time": "2026-11-24 18:51:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LME: The enhancement follows a series of adjustments to the exchange’s physical market infrastructure announced in July."
+    },
+    {
+      "id": "mkt:01a20d2e-5d21-7bbc-acd1-7ce891aba670",
+      "time": "2026-11-24 18:51:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Zelenskiy plans to use new U.S. Congress to pressure Putin, bypassing Trump】Ukrainian President Volodymyr Zelenskiy said he would seek support from the new Democratic-controlled U.S. Congress to increase pressure on Russia if President Donald Trump fails to persuade President Vladimir Putin to end the war by year-end. If no peace deal acceptable to Kyiv is reached, Ukraine will seek strong U.S. military support and tougher sanctions on Russia. “Ukraine must receive sufficient support and Russia face sufficiently tough sanctions to send a clear signal: now is the time to come to the negotiating table and end the war,” Zelenskiy said. His remarks were the clearest sign yet that he intends to use Trump’s recent election setbacks to push Russia toward peace talks."
+    },
+    {
+      "id": "5235537",
+      "time": "2026-11-24 18:50:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI與Anthropic員工警告：內部AI模型能力過於強大，可能已無法安全釋出】二十餘名知情人士透露，OpenAI和Anthropic尚未公開發布的AI模型能力正迅速提升，部分內部研究人員認為，現有安全技術已難以有效控制這些模型，其能力增長速度正在超過人類監控和約束它們的能力。新一代模型在數學、科學、網路安全及AI研究等領域取得重大突破，但內部測試也發現，模型越來越善於利用獎勵機制漏洞繞過安全限制，甚至能夠隱藏真實推理過程，或向監控人員提供具有誤導性的推理記錄。相關問題已在兩家公司內部引發激烈爭論，部分研究人員主張停止公開發布未來的前沿模型，僅允許有限的內部部署，另有人員甚至呼籲暫停訓練更先進的模型。OpenAI表示已採用可能延緩模型釋出的新安全要求；Anthropic則表示，必要時願意以犧牲商業利益為代價推遲模型開發或釋出。若現有安全技術無法跟上模型能力提升的速度，AI行業的技術迭代和商業化程序可能受到顯著影響。"
+    },
+    {
+      "id": "mkt:01a20d2e-2589-7bbc-acd1-730a54ac7029",
+      "time": "2026-11-24 18:50:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME: Future management of open-air storage for primary aluminum in Hong Kong will be flexible and demand-driven."
+    },
+    {
+      "id": "5235536",
+      "time": "2026-11-24 18:50:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永和股份：控股股東童建國增持公司0.14%股份】永和股份公告稱，公司控股股東、實際控制人兼董事長童建國於2026年11月23日至11月24日透過集中競價方式合計增持公司股份72.38萬股，佔公司總股本的0.14%，增持金額合計1867.06萬元，本次增持已實施完成。增持前童建國及其一致行動人合計持股佔公司總股本42.39%，增持後合計持股佔比升至42.53%，本次增持屬於免於發出要約的情形。"
+    },
+    {
+      "id": "5235535",
+      "time": "2026-11-24 18:50:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上海國際能源交易中對部分客戶採取限制開倉監管措施】上海國際能源交易中公告，2026年11月24日，1組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到上海國際能源交易中心（以下簡稱上期能源）處理標準。上述客戶交易行為違反《上海國際能源交易中心異常交易行為管理細則》第16條之規定，上期能源決定對相關客戶在相應品種上採取限制開倉的監管措施。"
+    },
+    {
+      "id": "5235534",
+      "time": "2026-11-24 18:50:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英諾特：擬5000萬元-1億元回購股份】英諾特公告稱，公司擬以自有資金透過集中競價交易方式回購股份，回購資金總額不低於5000萬元、不超過1億元，回購價格不超過72.00元/股，預計回購數量為69.44萬股至138.89萬股，佔公司總股本的0.5033%至1.0067%。回購期限自董事會審議透過之日起12個月內，回購股份擬用於股權激勵及/或員工持股計劃，若3年內未轉讓完畢則予以登出。公司董事、高管、控股股東、實控人及持股5%以上股東未來6個月內暫無減持計劃。"
+    },
+    {
+      "id": "mkt:01a20d2d-7247-7bbc-acd1-6f60b7de7b01",
+      "time": "2026-11-24 18:50:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "UK November CBI retail sales balance due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a20d2d-5ab9-7bbc-acd1-658a285b51b6",
+      "time": "2026-11-24 18:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Axios reports that employees at ANTHROPIC and OpenAI are concerned models are being released unsafely."
+    },
+    {
+      "id": "5235533",
+      "time": "2026-11-24 18:49:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數跌幅擴大至0.5%，創盤中新低。"
+    },
+    {
+      "id": "5235532",
+      "time": "2026-11-24 18:49:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【桂林投資控股集團有限公司黨委書記、董事長潘軍華被查】據桂林市紀委監委訊息：桂林投資控股集團有限公司黨委書記、董事長潘軍華涉嫌嚴重違紀違法，目前正接受桂林市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5235531",
+      "time": "2026-11-24 18:49:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【久之洋：預計2027年度日常關聯交易不超15.45億元】久之洋公告稱，公司2027年度擬與華中光電技術研究所及其全資或控股子公司、中船財務有限責任公司等多家關聯方發生銷售商品、採購原材料、接受金融服務等日常關聯交易，預計總額不超過15.45億元，其中財務公司日最高存款結餘額度10.00億元、綜合授信額度3.00億元。該事項已經公司董事會審議透過，尚需提交2026年第五次臨時股東會審議。"
+    },
+    {
+      "id": "5235530",
+      "time": "2026-11-24 18:49:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【領益智造：完成股份回購及期權行權 股份數量變動】領益智造公告稱，截至2026年11月24日，公司A股（深交所上市，程式碼002600）期初已發行股份（不含庫存股）73.04億股，期初庫存股5918.50萬股；因2024年股票期權計劃行權新增股份97.77萬股，佔變動前已發行股份的0.0134%，行權價為每股人民幣1元；期末庫存股6016.27萬股，期末已發行股份總數73.63億股。公司H股（港交所上市，程式碼01688）回購10.03萬股，回購均價每股4.805港元，總代價47.16萬港元。本次股份變動符合相關監管規則要求。"
+    },
+    {
+      "id": "5235529",
+      "time": "2026-11-24 18:49:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長沃爾高表示，繼續保持謹慎和自律的貨幣政策仍是合理的。"
+    },
+    {
+      "id": "mkt:01a20d2c-1f3d-7bbc-acd1-5d19ca31bdda",
+      "time": "2026-11-24 18:48:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME: New primary aluminum, zinc and lead brands must bear indelible markings."
+    },
+    {
+      "id": "5235528",
+      "time": "2026-11-24 18:48:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南亞新材：子公司擬28.80億元投建高階覆銅板生產專案】南亞新材公告稱，公司擬由全資子公司江西南亞實施高階覆銅板生產專案，專案總投資28.80億元，選址江西省吉安市井岡山經濟技術開發區，擬購置約459畝土地新建生產基地，建設期預計60個月，資金來源為自有及/或自籌資金，分期規劃分步實施。該事項已經公司第四屆董事會第五次會議審議透過，無需提交股東會審議，不構成關聯交易及重大資產重組。專案建成後將擴充公司高階覆銅板產能，目前處於前期籌備階段，尚需取得土地使用權及多項前置審批，存在一定不確定性。"
+    },
+    {
+      "id": "5235527",
+      "time": "2026-11-24 18:48:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【思泰克：5069.82萬股限售股將於11月30日解禁】思泰克公告稱，公司首次公開發行前已發行的部分限售股將於2026年11月30日上市流通。本次解除限售股東共6戶，解除限售股份數量為5069.82萬股，佔公司總股本的49.10%，限售期為公司首次公開發行並上市之日起36個月。本次申請解除限售的股東在限售期內嚴格遵守相關承諾，不存在非經營性佔用公司資金情形，公司亦不存在對上述股東違規擔保情形。"
+    },
+    {
+      "id": "5235526",
+      "time": "2026-11-24 18:48:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣合科技：11月24日回購22萬股 擬持作庫存股】廣合科技公告稱，公司於2026年11月24日透過深圳證券交易所回購22萬股A股股份，佔事件前已發行股份（不含庫存股）的0.052%，回購價格區間為每股82.16元-82.80元，成交總金額為1816.14萬元，本次回購股份擬全部持作庫存股份。截至2026年11月24日，公司已發行股份（不含庫存股）為42303.53萬股，庫存股份為369.86萬股，已發行股份總數為42673.39萬股。"
+    },
+    {
+      "id": "mkt:01a20d2b-3e7b-7bbc-acd1-537c7d06f642",
+      "time": "2026-11-24 18:47:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME: Aluminum stocks cannot be established outside Hong Kong as part of its regular warehouse network."
+    },
     {
       "id": "5235524",
       "time": "2026-11-24 18:47:05",
