@@ -1,7 +1,97 @@
 {
-  "updated": "2026-11-24 18:44:07",
-  "count": 8838,
+  "updated": "2026-11-24 18:47:52",
+  "count": 8830,
   "items": [
+    {
+      "id": "5235524",
+      "time": "2026-11-24 18:47:05",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "Anthropic與OpenAI員工擔心未釋出的人工智慧模型安全性不足，不宜釋出。"
+    },
+    {
+      "id": "mkt:01a20d29-f1d1-7bbc-acd1-49e719089787",
+      "time": "2026-11-24 18:46:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. ambassador to Israel unsure aid will end this year】U.S. Ambassador to Israel Mike Huckabee expressed doubt Washington would end its $3.8 billion in annual military aid to Israel by year-end, despite President Donald Trump’s pledge on midterm election day. On Nov. 3, as voters headed to the polls, Trump said he had reached an agreement months earlier with Israeli Prime Minister Benjamin Netanyahu to end roughly $4 billion in annual U.S. funding, but gave no details on how payments would stop. A longstanding U.S.-Israeli agreement commits Washington to provide $3.8 billion annually through 2028 for Israel to buy U.S.-made military equipment."
+    },
+    {
+      "id": "5235522",
+      "time": "2026-11-24 18:46:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昊海生物科技：11月24日回購1.45萬股H股股份】昊海生物科技公告稱，公司於2026年11月24日透過香港聯交所回購H股股份14500股，每股回購價區間為14.98港元-15.26港元，付出總金額21.91萬港元，所回購股份擬登出。本次回購後，公司累計透過回購授權購回股份145.46萬股，佔回購授權決議透過日已發行股份（不含庫存股）的4.18%，後續新股發行或庫存股處置暫止期至2026年12月24日。"
+    },
+    {
+      "id": "5235520",
+      "time": "2026-11-24 18:46:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯洛伐克在競爭激烈的選舉前一年取消郵寄投票。"
+    },
+    {
+      "id": "mkt:01a20d29-2401-7bbc-acd1-47ecc6c47c8b",
+      "time": "2026-11-24 18:45:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "LME confirms plans to simplify its brand listing process."
+    },
+    {
+      "id": "5235518",
+      "time": "2026-11-24 18:44:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所將新品牌最低產量規則縮短至六個月。"
+    },
+    {
+      "id": "mkt:01a20d28-70ea-7bbc-acd1-3a0ce4dc5419",
+      "time": "2026-11-24 18:44:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Fitch Ratings: Capital inflows to emerging markets are likely to remain subdued in 2027."
+    },
+    {
+      "id": "5235517",
+      "time": "2026-11-24 18:44:41",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "倫敦金屬交易所：確認簡化品牌上市的計劃。"
+    },
+    {
+      "id": "5235516",
+      "time": "2026-11-24 18:44:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄戰略轟炸機飛越日本海中立水域】據俄羅斯媒體今天（11月24日）援引俄國防部訊息報道，俄羅斯數架圖-60戰略轟炸機在日本海中立水域上空執行了一次計劃內飛行，飛行時間約10小時，期間有外國戰鬥機伴飛。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a20d27-d5d0-7bbc-acd1-336fb97a6b4b",
+      "time": "2026-11-24 18:44:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS: The Kremlin says Europeans are pushing for four-way talks on Ukraine, but Russia sees no added value in European participation in negotiations."
+    },
     {
       "id": "mkt:01a20d27-6b02-7bbc-acd1-2aa86d6aafa4",
       "time": "2026-11-24 18:43:36",
@@ -78777,174 +78867,6 @@
         "國際"
       ],
       "text": "俄羅斯佩斯科夫表示，目前暫無與日本、加拿大進行接觸的計劃。"
-    },
-    {
-      "id": "5219866",
-      "time": "2026-11-17 18:47:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：稀土產量巨大。"
-    },
-    {
-      "id": "mkt:01a1e91e-6f7d-7bbc-ac19-17f6b1634f9b",
-      "time": "2026-11-17 18:47:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump: If there is an opportunity, I will hold a bilateral meeting with Putin."
-    },
-    {
-      "id": "mkt:01a1e91e-0e35-7bbc-ac19-0d9d77e148bb",
-      "time": "2026-11-17 18:47:03",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "U.S. President Trump, on NVIDIA: It is a good idea for them to launch a national security plan."
-    },
-    {
-      "id": "5219865",
-      "time": "2026-11-17 18:46:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國總統特朗普就與俄羅斯總統普京單獨舉行雙邊會晤一事表示，如有可能，他願意這樣做。"
-    },
-    {
-      "id": "5219863",
-      "time": "2026-11-17 18:46:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "家得寶盤前股價下跌2%；公司任命內部人士理查德·麥克菲爾為執行長。"
-    },
-    {
-      "id": "mkt:01a1e91d-860b-7bbc-ac19-0707a14f4529",
-      "time": "2026-11-17 18:46:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump: What Deutsche Bank did is illegal."
-    },
-    {
-      "id": "5219862",
-      "time": "2026-11-17 18:46:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不擔心微軟的系統故障。"
-    },
-    {
-      "id": "5219861",
-      "time": "2026-11-17 18:45:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談德意志銀行：他們這樣做是違法的。"
-    },
-    {
-      "id": "mkt:01a1e91c-fa47-7bbc-ac18-f989d4335170",
-      "time": "2026-11-17 18:45:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "MSFT.O"
-      ],
-      "text": "U.S. President Trump: Not concerned about Microsoft’s service outage."
-    },
-    {
-      "id": "mkt:01a1e91c-c494-7bbc-ac18-f3cc3f437e41",
-      "time": "2026-11-17 18:45:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "The European Commission approved €9.5 billion in state aid for the Netherlands to support offshore wind."
-    },
-    {
-      "id": "5219860",
-      "time": "2026-11-17 18:45:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國國民聯盟預算發言人：我們養老金改革方案中的節約措施將使養老金赤字到2032年降至47億歐元。"
-    },
-    {
-      "id": "5219859",
-      "time": "2026-11-17 18:45:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【方大特鋼：重大資產購買暨關聯交易正在推進中】方大特鋼公告，公司此前披露擬退出南昌滬旭並以實物分配等形式取得鋼鐵企投控制權，本次交易構成重大資產重組及關聯交易。公司已於2026年10月15日召開第九屆董事會第二十次會議，審議透過重大資產購買暨關聯交易報告書（草案）及其摘要。截至本公告披露日，公司及相關各方正在積極推進本次交易的各項工作，本次交易尚需公司股東會審議批准及其他必需的審批、備案或授權。"
-    },
-    {
-      "id": "5219858",
-      "time": "2026-11-17 18:45:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟稱法國經濟增長乏力 將無法實現減赤目標】歐盟委員會對法國的公共財政狀況再次發出警告，稱隨著經濟增長乏力以及償債成本上升，法國今年和明年都將無法實現削減財政赤字的目標。歐盟委員會預計，法國2026年預算赤字佔國內生產總值(GDP)的比例將擴大至5.5%，高於政府近期修訂後的5.4%目標。儘管2027年預算草案計劃削減支出，但赤字率預計僅會小幅下降，遠高於政府設定的5%目標。“2027年政府總體赤字佔GDP的比例預計僅會小幅降至5.4%，因為預計經濟增長低迷以及公共債務利息支出增加，將抵消預測中所包含的大規模財政整頓努力，”歐盟委員會表示。"
-    },
-    {
-      "id": "5219857",
-      "time": "2026-11-17 18:45:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會批准荷蘭提供 95 億歐元國家援助，以支援海上風能發展。"
-    },
-    {
-      "id": "mkt:01a1e91b-eb95-7bbc-ac18-eb8206650616",
-      "time": "2026-11-17 18:44:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market news: U.S. President Trump meets with the leaders of Japan, India and Australia for Quad talks."
-    },
-    {
-      "id": "5219855",
-      "time": "2026-11-17 18:44:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普會見日本、印度、澳大利亞領導人。"
-    },
-    {
-      "id": "5219854",
-      "time": "2026-11-17 18:44:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西渝高鐵康渝段超大斷面隧道貫通】記者17日從中國鐵建股份有限公司瞭解到，由西成客專陝西公司建設、中鐵十四局承建的西渝高鐵康渝段陝西境內最大斷面隧道——嵐皋三號隧道順利貫通，為全線按期建成通車奠定堅實基礎。(新華社)"
-    },
-    {
-      "id": "5219853",
-      "time": "2026-11-17 18:44:09",
-      "tags": [
-        "宏觀",
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美媒梳理特朗普出訪亞洲團隊名單】據美國廣播公司(ABC)16日報道，美國總統特朗普在白宮宣佈即將訪華。據報道，特朗普預計於11月18日訪問中國深圳，參加亞太經合組織領導人非正式會議。美國《新聞週刊》報道稱，根據白宮公佈的名單，有15名以上美國政府官員將陪同特朗普出訪。報道稱，白宮已確認以下人員將加入特朗普的團隊：美國國務卿魯比奧；美國財政部長貝森特；美國商務部長盧特尼克；白宮辦公廳主任米勒；白宮辦公廳副主任斯卡維諾、哈里森；美國貿易代表格里爾；美國國家經濟委員會主任哈塞特；白宮通訊聯絡辦公室主任張振熙；白宮通訊顧問馬丁；總統助理兼白宮秘書本·莫斯；講話稿撰寫負責人沃辛頓；橢圓形辦公室運營主管諾塔；總統特別助理安布羅西尼、布拉澤爾；總統行政助理哈普；美國國務院禮賓司司長克勞利等。（中新網）"
     }
   ]
 }
