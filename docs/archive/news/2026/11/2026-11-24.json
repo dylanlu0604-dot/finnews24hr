@@ -1,7 +1,41 @@
 {
   "date": "2026-11-24",
-  "count": 951,
+  "count": 956,
   "items": [
+    {
+      "id": "5235586",
+      "time": "2026-11-24 19:10:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，俄羅斯、美國和烏克蘭下一輪三方會談的日期尚未確定。莫斯科目前正在考慮將阿布扎比作為下一輪談判的舉辦地，但也有其他多種選擇。"
+    },
+    {
+      "id": "mkt:01a20d3f-7579-7bbc-acd2-16bf4afa4245",
+      "time": "2026-11-24 19:09:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA: The Kremlin said no date has been set for the next trilateral talks between Russia, the United States and Ukraine. Moscow is considering Abu Dhabi as the venue, but other options are also under review."
+    },
+    {
+      "id": "5235583",
+      "time": "2026-11-24 19:09:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞爾維亞回購2035年7月到期的100億塞爾維亞第納爾（約合6.21億元人民幣）政府債券。"
+    },
+    {
+      "id": "mkt:01a20d3f-2197-7bbc-acd2-0fb719f11609",
+      "time": "2026-11-24 19:09:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's 12306 app adds waitlist and train-service alerts】China Railway has added alerts to its 12306 app for waitlist ticket status and train-service changes, including cancellations, turnbacks, resumptions and seat changes. Passengers using the website or app to buy or change tickets, request refunds, join waitlists or make reservations will receive service updates through app notifications, their selected WeChat or Alipay channel, or their registered email address."
+    },
     {
       "id": "mkt:01a20d3c-80a7-7bbc-acd2-021b1d66a276",
       "time": "2026-11-24 19:06:38",
@@ -110,6 +144,15 @@
         "其他"
       ],
       "text": "【10月全國查處違反中央八項規定精神問題28934起】11月24日，中央紀委國家監委公佈了2026年10月全國查處違反中央八項規定精神問題彙總情況。當月，全國共查處違反中央八項規定精神問題28934起，批評教育和處理35193人，其中黨紀政務處分23996人，這是連續第158個月公佈月報資料。（央視新聞）"
+    },
+    {
+      "id": "em:qqyh_ozyh:202611243938573369",
+      "time": "2026-11-24 19:02:35",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行管委卡西克：最新資料顯示必須加息以抑制通脹】歐洲央行管委卡西克表示，最新資料顯示，必須加息以抑制通脹；通脹可能蔓延至能源以外領域，工資是關鍵。"
     },
     {
       "id": "mkt:01a20d38-9c00-7bbc-acd1-f5ceb38bdbb0",

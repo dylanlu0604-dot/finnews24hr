@@ -1,7 +1,41 @@
 {
-  "updated": "2026-11-24 19:07:10",
-  "count": 8800,
+  "updated": "2026-11-24 19:11:06",
+  "count": 8794,
   "items": [
+    {
+      "id": "5235586",
+      "time": "2026-11-24 19:10:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，俄羅斯、美國和烏克蘭下一輪三方會談的日期尚未確定。莫斯科目前正在考慮將阿布扎比作為下一輪談判的舉辦地，但也有其他多種選擇。"
+    },
+    {
+      "id": "mkt:01a20d3f-7579-7bbc-acd2-16bf4afa4245",
+      "time": "2026-11-24 19:09:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA: The Kremlin said no date has been set for the next trilateral talks between Russia, the United States and Ukraine. Moscow is considering Abu Dhabi as the venue, but other options are also under review."
+    },
+    {
+      "id": "5235583",
+      "time": "2026-11-24 19:09:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞爾維亞回購2035年7月到期的100億塞爾維亞第納爾（約合6.21億元人民幣）政府債券。"
+    },
+    {
+      "id": "mkt:01a20d3f-2197-7bbc-acd2-0fb719f11609",
+      "time": "2026-11-24 19:09:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's 12306 app adds waitlist and train-service alerts】China Railway has added alerts to its 12306 app for waitlist ticket status and train-service changes, including cancellations, turnbacks, resumptions and seat changes. Passengers using the website or app to buy or change tickets, request refunds, join waitlists or make reservations will receive service updates through app notifications, their selected WeChat or Alipay channel, or their registered email address."
+    },
     {
       "id": "mkt:01a20d3c-80a7-7bbc-acd2-021b1d66a276",
       "time": "2026-11-24 19:06:38",
@@ -110,6 +144,15 @@
         "其他"
       ],
       "text": "【10月全國查處違反中央八項規定精神問題28934起】11月24日，中央紀委國家監委公佈了2026年10月全國查處違反中央八項規定精神問題彙總情況。當月，全國共查處違反中央八項規定精神問題28934起，批評教育和處理35193人，其中黨紀政務處分23996人，這是連續第158個月公佈月報資料。（央視新聞）"
+    },
+    {
+      "id": "em:qqyh_ozyh:202611243938573369",
+      "time": "2026-11-24 19:02:35",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行管委卡西克：最新資料顯示必須加息以抑制通脹】歐洲央行管委卡西克表示，最新資料顯示，必須加息以抑制通脹；通脹可能蔓延至能源以外領域，工資是關鍵。"
     },
     {
       "id": "mkt:01a20d38-9c00-7bbc-acd1-f5ceb38bdbb0",
@@ -78548,97 +78591,6 @@
         "其他"
       ],
       "text": "【事關完善科技金融服務體系，專題協商座談會上，陳吉寧與黨外人士深入交流】中共上海市委今天（11月17日）上午舉行專題協商座談會，圍繞“完善科技金融服務體系”主題聽取各民主黨派市委會、市工商聯負責人和無黨派人士代表的意見建議。中共上海市委書記陳吉寧主持會議並指出，要深入學習貫徹習近平總書記考察上海重要講話精神和對上海工作重要指示要求，深刻把握完善科技金融服務體系的重要性緊迫性，加快構建全週期、接力式創業投資、股權投資基金矩陣，統籌構建多元化融資服務體系，更好推動上海國際金融中心和國際科技創新中心聯動發展。希望各民主黨派、工商聯和無黨派人士圍繞中心、服務大局，深入調研、群策群力，推動上海改革發展和現代化建設邁上新臺階。（上海釋出）"
-    },
-    {
-      "id": "5219944",
-      "time": "2026-11-17 19:10:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉電股份：擬回購吉林吉電新能源股權 完成資產評估】吉電股份公告稱，公司擬回購電投清能三期碳中和股權投資(天津)合夥企業(有限合夥)持有的吉林吉電新能源有限公司股權，已完成相關資產評估。評估基準日為2026年3月31日，採用資產基礎法評估，吉林吉電新能源總資產評估值35.61億元，總負債2.30億元，淨資產評估值33.31億元，較賬面價值增值29.75%。評估結果有效期為一年，自評估基準日起算。"
-    },
-    {
-      "id": "5219943",
-      "time": "2026-11-17 19:10:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【貝索斯向非營利組織捐贈近2億美元亞馬遜股票】檔案顯示，貝索斯上週一共送出771492股亞馬遜股票：週四捐贈674088股，週五捐贈97404股。 以亞馬遜週一收盤價257.75美元計算，這批捐贈股票總價值約1.989億美元。 檔案標註這兩筆股份轉讓均為“向非營利組織捐贈”，未列明受贈方。但貝索斯地球基金同日另一份SEC檔案顯示，週五那筆97404股的捐贈由該基金接收。 本次捐贈完成後，貝索斯仍持有超8.78億股亞馬遜股票，按週一收盤價核算，市值約2264億美元。 檔案還披露，另有5087266股亞馬遜股票由信託以及信託全資持有的一家公司間接持有；貝索斯擔任這些信託的受託人和管理人，但他不主張對這些股份享有受益所有權。"
-    },
-    {
-      "id": "5219942",
-      "time": "2026-11-17 19:10:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智利國會透過法案，取消上週燃油漲價並限價至2027年4月7日】智利國會透過法案，撤銷上週汽油與柴油漲價，額外下調柴油價格，並將燃油價格上限維持至2027年4月7日。自11月19日起，汽油、柴油價格將回落至11月12日漲價前水平，每升下調約40比索。柴油額外再降每升100比索，累計下調幅度為每升140比索。"
-    },
-    {
-      "id": "mkt:01a1e933-243f-7bbc-ac1a-74cdf9e29b79",
-      "time": "2026-11-17 19:10:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SAMR warns of scams exploiting vehicle recalls】Scammers have been posing as vehicle recall agents to trick owners into transferring money or disclosing personal information, SAMR said. Automakers conduct recalls free of charge. Owners can verify recall information through SAMR’s National Defective Product Recall Technical Center, its WeChat account, automakers or authorized dealers. SAMR warned against trusting unsolicited calls, clicking unknown links or scanning QR codes, and urged owners not to share bank details or verification codes. Suspected scams should be reported to police."
-    },
-    {
-      "id": "5219941",
-      "time": "2026-11-17 19:09:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西省教育國際合作與教師發展中心主任楊樂文接受審查調查】11月17日，據江西省紀委監委訊息，江西省教育國際合作與教師發展中心主任楊樂文涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受江西省紀委監委駐省教育廳紀檢監察組紀律審查和宜春市監委監察調查。"
-    },
-    {
-      "id": "5219940",
-      "time": "2026-11-17 19:09:29",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "美國總統特朗普淡化了有關摩根大通、微軟及其他主要公司出現大範圍服務中斷的擔憂，表示此類中斷甚至發生在一些最大的企業身上。"
-    },
-    {
-      "id": "mkt:01a1e931-9f24-7bbc-ac1a-6b7aa83c9919",
-      "time": "2026-11-17 19:08:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Philippine President Marcos: We expect Myanmar to demonstrate that it is making efforts toward this."
-    },
-    {
-      "id": "5219939",
-      "time": "2026-11-17 19:08:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "杜克能源預計將計提2000萬美元的一次性稅前會計費用。"
-    },
-    {
-      "id": "5219938",
-      "time": "2026-11-17 19:07:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【孟加拉國魯普普爾核電站開始向國家電網試送電350兆瓦】孟加拉國政府宣告稱，魯普普爾核電站於週二向國家電網試輸送350兆瓦電力。政府表示，本次首次併網時長最長為10小時。工程師正在測試汽輪機、發電機的穩定性與執行效能，以及電站和輸電網路的同步配套系統。首輪測試結束後機組將停機，間隔28小時後再次併網，開展下一輪測試。"
-    },
-    {
-      "id": "mkt:01a1e931-0bc0-7bbc-ac1a-64f2203829c2",
-      "time": "2026-11-17 19:07:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Philippine President Marcos: The ball is largely in Myanmar’s leaders’ court now."
-    },
-    {
-      "id": "5219937",
-      "time": "2026-11-17 19:07:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盈趣科技：控股股東萬利達工業增持觸及1%整數倍，增持計劃尚未實施完畢】盈趣科技公告，控股股東深圳萬利達電子工業有限公司此前披露增持計劃，擬自2026年10月24日起6個月內透過集中競價方式增持公司股份，增持總金額不低於人民幣1億元。2026年11月10日至2026年11月17日，萬利達工業以集中競價方式累計增持公司股份403.49萬股，佔公司總股本的0.52%，增持金額合計人民幣7537.35萬元（不含交易費用）。本次權益變動後，萬利達工業及其一致行動人合計持有公司股份4.33億股，佔公司總股本的比例由55.57%變動為56.10%，持股比例變動觸及1%刻度線。本次增持計劃尚未實施完畢。"
     }
   ]
 }
