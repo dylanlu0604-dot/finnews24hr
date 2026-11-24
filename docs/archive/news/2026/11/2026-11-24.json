@@ -1,7 +1,143 @@
 {
   "date": "2026-11-24",
-  "count": 494,
+  "count": 508,
   "items": [
+    {
+      "id": "5234229",
+      "time": "2026-11-24 10:01:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指開盤上漲1.3%，至5283.29點。"
+    },
+    {
+      "id": "mkt:01a20b49-20ce-7bbc-acc8-872a44136d0d",
+      "time": "2026-11-24 10:01:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Japan's 5-year Bond yield fell 5.5 bps to 2.125%, while the 40-year yield fell 3.5 bps to 4.115%."
+    },
+    {
+      "id": "5234228",
+      "time": "2026-11-24 10:01:08",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲商業調查顯示，兩年期通脹預期為2.57%。"
+    },
+    {
+      "id": "5234227",
+      "time": "2026-11-24 10:00:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率<JP5YTN=JBTC>下跌5.5個基點，至2.125%。"
+    },
+    {
+      "id": "mkt:01a20b48-cf29-7bbc-acc8-7ebbe4d24f6f",
+      "time": "2026-11-24 10:00:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shandong aims to establish clean, low-carbon and secure energy system by 2030】Shandong aims to initially establish a clean, low-carbon, secure and efficient energy system by 2030, according to a provincial plan for 2026-30. The province will develop a new power system under a “3+3+3” framework, coordinating nuclear, wind and solar power and shifting non-fossil energy from a majority of installed capacity to a majority of generation. By 2030, its 500-kV grid is expected to form a six-horizontal, six-vertical ring network, while distribution grids will be able to accommodate 75 GW of distributed renewables. Shandong will also explore cross-regional direct green-power supply and expand green-power-based hydrogen, ammonia and methanol production. Targets include about 8 GW of operating pumped-storage capacity, about 30 GW of new energy storage and more than 4 GW of dispatchable virtual power plant capacity."
+    },
+    {
+      "id": "5234226",
+      "time": "2026-11-24 10:00:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "40年期日本國債收益率<JP40YTN=JBTC>下降3.5個基點，至4.115%。"
+    },
+    {
+      "id": "mkt:01a20b48-7f79-7bbc-acc8-74892f7acbe0",
+      "time": "2026-11-24 10:00:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【U.S. Treasury prices edge lower as markets raise Fed hike bets】U.S. Treasuries edged lower in Asian trading on Tuesday as expectations for Fed rate hikes increased. ANZ senior market strategist Gavin Friend said Monday’s sharp Wall Street rally offered some relief to tech stocks after NVIDIA’s support for the AI ecosystem and last Friday’s steep selloff. Markets see the AI-related relief as giving the Fed more scope to take a tougher policy stance, with pricing for rate hikes at upcoming meetings edging higher."
+    },
+    {
+      "id": "5234224",
+      "time": "2026-11-24 10:00:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝西省委原常委、西安市委原書記方紅衛被提起公訴】從最高人民檢察院獲悉，陝西省委原常委、西安市委原書記方紅衛涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。最高人民檢察院依法以涉嫌受賄罪對方紅衛作出逮捕決定，並指定由甘肅省蘭州市人民檢察院審查起訴。近日，蘭州市人民檢察院已向蘭州市中級人民法院提起公訴。檢察機關在審查起訴階段，依法告知了被告人方紅衛享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人方紅衛利用擔任陝西汽車集團有限責任公司董事、總經理，黨委常委、董事長，黨委書記、董事長，陝西汽車控股集團有限公司黨委書記、董事長，陝西重型汽車有限公司副董事長、總經理，陝西省漢中市委副書記、市長，市委書記，陝西省委常委、西安市委書記等職務上的便利，為他人謀取利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。"
+    },
+    {
+      "id": "mkt:01a20b48-1bae-7bbc-acc8-6c1a182eda62",
+      "time": "2026-11-24 10:00:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Xiaomi"
+      ],
+      "text": "【Octopus Dynamics confirms new financing worth hundreds of millions of yuan】Octopus Dynamics said on Nov. 24 it completed another financing round worth hundreds of millions of yuan this year, with new investors including Xindongneng Investment and Midea Capital. Existing investors Linear Capital, Xiaomi Group and Panga Capital also participated in multiple follow-on rounds. Proceeds will fund high-end manufacturing lines for dexterous hands and embodied AI model development. The company said it has secured mass-production orders in overseas markets."
+    },
+    {
+      "id": "mkt:01a20b47-eb29-7bbc-acc8-62421b11e979",
+      "time": "2026-11-24 09:59:52",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Shanghai's Pudong New Area to support secure development and operation of cross-border and offshore digital yuan and blockchain infrastructure】Shanghai is seeking public comment on draft rules to promote offshore financial business in Pudong. The draft supports using the Digital RMB International Operation Center to develop and operate cross-border and offshore digital yuan and blockchain infrastructure under secure, controlled conditions, and to advance connectivity with overseas financial infrastructure. It also supports expanding digital yuan use in offshore business to improve payment and clearing efficiency."
+    },
+    {
+      "id": "5234222",
+      "time": "2026-11-24 09:59:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海浦東新區：支援安全可控建設和運營數字人民幣跨境、離岸和區塊鏈基礎設施】《上海市浦東新區促進離岸金融業務發展若干規定（草案）》公開徵求意見。其中提到，支援依託數字人民幣國際運營中心，在安全可控前提下建設和運營數字人民幣跨境、離岸和區塊鏈基礎設施，穩妥推進與境外金融基礎設施的互聯互通。支援數字人民幣在離岸業務中的應用和場景拓展，提升離岸業務支付清算效率。"
+    },
+    {
+      "id": "5234221",
+      "time": "2026-11-24 09:59:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海信集團、中遠海運集團簽署新一輪戰略合作】據海信集團訊息，11月23日，中國遠洋海運集團與海信集團再次簽署新一輪戰略合作協議，進一步升級戰略合作伙伴關係，加強供應鏈、產業鏈融合發展。"
+    },
+    {
+      "id": "5234216",
+      "time": "2026-11-24 09:58:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【章魚動力回應：確認完成數億元新融資】1月24日，就融資進展訊息方面，章魚動力回應稱，年內已再次完成數億元人民幣融資。新增投資方包括芯動能投資、美的資本等投資機構與產業資本；早期股東線性資本、小米集團、Panga Capital持續多輪加註。融資將主要用於靈巧手高階製造產線構建和具身模型的研發投入，加速“腦-手-資料”的軟硬體一體化設計（Co-Design），以及“智慧-部署-資料”的自進化生產力飛輪構建。（介面新聞）"
+    },
+    {
+      "id": "5234211",
+      "time": "2026-11-24 09:58:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【今年以舊換新國補收官倒計時 ，家電市場會否“翹尾”業內看法不一】記者從廣東、上海等地家電商會及家電廠商處瞭解到，今年以舊換新國補政策實施已進入收官倒計時階段。對於今年年底國內家電市場會否出現“翹尾”現象，即在年末最後一段時間出現市場拉昇上漲，業內看法不一。 一位華南空調零售商表示，本月結束的雙11大促，在國補疊加電商平臺補貼的情況之下，市場需求仍然疲軟，零售商入貨謹慎。目前國補資金充足，消費者購買大家電、在“雲閃付”APP領取國補券時不用搶就能領到。預計年底不一定會有“翹尾”現象。 奧維雲網（AVC）資料顯示，今年雙11空調零售量、零售額分別同比減少13.2%和17.7%。奧維雲網研究創新部部長劉冀元向記者分析認為，今年雙11國內家電市場規模同比降幅較“6.18”期間收窄，儘管2026年國補進入收尾階段會引發一些集中的消費釋放，但預計這部分貢獻有限，年底不會有太大“翹尾”現象。 一位華東區域連鎖商也說，當地商務部門已發文，提醒享受以舊換新國補的家電趕快送貨，並把資訊上傳；有廠商趁勢搞促銷，但費用收縮。另一位西北區域連鎖商表示，今年以舊換新補貼快結束，對消費刺激會有些幫助，但目前消費者普遍謹慎。 （一財）"
+    },
     {
       "id": "5234205",
       "time": "2026-11-24 09:57:24",
