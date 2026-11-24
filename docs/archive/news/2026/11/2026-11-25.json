@@ -1,7 +1,44 @@
 {
   "date": "2026-11-25",
-  "count": 293,
+  "count": 297,
   "items": [
+    {
+      "id": "5236387",
+      "time": "2026-11-25 05:20:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "惠普盤後股價漲幅擴大至15%。"
+    },
+    {
+      "id": "mkt:01a20f6e-1303-7bbc-acdc-a7797058f575",
+      "time": "2026-11-25 05:20:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "U.S. API crude oil inventory data for the week ended Nov. 20 are due in 10 minutes."
+    },
+    {
+      "id": "5236385",
+      "time": "2026-11-25 05:19:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "荷蘭議員敦促政府抵制美國針對阿斯麥的MATCH法案。"
+    },
+    {
+      "id": "5236383",
+      "time": "2026-11-25 05:19:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.58%，報12697點。"
+    },
     {
       "id": "5236381",
       "time": "2026-11-25 05:17:50",
