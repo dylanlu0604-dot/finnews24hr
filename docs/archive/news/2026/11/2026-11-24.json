@@ -1,7 +1,63 @@
 {
   "date": "2026-11-24",
-  "count": 482,
+  "count": 488,
   "items": [
+    {
+      "id": "5234186",
+      "time": "2026-11-24 09:54:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【英偉達概念集體大漲，工業富聯漲停】英偉達概念集體大漲，工業富聯漲停，奧尼電子、和林微納20CM漲停，勝宏科技漲超16%，天孚通訊、英維克、博傑股份、大普微等多股跟漲。"
+    },
+    {
+      "id": "5234185",
+      "time": "2026-11-24 09:53:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西下議院批准盧拉財政計劃的主要文字。"
+    },
+    {
+      "id": "5234184",
+      "time": "2026-11-24 09:52:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【黃仁勳復職首日親自給員工發三明治】據外媒披露的現場畫面，重返英偉達首日，黃仁勳現身公司樓下，親自嚮往來員工分發迷你三明治。（環球時報）"
+    },
+    {
+      "id": "5234183",
+      "time": "2026-11-24 09:52:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦媒體稱中巴友誼迎來里程碑】巴基斯坦媒體近日關注巴基斯坦航天員將以載荷專家身份參加神舟二十四號載人飛行任務，重點報道兩名候選航天員在中國成功完成各項航天訓練，並順利參加發射前最後一次全區合練。報道稱，隨著巴基斯坦航天員參與神舟二十四號載人飛行任務，中巴友誼迎來具有歷史意義的重要里程碑。（CCTV國際時訊）"
+    },
+    {
+      "id": "5234182",
+      "time": "2026-11-24 09:51:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "mkt:01a20b40-7752-7bbc-acc8-581d5bbcf68d",
+      "time": "2026-11-24 09:51:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China’s A-share commercial space sector rose broadly. Jilin OLED gained more than 14%, while Fiyta, Jiangshun Technology and Maxvision Technology hit the 10% daily limit. O-Net Technologies, Donghua Testing, Kinwong Electronic and CETC Lantian also advanced. The Long March 10 rocket is set to undergo flight testing, while the Lanyue lunar lander’s first flight mission is progressing as planned."
+    },
     {
       "id": "mkt:01a20b3f-64c8-7bbc-acc8-533c73db8826",
       "time": "2026-11-24 09:50:33",
