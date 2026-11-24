@@ -1,7 +1,46 @@
 {
   "date": "2026-11-24",
-  "count": 362,
+  "count": 366,
   "items": [
+    {
+      "id": "5234020",
+      "time": "2026-11-24 09:18:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【葛小波加入華興資本，出任集團執行長】11月24日，華興資本宣佈，葛小波正式加入集團並出任執行長，負責統籌整體戰略與業務發展，推動各業務板塊高質量協同發展，強化跨境投行、資產管理與複雜交易領域的綜合能力，提升綜合金融服務能力、風險管理水平及組織執行效率。"
+    },
+    {
+      "id": "mkt:01a20b21-ec08-7bbc-acc7-5a065c5a3210",
+      "time": "2026-11-24 09:18:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "China's Yuan Reference Rate was set at 6.7111 per dollar on Nov. 24, 2026, up 9 points from the previous session."
+    },
+    {
+      "id": "mkt:01a20b21-b2e9-7bbc-acc7-55647540ee5b",
+      "time": "2026-11-24 09:18:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Shenzhou-24 crew named; Tiangong to host its first foreign astronaut】China’s Shenzhou-24 crew will comprise commander Tang Hongbo, flight engineer Wu Yi and payload specialist Muhammad Zishan Ali, the China Manned Space Agency said. It is the first crewed mission under China’s space program to include a foreign astronaut."
+    },
+    {
+      "id": "5234014",
+      "time": "2026-11-24 09:17:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：英偉達在日本人工智慧晶片產業中扮演著關鍵角色。"
+    },
     {
       "id": "5234001",
       "time": "2026-11-24 09:15:59",
