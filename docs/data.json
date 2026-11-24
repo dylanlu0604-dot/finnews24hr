@@ -1,7 +1,113 @@
 {
-  "updated": "2026-11-24 09:43:27",
-  "count": 8972,
+  "updated": "2026-11-24 09:47:11",
+  "count": 8969,
   "items": [
+    {
+      "id": "mkt:01a20b3b-c9cd-7bbc-acc8-40f1a986c532",
+      "time": "2026-11-24 09:46:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan's 10-year bond yield fell 6.0 bps to 2.725%."
+    },
+    {
+      "id": "mkt:01a20b3b-7cc1-7bbc-acc8-3b2ae5e264a4",
+      "time": "2026-11-24 09:46:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC: Magnitude 5.3 earthquake in the Nepal region."
+    },
+    {
+      "id": "mkt:01a20b3a-6c26-7bbc-acc8-30186404d4d2",
+      "time": "2026-11-24 09:45:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Where to park cash? Tracking money market yields】Licaitong Huoqi+’s 7-day annualized yield ranged from 0.7090% to 1.0580%; WeChat Lingqiantong’s ranged from 0.8630% to 0.9920%; and Alipay Yu’e Bao’s ranged from 0.9010% to 1.0750%."
+    },
+    {
+      "id": "mkt:01a20b39-d2ae-7bbc-acc8-2bd58c88989f",
+      "time": "2026-11-24 09:44:28",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "South Korea’s Defense Ministry will summon Russia’s military attaché to protest Russia’s incursion into its air defense identification zone."
+    },
+    {
+      "id": "mkt:01a20b39-c699-7bbc-acc8-269a6760018e",
+      "time": "2026-11-24 09:44:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China’s Long March 10 launch vehicle technology will undergo flight testing, while the Lanyue lunar lander’s first flight mission is progressing on schedule."
+    },
+    {
+      "id": "5234176",
+      "time": "2026-11-24 09:44:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文化傳媒板塊短線走高，讀客文化、凡拓數創漲超15%】文化傳媒板塊短線走高，讀客文化、凡拓數創漲超15%，中信出版、掌閱科技、三人行跟漲。"
+    },
+    {
+      "id": "5234175",
+      "time": "2026-11-24 09:43:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國國防部：將召見俄羅斯軍事武官，就其侵犯韓國防空識別區提出抗議。"
+    },
+    {
+      "id": "5234174",
+      "time": "2026-11-24 09:43:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌2%，現報8455.00元。"
+    },
+    {
+      "id": "5234173",
+      "time": "2026-11-24 09:43:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【減速器概念持續走強，中馬傳動等多股漲停】減速器概念持續走強，中馬傳動、光洋股份、寧波東力漲停，橫河精密漲超19%，恆工精密、福達股份、萬里揚、豐立智慧、夏廈精密等跟漲。"
+    },
+    {
+      "id": "5234172",
+      "time": "2026-11-24 09:43:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "AI漫劇概念延續漲勢，橫店影視、上海電影均2連板，幸福藍海、光線傳媒、華智數媒、慈文傳媒漲幅居前。"
+    },
+    {
+      "id": "5234171",
+      "time": "2026-11-24 09:43:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股PCB概念股走強 鼎泰高科漲超19%】截至發稿，鼎泰高科(01377.HK)漲19.60%，勝宏科技(02476.HK)漲17.19%，景旺電子(03228.HK)漲12.51%。"
+    },
+    {
+      "id": "5234170",
+      "time": "2026-11-24 09:43:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【宇樹科技盤中漲超5%】A股宇樹科技盤中漲超5%，現報743.40元。"
+    },
     {
       "id": "5234169",
       "time": "2026-11-24 09:42:54",
@@ -80033,150 +80139,6 @@
         "市場"
       ],
       "text": "百度港股下跌6.1%，此前該公司公佈營收連續第六季下滑。"
-    },
-    {
-      "id": "5218900",
-      "time": "2026-11-17 09:46:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "阿里巴巴港股下跌5%，至85.6港元，為2025年1月以來最低水平。"
-    },
-    {
-      "id": "5218899",
-      "time": "2026-11-17 09:46:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【新易盛盤中跌超5%】A股新易盛盤中跌超5%，現報158.44元。"
-    },
-    {
-      "id": "5218898",
-      "time": "2026-11-17 09:46:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱多國支援兩日計劃】11月16日，中亞和西亞經濟合作組織在巴基斯坦伊斯蘭堡舉行會議。伊朗外長阿拉格齊在會後對媒體表示，在此次會議上，各成員國對重新開放霍爾木茲海峽的“兩日計劃”表示支援，希望實現全面停火止戰。 阿拉格齊本月1日對媒體表示，在卡達調解方的建議下，目前伊朗同意一項開放霍爾木茲海峽的“兩日計劃”，即第一天美國將採取一系列履約措施，第二天霍爾木茲海峽將開放，海峽交通將恢復到之前的狀態。（ CCTV國際時訊）"
-    },
-    {
-      "id": "5218897",
-      "time": "2026-11-17 09:46:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "mkt:01a1e72e-4c04-7bbc-ac0b-168fd20b3e0a",
-      "time": "2026-11-17 09:45:33",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Copper"
-      ],
-      "text": "【China express delivery index rises 0.5% year on year in October】China's express delivery development index stood at 477.8 in October 2026, up 0.5% year on year, the State Post Bureau said."
-    },
-    {
-      "id": "mkt:01a1e72e-437c-7bbc-ac0b-0b57604c2574",
-      "time": "2026-11-17 09:45:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude dips to $85/bbl, down 0.14% on the day."
-    },
-    {
-      "id": "5218896",
-      "time": "2026-11-17 09:45:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【廣合科技：在手訂單充裕 相關產能會在2026-2028年間釋放】11月17日早間，廣合科技在深交所互動易平臺回答了投資者有關公司經營情況的提問。公司表示，從第三季度開始，包括廣州工廠改造專案、雲擎智造基地（一期）、泰國基地新一輪裝置投資、東莞麻涌工廠、雲擎智造基地（二期）等專案的產能預計陸陸續續都會在2026年至2028年之間釋放，給公司產值增長提供有效的產能支援。"
-    },
-    {
-      "id": "mkt:01a1e72d-ed7c-7bbc-ac0b-05a50b33fced",
-      "time": "2026-11-17 09:45:09",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Nasdaq futures rise 0.5%, while S&P 500 futures gain 0.2%."
-    },
-    {
-      "id": "mkt:01a1e72d-7c00-7bbc-ac0a-ffffe30c56db",
-      "time": "2026-11-17 09:44:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "New York silver futures rise 1.00% intraday to $47.34/oz."
-    },
-    {
-      "id": "mkt:01a1e72d-51fc-7bbc-ac0a-f215a6733b46",
-      "time": "2026-11-17 09:44:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold jumps more than $20 to above $3,870/oz."
-    },
-    {
-      "id": "5218895",
-      "time": "2026-11-17 09:44:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家郵政局：10月中國快遞發展指數同比提升0.5%】國家郵政局釋出2026年10月中國快遞發展指數報告，經測算，2026年10月中國快遞發展指數為477.8，同比提升0.5%。10月，行業執行穩中有進，服務品質持續提升，綜合運能與專業化保障能力不斷增強，為產業協同發展、消費潛力釋放提供流通保障。"
-    },
-    {
-      "id": "5218894",
-      "time": "2026-11-17 09:44:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "光刻機板塊快速拉昇，國林科技20%漲停，聯合化學漲超17%，茂萊光學、海立股份、波長光電、冠石科技等走高。"
-    },
-    {
-      "id": "5218893",
-      "time": "2026-11-17 09:43:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破3870美元/盎司，日內漲0.40%。"
-    },
-    {
-      "id": "5218892",
-      "time": "2026-11-17 09:43:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲1%，現報47.34美元/盎司。"
-    },
-    {
-      "id": "5218891",
-      "time": "2026-11-17 09:43:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AI眼鏡概念異動拉昇 瀛通通訊、芯瑞達雙雙漲停】早盤AI眼鏡概念異動拉昇，瀛通通訊、芯瑞達漲停，顯盈科技、比依股份、智立方、國光電器等跟漲。"
     }
   ]
 }

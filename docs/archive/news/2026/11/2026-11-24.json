@@ -1,7 +1,113 @@
 {
   "date": "2026-11-24",
-  "count": 463,
+  "count": 475,
   "items": [
+    {
+      "id": "mkt:01a20b3b-c9cd-7bbc-acc8-40f1a986c532",
+      "time": "2026-11-24 09:46:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan's 10-year bond yield fell 6.0 bps to 2.725%."
+    },
+    {
+      "id": "mkt:01a20b3b-7cc1-7bbc-acc8-3b2ae5e264a4",
+      "time": "2026-11-24 09:46:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC: Magnitude 5.3 earthquake in the Nepal region."
+    },
+    {
+      "id": "mkt:01a20b3a-6c26-7bbc-acc8-30186404d4d2",
+      "time": "2026-11-24 09:45:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Where to park cash? Tracking money market yields】Licaitong Huoqi+’s 7-day annualized yield ranged from 0.7090% to 1.0580%; WeChat Lingqiantong’s ranged from 0.8630% to 0.9920%; and Alipay Yu’e Bao’s ranged from 0.9010% to 1.0750%."
+    },
+    {
+      "id": "mkt:01a20b39-d2ae-7bbc-acc8-2bd58c88989f",
+      "time": "2026-11-24 09:44:28",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "South Korea’s Defense Ministry will summon Russia’s military attaché to protest Russia’s incursion into its air defense identification zone."
+    },
+    {
+      "id": "mkt:01a20b39-c699-7bbc-acc8-269a6760018e",
+      "time": "2026-11-24 09:44:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China’s Long March 10 launch vehicle technology will undergo flight testing, while the Lanyue lunar lander’s first flight mission is progressing on schedule."
+    },
+    {
+      "id": "5234176",
+      "time": "2026-11-24 09:44:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文化傳媒板塊短線走高，讀客文化、凡拓數創漲超15%】文化傳媒板塊短線走高，讀客文化、凡拓數創漲超15%，中信出版、掌閱科技、三人行跟漲。"
+    },
+    {
+      "id": "5234175",
+      "time": "2026-11-24 09:43:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國國防部：將召見俄羅斯軍事武官，就其侵犯韓國防空識別區提出抗議。"
+    },
+    {
+      "id": "5234174",
+      "time": "2026-11-24 09:43:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌2%，現報8455.00元。"
+    },
+    {
+      "id": "5234173",
+      "time": "2026-11-24 09:43:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【減速器概念持續走強，中馬傳動等多股漲停】減速器概念持續走強，中馬傳動、光洋股份、寧波東力漲停，橫河精密漲超19%，恆工精密、福達股份、萬里揚、豐立智慧、夏廈精密等跟漲。"
+    },
+    {
+      "id": "5234172",
+      "time": "2026-11-24 09:43:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "AI漫劇概念延續漲勢，橫店影視、上海電影均2連板，幸福藍海、光線傳媒、華智數媒、慈文傳媒漲幅居前。"
+    },
+    {
+      "id": "5234171",
+      "time": "2026-11-24 09:43:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股PCB概念股走強 鼎泰高科漲超19%】截至發稿，鼎泰高科(01377.HK)漲19.60%，勝宏科技(02476.HK)漲17.19%，景旺電子(03228.HK)漲12.51%。"
+    },
+    {
+      "id": "5234170",
+      "time": "2026-11-24 09:43:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【宇樹科技盤中漲超5%】A股宇樹科技盤中漲超5%，現報743.40元。"
+    },
     {
       "id": "5234169",
       "time": "2026-11-24 09:42:54",
