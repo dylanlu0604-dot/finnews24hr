@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-25 12:30:50",
-  "count": 8580,
+  "updated": "2026-11-25 12:34:48",
+  "count": 8586,
   "items": [
+    {
+      "id": "5236877",
+      "time": "2026-11-25 12:33:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後上漲0.2%，至178,907.30點。"
+    },
+    {
+      "id": "5236876",
+      "time": "2026-11-25 12:32:43",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【馬來西亞與美國就人工智慧晶片限制進行磋商 加強管控】馬來西亞第二財政部長阿米爾·哈姆扎·阿齊贊淡化了美國針對東南亞高階晶片技術使用實施新限制措施所帶來的影響。他表示，馬來西亞正確保遵守相關規定，並指出其技術在人工智慧以外的領域也有廣泛應用。阿米爾週三在接受採訪時表示，馬來西亞投資、貿易及工業部正就此事與美國進行討論，並預期雙方將能找到共識。他說：“我們將遵守相關國家制定的任何規定。”"
+    },
+    {
+      "id": "mkt:01a210f9-cd39-7bbc-ace2-b6eb2f5c3dca",
+      "time": "2026-11-25 12:32:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "A Russian attack in Ukraine's Kyiv region killed one person, the regional governor said."
+    },
+    {
+      "id": "mkt:01a210f9-84df-7bbc-ace2-aedf4a598c1c",
+      "time": "2026-11-25 12:31:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia is committed to implementing measures to stabilize Indonesia’s rupiah in 2027, the central bank governor said."
+    },
+    {
+      "id": "5236875",
+      "time": "2026-11-25 12:31:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公司供貨Google TPU相關散熱產品是否屬實？思泉新材回應  】有投資者向思泉新材（301489.SZ）提問，公司供貨Google TPU相關散熱產品是否屬實？11月25日，公司回答表示，谷歌是公司重要的終端客戶。公司一直與重要客戶保持積極對接與商務溝通，持續挖掘新增配套機會，努力擴大合作深度。特定終端客戶具體業務和合作情況請以公司公開披露的資訊為準。"
+    },
+    {
+      "id": "mkt:01a210f8-48f1-7bbc-ace2-a7601115eea5",
+      "time": "2026-11-25 12:30:36",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "Bank Indonesia’s budget proposal to parliament projects Indonesia’s rupiah at 17,800-18,200 per dollar in 2027."
+    },
     {
       "id": "mkt:01a210f7-f81a-7bbc-ace2-9aa1ee687c35",
       "time": "2026-11-25 12:30:15",
