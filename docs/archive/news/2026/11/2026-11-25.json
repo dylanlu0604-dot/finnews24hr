@@ -1,7 +1,89 @@
 {
   "date": "2026-11-25",
-  "count": 741,
+  "count": 750,
   "items": [
+    {
+      "id": "5236914",
+      "time": "2026-11-25 13:13:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.4%，報8692.40點。"
+    },
+    {
+      "id": "5236913",
+      "time": "2026-11-25 13:12:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟擬設立500億歐元主權科技股權基金，投資AI與量子技術】據媒體援引兩名參與討論的匿名官員的訊息報道，歐盟正在制定計劃，擬籌集高達500億歐元設立一項新基金，用於投資歐洲的人工智慧和量子計算企業。擬議中的基金將比現有的歐盟融資計劃進行規模更大、風險更高且期限更長的投資。歐盟委員會旨在利用這筆資金作為種子資金，以吸引私營部門的額外投資。目前，該基金的具體融資方案仍在討論中。"
+    },
+    {
+      "id": "mkt:01a2111e-9ea3-7bbc-ace3-4fb0477dfe85",
+      "time": "2026-11-25 13:12:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【Deutsche Bank approved for pilot in China's onshore interbank RMB FX market】The People's Bank of China has designated Deutsche Bank to participate in a pilot allowing offshore RMB clearing banks to conduct RMB foreign-exchange transactions in China's onshore interbank market. Participants may trade within approved quotas, subject to regulatory requirements and in line with international market practices."
+    },
+    {
+      "id": "5236912",
+      "time": "2026-11-25 13:12:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德意志銀行獲境內銀行間外匯市場人民幣購售試點】日前，德意志銀行獲得中國人民銀行指定，參與境內銀行間外匯市場人民幣購售業務試點（簡稱“試點”）。該試點允許指定的境外人民幣清算行參照國際市場實踐與交易慣例，在符合監管要求的前提下，在一定額度內便利化開展人民幣外匯交易。"
+    },
+    {
+      "id": "mkt:01a2111d-54f8-7bbc-ace3-45fc52024ccd",
+      "time": "2026-11-25 13:11:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump administration shelves plan to use business deals to end Russia-Ukraine war, FT reports】The Trump administration has quietly shelved proposals to use commercial deals to persuade Russia to end the war in Ukraine after the Kremlin showed little interest in U.S. energy and aviation projects, the Financial Times reported. U.S. envoys Jared Kushner and Steve Witkoff have told European officials that business cooperation is no longer a central U.S. offer to Moscow, with talks now focused on territory and security. Earlier proposals included U.S. investment in Russian oil and titanium projects and resuming pipeline gas deliveries to Europe. Moscow initially saw potential deals as a way to keep Trump engaged in negotiations, but its interest has waned as it insists Ukraine cede territory and make other concessions that Kyiv considers unacceptable."
+    },
+    {
+      "id": "mkt:01a2111d-03db-7bbc-ace3-3feb906847d0",
+      "time": "2026-11-25 13:10:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "QatarEnergy said the framework also provides for potential cooperation with the Japan Bank for International Cooperation on energy, infrastructure and industrial projects in third countries."
+    },
+    {
+      "id": "5236911",
+      "time": "2026-11-25 13:10:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "軍工板塊區域性異動，國瑞科技漲超15%，此前利君股份走出2連板，成飛整合漲停，邵陽液壓、晨曦航空、中國海防、江龍船艇、中船應急漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a2111c-72c0-7bbc-ace3-3707c2381477",
+      "time": "2026-11-25 13:10:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "QatarEnergy and the Japan Bank for International Cooperation will explore cooperation opportunities across the entire energy value chain under a memorandum of understanding."
+    },
+    {
+      "id": "5236910",
+      "time": "2026-11-25 13:09:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達能源與日本國際協力銀行簽署諒解備忘錄，加強同日本的戰略能源合作。"
+    },
     {
       "id": "5236909",
       "time": "2026-11-25 13:09:15",
