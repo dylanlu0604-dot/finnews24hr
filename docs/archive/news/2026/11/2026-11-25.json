@@ -1,7 +1,110 @@
 {
   "date": "2026-11-25",
-  "count": 1341,
+  "count": 1352,
   "items": [
+    {
+      "id": "5238432",
+      "time": "2026-11-25 23:12:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：如果美國要贏得人工智慧之戰，英偉達將是關鍵因素。"
+    },
+    {
+      "id": "mkt:01a21343-e211-7bbc-acf2-d73fba32e8bc",
+      "time": "2026-11-25 23:12:25",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "White House National Economic Council Director Hassett: Inflation may run slightly above target."
+    },
+    {
+      "id": "mkt:01a21343-cf8f-7bbc-acf2-cc82613199f3",
+      "time": "2026-11-25 23:12:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVDA.O"
+      ],
+      "text": "Hassett: NVIDIA is a great company."
+    },
+    {
+      "id": "5238431",
+      "time": "2026-11-25 23:12:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：希望美聯儲能區分供給端與需求端因素。"
+    },
+    {
+      "id": "mkt:01a21343-7d7e-7bbc-acf2-c2cb2d565c3c",
+      "time": "2026-11-25 23:11:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "White House National Economic Council Director Kevin Hassett said he hopes Fed Chair Kevin Warsh will reassess the Fed’s models."
+    },
+    {
+      "id": "mkt:01a21343-6495-7bbc-acf2-bb11429addd0",
+      "time": "2026-11-25 23:11:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "White House National Economic Council Director Kevin Hassett: I have not discussed a stake in NVIDIA with Trump."
+    },
+    {
+      "id": "5238430",
+      "time": "2026-11-25 23:11:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪爾公司高管：預計年初行業形勢仍將充滿挑戰。"
+    },
+    {
+      "id": "5238429",
+      "time": "2026-11-25 23:10:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯政府官員警告：今冬烏克蘭無人機可能襲擊公用事業基礎設施。"
+    },
+    {
+      "id": "5238428",
+      "time": "2026-11-25 23:09:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪爾公司高管：近期農作物價格回落、投入成本高企以及農場利潤率緊張，可能會放緩農業機械行業的改善步伐。"
+    },
+    {
+      "id": "5238427",
+      "time": "2026-11-25 23:09:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "博利集團就盧克石油全球資產達成換股協議。根據該協議，美國將分得未來部分收益。"
+    },
+    {
+      "id": "mkt:01a21341-23c9-7bbc-acf2-b45a50b067a6",
+      "time": "2026-11-25 23:09:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: The U.S. military previously detonated nearly five tonnes of chemicals."
+    },
     {
       "id": "mkt:01a21340-bdc3-7bbc-acf2-ae0a84638c84",
       "time": "2026-11-25 23:08:59",
