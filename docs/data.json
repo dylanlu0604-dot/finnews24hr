@@ -1,7 +1,36 @@
 {
-  "updated": "2026-11-26 07:46:23",
-  "count": 8390,
+  "updated": "2026-11-26 07:50:02",
+  "count": 8386,
   "items": [
+    {
+      "id": "mkt:01a2151b-5eb7-7bbc-acfa-58e0e080f9e6",
+      "time": "2026-11-26 07:47:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Citigroup: S&P 500 rose in 13 of 14 cases three months after VIX hit 40】The VIX recently climbed to around 40, its highest since the April 2025 tariff selloff, Citigroup Wealth Management said. In 13 of the past 14 instances when the index reached 40, the S&P 500 gained over the following three and six months."
+    },
+    {
+      "id": "5238851",
+      "time": "2026-11-26 07:46:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.08點。"
+    },
+    {
+      "id": "5238850",
+      "time": "2026-11-26 07:46:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數期貨早盤上漲0.9%。"
+    },
     {
       "id": "5238849",
       "time": "2026-11-26 07:45:48",
@@ -75091,70 +75120,6 @@
         "Nikkei 225"
       ],
       "text": "Japan core machinery orders fell 0.3% MoM in September, versus a 0.5% decline forecast and a 5.2% increase in the previous month."
-    },
-    {
-      "id": "mkt:01a1f111-3fa9-7bbc-ac55-7ebd67e3dd3a",
-      "time": "2026-11-19 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Nov.13) | actual -224100000000B | previous -105200000000B"
-    },
-    {
-      "id": "mkt:01a1f111-3fbc-7bbc-ac55-8425126dad0d",
-      "time": "2026-11-19 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Bonds Buying (Nov.13) | actual -440700000000B | previous -537600000000B"
-    },
-    {
-      "id": "mkt:01a1f111-3d1d-7bbc-ac55-77a4e04913d6",
-      "time": "2026-11-19 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Core Machinery Orders (MoM) (Sep) | actual -0.3% | consensus -0.5% | previous 5.20%"
-    },
-    {
-      "id": "mkt:01a1f111-3d08-7bbc-ac55-68c5f4e9f96c",
-      "time": "2026-11-19 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Core Machinery Orders (YoY) (Sep) | actual 13.4% | consensus 13.7% | previous 18.60%"
-    },
-    {
-      "id": "5223740",
-      "time": "2026-11-19 07:48:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【月內652傢俬募機構調研A股公司 五大行業熱度較高】私募排排網資料顯示，截至11月17日，本月以來共有652傢俬募機構參與A股公司調研活動，合計調研1951次，調研範圍覆蓋303只個股。從行業分佈看，私募機構調研集中度較高。截至11月17日，本月以來電子、機械裝置、醫藥生物、電力裝置、計算機五大行業合計被調研1415次，佔總調研次數的72.53%。談及私募機構積極調研的原因，深圳市融智私募證券投資基金管理有限公司FOF（基金中基金）基金經理李春瑜對記者表示，一是私募機構情緒與信心同步回暖，調研參與意願明顯增強，透過調研尋找結構性機會；二是市場配置價值逐步凸顯，當前不少板塊估值迴歸合理區間，安全邊際有所抬升，私募機構透過調研篩選具備左側佈局價值的標的；三是為年終調倉和跨年佈局做準備。上市公司三季報披露完成後市場進入業績真空期，私募機構透過實地調研驗證產業鏈景氣度與訂單變化，彌補財報資訊的滯後性，為四季度配置儲備標的。（證券日報）"
-    },
-    {
-      "id": "5223739",
-      "time": "2026-11-19 07:47:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克表示，一些星鏈和星艦專案的員工現在負責人工智慧團隊。"
-    },
-    {
-      "id": "5223738",
-      "time": "2026-11-19 07:46:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方稱擊落一架美軍無人機】據伊朗方面18日訊息，伊朗軍隊當天發表宣告稱，伊朗軍隊在霍爾木茲海峽以東發現了一架美國MQ-9“死神”無人機並將該無人機擊落。自2月28日美國和以色列對伊朗發起軍事打擊以來，伊朗武裝部隊已多次宣佈擊落美軍和以軍無人機。（央視新聞）"
     }
   ]
 }

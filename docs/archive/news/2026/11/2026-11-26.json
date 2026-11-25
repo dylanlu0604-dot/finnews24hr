@@ -1,7 +1,36 @@
 {
   "date": "2026-11-26",
-  "count": 335,
+  "count": 338,
   "items": [
+    {
+      "id": "mkt:01a2151b-5eb7-7bbc-acfa-58e0e080f9e6",
+      "time": "2026-11-26 07:47:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Citigroup: S&P 500 rose in 13 of 14 cases three months after VIX hit 40】The VIX recently climbed to around 40, its highest since the April 2025 tariff selloff, Citigroup Wealth Management said. In 13 of the past 14 instances when the index reached 40, the S&P 500 gained over the following three and six months."
+    },
+    {
+      "id": "5238851",
+      "time": "2026-11-26 07:46:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.08點。"
+    },
+    {
+      "id": "5238850",
+      "time": "2026-11-26 07:46:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數期貨早盤上漲0.9%。"
+    },
     {
       "id": "5238849",
       "time": "2026-11-26 07:45:48",
