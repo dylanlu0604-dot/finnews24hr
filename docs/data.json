@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-26 07:42:43",
-  "count": 8392,
+  "updated": "2026-11-26 07:46:23",
+  "count": 8390,
   "items": [
+    {
+      "id": "5238849",
+      "time": "2026-11-26 07:45:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【德國下調第三季度經濟增速】德國聯邦統計局25日公佈的資料顯示，今年第三季度德國國內生產總值環比增長0.1%，較此前公佈的初值下調0.1個百分點。第一、二季度德國經濟環比增速分別為0.4%和0.3%。德國聯邦統計局表示，德國經濟今年上半年在地緣政治危機衝擊下展現較強韌性，進入第三季度後增長勢頭有所減弱。德國央行日前在月報中表示，儘管第三季度增速放緩，但德國經濟仍延續復甦態勢。第四季度經濟增速有望回升，但企業投資意願和私人消費仍將較為疲弱。有專家指出，德國經濟復甦尚未走上可持續軌道，仍面臨多重下行風險，包括天然氣價格高企等。"
+    },
+    {
+      "id": "5238848",
+      "time": "2026-11-26 07:45:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美股休市提醒】週四美股因感恩節休市一日。芝商所（CME）旗下貴金屬、美國原油期貨合約交易提前於北京時間27日03:30結束，股指期貨合約交易提前於北京時間27日02:00結束。洲際交易所（ICE）旗下布倫特原油期貨合約交易提前於北京時間27日02:30結束。"
+    },
     {
       "id": "5238846",
       "time": "2026-11-26 07:41:36",
@@ -57,6 +75,15 @@
         "其他"
       ],
       "text": "【科創債快速擴容 年內發行規模達1.7萬億元】作為債券市場服務科技創新的重要載體，科創債發行規模持續保持在高位水平。Wind資料顯示，以發行起始日為統計口徑，截至11月25日，科創債發行規模年內已達1.70萬億元，發行數量1730只。與此同時，二級市場配套機制同步完善，24只科創債ETF總規模達3364億元，與成立之初的規模相比增長明顯，不斷吸引增量資金入場。業內人士指出，科創債快速擴容，標誌著債市“科技板”建設取得實質性成效。但也要看到，部分硬科技細分賽道發債規模仍相對有限，後續還需進一步完善增信工具與風險分擔機制，擴大債券融資對科創企業的覆蓋範圍。"
+    },
+    {
+      "id": "mkt:01a21518-b112-7bbc-acfa-555ae675377e",
+      "time": "2026-11-26 07:35:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China lithium hydroxide futures debut; listing benchmark seen in line with expectations】Guangzhou Futures Exchange’s sixth contract, lithium hydroxide futures, began trading Nov. 26. Analysts said the initial listing benchmarks were reasonable: the benchmark was 1,750 yuan/mt below the Nov. 25 spot price of 76,750 yuan/mt. The first-listed contract, LI2706, reflects expected supply and demand in June 2027 rather than current spot conditions, one analyst said. Lithium carbonate and lithium hydroxide prices remain within cost-conversion constraints, while hydroxide’s demand outlook is weaker, with high-nickel demand growth subdued and solid-state batteries not yet at scale. Hydroxide smelting capacity is ample. Based on the Nov. 25 close of the lithium carbonate January 2027 futures contract and the hydroxide listing benchmark, the futures spread was about 7,600 yuan/mt; the spot spread was about 9,150 yuan/mt."
     },
     {
       "id": "5238838",
@@ -75128,49 +75155,6 @@
         "國際"
       ],
       "text": "【伊朗軍方稱擊落一架美軍無人機】據伊朗方面18日訊息，伊朗軍隊當天發表宣告稱，伊朗軍隊在霍爾木茲海峽以東發現了一架美國MQ-9“死神”無人機並將該無人機擊落。自2月28日美國和以色列對伊朗發起軍事打擊以來，伊朗武裝部隊已多次宣佈擊落美軍和以軍無人機。（央視新聞）"
-    },
-    {
-      "id": "5223737",
-      "time": "2026-11-19 07:46:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤下跌0.02點。"
-    },
-    {
-      "id": "5223736",
-      "time": "2026-11-19 07:45:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數期貨早盤上漲0.2%。"
-    },
-    {
-      "id": "mkt:01a1f10b-e511-7bbc-ac55-67d4be0a949f",
-      "time": "2026-11-19 07:44:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Bond market recovery extends as redemption pressure eases】China’s bond market extended its recovery on Nov. 18, with the 10-year government bond yield falling to 1.5899% after breaking below 1.60% in the previous session. The most-active 10-year and 30-year government bond futures contracts both rose. Funds that had been persistent sellers resumed buying long-dated bonds, while some bank wealth management subsidiaries bought shorter-dated credit bonds. Institutions said easing bond fund redemptions had reduced selling to raise cash. The recovery remains uneven, with its staying power dependent on sustained improvement in fund flows and whether buyers absorb further credit bond selling."
-    },
-    {
-      "id": "5223735",
-      "time": "2026-11-19 07:44:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【算力需求驅動電子樹脂高階化升級 穩定交付等能力成比拼關鍵】電子樹脂是AI伺服器PCB（印製電路板）增強材料粘結、實現高速訊號傳輸的重要原料，也是影響覆銅板介電效能的核心材料之一。受益於算力基礎設施、雲端計算等新興領域蓬勃發展，電子樹脂行業迎來結構性機遇，相關上市公司掀起擴產潮。多位受訪人士告訴記者，隨著覆銅板向M8、M9及更高等級迭代升級，下游終端對電子樹脂的要求早已跳出基礎效能範疇，形成了全方位、高標準的嚴苛需求。除需要更低的訊號傳輸損耗、更強的耐熱穩定性，適配高階PCB多層壓合的複雜工藝外，樹脂產品還需實現與銅箔、玻纖布等上下游材料的高度適配。過去一段時間，行業比拼的是能否拿出合格高階樣品，未來，行業競爭將聚焦在穩定交付、配方迭代、守住供應鏈席位的綜合實力。只有跨過認證、產品良率、規模化交付等多重門檻，企業才能真正把賽道景氣轉化為實實在在的業績增長。（中國證券報）"
-    },
-    {
-      "id": "5223734",
-      "time": "2026-11-19 07:43:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【提醒：今日韓國股市因高考推遲開市一小時】為配合韓國高考，今日韓國股市交易時間調整為北京時間09:00-15:30。"
     }
   ]
 }

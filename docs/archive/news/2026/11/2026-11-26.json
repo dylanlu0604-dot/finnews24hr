@@ -1,7 +1,25 @@
 {
   "date": "2026-11-26",
-  "count": 332,
+  "count": 335,
   "items": [
+    {
+      "id": "5238849",
+      "time": "2026-11-26 07:45:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【德國下調第三季度經濟增速】德國聯邦統計局25日公佈的資料顯示，今年第三季度德國國內生產總值環比增長0.1%，較此前公佈的初值下調0.1個百分點。第一、二季度德國經濟環比增速分別為0.4%和0.3%。德國聯邦統計局表示，德國經濟今年上半年在地緣政治危機衝擊下展現較強韌性，進入第三季度後增長勢頭有所減弱。德國央行日前在月報中表示，儘管第三季度增速放緩，但德國經濟仍延續復甦態勢。第四季度經濟增速有望回升，但企業投資意願和私人消費仍將較為疲弱。有專家指出，德國經濟復甦尚未走上可持續軌道，仍面臨多重下行風險，包括天然氣價格高企等。"
+    },
+    {
+      "id": "5238848",
+      "time": "2026-11-26 07:45:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美股休市提醒】週四美股因感恩節休市一日。芝商所（CME）旗下貴金屬、美國原油期貨合約交易提前於北京時間27日03:30結束，股指期貨合約交易提前於北京時間27日02:00結束。洲際交易所（ICE）旗下布倫特原油期貨合約交易提前於北京時間27日02:30結束。"
+    },
     {
       "id": "5238846",
       "time": "2026-11-26 07:41:36",
@@ -57,6 +75,15 @@
         "其他"
       ],
       "text": "【科創債快速擴容 年內發行規模達1.7萬億元】作為債券市場服務科技創新的重要載體，科創債發行規模持續保持在高位水平。Wind資料顯示，以發行起始日為統計口徑，截至11月25日，科創債發行規模年內已達1.70萬億元，發行數量1730只。與此同時，二級市場配套機制同步完善，24只科創債ETF總規模達3364億元，與成立之初的規模相比增長明顯，不斷吸引增量資金入場。業內人士指出，科創債快速擴容，標誌著債市“科技板”建設取得實質性成效。但也要看到，部分硬科技細分賽道發債規模仍相對有限，後續還需進一步完善增信工具與風險分擔機制，擴大債券融資對科創企業的覆蓋範圍。"
+    },
+    {
+      "id": "mkt:01a21518-b112-7bbc-acfa-555ae675377e",
+      "time": "2026-11-26 07:35:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China lithium hydroxide futures debut; listing benchmark seen in line with expectations】Guangzhou Futures Exchange’s sixth contract, lithium hydroxide futures, began trading Nov. 26. Analysts said the initial listing benchmarks were reasonable: the benchmark was 1,750 yuan/mt below the Nov. 25 spot price of 76,750 yuan/mt. The first-listed contract, LI2706, reflects expected supply and demand in June 2027 rather than current spot conditions, one analyst said. Lithium carbonate and lithium hydroxide prices remain within cost-conversion constraints, while hydroxide’s demand outlook is weaker, with high-nickel demand growth subdued and solid-state batteries not yet at scale. Hydroxide smelting capacity is ample. Based on the Nov. 25 close of the lithium carbonate January 2027 futures contract and the hydroxide listing benchmark, the futures spread was about 7,600 yuan/mt; the spot spread was about 9,150 yuan/mt."
     },
     {
       "id": "5238838",
