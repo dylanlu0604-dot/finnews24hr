@@ -1,7 +1,103 @@
 {
   "date": "2026-11-25",
-  "count": 1317,
+  "count": 1329,
   "items": [
+    {
+      "id": "5238419",
+      "time": "2026-11-25 23:04:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國兩年期國債收益率跌至4.762%，創兩週新低。"
+    },
+    {
+      "id": "5238418",
+      "time": "2026-11-25 23:04:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員丁格拉：通脹壓力比2022年更受控。"
+    },
+    {
+      "id": "5238417",
+      "time": "2026-11-25 23:03:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑪莎拉蒂將於12月10日公佈戰略產品計劃。"
+    },
+    {
+      "id": "5238416",
+      "time": "2026-11-25 23:03:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿斯麥股價一度下跌5.3%，市值跌破5000億美元。"
+    },
+    {
+      "id": "mkt:01a2133b-a976-7bbc-acf2-84fb8bc30cfa",
+      "time": "2026-11-25 23:03:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Explosions heard near a U.S. Army demolition site in Iowa."
+    },
+    {
+      "id": "5238415",
+      "time": "2026-11-25 23:03:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞士政府：已注意到美國貿易代表辦公室根據301調查得出的結論和建議。"
+    },
+    {
+      "id": "5238414",
+      "time": "2026-11-25 23:03:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國愛荷華州軍方引爆點附近傳來爆炸聲。"
+    },
+    {
+      "id": "5238413",
+      "time": "2026-11-25 23:03:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報83.71美元/桶。"
+    },
+    {
+      "id": "5238412",
+      "time": "2026-11-25 23:01:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱打死又一名哈馬斯內部安全機構負責人】以色列國防軍25日發表宣告說，以軍在夜間發動的空襲中打死巴勒斯坦伊斯蘭抵抗運動（哈馬斯）在加沙地帶北部的內部安全機構負責人穆罕默德·阿布·奧夫。（新華社）"
+    },
+    {
+      "id": "mkt:01a21339-d964-7bbc-acf2-7ea82a234bff",
+      "time": "2026-11-25 23:01:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli: Latest wage data are mixed; the slowdown in services price inflation may have stalled."
+    },
+    {
+      "id": "mkt:01a21339-8c34-7bbc-acf2-722b603f5376",
+      "time": "2026-11-25 23:01:08",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "Bank of England Monetary Policy Committee member Dhingra: Disinflation is progressing as planned, with some areas performing better."
+    },
     {
       "id": "mkt:01a21339-5ac6-7bbc-acf2-6aa6cb524ca1",
       "time": "2026-11-25 23:00:55",
@@ -18,6 +114,15 @@
         "Important"
       ],
       "text": "As of the 11 p.m. close, most domestic Chinese futures main contracts were higher. Fuel oil rose nearly 6%, propylene nearly 4%, and ethylene glycol (EG) and asphalt more than 3%. Methanol, low-sulfur fuel oil (LU), plastics and the plastics monthly average contract gained nearly 3%. Rapeseed oil fell more than 1%."
+    },
+    {
+      "id": "em:jjsj_mgsj:202611253939894144",
+      "time": "2026-11-25 23:00:37",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國10月新建住宅銷量摺合年率701,000套，預估為650,000套。"
     },
     {
       "id": "5238411",
