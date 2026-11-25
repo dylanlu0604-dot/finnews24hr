@@ -1,7 +1,43 @@
 {
   "date": "2026-11-25",
-  "count": 1103,
+  "count": 1107,
   "items": [
+    {
+      "id": "mkt:01a21310-5e55-7bbc-acf0-5f35597dc3c0",
+      "time": "2026-11-25 22:16:09",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "WTI",
+        "S&P500"
+      ],
+      "text": "【Baltic Dry Index hits nearly two-month high as rates rise across all vessel classes】The Baltic Dry Index rose 39 points, or 1.27%, to 3,107, its highest since Oct. 2. The Capesize index gained 72 points, or 1.46%, to 5,014, also its highest since Oct. 2. Average daily Capesize earnings rose $656 to $41,970. The Panamax index added 44 points to 2,223, its highest since Oct. 20, while average daily earnings climbed $398 to $20,009. The Supramax index rose 3 points, or 0.2%, to 1,814, and the Handysize index gained 2 points to 1,079."
+    },
+    {
+      "id": "5238266",
+      "time": "2026-11-25 22:14:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥比索下跌2%，創2025年4月以來新低。"
+    },
+    {
+      "id": "5238265",
+      "time": "2026-11-25 22:13:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西計劃和預算部長莫雷蒂表示，巴西總統盧拉不希望財政法案影響社會權利。"
+    },
+    {
+      "id": "5238264",
+      "time": "2026-11-25 22:12:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【聚焦新興領域智慧財產權保護！第二十三屆上海智慧財產權國際論壇開幕】以“新興領域智慧財產權保護”為主題的第二十三屆上海智慧財產權國際論壇今天（11月25日）開幕。國家智慧財產權局局長陳福利、上海市市長朱忠明、世界智慧財產權組織（WIPO）副總幹事申長雨出席開幕式並致辭。陳福利表示，國家智慧財產權局深入貫徹落實習近平主席關於智慧財產權工作的重要指示論述精神和黨中央、國務院決策部署，從完善制度保障和加強技術供給雙向發力，持續強化新興領域智慧財產權保護，取得積極成效。新形勢下，要進一步加快構建新興領域智慧財產權保護制度，探索有助於新興產業發展壯大的智慧財產權治理路徑，深度參與世界智慧財產權組織框架下的全球治理，構建共建共享共贏的創新生態，讓智慧財產權更好成為前沿科技的“助推器”、未來產業的“動力源”。希望與會嘉賓深入探討新興領域智慧財產權保護的新思路新舉措，讓創新創造更好造福各國人民。（上海釋出）"
+    },
     {
       "id": "5238263",
       "time": "2026-11-25 22:11:55",
