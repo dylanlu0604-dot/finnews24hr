@@ -1,7 +1,85 @@
 {
   "date": "2026-11-25",
-  "count": 1295,
+  "count": 1303,
   "items": [
+    {
+      "id": "mkt:01a21334-f189-7bbc-acf2-3254e9b744d9",
+      "time": "2026-11-25 22:56:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed",
+        "GBPUSD"
+      ],
+      "text": "Bank of England Governor Bailey said the risk premium in interest-rate futures reflects uncertainty over energy prices, not uncertainty about the Bank of England’s policy response."
+    },
+    {
+      "id": "5238404",
+      "time": "2026-11-25 22:56:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥第三季度經常賬戶順差11.42億美元，預估為順差26.25億美元。"
+    },
+    {
+      "id": "5238403",
+      "time": "2026-11-25 22:55:50",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國央行行長貝利：利率期貨中的風險溢價反映了能源價格的不確定性，而非英國央行政策反應的不確定性。"
+    },
+    {
+      "id": "mkt:01a21334-3d3c-7bbc-acf2-2f3682db431e",
+      "time": "2026-11-25 22:55:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Bank of England Governor Bailey: If energy prices remain elevated, we are more likely to need further rate hikes."
+    },
+    {
+      "id": "5238402",
+      "time": "2026-11-25 22:54:40",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "英國央行行長貝利：如果能源價格持續居高不下，我們很可能需要進一步加息。"
+    },
+    {
+      "id": "5238401",
+      "time": "2026-11-25 22:53:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安在安卡拉會見了利比亞東部領導人哈利法·哈夫塔爾將軍。有報道稱埃爾多安正努力促成利比亞東部政府與西部政府的和解。"
+    },
+    {
+      "id": "5238400",
+      "time": "2026-11-25 22:53:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西外交部表示，政府將評估美國新關稅帶來的影響和後果。"
+    },
+    {
+      "id": "5238399",
+      "time": "2026-11-25 22:53:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特週三表示，自華盛頓8月發起“經濟棄兒”行動以來，伊朗已耗盡浮倉石油庫存，未能裝載任何一艘油輪。貝森特在X平臺發帖稱：“伊朗政權是一艘正在沉沒的船”，並補充說伊朗“水上已沒有一滴石油可賣”。"
+    },
     {
       "id": "mkt:01a21331-88b5-7bbc-acf2-20a8ac7a5c57",
       "time": "2026-11-25 22:52:22",
