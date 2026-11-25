@@ -1,7 +1,125 @@
 {
   "date": "2026-11-25",
-  "count": 1219,
+  "count": 1231,
   "items": [
+    {
+      "id": "5238355",
+      "time": "2026-11-25 22:40:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "博通股價跌至2025年7月以來最低水平，最新下跌6.7%。"
+    },
+    {
+      "id": "5238354",
+      "time": "2026-11-25 22:39:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "帝斯曼-芬美意與歐盟委員會和英國競爭與市場管理局達成和解。"
+    },
+    {
+      "id": "mkt:01a21325-82cc-7bbc-acf1-75c707a3f00e",
+      "time": "2026-11-25 22:39:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "LI.O",
+        "Impact bullish"
+      ],
+      "text": "Li Auto (LI.O) shares rise about 3% as third-quarter revenue grows."
+    },
+    {
+      "id": "5238353",
+      "time": "2026-11-25 22:39:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年“三北”工程建設任務已完成過九成】記者從國家林草局25日召開的“三北”工程攻堅戰工作推進會獲悉，截至目前，今年“三北”工程建設任務已完成過九成，工程建設取得明顯成效。（新華社）"
+    },
+    {
+      "id": "5238352",
+      "time": "2026-11-25 22:38:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，諾亞財富跌13.68%，萬國資料跌11.09%，阿特斯跌10.00%，虎虎科技跌9.88%，360數科跌8.24%。"
+    },
+    {
+      "id": "mkt:01a21324-c0dc-7bbc-acf1-6ce5db680e61",
+      "time": "2026-11-25 22:38:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey: The UK economy is proving more resilient, and we must factor that into inflation forecasts."
+    },
+    {
+      "id": "5238351",
+      "time": "2026-11-25 22:38:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "第三季度營收增長後，理想汽車在美上市股票上漲3.2%。"
+    },
+    {
+      "id": "5238350",
+      "time": "2026-11-25 22:37:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "半導體ETF跌7.05%，在美股盤初領跌行業ETF，科技行業ETF跌4.78%，全球科技股指數ETF跌4.63%，網路股指數ETF跌3.38%，感恩節出行旺季來臨之際全球航空業ETF跌2.92%。"
+    },
+    {
+      "id": "mkt:01a21323-6739-7bbc-acf1-628049bb1e13",
+      "time": "2026-11-25 22:36:56",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli: We still expect food price inf to rise to around 5% next year."
+    },
+    {
+      "id": "mkt:01a21323-1287-7bbc-acf1-58f9312663b5",
+      "time": "2026-11-25 22:36:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England Governor Bailey: The labor market is cooling, but not weakening."
+    },
+    {
+      "id": "5238349",
+      "time": "2026-11-25 22:36:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌4.00%，現報22784.062點；道指跌1.87%，現報49082.891點；標普500指數跌2.74%，現報7003.900點。"
+    },
+    {
+      "id": "5238348",
+      "time": "2026-11-25 22:36:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行隆巴德利表示，經濟比我們預期的更強勁。"
+    },
     {
       "id": "mkt:01a21322-b44f-7bbc-acf1-5727dc873553",
       "time": "2026-11-25 22:36:11",
