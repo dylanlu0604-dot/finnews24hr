@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-25 12:42:31",
-  "count": 8596,
+  "updated": "2026-11-25 12:46:35",
+  "count": 8598,
   "items": [
+    {
+      "id": "5236886",
+      "time": "2026-11-25 12:44:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "萬里石：截至目前，上市公司尚未在哈薩克取得任何礦權。"
+    },
+    {
+      "id": "mkt:01a21102-f5bd-7bbc-ace2-cbae830f872c",
+      "time": "2026-11-25 12:42:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Tasnim News reports that two oil tankers in violation of regulations exploded after striking sea mines off the southern and eastern coasts of the Strait of Hormuz early today."
+    },
     {
       "id": "5236885",
       "time": "2026-11-25 12:41:57",
