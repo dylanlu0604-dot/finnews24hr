@@ -1,7 +1,83 @@
 {
-  "updated": "2026-11-25 12:58:28",
-  "count": 8610,
+  "updated": "2026-11-25 13:02:19",
+  "count": 8618,
   "items": [
+    {
+      "id": "mkt:01a21114-9f01-7bbc-ace2-f9d151a26206",
+      "time": "2026-11-25 13:01:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ant International and BNY Mellon signed an MoU to explore next-generation treasury management, 24/7 foreign exchange and global payments innovation."
+    },
+    {
+      "id": "5236900",
+      "time": "2026-11-25 13:01:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.02%，現報2233.070點；上證指數跌1.22%，現報3505.206點；深證成指跌1.51%，現報10266.560點。"
+    },
+    {
+      "id": "mkt:01a21114-025c-7bbc-ace2-f6384487cdc7",
+      "time": "2026-11-25 13:00:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bearish",
+        "00100.HK"
+      ],
+      "text": "Hong Kong-listed large language model stocks fell in volatile trading, with Zhipu (02513.HK) down more than 10% and MiniMax-W (00100.HK) down more than 8%."
+    },
+    {
+      "id": "5236899",
+      "time": "2026-11-25 13:00:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【寧德時代盤中跌超5%】A股寧德時代盤中跌超5%，現報215.80元。"
+    },
+    {
+      "id": "mkt:01a21113-6a9e-7bbc-ace2-e821f9ed7bdc",
+      "time": "2026-11-25 13:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【First agriculture working group meeting under China-U.S. Trade Council held in Beijing】China and the United States held the first meeting of the agriculture working group under the China-U.S. Trade Council in Beijing on Nov. 23-24. Guided by consensus reached by the two countries’ leaders, they discussed agricultural regulation, market access and trade, and agreed to continue working-group discussions to address agricultural concerns and support stable, sustainable economic and trade ties."
+    },
+    {
+      "id": "5236898",
+      "time": "2026-11-25 13:00:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中美貿易理事會項下農業工作組首次會議在京舉行】11月23-24日，中美雙方在北京舉行中美貿易理事會項下農業工作組首次會議。雙方以中美元首會晤重要共識為引領，就農產品監管及市場準入、農產品貿易等議題進行了坦誠、深入、建設性的交流。雙方將繼續透過農業工作組加強溝通，推動解決各自農業領域關切，助力中美經貿關係健康、穩定、可持續發展。（商務部）"
+    },
+    {
+      "id": "5236897",
+      "time": "2026-11-25 12:59:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國針對女性的暴力行為激增 】德國聯邦刑事警察局24日釋出的最新資料顯示，德國針對女性的暴力行為激增，針對女性的網路暴力也呈上升態勢。德新社援引統計資料包道，2025年，德國記錄在案的殺人未遂和殺人案件中，女性受害者達1176人，比前一年增加近37%；人口販賣的女性受害者增加17.7%；家庭暴力女性受害者人數增加2.8%，達到近20萬人；登記在案的性犯罪女性受害者人數增加2.3%，達到近5.5萬人。（新華社）"
+    },
+    {
+      "id": "5236896",
+      "time": "2026-11-25 12:58:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐幾里得望遠鏡發現迄今最遙遠類星體 】歐洲航天局24日釋出公報說，歐幾里得空間望遠鏡發現了迄今已知最遙遠的類星體，它在宇宙誕生後僅約6.3億年時便已存在，其中心黑洞質量約為太陽質量的3.6億倍。這再度重新整理了迄今觀測到的最古老類星體紀錄。相關研究論文已發表在歐洲學術期刊《天文和天體物理學》上。"
+    },
     {
       "id": "5236895",
       "time": "2026-11-25 12:57:23",
