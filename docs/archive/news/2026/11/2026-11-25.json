@@ -1,7 +1,253 @@
 {
   "date": "2026-11-25",
-  "count": 1254,
+  "count": 1279,
   "items": [
+    {
+      "id": "mkt:01a2132e-0be1-7bbc-acf1-f63fa82dd724",
+      "time": "2026-11-25 22:48:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK inflation may peak below previous forecast, Bailey says】Bank of England Governor Bailey said Wednesday that UK annual inflation would peak below the central bank’s previous forecast if international oil and gas prices remain at current levels. The Bank of England earlier this month forecast inflation peaking at 4.9% in the second quarter of next year. Energy prices have since fallen, mainly as expectations for a resolution to the US-Iran war strengthened after the US midterm elections. “If prices stay at current levels, the inflation peak will be lower,” Bailey said."
+    },
+    {
+      "id": "mkt:01a2132e-09a0-7bbc-acf1-ea4f7296549b",
+      "time": "2026-11-25 22:48:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House National Economic Council Director Hassett: Oil and diesel prices are falling back to prewar levels."
+    },
+    {
+      "id": "5238387",
+      "time": "2026-11-25 22:48:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特談關稅提案：關鍵在於營造公平競爭環境。"
+    },
+    {
+      "id": "mkt:01a2132d-cfd7-7bbc-acf1-e52f8ef0ca7c",
+      "time": "2026-11-25 22:48:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME: HCAI aluminium is listed with immediate effect. Warrants for the brand will be issued only from Dec. 2."
+    },
+    {
+      "id": "5238386",
+      "time": "2026-11-25 22:47:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國銀行全球研究將道明銀行集團<TD.N>的目標價從139美元下調至134美元。"
+    },
+    {
+      "id": "5238385",
+      "time": "2026-11-25 22:47:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：石油和柴油價格正回落至戰前水平。"
+    },
+    {
+      "id": "mkt:01a2132d-33c1-7bbc-acf1-db451318dd4f",
+      "time": "2026-11-25 22:47:39",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Monetary Policy Committee member Mann: I think pressure on corporate margins cannot continue to restrain inflation."
+    },
+    {
+      "id": "5238384",
+      "time": "2026-11-25 22:47:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員曼恩：利潤率無法持續吸收衝擊。"
+    },
+    {
+      "id": "5238383",
+      "time": "2026-11-25 22:47:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會成員曼恩：我認為企業利潤率的擠壓無法繼續抑制通脹。"
+    },
+    {
+      "id": "5238382",
+      "time": "2026-11-25 22:47:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱霍爾木茲遭襲船舶數處於高位】國際海事組織秘書長多明格斯11月24日再度強調，當前，在霍爾木茲海峽，船舶通行安全仍沒有保障，不建議船舶在該海峽航行。美國有線電視新聞網報道說，在霍爾木茲海峽遭襲的船舶數量正處於衝突爆發以來的最高位置。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a2132c-b55c-7bbc-acf1-d5b66535b640",
+      "time": "2026-11-25 22:47:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "The Nasdaq 100 is down 20% from its peak, putting it on the brink of a bear market."
+    },
+    {
+      "id": "mkt:01a2132c-5e23-7bbc-acf1-cb1f1d490868",
+      "time": "2026-11-25 22:46:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Monetary Policy Committee member Mann: The optimal response is to raise rates earlier and by more."
+    },
+    {
+      "id": "5238381",
+      "time": "2026-11-25 22:46:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克100指數較峰值下跌20%，勢將進入熊市。"
+    },
+    {
+      "id": "mkt:01a2132c-48d9-7bbc-acf1-c46165510a19",
+      "time": "2026-11-25 22:46:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Mann, a Bank of England Monetary Policy Committee member, said monetary policy must do more if inf deviates from target."
+    },
+    {
+      "id": "mkt:01a2132c-14eb-7bbc-acf1-b9b47f38138f",
+      "time": "2026-11-25 22:46:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "White House National Economic Council Director Hassett: PCE data show the impact of the “Gulf issue” is waning."
+    },
+    {
+      "id": "5238380",
+      "time": "2026-11-25 22:46:24",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "Anthropic跌幅擴大至9.6%，最新總市值約9800億美元，重新整理上市以來新低。"
+    },
+    {
+      "id": "mkt:01a2132b-e34a-7bbc-acf1-b6b70aa0b24b",
+      "time": "2026-11-25 22:46:12",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England policymaker Mann: Inflation expectations are tilted to the upside."
+    },
+    {
+      "id": "5238379",
+      "time": "2026-11-25 22:45:53",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "英國央行貨幣政策委員會成員曼恩：最佳應對方式是更早、更大幅度加息。"
+    },
+    {
+      "id": "5238378",
+      "time": "2026-11-25 22:45:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：個人消費支出資料表明“海灣問題”的影響正在減弱。"
+    },
+    {
+      "id": "mkt:01a2132b-57fb-7bbc-acf1-ae4efdf15d34",
+      "time": "2026-11-25 22:45:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【BMO reverses view, expects BOC hike next month】BMO Capital Markets economists revised their rate outlook after BOC Governor Macklem made hawkish remarks in Toronto, saying they now expect a hike on Dec. 9. BMO had previously expected rates to hold. Macklem played down recent gasoline price declines and focused on the risk that rising energy costs could push headline inflation higher. He also signaled that another 25-bp hike, taking the policy rate to 2.75%, would leave it within the BOC’s estimated neutral range, BMO said."
+    },
+    {
+      "id": "5238377",
+      "time": "2026-11-25 22:45:32",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲招標發行總額為81億美元的4週期國庫券，美聯儲招標8週期國債，總額77億美元。"
+    },
+    {
+      "id": "5238376",
+      "time": "2026-11-25 22:45:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿富汗警方稱在首都擊斃6名武裝分子】阿富汗首都喀布林警方發言人哈立德·扎德蘭25日通報稱，當日凌晨，警方在喀布林擊斃6名武裝分子。據阿富汗國家廣播電視臺報道，當地時間凌晨2時左右，警方與一夥武裝分子在喀布林第八警區爆發激烈交火，6名武裝分子被擊斃。警方從被擊斃武裝分子身上起獲一些武器。這是5天內喀布林發生的第二起類似事件。21日夜間，喀布林警方在交火中擊斃3名武裝分子，警方稱其涉嫌參與針對銀行運鈔車的搶劫殺人案件。（新華社）"
+    },
+    {
+      "id": "mkt:01a2132b-06c8-7bbc-acf1-a02c3399599a",
+      "time": "2026-11-25 22:45:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【S&P 500 falls more than 3%】U.S. losses widened in early trading, with the S&P 500 down more than 3%, the Nasdaq off about 4.5% and the Dow down more than 2%."
+    },
+    {
+      "id": "5238375",
+      "time": "2026-11-25 22:45:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員曼恩表示，通脹預期存在上行傾向。"
+    },
+    {
+      "id": "5238374",
+      "time": "2026-11-25 22:45:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所將把HCAI品牌列入鋁合約交割品牌。"
+    },
     {
       "id": "mkt:01a21329-f573-7bbc-acf1-9abf56491bce",
       "time": "2026-11-25 22:44:06",
