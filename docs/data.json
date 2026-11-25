@@ -1,7 +1,120 @@
 {
-  "updated": "2026-11-25 23:05:36",
-  "count": 8512,
+  "updated": "2026-11-25 23:09:43",
+  "count": 8518,
   "items": [
+    {
+      "id": "mkt:01a21340-bdc3-7bbc-acf2-ae0a84638c84",
+      "time": "2026-11-25 23:08:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S.-backed consortium agrees to buy Lukoil’s international energy assets】U.S. billionaire Todd Boehly said Wednesday he had signed an agreement with Russia’s Lukoil for a consortium including the U.S. International Development Finance Corp. to acquire the sanctioned oil company’s international energy assets. The deal, negotiated for more than a year, would exchange Lukoil securities valued at $10 bln for the assets. The U.S. Treasury Department will review the transaction to ensure national security, a person familiar with the process said."
+    },
+    {
+      "id": "5238426",
+      "time": "2026-11-25 23:08:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統辦公室主任：烏克蘭與俄羅斯之間的大規模換俘將分階段進行。"
+    },
+    {
+      "id": "5238425",
+      "time": "2026-11-25 23:07:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：如果能源價格不回落，可能進一步加息。"
+    },
+    {
+      "id": "mkt:01a2133f-c00e-7bbc-acf2-a7dd4ea69ac4",
+      "time": "2026-11-25 23:07:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Hassett: U.S. economic fundamentals are very strong, and the economy is currently in a Goldilocks state."
+    },
+    {
+      "id": "5238424",
+      "time": "2026-11-25 23:07:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：目前市場上的避險情緒非常濃厚。"
+    },
+    {
+      "id": "5238423",
+      "time": "2026-11-25 23:07:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：我們現在正處於一個“恰到好處”的經濟時期。"
+    },
+    {
+      "id": "mkt:01a2133e-d044-7bbc-acf2-9ac8c7e0de32",
+      "time": "2026-11-25 23:06:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Swiss government said it had taken note of the findings and recommendations of the U.S. Trade Representative’s Section 301 investigation."
+    },
+    {
+      "id": "mkt:01a2133e-a800-7bbc-acf2-93e47ea4782c",
+      "time": "2026-11-25 23:06:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "ASML.AS",
+        "Impact bearish"
+      ],
+      "text": "ASML’s Dutch-listed shares fell as much as 5.3%, taking its market capitalization below $500 billion."
+    },
+    {
+      "id": "5238422",
+      "time": "2026-11-25 23:06:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：基本面非常強勁。"
+    },
+    {
+      "id": "5238421",
+      "time": "2026-11-25 23:05:41",
+      "tags": [
+        "資料",
+        "央行"
+      ],
+      "text": "惠譽評級：澳洲聯儲現金利率將維持在4.85%直至2027年。"
+    },
+    {
+      "id": "mkt:01a2133d-b237-7bbc-acf2-8cec1827b39b",
+      "time": "2026-11-25 23:05:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Brent crude rises about 3% intraday】WTI crude rises $2.00 to $84.70 a barrel, up 2.42%; Brent gains about 3%."
+    },
+    {
+      "id": "5238420",
+      "time": "2026-11-25 23:04:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞士政府：瑞士拒絕接受這些調查中提出的指控，並認為美國貿易代表辦公室的關稅建議仍符合2025年11月14日簽署的聯合意向宣告。"
+    },
     {
       "id": "5238419",
       "time": "2026-11-25 23:04:29",
@@ -76364,58 +76477,6 @@
         "國際"
       ],
       "text": "俄羅斯稱擊中一艘駛往烏克蘭敖德薩的貨船。"
-    },
-    {
-      "id": "5223339",
-      "time": "2026-11-18 23:08:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：勞動力市場剩餘產能已趨於穩定。"
-    },
-    {
-      "id": "5223338",
-      "time": "2026-11-18 23:07:57",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "巴西財政部長杜裡甘：參議院審議的財政措施法案是第一步。不應將其視為政府未來數年的公告。"
-    },
-    {
-      "id": "5223337",
-      "time": "2026-11-18 23:07:34",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：暫無計劃在11月19日舉行俄羅斯總統普京與美國總統特朗普的全面會談。"
-    },
-    {
-      "id": "5223336",
-      "time": "2026-11-18 23:06:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯總統普京與美國總統特朗普週三未進行實質性對話。"
-    },
-    {
-      "id": "5223335",
-      "time": "2026-11-18 23:06:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME倫銅日內跌超5.00%，現報12564.910美元/噸。"
-    },
-    {
-      "id": "5223334",
-      "time": "2026-11-18 23:06:28",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：英國經濟增長“有所改善”，但“仍需加倍努力”。今年經濟的韌性主要由私營部門驅動。"
     }
   ]
 }
