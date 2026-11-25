@@ -1,7 +1,323 @@
 {
   "date": "2026-11-25",
-  "count": 1187,
+  "count": 1219,
   "items": [
+    {
+      "id": "mkt:01a21322-b44f-7bbc-acf1-5727dc873553",
+      "time": "2026-11-25 22:36:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "The Nasdaq 100 extends losses to 4%."
+    },
+    {
+      "id": "5238347",
+      "time": "2026-11-25 22:36:03",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "納斯達克100指數跌幅擴大至4%。"
+    },
+    {
+      "id": "mkt:01a21322-9497-7bbc-acf1-498a8c0cb4ca",
+      "time": "2026-11-25 22:36:02",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli: Risks of second-round effects have increased."
+    },
+    {
+      "id": "mkt:01a21322-6ade-7bbc-acf1-4680734ebc58",
+      "time": "2026-11-25 22:35:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli: Completing the exit from quantitative easing is crucial to the central bank’s credibility."
+    },
+    {
+      "id": "5238346",
+      "time": "2026-11-25 22:35:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行公佈第三季度經常賬戶餘額為11.42億美元。"
+    },
+    {
+      "id": "mkt:01a21322-1941-7bbc-acf1-3d0bbf0d2cd2",
+      "time": "2026-11-25 22:35:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "Bank of England Monetary Policy Committee member Dhingra: Initial wage or price increases should not be confused with a wage-price spiral."
+    },
+    {
+      "id": "5238345",
+      "time": "2026-11-25 22:35:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會成員隆巴迪：我們仍預計明年食品價格通脹率將升至5%左右。"
+    },
+    {
+      "id": "mkt:01a21321-ece7-7bbc-acf1-32795a8bef7a",
+      "time": "2026-11-25 22:35:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Governor Bailey: Refined petroleum products need to be monitored separately."
+    },
+    {
+      "id": "5238344",
+      "time": "2026-11-25 22:35:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "集團副總裁表示，奈及利亞丹格特煉油廠的股票將於 12 月 1 日在奈及利亞交易所開始交易。"
+    },
+    {
+      "id": "5238343",
+      "time": "2026-11-25 22:35:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：墨西哥第三季度經常賬戶餘額相當於國內生產總值的0.21%。"
+    },
+    {
+      "id": "5238342",
+      "time": "2026-11-25 22:35:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行官員隆巴爾代利表示，間接影響低於預期。"
+    },
+    {
+      "id": "5238341",
+      "time": "2026-11-25 22:35:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦媒體全程實時轉播】今天（11月25日）上午8時18分，搭載神舟二十四號載人飛船的長征二號F遙二十四運載火箭在酒泉衛星發射中心點火發射。湯洪波、武毅和巴基斯坦航天員穆罕默德·齊尚·阿里三人乘組順利進入中國空間站。作為首個到訪中國“天宮”的外籍航天員，穆罕默德·齊尚·阿里牽動巴基斯坦全國目光。巴基斯坦國家媒體全程實時轉播，多家外媒也對此次任務予以高度評價。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5238340",
+      "time": "2026-11-25 22:34:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克指數期貨跌4.01%，現報25222.500點；道瓊斯指數期貨跌1.67%，現報49225.480點；標普500指數期貨跌2.61%，現報7029.390點。"
+    },
+    {
+      "id": "mkt:01a21321-7fc9-7bbc-acf1-2a7138bf35b4",
+      "time": "2026-11-25 22:34:52",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Bank of England Monetary Policy Committee member Dhingra: Large-scale QE outside crisis periods warrants careful consideration."
+    },
+    {
+      "id": "5238339",
+      "time": "2026-11-25 22:34:44",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利表示，勞動力市場正在走平，而非走軟。"
+    },
+    {
+      "id": "5238338",
+      "time": "2026-11-25 22:34:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數跌幅擴大至0.5%，創盤中新低。"
+    },
+    {
+      "id": "5238337",
+      "time": "2026-11-25 22:34:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "戴爾公佈第三季度業績後，伺服器製造商股價下跌。慧與下跌3.1%，超微電腦下跌5.6%。"
+    },
+    {
+      "id": "mkt:01a21320-ea88-7bbc-acf1-2476e233f52f",
+      "time": "2026-11-25 22:34:13",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey: The economy is showing greater resilience."
+    },
+    {
+      "id": "5238336",
+      "time": "2026-11-25 22:33:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利表示，經濟正展現出更強的韌性。"
+    },
+    {
+      "id": "mkt:01a21320-a6c4-7bbc-acf1-19f78faedcb2",
+      "time": "2026-11-25 22:33:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "The Dow opened down 548.84 points, or 1.10%, at 49,469.86 on Wednesday, Nov. 25. The Nasdaq opened down 785.05 points, or 3.31%, at 22,948.48, while the S&P 500 fell 140.76 points, or 1.95%, to 7,060.33."
+    },
+    {
+      "id": "mkt:01a21320-92f0-7bbc-acf1-13da9e9273a7",
+      "time": "2026-11-25 22:33:51",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "Bank of England Governor Bailey: The pass-through of energy effects appears stronger at present."
+    },
+    {
+      "id": "5238335",
+      "time": "2026-11-25 22:33:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：我們看到英國經濟展現出更強的韌性，必須將此納入通脹預測考量。"
+    },
+    {
+      "id": "5238334",
+      "time": "2026-11-25 22:33:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中瑞創新戰略伙伴關係10週年研討會在伯爾尼舉辦】“中瑞創新戰略伙伴關係10週年”研討會24日在瑞士伯爾尼舉行。來自中瑞兩國政府、企業及創新領域約200名代表齊聚一堂，回顧兩國創新合作成果，探討進一步拓展經貿、科研和創新合作機遇。"
+    },
+    {
+      "id": "5238333",
+      "time": "2026-11-25 22:33:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部表示，俄武裝力量打擊了敖德薩州兩處物流中心，這些中心用於儲存和分發烏克蘭武裝部隊的物資。"
+    },
+    {
+      "id": "5238332",
+      "time": "2026-11-25 22:33:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌5%，現報39.18美元/盎司。"
+    },
+    {
+      "id": "5238331",
+      "time": "2026-11-25 22:33:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利表示，能源影響的傳導路徑目前看起來更強。"
+    },
+    {
+      "id": "mkt:01a2131f-c153-7bbc-acf1-0ba23f9487cc",
+      "time": "2026-11-25 22:32:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey: Energy futures curves point to a very optimistic price outlook."
+    },
+    {
+      "id": "mkt:01a2131f-8ad5-7bbc-acf1-0433b51ad8a3",
+      "time": "2026-11-25 22:32:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "BoE Governor Bailey: There has been no clear pass-through to inflation."
+    },
+    {
+      "id": "5238330",
+      "time": "2026-11-25 22:32:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守39美元/盎司，日內跌4.62%。"
+    },
+    {
+      "id": "5238329",
+      "time": "2026-11-25 22:32:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：沒有出現明顯的通脹傳導。"
+    },
+    {
+      "id": "mkt:01a2131f-4bfd-7bbc-acf0-fab6aaac7415",
+      "time": "2026-11-25 22:32:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "The U.S. 10-year Treasury yield fell 10 bps to 4.83% intraday."
+    },
+    {
+      "id": "5238328",
+      "time": "2026-11-25 22:32:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠普漲超10%，此前公佈業績並上調股息。"
+    },
     {
       "id": "5238327",
       "time": "2026-11-25 22:32:09",
