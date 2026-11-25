@@ -1,7 +1,75 @@
 {
-  "updated": "2026-11-25 13:02:19",
-  "count": 8618,
+  "updated": "2026-11-25 13:06:11",
+  "count": 8625,
   "items": [
+    {
+      "id": "5236904",
+      "time": "2026-11-25 13:05:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【力推“科技主權”：歐盟醞釀500億歐元巨資破局AI與算力短板】據《金融時報》報道，歐盟正計劃設立一項規模達 500 億歐元的科技基金，旨在縮小創新差距。該計劃由歐盟委員會牽頭（包括負責科技主權、安全與民主的執行副主席亨娜·維爾庫寧），核心目標是建立歐洲的“科技主權”，防止高增長的本土初創企業因缺乏後期融資而外流至海外。 儘管歐洲擁有大量早期創業者，但由於 27 個成員國監管碎片化以及後期風險投資匱乏，近 30% 的歐洲獨角獸企業最終選擇遷往海外。該基金旨在提供大規模成長期資本，幫助歐洲企業成長為全球領軍者。資金將重點投向歐洲目前落後於競爭對手的關鍵領域，尤其是人工智慧（包括 AI “超級工廠”與算力基礎設施）、量子計算、半導體、清潔技術以及生物技術。"
+    },
+    {
+      "id": "5236903",
+      "time": "2026-11-25 13:04:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破104關口，日內漲0.17%。"
+    },
+    {
+      "id": "mkt:01a21116-dffd-7bbc-ace3-15f63958085f",
+      "time": "2026-11-25 13:04:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "The EU is planning a 50 billion-euro investment fund to strengthen its tech sector, the Financial Times reported."
+    },
+    {
+      "id": "mkt:01a21116-2dee-7bbc-ace3-0e30d6c6c259",
+      "time": "2026-11-25 13:03:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Financial Times reports that Trump has shelved plans for a commercial deal with Russia."
+    },
+    {
+      "id": "5236902",
+      "time": "2026-11-25 13:02:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "據英國《金融時報》，特朗普擱置與俄羅斯的商業交易計劃。"
+    },
+    {
+      "id": "5236901",
+      "time": "2026-11-25 13:02:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國《金融時報》：歐盟計劃設立500億歐元科技基金。"
+    },
+    {
+      "id": "mkt:01a21115-0b41-7bbc-ace3-05d0966c4c24",
+      "time": "2026-11-25 13:02:01",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "【Goldman Sachs: Bank of Korea may deliver hawkish hold on Thursday】Goldman Sachs economists expect the Bank of Korea to deliver a “hawkish hold” on Thursday, with strong third-quarter headline growth and still-elevated inflation likely to keep its outlook hawkish. But weak domestic consumption and labor-market conditions, alongside subdued non-tech sectors, could keep the bank on hold. The economists said current domestic conditions do not warrant rapid rate hikes, as private consumption weakened in the third quarter and equities extended their pullback from October."
+    },
     {
       "id": "mkt:01a21114-9f01-7bbc-ace2-f9d151a26206",
       "time": "2026-11-25 13:01:33",
