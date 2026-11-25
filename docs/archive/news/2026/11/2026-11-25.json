@@ -1,7 +1,495 @@
 {
   "date": "2026-11-25",
-  "count": 1135,
+  "count": 1187,
   "items": [
+    {
+      "id": "5238327",
+      "time": "2026-11-25 22:32:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破58000美元，日內跌3.08%。"
+    },
+    {
+      "id": "mkt:01a2131e-f2b7-7bbc-acf0-f22294dace44",
+      "time": "2026-11-25 22:32:04",
+      "tags": [
+        "MKT News",
+        "HPQ.O",
+        "Impact bullish"
+      ],
+      "text": "HP shares rose more than 10% after reporting results and raising its dividend."
+    },
+    {
+      "id": "5238326",
+      "time": "2026-11-25 22:31:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行全球研究將蒙特利爾銀行<BMO.TO>的目標價從262加元下調至261加元。"
+    },
+    {
+      "id": "5238325",
+      "time": "2026-11-25 22:31:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "Anthropic開盤下跌5.6%，較IPO價格下跌7%。"
+    },
+    {
+      "id": "mkt:01a2131e-a0a1-7bbc-acf0-ef552818074e",
+      "time": "2026-11-25 22:31:43",
+      "tags": [
+        "MKT News",
+        "DELL.O",
+        "Impact bearish"
+      ],
+      "text": "Dell shares fell more than 8% after the company reported results."
+    },
+    {
+      "id": "5238324",
+      "time": "2026-11-25 22:31:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌7%】費城半導體指數日內跌7.04%，現報8210.85點。英偉達跌8.55%，博通跌5.82%，美光跌9.43%，英特爾跌7.18%，AMD跌8.67%，高通跌4.20%，臺積電跌6.53%，阿斯麥跌5.83%。"
+    },
+    {
+      "id": "5238323",
+      "time": "2026-11-25 22:31:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達股價開盤下跌8.3%。"
+    },
+    {
+      "id": "5238322",
+      "time": "2026-11-25 22:31:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "戴爾科技公司公佈第三季度業績後，股價下跌 7.7%。"
+    },
+    {
+      "id": "5238321",
+      "time": "2026-11-25 22:31:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3490美元/盎司，日內跌2.82%。"
+    },
+    {
+      "id": "5238320",
+      "time": "2026-11-25 22:30:57",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率當日下跌10個基點至4.83%。"
+    },
+    {
+      "id": "5238319",
+      "time": "2026-11-25 22:30:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股算力雲相關股票盤初普跌】甲骨文跌5.26%，CoreWeave跌7.78%，Nebius跌7.39%，IREN跌9.58%，Applied Digital跌7.77%。"
+    },
+    {
+      "id": "5238318",
+      "time": "2026-11-25 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股開盤普跌】Lumentum跌8.24%，康寧跌6.62%，Coherent跌7.53%，應用光電跌8.07%，Ciena跌7.64%，博通跌4.97%，邁威爾科技跌7.03%。"
+    },
+    {
+      "id": "5238317",
+      "time": "2026-11-25 22:30:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股儲存板塊盤初普跌】美光跌8.33%，閃迪跌7.54%，SK海力士跌7.09%，西部資料跌5.79%，希捷科技跌6.17%。"
+    },
+    {
+      "id": "5238316",
+      "time": "2026-11-25 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股太空概念股盤初普跌】SpaceX跌6.84%，Rocket Lab跌5.06%，Planet Labs跌5.55%，AST SpaceMobile跌3.90%，Intuitive Machines跌5.77%。"
+    },
+    {
+      "id": "5238315",
+      "time": "2026-11-25 22:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤初普漲】禮來漲0.24%，強生漲0.48%，Moderna跌4.24%，諾和諾德漲0.15%，艾伯維漲0.69%，默沙東漲0.08%。"
+    },
+    {
+      "id": "5238314",
+      "time": "2026-11-25 22:30:49",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "安霸公司股價一度下跌30%，創2018年以來最低。"
+    },
+    {
+      "id": "5238313",
+      "time": "2026-11-25 22:30:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌1.49%，標普500指數跌2.26%，納指跌3.32%。BE跌9.50%，Astera Labs Inc跌9.45%，Arm Holdings Plc跌8.39%，美光跌8.34%，Lumentum Holdings Inc.跌8.24%。“七姐妹”方面：蘋果跌0.81%，微軟跌1.98%，Meta Platforms跌3.18%，亞馬遜跌4.03%，谷歌跌4.89%，特斯拉跌5.04%，英偉達跌7.99%。"
+    },
+    {
+      "id": "mkt:01a2131d-b74c-7bbc-acf0-e1ca6354e445",
+      "time": "2026-11-25 22:30:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【U.S. stocks fall; NVIDIA down about 8%】U.S. stocks opened lower, with the Dow down 1.1%, the S&P 500 down 2.2% and the Nasdaq down 3.3%. Semiconductor stocks fell, with the Philadelphia Semiconductor Index down 5.9%. NVIDIA dropped about 8% and Anthropic about 5%."
+    },
+    {
+      "id": "5238312",
+      "time": "2026-11-25 22:30:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，360數科跌9.33%，阿特斯跌9.50%，虎虎科技跌7.18%，高途跌7.07%，萬國資料跌7.03%。"
+    },
+    {
+      "id": "5238311",
+      "time": "2026-11-25 22:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【費城半導體指數日內跌6%】費城半導體指數日內跌6.03%，現報8300.10點。英偉達跌7.64%，博通跌5.37%，美光跌8.67%，英特爾跌5.73%，AMD跌7.44%，高通跌3.41%，臺積電跌5.66%，阿斯麥跌5.15%。"
+    },
+    {
+      "id": "5238310",
+      "time": "2026-11-25 22:30:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌5%】費城半導體指數日內跌6.00%，現報8302.93點。英偉達跌7.69%，博通跌5.43%，美光跌8.58%，英特爾跌5.80%，AMD跌7.74%，高通跌2.86%，臺積電跌5.80%，阿斯麥跌4.91%。"
+    },
+    {
+      "id": "5238309",
+      "time": "2026-11-25 22:30:22",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國央行行長貝利表示，能源期貨曲線顯示出“非常樂觀的看法”。"
+    },
+    {
+      "id": "5238308",
+      "time": "2026-11-25 22:30:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股票指數開盤下跌439.66點，跌幅1.29%，報33522.64點。"
+    },
+    {
+      "id": "5238307",
+      "time": "2026-11-25 22:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利尤文圖斯股價上漲 11.11% 後自動停牌。"
+    },
+    {
+      "id": "5238306",
+      "time": "2026-11-25 22:29:56",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國央行貝利：能源期貨曲線對價格趨勢的看法非常樂觀。"
+    },
+    {
+      "id": "5238305",
+      "time": "2026-11-25 22:29:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：預計美國採取的任何措施都將完全遵守歐盟商品15%的全包上限，包括與現有關稅合併計算時。"
+    },
+    {
+      "id": "mkt:01a2131c-99d8-7bbc-acf0-dba4c565742e",
+      "time": "2026-11-25 22:29:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Polish defense official calls for no-fly zone along eastern border】Poland should establish a limited no-fly zone along its eastern border to support military operations, Deputy Defense Minister Cezary Tomczyk said Wednesday, adding that other countries in the region should consider similar measures. The zone could extend several dozen kilometers from the border, he said. Polish prosecutors said three Russian Kh-101 cruise missiles entered Polish territory last Friday, heightening concerns that the war in Ukraine could spill into NATO territory. Tomczyk said he hoped the rules would take effect by late December or early January."
+    },
+    {
+      "id": "mkt:01a2131c-7a4e-7bbc-acf0-d7a397609e0c",
+      "time": "2026-11-25 22:29:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "The Turkish central bank’s net international reserves excluding swaps have turned negative, traders said. Recent measures should help limit reserve losses, while its ample gold holdings may also provide support."
+    },
+    {
+      "id": "5238304",
+      "time": "2026-11-25 22:29:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長隆巴德利：完成量化寬鬆退出對信譽至關重要。"
+    },
+    {
+      "id": "mkt:01a2131c-235b-7bbc-acf0-c972f82ec843",
+      "time": "2026-11-25 22:29:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Bank of England Governor Bailey: Crude oil flows through the strait are nearing a return to previous levels, but the outlook is difficult to predict."
+    },
+    {
+      "id": "mkt:01a2131b-eb99-7bbc-acf0-c1f2f3197e3f",
+      "time": "2026-11-25 22:28:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver falls to $39/oz, down 4.70% on the day."
+    },
+    {
+      "id": "mkt:01a2131b-95f2-7bbc-acf0-b9e223120a09",
+      "time": "2026-11-25 22:28:24",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey: If energy prices remain at current levels, the inf peak will be below forecast."
+    },
+    {
+      "id": "5238303",
+      "time": "2026-11-25 22:28:16",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國央行丁格拉：不應將首次工資與物價上漲同螺旋式上升混為一談。"
+    },
+    {
+      "id": "5238302",
+      "time": "2026-11-25 22:28:07",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【南非央行：超大規模雲服務商（Hyperscaler）債務激增構成風險】南非央行表示，主權借款正與人工智慧企業不斷擴大的債券發行形成競爭，這可能同時推高收益率和風險。截至第三季度，南非國內集合投資計劃（collective investment schemes）已將近13%的投資組合資產配置於超大規模雲服務商相關企業，其中超過三分之二集中於大型科技股。該行稱，全球資產價格若出現急劇重定價，可能削弱投資者的風險偏好，促使其將資產從新興市場撤出，並透過資本外流和主權收益率上升波及南非。"
+    },
+    {
+      "id": "5238301",
+      "time": "2026-11-25 22:28:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：必須單獨關注精煉產品。"
+    },
+    {
+      "id": "5238300",
+      "time": "2026-11-25 22:27:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：透過海峽的原油流量正接近恢復至原有水平，但未來走勢難以預測。"
+    },
+    {
+      "id": "5238299",
+      "time": "2026-11-25 22:27:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行丁格拉：在非危機時期實施大規模量化寬鬆需要加以考慮。"
+    },
+    {
+      "id": "mkt:01a2131a-af4c-7bbc-acf0-b31a81c153c4",
+      "time": "2026-11-25 22:27:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey: Inflation will peak at a lower level if energy prices stabilize."
+    },
+    {
+      "id": "5238298",
+      "time": "2026-11-25 22:27:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利表示，如果能源價格保持穩定，通脹峰值將降低。"
+    },
+    {
+      "id": "5238297",
+      "time": "2026-11-25 22:26:56",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "交易員表示，土耳其央行的最新舉措將限制儲備損失；其雄厚的黃金儲備可能會發揮作用。"
+    },
+    {
+      "id": "5238296",
+      "time": "2026-11-25 22:26:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "交易員稱，土耳其央行已售出逾100億美元外匯，交易將在本週的資產負債表中顯示。"
+    },
+    {
+      "id": "5238295",
+      "time": "2026-11-25 22:26:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "交易員：土耳其央行剔除互換後的淨國際儲備已轉為負值。"
+    },
+    {
+      "id": "mkt:01a2131a-1159-7bbc-acf0-a9eeabbc8544",
+      "time": "2026-11-25 22:26:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Turkey's central bank has sold more than $10 bln in foreign exchange, with the transactions to be reflected in this week's balance sheet, traders say."
+    },
+    {
+      "id": "5238294",
+      "time": "2026-11-25 22:26:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：強烈反對歐洲是結構性產能過剩來源這一前提。"
+    },
+    {
+      "id": "5238293",
+      "time": "2026-11-25 22:25:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "Juniper Green部門與NTPC簽署25年供電協議。"
+    },
+    {
+      "id": "mkt:01a21318-ff42-7bbc-acf0-a5b02b47adfa",
+      "time": "2026-11-25 22:25:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli: Much of the energy cost has already been absorbed."
+    },
+    {
+      "id": "mkt:01a21318-cd9d-7bbc-acf0-99fcb171975a",
+      "time": "2026-11-25 22:25:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli: The focus now is whether the energy shock becomes embedded in the UK economy."
+    },
+    {
+      "id": "5238292",
+      "time": "2026-11-25 22:25:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長隆巴德利：大量能源成本已經計入。"
+    },
+    {
+      "id": "mkt:01a21318-93c3-7bbc-acf0-925cf08e2bb3",
+      "time": "2026-11-25 22:25:07",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli: Falling oil prices mean the inflation peak is likely to be below our November forecast."
+    },
+    {
+      "id": "5238291",
+      "time": "2026-11-25 22:25:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長隆巴德利：當前關注焦點是能源衝擊是否會嵌入英國經濟。。"
+    },
+    {
+      "id": "mkt:01a21318-6cc7-7bbc-acf0-8fb86004b571",
+      "time": "2026-11-25 22:24:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Monetary Policy Committee member Dhingra: Loss of purchasing power is equivalent to 0.5% of GDP."
+    },
     {
       "id": "5238290",
       "time": "2026-11-25 22:24:32",
@@ -219,6 +707,14 @@
         "其他"
       ],
       "text": "國際貨幣基金組織與葛摩達成工作人員級別協議。"
+    },
+    {
+      "id": "5238270",
+      "time": "2026-11-25 22:19:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【持續強降雨已致巴西巴拉那州6人死亡】當地時間11月25日，巴西南部巴拉那州民防部門通報，23日以來持續強降雨引發山洪等災害，已造成6人死亡，40個市鎮受災。據悉，強降雨還造成多地房屋被淹、車輛被沖走、道路受阻及供電中斷，消防人員出動船隻救援被困居民。巴西巴拉那州氣象部門資料顯示，24日，該州西南部城市不到8小時降雨量達113.2毫米，約為當地11月曆史平均月降雨量的66.3%。受厄爾尼諾現象影響，巴西南部近期降雨量預計持續高於歷史平均水平。（央視新聞）"
     },
     {
       "id": "5238269",
