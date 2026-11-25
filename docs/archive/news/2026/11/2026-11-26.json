@@ -1,7 +1,60 @@
 {
   "date": "2026-11-26",
-  "count": 310,
+  "count": 316,
   "items": [
+    {
+      "id": "mkt:01a21509-410f-7bbc-acfa-495a5b350db9",
+      "time": "2026-11-26 07:27:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Persian Gulf oil exports remain under pressure as crude prices reprice geopolitical risk】Oil prices steadied early Thursday after rising for two straight sessions, as ongoing military conflict in the Middle East threatened a recovery in regional crude exports and raised concerns over supply disruptions. WTI hovered near $84 a barrel after gaining more than 4% over the previous two sessions. Brent settled below $95. Houthi attacks on Saudi Arabia have continued, including on Ras Tanura, a major oil export hub. Iran also said two tankers transiting the Strait of Hormuz struck mines on Nov. 25. “As long as the conflict remains unresolved, crude prices should retain some risk premium,” said Ryan McKay, senior commodity strategist at TD Securities, adding that Persian Gulf oil exports have declined following repeated Iranian attacks. Trading is expected to be thin on Thursday due to the Thanksgiving holiday."
+    },
+    {
+      "id": "5238829",
+      "time": "2026-11-26 07:26:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋁價下行侵蝕電解鋁利潤 加工企業“鎖價”避險】受美元加息預期及海外流動性收緊影響，國際鋁價近期出現明顯下跌。Wind資料顯示，截至11月25日19時，11月以來，LME鋁累計跌幅已超過10%。記者多方採訪瞭解到，國際鋁價下跌對產業鏈上市公司影響不一。電解鋁錠加工及銷售企業首當其衝，利潤會受到侵蝕。對於中游鋁型材加工企業來說，一般會在簽訂合同時和下游鎖定鋁錠價格，因此鋁錠價格波動對加工企業影響有限。（中國證券報）"
+    },
+    {
+      "id": "5238828",
+      "time": "2026-11-26 07:26:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高階PCB排單延至2028年 算力賽道帶動產業鏈擴產】近日，全球電子協會發布一份面向全行業的供應鏈警報：PCB缺貨正在從區域性環節蔓延到成品板交付，汽車、工業、醫療、通訊等領域的客戶都在面對更長的交期和更難拿到貨的局面。近期，部分PCB概念股有所反彈。其中，中京電子走出“五連板”行情，引發市場關注。記者多方採訪瞭解到，當前，高階PCB產品供不應求，部分PCB頭部廠商高階產品已排產至2028年。對於市場關注的原材料緊缺問題，多家PCB上市公司告訴記者，到目前為止，原材料沒有出現供應不上的問題，只是在供應速度和效率上顯現出一定的壓力。一些上游原材料的產能偏緊張，相關公司也在積極擴產。（中國證券報）"
+    },
+    {
+      "id": "5238827",
+      "time": "2026-11-26 07:25:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上市公司搶灘半導體材料領域】萬得資料顯示，年內至少有16家A股上市公司披露了加碼佈局半導體材料的動作，其中約六成為原主業是半導體材料的公司，其餘為光伏、化工、顯示模組等行業的跨界進入者。從具體專案來看，矽片、靶材、電子特氣、溼電子化學品、CMP材料等主要品類均有涉及。（證券日報）"
+    },
+    {
+      "id": "5238826",
+      "time": "2026-11-26 07:24:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【兩大減肥藥巨頭將為明星GLP-1藥物新增新警告標籤，涉及視力喪失風險】地時間11月25日，多家外媒報道稱，諾和諾德與禮來兩家減肥藥巨頭正準備為其明星減重藥新增一項新的警告標籤，在此之前，越來越多的患者訴訟稱，這些藥物造成了有害的副作用，而相關藥企對此未充分告知。上述報道指向的是GLP-1藥物與視力相關的風險。當地時間11月9日，美國食品和藥物管理局（FDA）釋出通告稱，使用GLP-1受體激動劑類藥物可能增加患“非動脈炎性前部缺血性視神經病變”（NAION）的風險。這種疾病可能導致單眼無痛性視力急性下降，嚴重時可造成永久性視力喪失。FDA要求所有相關藥物的上市申請持有者在藥品說明書中增加風險警示資訊。（澎湃）"
+    },
+    {
+      "id": "5238825",
+      "time": "2026-11-26 07:24:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機構11月以來調研近1800家上市公司 後市看好物理AI等方向機遇】Wind資料顯示，11月以來，截至11月25日記者發稿時，已有近1800家上市公司接待機構調研，機械裝置、電子等行業是機構重點關注的方向。在二級市場整體承壓的背景下，部分被調研標的股價11月以來逆勢反彈，汽車、紡織服飾、家用電器等行業部分標的漲幅居前。對於相關板塊的後市投資機遇，業內人士較為看好物理AI、消費電子等方向。其中，在物理AI方面，看好機器人、AIDC、智慧駕駛三條產業鏈；受益於儲存價格下行以及Agent快速落地，消費電子板塊有望迎來盈利修復。（中國證券報）"
+    },
     {
       "id": "5238824",
       "time": "2026-11-26 07:23:41",
