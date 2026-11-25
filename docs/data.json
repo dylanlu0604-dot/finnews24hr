@@ -1,7 +1,144 @@
 {
-  "updated": "2026-11-25 22:57:29",
-  "count": 8501,
+  "updated": "2026-11-25 23:01:33",
+  "count": 8507,
   "items": [
+    {
+      "id": "mkt:01a21339-5ac6-7bbc-acf2-6aa6cb524ca1",
+      "time": "2026-11-25 23:00:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli: I am increasingly uncertain whether underlying disinflation is on track."
+    },
+    {
+      "id": "mkt:01a21339-402d-7bbc-acf2-6390b3304283",
+      "time": "2026-11-25 23:00:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "As of the 11 p.m. close, most domestic Chinese futures main contracts were higher. Fuel oil rose nearly 6%, propylene nearly 4%, and ethylene glycol (EG) and asphalt more than 3%. Methanol, low-sulfur fuel oil (LU), plastics and the plastics monthly average contract gained nearly 3%. Rapeseed oil fell more than 1%."
+    },
+    {
+      "id": "5238411",
+      "time": "2026-11-25 23:00:13",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國10月新建住宅銷量摺合年率701,000套 預估為650,000套。"
+    },
+    {
+      "id": "5238410",
+      "time": "2026-11-25 23:00:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國10月新房銷售量為70.1萬套，年化率為65萬套。"
+    },
+    {
+      "id": "mkt:01a21338-981e-7bbc-acf2-5e7d64d5f448",
+      "time": "2026-11-25 23:00:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. October new-home sales rose 14.2% MoM; the prior reading was revised to -9.7% from -0.6%."
+    },
+    {
+      "id": "mkt:01a21338-935a-7bbc-acf2-55fad75e37bd",
+      "time": "2026-11-25 23:00:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. October new home sales rose to a 701,000 annualized pace, above the 650,000 estimate. September sales were revised down to 614,000 from 676,000."
+    },
+    {
+      "id": "5238409",
+      "time": "2026-11-25 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續漲5.97%，乙二醇連續漲3.69%，瀝青連續漲3.14%，甲醇連續漲2.97%，低硫燃料油連續漲2.85%，液化石油氣連續漲2.62%，PVC連續漲2.29%。"
+    },
+    {
+      "id": "mkt:01a21338-83ba-7bbc-acf2-4d8f3def9b46",
+      "time": "2026-11-25 23:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New Home Sales SAAR (MoM) (Oct) | actual 14.2% | previous -0.60%"
+    },
+    {
+      "id": "mkt:01a21338-8394-7bbc-acf2-431548eb5f53",
+      "time": "2026-11-25 23:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New Home Sales (SAAR) (Oct) | actual 701000K | consensus 650000K | previous 676000K"
+    },
+    {
+      "id": "5238408",
+      "time": "2026-11-25 22:59:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "斯泰蘭蒂斯集團 ：瑪莎拉蒂將於12月10日在義大利摩德納公佈戰略產品規劃。"
+    },
+    {
+      "id": "mkt:01a21338-2774-7bbc-acf2-3adf49aec04c",
+      "time": "2026-11-25 22:59:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Bank of England Governor Bailey: Businesses say they are finding it difficult to pass on costs."
+    },
+    {
+      "id": "5238407",
+      "time": "2026-11-25 22:59:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國航北京首都—蒙特利爾直飛航線即將復航】根據中國國際航空訊息，2027年3月29日起，國航將恢復執行北京首都⇌蒙特利爾直飛航線，航班號為CA879/80，班期為每週一、五，由空客A350客機執飛。"
+    },
+    {
+      "id": "5238406",
+      "time": "2026-11-25 22:57:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破90美元/桶，日內漲1.43%。"
+    },
+    {
+      "id": "5238405",
+      "time": "2026-11-25 22:57:26",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國央行貝利：企業仍表示難以轉嫁成本上漲。"
+    },
     {
       "id": "mkt:01a21334-f189-7bbc-acf2-3254e9b744d9",
       "time": "2026-11-25 22:56:06",
@@ -76233,74 +76370,6 @@
         "國際"
       ],
       "text": "美國官員稱，中東問題特使威特科夫與特朗普女婿庫什納預計將於週四抵達柏林，與烏克蘭官員及新組建的八人歐洲談判團隊舉行會談。"
-    },
-    {
-      "id": "5223326",
-      "time": "2026-11-18 23:00:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥國際儲備金在11月13日當週為2563.3億美元。"
-    },
-    {
-      "id": "5223325",
-      "time": "2026-11-18 23:00:07",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國10月成屋簽約銷售指數月率 -4.7%，預期-2%，前值由-7.30%修正為-7.2%。"
-    },
-    {
-      "id": "5223324",
-      "time": "2026-11-18 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】液化石油氣連續跌3.21%，聚丙烯連續跌2.96%，乙二醇連續跌2.92%，燃料油連續跌2.70%，甲醇連續跌2.08%。"
-    },
-    {
-      "id": "5223323",
-      "time": "2026-11-18 22:59:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆林警告稱，“脆弱的系統”可能造成破壞。"
-    },
-    {
-      "id": "5223322",
-      "time": "2026-11-18 22:59:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "參議員桑德斯將在新的參議院任期內力推全民醫保。"
-    },
-    {
-      "id": "5223321",
-      "time": "2026-11-18 22:58:40",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯央行：將11月19日盧布兌美元官方匯率設定為82.2281，此前匯率為82.4529。"
-    },
-    {
-      "id": "5223318",
-      "time": "2026-11-18 22:57:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛爾眼科：預計明年海外收入有較大增長】愛爾眼科在投資者關係活動記錄表中表示，公司海外收入絕對值和營收佔比近年穩步提升，預計明年有較大增長；近年收購的英國業務扭虧進展順利，經營狀況明顯改善；巴西標的負債問題已有效解決。"
-    },
-    {
-      "id": "5223316",
-      "time": "2026-11-18 22:57:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "部分美國晶片製造商股價轉跌，英特爾股價下跌2%，邁威爾科技下跌1.9%，高通下跌1.8%。"
     }
   ]
 }
