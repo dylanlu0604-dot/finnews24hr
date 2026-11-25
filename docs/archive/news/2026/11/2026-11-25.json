@@ -1,7 +1,83 @@
 {
   "date": "2026-11-25",
-  "count": 1062,
+  "count": 1070,
   "items": [
+    {
+      "id": "5238236",
+      "time": "2026-11-25 21:59:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【據港交所檔案：深圳市晶存科技股份有限公司透過港交所上市聆訊】據港交所檔案：深圳市晶存科技股份有限公司透過港交所上市聆訊。"
+    },
+    {
+      "id": "5238235",
+      "time": "2026-11-25 21:59:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，11月24日美國有效聯邦基金利率為3.88%，交易額為880億美元；而11月23日利率為3.88%，交易額為870億美元。"
+    },
+    {
+      "id": "5238234",
+      "time": "2026-11-25 21:59:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海螺集團董事長楊軍與法國聖戈班集團董事長兼執行長貝諾瓦·巴贊開展合作交流】近日，海螺集團黨委書記、 董事長楊軍一行赴聖戈班上海研發中心，與聖戈班集團董事長兼執行長貝諾瓦·巴贊（Benoit Bazin）舉行會談，就深化雙方合作進行交流。雙方圍繞現有水泥新增劑供應鏈協同進行了交流，重點探討了在海螺新材家居產品、皖維集團乳膠粉及PVB汽車玻璃膜等產品的潛在合作，並就技術研發、海外市場及新業務領域的合作機會交換了意見。"
+    },
+    {
+      "id": "5238233",
+      "time": "2026-11-25 21:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將法拉利目標價從450美元上調至465美元。"
+    },
+    {
+      "id": "5238232",
+      "time": "2026-11-25 21:57:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將應用材料目標價從640美元下調至575美元。"
+    },
+    {
+      "id": "5238231",
+      "time": "2026-11-25 21:56:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（11月24日）擔保隔夜融資利率（SOFR）報3.94%，之前一天報3.92%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202611253939840270",
+      "time": "2026-11-25 21:56:20",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國消費者支出基本持平 核心PCE連續第三個月上漲0.3%】持續的通脹擠壓家庭預算，美國10月消費支出陷入停滯。美國經濟分析局週三公佈的資料顯示，經通脹調整後的個人支出較前月基本持平。接受調查的經濟學家預估中值為增長0.1%。美聯儲看重的基礎通脹指標——剔除食品和能源的個人消費支出價格指數——上漲0.3%。核心PCE同比上漲3.3%，為2023年以來最大升幅，這使美聯儲決策者仍處於下月加息的軌道上。"
+    },
+    {
+      "id": "mkt:01a212fd-818a-7bbc-acf0-21fba54adf05",
+      "time": "2026-11-25 21:55:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【U.S. Q3 GDP growth revised up to 4.3%, potentially giving Fed more room to hike rates】The U.S. economy grew at a 4.3% annualized rate in Q3, up sharply from the previous estimate of 3.4% and nearly double Q2’s 2.2%, the government said Wednesday. The stronger-than-expected momentum underscores the economy’s resilience amid higher borrowing costs and sticky inf, potentially giving the Fed more room to raise rates."
+    },
     {
       "id": "5238230",
       "time": "2026-11-25 21:54:56",
