@@ -1,7 +1,56 @@
 {
-  "updated": "2026-11-26 07:50:02",
-  "count": 8386,
+  "updated": "2026-11-26 07:53:41",
+  "count": 8378,
   "items": [
+    {
+      "id": "5238856",
+      "time": "2026-11-26 07:52:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【受美股尾盤反彈提振，亞洲股市有望走高】隨著華爾街在交易尾盤的回升將納斯達克100指數從熊市邊緣拉回，亞洲股市預計將小幅上漲。與此同時，市場對人工智慧交易可持續性的擔憂依然存在，這提振了美國國債的表現。日本和韓國的股指期貨預示漲幅不到0.5%，而澳大利亞基準股指開盤微漲。稍早時候，儘管標普500指數最終收跌0.3%，但指數內多數成分股依然上漲。納斯達克100指數一度較其收盤高點累計暴跌20%（觸及了熊市的定義標準），但在逢低買入者的推動下，週三的跌幅收窄至0.6%。以傳統經濟為主的道瓊斯工業平均指數也扭轉了跌勢，收漲0.3%。股市的劇烈波動再次促使投資者尋求美國政府債券的避險。在紐約交易時段，10年期美國國債收益率下降了8個基點至4.85%，而現貨市場因美國感恩節假期於週四休市。"
+    },
+    {
+      "id": "mkt:01a21520-2512-7bbc-acfa-63b0becb18c4",
+      "time": "2026-11-26 07:52:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Russian regional governor said an attempted drone attack on the Nevinnomyssk industrial zone had been thwarted."
+    },
+    {
+      "id": "5238855",
+      "time": "2026-11-26 07:52:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "地區州長稱，俄羅斯擊退了針對涅溫諾梅斯克工業區的無人機襲擊。"
+    },
+    {
+      "id": "5238854",
+      "time": "2026-11-26 07:52:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溫州宏豐：向特定物件發行股票申請獲深交所稽核透過】溫州宏豐公告，公司於2026年11月25日收到深交所上市稽核中心出具的《關於溫州宏豐電工合金股份有限公司申請向特定物件發行股票的稽核中心意見告知函》，深交所上市稽核中心對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求，後續深交所將按規定報中國證監會履行相關注冊程式。本次向特定物件發行股票事項尚需獲得中國證監會同意註冊的批覆後方可實施。"
+    },
+    {
+      "id": "5238853",
+      "time": "2026-11-26 07:50:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《出口中國能力發展報告》國際研討會在瑞士日內瓦成功舉辦 】《出口中國能力發展報告》國際研討會在瑞士日內瓦萬國宮成功舉辦。中華人民共和國國際貿易談判代表兼商務部副部長李成鋼、聯合國貿易和發展會議代理秘書長馬雷諾、中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表團臨時代辦李馳江大使出席研討會並致辭。（新華社）"
+    },
+    {
+      "id": "5238852",
+      "time": "2026-11-26 07:50:19",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：AI產業內部更重交付與回報質量】華泰證券研報稱，AI資產或超跌反彈，但產業內部更重交付與回報質量。配置上，短期或進入超賣區間，但A股仍需關注籌碼壓力。若後續超跌反彈，建議關注：一是出口約束仍在，海外硬體訂單的不確定性並未完全消除，國內自主算力部署、叢集適配及配套互連等有望繼續佔優；二是遠期空間較大、近期催化密集、估值和籌碼擁擠度較低的物理AI。中期來看，市場對投入回報的審視延伸至交付、利潤和現金回收，PCB、光互連、高階儲存等環節根據訂單和回款情況擇機挖掘“錯殺”標的。"
+    },
     {
       "id": "mkt:01a2151b-5eb7-7bbc-acfa-58e0e080f9e6",
       "time": "2026-11-26 07:47:24",
@@ -13,6 +62,15 @@
         "Impact bullish"
       ],
       "text": "【Citigroup: S&P 500 rose in 13 of 14 cases three months after VIX hit 40】The VIX recently climbed to around 40, its highest since the April 2025 tariff selloff, Citigroup Wealth Management said. In 13 of the past 14 instances when the index reached 40, the S&P 500 gained over the following three and six months."
+    },
+    {
+      "id": "em:jjsj_oyqsj:202611263940092381",
+      "time": "2026-11-26 07:47:00",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【德國下調第三季度經濟增速】德國聯邦統計局25日公佈的資料顯示，今年第三季度德國國內生產總值環比增長0.1%，較此前公佈的初值下調0.1個百分點。第一、二季度德國經濟環比增速分別為0.4%和0.3%。德國聯邦統計局表示，德國經濟今年上半年在地緣政治危機衝擊下展現較強韌性，進入第三季度後增長勢頭有所減弱。"
     },
     {
       "id": "5238851",
@@ -74967,159 +75025,6 @@
         "國際"
       ],
       "text": "10年期日本國債收益率下跌0.5個基點至2.865%。"
-    },
-    {
-      "id": "5223744",
-      "time": "2026-11-19 07:53:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：SPACEX正在研發人工智慧模型GROK 4.8。"
-    },
-    {
-      "id": "5223743",
-      "time": "2026-11-19 07:52:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Anthropic IPO 籌集 813 億美元 超越 SpaceX 創下的上市紀錄】Anthropic PBC 及其七位聯合創始人透過擴大規模的 IPO 籌集了 813 億美元，成為首家透過公開市場融資以推動智慧機器研發的前沿 AI 實驗室。這家 AI 公司以每股 83 美元的價格出售 9.564 億股股票，其聯合創始人也出售了 2360 萬股股票。該發行價高於此前公佈的定價區間。根據招股檔案，公司原計劃發行 8.014 億股股票，聯合創始人擬出售 2360 萬股股票，發行價區間為每股 70 至 78 美元。此次發行價高於既定區間，使公司的完全稀釋估值達到約 1.5 萬億美元。這是有史以來規模最大的 IPO，超越了 SpaceX 750 億美元的基礎發行規模。結合 Anthropic 招股檔案中列出的 260 億美元私募配售，本次整體發行將籌集 1073 億美元，從而超越 SpaceX 包含超額配售權在內的 862 億美元總融資額。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202611193934549912",
-      "time": "2026-11-19 07:51:32",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本至11月13日當週外資買進日債6501億日元，前值由13711億日元修正為13709億日元。"
-    },
-    {
-      "id": "5223742",
-      "time": "2026-11-19 07:50:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本至11月13日當週買進外國債券 -4407億日元，前值由-5376億日元修正為-5341億日元。日本至11月13日當週外資買進日股 -2241億日元，前值由-1052億日元修正為-1023億日元。日本至11月13日當週外資買進日債 6501億日元，前值由13711億日元修正為13709億日元。日本至11月13日當週買進外國股票 3631億日元，前值由-6439億日元修正為-6582億日元。"
-    },
-    {
-      "id": "mkt:01a1f111-ead2-7bbc-ac55-c104244f4c9a",
-      "time": "2026-11-19 07:50:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "S&P500",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japanese investors bought ¥363.1 bln of foreign stocks in the week ended Nov. 13, versus net sales of ¥658.2 bln previously, revised from ¥643.9 bln."
-    },
-    {
-      "id": "em:jjsj_rbsj:202611193934551654",
-      "time": "2026-11-19 07:50:45",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本至11月13日當週外資買進日股-2241億日元，前值由-1052億日元修正為-1023億日元。"
-    },
-    {
-      "id": "mkt:01a1f111-e5b3-7bbc-ac55-baea316498f1",
-      "time": "2026-11-19 07:50:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Foreign investors bought ¥650.1 bln of Japanese bonds in the week to Nov. 13; the previous week's figure was revised to ¥1.3709 tln from ¥1.3711 tln."
-    },
-    {
-      "id": "mkt:01a1f111-d986-7bbc-ac55-b24b85e83b5e",
-      "time": "2026-11-19 07:50:41",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Stocks Buying (Nov.13) | actual 363100000000B | previous -643900000000B"
-    },
-    {
-      "id": "mkt:01a1f111-d499-7bbc-ac55-a9d5b6def9f7",
-      "time": "2026-11-19 07:50:39",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Nov.13) | actual 650100000000B | previous 1371100000000B"
-    },
-    {
-      "id": "em:jjsj_rbsj:202611193934548565",
-      "time": "2026-11-19 07:50:29",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本9月核心機械訂單同比增長13.4%，預期13.7%，前值18.60%。"
-    },
-    {
-      "id": "5223741",
-      "time": "2026-11-19 07:50:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本9月核心機械訂單同比 13.4%，預期 13.5%，前值 18.6%。日本9月核心機械訂單環比 -0.3%，預期 1.5%，前值 5.2%。"
-    },
-    {
-      "id": "mkt:01a1f111-5be9-7bbc-ac55-a73583da2a2e",
-      "time": "2026-11-19 07:50:08",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japanese investors net sold 440.7 bln yen of foreign bonds in the week ended Nov. 13. The previous week’s net sales were revised to 534.1 bln yen from 537.6 bln yen."
-    },
-    {
-      "id": "mkt:01a1f111-58c0-7bbc-ac55-9fee4c64c449",
-      "time": "2026-11-19 07:50:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Foreign investors net sold ¥224.1 bln of Japanese stocks in the week through Nov. 13, versus a revised ¥102.3 bln in net sales previously (prior: ¥105.2 bln)."
-    },
-    {
-      "id": "mkt:01a1f111-50cc-7bbc-ac55-925d3623911f",
-      "time": "2026-11-19 07:50:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's core machinery orders rose 13.4% YoY in September, below expectations of 13.7% and down from 18.6% previously."
-    },
-    {
-      "id": "mkt:01a1f111-5062-7bbc-ac55-886433fc65e2",
-      "time": "2026-11-19 07:50:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "Japan core machinery orders fell 0.3% MoM in September, versus a 0.5% decline forecast and a 5.2% increase in the previous month."
     }
   ]
 }
