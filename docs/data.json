@@ -1,7 +1,56 @@
 {
-  "updated": "2026-11-25 12:34:48",
-  "count": 8586,
+  "updated": "2026-11-25 12:38:42",
+  "count": 8591,
   "items": [
+    {
+      "id": "mkt:01a210fe-8ff9-7bbc-ace2-c201d3f95498",
+      "time": "2026-11-25 12:37:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's 10-year bond yield fell 6 bps to 2.66%."
+    },
+    {
+      "id": "5236880",
+      "time": "2026-11-25 12:37:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：儘管存在市場風險，亞太地區保險業展望仍維持“中性”立場。"
+    },
+    {
+      "id": "5236879",
+      "time": "2026-11-25 12:36:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國代表呼籲警惕“新型軍國主義”等抬頭】中國常駐聯合國副代表孫磊24日在俄羅斯常駐聯合國代表團紀念紐倫堡審判80週年圖片展開幕式上致辭，呼籲各國警惕納粹主義、殖民主義、“新型軍國主義”抬頭。 孫磊說，81年前，國際軍事法庭在德國紐倫堡設立，史稱“紐倫堡審判”。作為人類歷史上第一次國際性審判，紐倫堡審判歷時近一年時間，以嚴格的程式、紮實的證據、堅實的法理，系統性揭露二戰期間納粹德國所犯侵略、戰爭罪行，判處19名納粹分子絞刑、徒刑，開創了透過國際法律程式清算國際嚴重罪行的歷史先河。今年也是東京審判開庭80週年。前不久，中國常駐聯合國代表團在聯合國舉辦東京審判圖片展。紐倫堡審判和東京審判都是和平馴服暴力、正義壓倒邪惡、法律懲戒強權的歷史性審判，具有劃時代的政治意義和法律價值。（新華社）"
+    },
+    {
+      "id": "5236878",
+      "time": "2026-11-25 12:35:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞投資發展局（MIDA）主席：現在判斷美國晶片限制措施的影響還為時過早。"
+    },
+    {
+      "id": "mkt:01a210fc-a22a-7bbc-ace2-bb2e074aaa93",
+      "time": "2026-11-25 12:35:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Japan reportedly not considering new debt to fund supplementary budget】Japan’s government is not currently considering issuing new deficit-financing bonds to fund a supplementary budget for the current fiscal year, TBS reported Wednesday. It plans to use higher-than-expected tax revenue instead."
+    },
     {
       "id": "5236877",
       "time": "2026-11-25 12:33:26",
