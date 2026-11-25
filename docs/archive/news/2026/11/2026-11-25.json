@@ -1,7 +1,81 @@
 {
   "date": "2026-11-25",
-  "count": 670,
+  "count": 678,
   "items": [
+    {
+      "id": "mkt:01a210f4-444e-7bbc-ace2-81345fa14e7e",
+      "time": "2026-11-25 12:26:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【World's first 600-MW-class compressed-air energy storage expander rolls off production line】An expander for the world's first 600-MW-class compressed-air energy storage system has completed integrated testing and rolled off the production line. It was developed by the Chinese Academy of Sciences' Institute of Engineering Thermophysics and China Energy Storage (Beijing) Technology Co."
+    },
+    {
+      "id": "5236868",
+      "time": "2026-11-25 12:25:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【久遠銀海：“銀海聞語”大模型已應用於醫療醫保、數字政務等領域】久遠銀海(002777)11月25日在互動平臺表示，公司自研的“銀海聞語”大模型已應用於醫療醫保、數字政務和智慧城市等領域。"
+    },
+    {
+      "id": "5236866",
+      "time": "2026-11-25 12:25:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國首套600MW級壓縮空氣儲能系統膨脹機順利下線】近日，我國在壓縮空氣儲能系統研發領域取得重大突破。由中國科學院工程熱物理研究所聯合中儲國能（北京）技術有限公司研製的國際首套600MW級壓縮空氣儲能系統膨脹機完成整合測試，順利下線。"
+    },
+    {
+      "id": "mkt:01a210f2-62c9-7bbc-ace2-7858f64536b6",
+      "time": "2026-11-25 12:24:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "0992.HK",
+        "Impact bullish"
+      ],
+      "text": "【Lenovo to build supernode production line in Tianjin】Lenovo held a launch ceremony on Nov. 25 for a high-performance server production line and supernode project in Tianjin. It signed a framework investment agreement with the Tianjin Port Free Trade Zone to establish a next-generation intelligent computing R&D and manufacturing center, with investment in the supernode server project planned by end-2026. The project is expected to begin production by end-2027, boosting Lenovo’s manufacturing and delivery capacity for high-end AI computing systems and strengthening its global AI infrastructure supply chain."
+    },
+    {
+      "id": "mkt:01a210f2-6043-7bbc-ace2-75e618581c88",
+      "time": "2026-11-25 12:24:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "TBS reports that Japan’s Takaichi government is not considering issuing new deficit-financing bonds for a supplementary budget in the current fiscal year."
+    },
+    {
+      "id": "5236865",
+      "time": "2026-11-25 12:23:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想集團在天津投建超節點產線】11月25日，聯想集團在天津舉行高效能伺服器產線落成暨超節點專案啟動儀式。儀式現場，聯想集團與天津港保稅區簽署新一代智慧算力研發與製造中心投資合作框架協議，計劃於2026年底投資建設超節點伺服器專案。超節點專案預計於2027年底前建成投產，屆時將進一步提升聯想集團在高階AI算力系統領域的製造與交付能力，強化全球AI基礎設施的供應鏈佈局。"
+    },
+    {
+      "id": "5236864",
+      "time": "2026-11-25 12:23:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "據TBS報道，日本首相高市政府不考慮在本財年補充預算中發行新的赤字融資債券。"
+    },
+    {
+      "id": "5236863",
+      "time": "2026-11-25 12:22:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌5.5個基點至2.665%。"
+    },
     {
       "id": "5236862",
       "time": "2026-11-25 12:22:14",
