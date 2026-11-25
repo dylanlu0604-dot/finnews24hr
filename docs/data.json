@@ -1,7 +1,82 @@
 {
-  "updated": "2026-11-25 22:08:51",
-  "count": 8370,
+  "updated": "2026-11-25 22:13:18",
+  "count": 8377,
   "items": [
+    {
+      "id": "5238263",
+      "time": "2026-11-25 22:11:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "宣告：美國貿易代表辦公室將於2027年1月25日就關稅調查舉行聽證會，並將視情況繼續推進相關工作。"
+    },
+    {
+      "id": "5238262",
+      "time": "2026-11-25 22:11:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：英國短期抵押貸款產品可能損害未來超額利差票據。"
+    },
+    {
+      "id": "5238261",
+      "time": "2026-11-25 22:11:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭官員表示將在烏克蘭邊境設立禁飛區。"
+    },
+    {
+      "id": "mkt:01a2130b-9eeb-7bbc-acf0-55156411114a",
+      "time": "2026-11-25 22:10:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "The Office of the U.S. Trade Representative will hold a hearing on the tariff investigation on Jan. 25, 2027, and continue proceedings as appropriate."
+    },
+    {
+      "id": "mkt:01a2130b-9dbc-7bbc-acf0-495c5e7cb5ee",
+      "time": "2026-11-25 22:10:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME copper is down more than 2% intraday at $11,640/mt."
+    },
+    {
+      "id": "5238260",
+      "time": "2026-11-25 22:10:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行行長奧馬爾·梅希亞表示，經濟疲軟限制了比索走弱向通脹傳導的風險。"
+    },
+    {
+      "id": "mkt:01a2130b-5c31-7bbc-acf0-441efdad438d",
+      "time": "2026-11-25 22:10:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "【UK PM seeks new EU negotiator ahead of talks on possible bloc re-entry】UK Prime Minister Burnham is seeking a new chief EU negotiator to prepare for possible future talks on rejoining the bloc, people familiar with the matter said. Michael Ellam is set to leave after helping broker last week’s reset deal. Appointed by former Prime Minister Starmer, Ellam led negotiations with the EU on improving trade terms and was a key official behind Friday’s agreement in Brussels, which aims to ease food trade, link carbon markets and expand opportunities for young people to live, work and study abroad."
+    },
+    {
+      "id": "5238259",
+      "time": "2026-11-25 22:10:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【鼎智科技：因涉嫌資訊披露違法違規等，證監會決定對公司立案】鼎智科技11月25日公告，公司於今日收到中國證監會下發的《立案告知書》，因公司涉嫌資訊披露違法違規，根據《中華人民共和國證券法》《中華人民共和國行政處罰法》等法律法規，中國證監會決定對公司立案。同時，前任董事長華榮偉於今日收到中國證監會下發的《立案告知書》，因涉嫌資訊披露、減持違法違規，中國證監會決定對華榮偉立案。截至本公告披露日，公司全體董事及高階管理人員均正常履職，公司生產經營正常，上述事項不會對公司生產經營活動產生重大影響。"
+    },
     {
       "id": "5238258",
       "time": "2026-11-25 22:08:04",
@@ -74954,14 +75029,6 @@
         "其他"
       ],
       "text": "【百時美施貴寶公佈KarXT治療阿爾茨海默病相關精神病的III期臨床初步資料】百時美施貴寶（BMY）公佈ADEPT專案兩項III期研究的初步資料，評估藥物KarXT（xanomeline和trospium chloride）治療阿爾茨海默病相關精神病的效果。ADEPT-1研究中，320名入組患者有273名完成12周開放標籤治療，完成率為85.3%；患者幻覺與妄想評分（NPI-C H+D）平均下降12.0分，基線為14.4分，臨床總體嚴重程度評分（CGI-S）平均下降1.9分，基線為4.5分。ADEPT-3研究中，401名患者有273名完成52周治療，完成率為68.1%；治療期間未發現新的安全性訊號。公司表示，兩項研究的雙盲治療階段資料仍處於盲態，以上結果為初步描述性分析。"
-    },
-    {
-      "id": "5223237",
-      "time": "2026-11-18 22:11:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度首席經濟顧問表示，印度外國直接投資流出即將逆轉。"
     }
   ]
 }
