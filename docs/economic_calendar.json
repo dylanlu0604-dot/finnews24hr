@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-25 06:08:27",
+  "updated": "2026-11-25 12:03:34",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 464,
+  "count": 466,
   "history_summary": {
     "cached": 464,
-    "fetched": 0,
+    "fetched": 2,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 224,
+      "count": 226,
       "dates": [
         {
           "date": "2026-11-23",
@@ -4152,8 +4152,124 @@
         },
         {
           "date": "2026-11-25",
-          "count": 77,
+          "count": 79,
           "events": [
+            {
+              "id": "capital:1185419",
+              "fid": "1185419",
+              "interval": "this_week",
+              "date": "2026-11-25",
+              "time": "00:00",
+              "datetime": "2026-11-25 00:00:00",
+              "display_time": "11/25 00:00",
+              "country": "中國",
+              "title": "中國10月本年迄今全國發電裝機容量(萬千瓦)",
+              "importance": 2,
+              "previous": "413214",
+              "forecast": "--",
+              "actual": "416093",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185419",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "10/26",
+                  "actual": "413214",
+                  "forecast": "-",
+                  "previous": "410302"
+                },
+                {
+                  "date": "09/24",
+                  "actual": "410302",
+                  "forecast": "-",
+                  "previous": "407820"
+                },
+                {
+                  "date": "08/25",
+                  "actual": "407820",
+                  "forecast": "-",
+                  "previous": "404252"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "404252",
+                  "forecast": "-",
+                  "previous": "400745"
+                },
+                {
+                  "date": "06/25",
+                  "actual": "400745",
+                  "forecast": "-",
+                  "previous": "398547"
+                },
+                {
+                  "date": "04/23",
+                  "actual": "396483",
+                  "forecast": "-",
+                  "previous": "394803"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-25 12:03:32"
+            },
+            {
+              "id": "capital:1185418",
+              "fid": "1185418",
+              "interval": "this_week",
+              "date": "2026-11-25",
+              "time": "00:00",
+              "datetime": "2026-11-25 00:00:00",
+              "display_time": "11/25 00:00",
+              "country": "中國",
+              "title": "中國10月本年迄今全國發電裝機容量年率",
+              "importance": 2,
+              "previous": "11.2 %",
+              "forecast": "-- %",
+              "actual": "10.9 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185418",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "10/26",
+                  "actual": "11.2",
+                  "forecast": "-",
+                  "previous": "11.1"
+                },
+                {
+                  "date": "09/24",
+                  "actual": "11.1",
+                  "forecast": "-",
+                  "previous": "11"
+                },
+                {
+                  "date": "08/25",
+                  "actual": "11",
+                  "forecast": "-",
+                  "previous": "10.8"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "10.8",
+                  "forecast": "-",
+                  "previous": "11"
+                },
+                {
+                  "date": "06/25",
+                  "actual": "11",
+                  "forecast": "-",
+                  "previous": "14.2"
+                },
+                {
+                  "date": "04/23",
+                  "actual": "15.5",
+                  "forecast": "-",
+                  "previous": "15.9"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-25 12:03:32"
+            },
             {
               "id": "capital:1189760",
               "fid": "1189760",
@@ -4688,9 +4804,9 @@
               "title": "美國至11月20日當週API原油庫存(萬桶)",
               "importance": 2,
               "previous": "527.8",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "90",
+              "actual": "12.6",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190552",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -4747,8 +4863,8 @@
               "importance": 1,
               "previous": "-17.8",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "10.1",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190557",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -4805,8 +4921,8 @@
               "importance": 1,
               "previous": "-27.3",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "-9",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190556",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -4863,8 +4979,8 @@
               "importance": 1,
               "previous": "-169.1",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "-66.6",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190555",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -4921,8 +5037,8 @@
               "importance": 1,
               "previous": "14.7",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "-5.5",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190558",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -4979,8 +5095,8 @@
               "importance": 1,
               "previous": "5.1",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "43.6",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190559",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -5036,9 +5152,9 @@
               "title": "美國至11月20日當週API汽油庫存(萬桶)",
               "importance": 1,
               "previous": "512.2",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "183.3",
+              "actual": "-4.7",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190553",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -5094,9 +5210,9 @@
               "title": "美國至11月20日當週API精煉油庫存(萬桶)",
               "importance": 1,
               "previous": "35.1",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "135.7",
+              "actual": "164.7",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190554",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -5153,7 +5269,7 @@
               "importance": 1,
               "previous": "3.7 %",
               "forecast": "3.6 %",
-              "actual": "-- %",
+              "actual": "4.2 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179193",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -5211,7 +5327,7 @@
               "importance": 1,
               "previous": "0.3 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "1.1 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189924",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -5269,7 +5385,7 @@
               "importance": 1,
               "previous": "4.4 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "4.9 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190817",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -5327,7 +5443,7 @@
               "importance": 1,
               "previous": "0.6 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "0.7 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190816",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -5384,8 +5500,8 @@
               "title": "澳大利亞10月未季調CPI年率",
               "importance": 2,
               "previous": "4.3 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "4.7 %",
+              "actual": "4.9 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189765",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -5442,8 +5558,8 @@
               "title": "澳大利亞10月未季調CPI月率",
               "importance": 1,
               "previous": "0.8 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "0.4 %",
+              "actual": "0.5 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190815",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -5500,8 +5616,8 @@
               "title": "澳大利亞第三季度營建完工季率",
               "importance": 1,
               "previous": "-2.1 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "0.7 %",
+              "actual": "0.9 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179194",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -5559,7 +5675,7 @@
               "importance": 1,
               "previous": "2.7 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "5.8 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179908",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -31098,6 +31214,122 @@
       "history_checked_at": "2026-11-15 03:33:38"
     },
     {
+      "id": "capital:1185419",
+      "fid": "1185419",
+      "interval": "this_week",
+      "date": "2026-11-25",
+      "time": "00:00",
+      "datetime": "2026-11-25 00:00:00",
+      "display_time": "11/25 00:00",
+      "country": "中國",
+      "title": "中國10月本年迄今全國發電裝機容量(萬千瓦)",
+      "importance": 2,
+      "previous": "413214",
+      "forecast": "--",
+      "actual": "416093",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185419",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "10/26",
+          "actual": "413214",
+          "forecast": "-",
+          "previous": "410302"
+        },
+        {
+          "date": "09/24",
+          "actual": "410302",
+          "forecast": "-",
+          "previous": "407820"
+        },
+        {
+          "date": "08/25",
+          "actual": "407820",
+          "forecast": "-",
+          "previous": "404252"
+        },
+        {
+          "date": "07/22",
+          "actual": "404252",
+          "forecast": "-",
+          "previous": "400745"
+        },
+        {
+          "date": "06/25",
+          "actual": "400745",
+          "forecast": "-",
+          "previous": "398547"
+        },
+        {
+          "date": "04/23",
+          "actual": "396483",
+          "forecast": "-",
+          "previous": "394803"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-25 12:03:32"
+    },
+    {
+      "id": "capital:1185418",
+      "fid": "1185418",
+      "interval": "this_week",
+      "date": "2026-11-25",
+      "time": "00:00",
+      "datetime": "2026-11-25 00:00:00",
+      "display_time": "11/25 00:00",
+      "country": "中國",
+      "title": "中國10月本年迄今全國發電裝機容量年率",
+      "importance": 2,
+      "previous": "11.2 %",
+      "forecast": "-- %",
+      "actual": "10.9 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185418",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "10/26",
+          "actual": "11.2",
+          "forecast": "-",
+          "previous": "11.1"
+        },
+        {
+          "date": "09/24",
+          "actual": "11.1",
+          "forecast": "-",
+          "previous": "11"
+        },
+        {
+          "date": "08/25",
+          "actual": "11",
+          "forecast": "-",
+          "previous": "10.8"
+        },
+        {
+          "date": "07/22",
+          "actual": "10.8",
+          "forecast": "-",
+          "previous": "11"
+        },
+        {
+          "date": "06/25",
+          "actual": "11",
+          "forecast": "-",
+          "previous": "14.2"
+        },
+        {
+          "date": "04/23",
+          "actual": "15.5",
+          "forecast": "-",
+          "previous": "15.9"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-25 12:03:32"
+    },
+    {
       "id": "capital:1189760",
       "fid": "1189760",
       "interval": "this_week",
@@ -31631,9 +31863,9 @@
       "title": "美國至11月20日當週API原油庫存(萬桶)",
       "importance": 2,
       "previous": "527.8",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "90",
+      "actual": "12.6",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190552",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -31690,8 +31922,8 @@
       "importance": 1,
       "previous": "-17.8",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "10.1",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190557",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -31748,8 +31980,8 @@
       "importance": 1,
       "previous": "-27.3",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "-9",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190556",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -31806,8 +32038,8 @@
       "importance": 1,
       "previous": "-169.1",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "-66.6",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190555",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -31864,8 +32096,8 @@
       "importance": 1,
       "previous": "14.7",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "-5.5",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190558",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -31922,8 +32154,8 @@
       "importance": 1,
       "previous": "5.1",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "43.6",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190559",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -31979,9 +32211,9 @@
       "title": "美國至11月20日當週API汽油庫存(萬桶)",
       "importance": 1,
       "previous": "512.2",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "183.3",
+      "actual": "-4.7",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190553",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -32037,9 +32269,9 @@
       "title": "美國至11月20日當週API精煉油庫存(萬桶)",
       "importance": 1,
       "previous": "35.1",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "135.7",
+      "actual": "164.7",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190554",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -32096,7 +32328,7 @@
       "importance": 1,
       "previous": "3.7 %",
       "forecast": "3.6 %",
-      "actual": "-- %",
+      "actual": "4.2 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179193",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -32154,7 +32386,7 @@
       "importance": 1,
       "previous": "0.3 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "1.1 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189924",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -32212,7 +32444,7 @@
       "importance": 1,
       "previous": "4.4 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "4.9 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190817",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -32270,7 +32502,7 @@
       "importance": 1,
       "previous": "0.6 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "0.7 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190816",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -32327,8 +32559,8 @@
       "title": "澳大利亞10月未季調CPI年率",
       "importance": 2,
       "previous": "4.3 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "4.7 %",
+      "actual": "4.9 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189765",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -32385,8 +32617,8 @@
       "title": "澳大利亞10月未季調CPI月率",
       "importance": 1,
       "previous": "0.8 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "0.4 %",
+      "actual": "0.5 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1190815",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -32443,8 +32675,8 @@
       "title": "澳大利亞第三季度營建完工季率",
       "importance": 1,
       "previous": "-2.1 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "0.7 %",
+      "actual": "0.9 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179194",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -32502,7 +32734,7 @@
       "importance": 1,
       "previous": "2.7 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "5.8 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179908",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
