@@ -1,7 +1,93 @@
 {
   "date": "2026-11-26",
-  "count": 693,
+  "count": 703,
   "items": [
+    {
+      "id": "mkt:01a2163a-4efd-7bbc-ad00-b55cc71a861f",
+      "time": "2026-11-26 13:00:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's September final leading economic index was 116.5, versus 116.4 previously."
+    },
+    {
+      "id": "mkt:01a2163a-402f-7bbc-ad00-a86e1732279a",
+      "time": "2026-11-26 13:00:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Leading Index Final (Sep) | actual 116.5 | previous 116.4"
+    },
+    {
+      "id": "mkt:01a2163a-06ea-7bbc-ad00-a4c50958d8eb",
+      "time": "2026-11-26 13:00:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore's seasonally adjusted industrial production rose 7.1% MoM in October, versus expectations of 5.5% and a prior 3.9% decline."
+    },
+    {
+      "id": "mkt:01a21639-f69f-7bbc-ad00-9c542e740707",
+      "time": "2026-11-26 13:00:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | Industrial Production Index SA (MoM) (Oct) | actual 7.1% | consensus 5.50% | previous -3.90%"
+    },
+    {
+      "id": "mkt:01a21639-e5a9-7bbc-ad00-9160870fe857",
+      "time": "2026-11-26 13:00:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore October industrial production rose 6.1% YoY, versus expectations of 2.2% and a prior 3.4%."
+    },
+    {
+      "id": "5239903",
+      "time": "2026-11-26 13:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本9月同步指標終值 119.5，初值 119.5。日本9月領先指標終值 116.5，初值 116.4。"
+    },
+    {
+      "id": "mkt:01a21639-d527-7bbc-ad00-8f50f91ed166",
+      "time": "2026-11-26 13:00:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | Industrial Production (YoY) (Oct) | actual 6.1% | consensus 2.2% | previous 3.40%"
+    },
+    {
+      "id": "5239902",
+      "time": "2026-11-26 12:59:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果民主共和國政府資料顯示，該國確診的埃博拉病例已超過12000例。"
+    },
+    {
+      "id": "5239901",
+      "time": "2026-11-26 12:57:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【提早降低AI敞口轉向防禦股 Jupiter旗下亞洲基金跑贏89%的同類基金】Jupiter Asset Management旗下的一隻亞洲基金今年以來表現優於89%的同類基金。該基金聯席經理Sam Konrad表示，在AI交易今年夏季開始動搖之前，基金就轉向了防禦型股票。規模36億美元的Jupiter Asian Income Fund今年迄今回報接近25%，過去五年業績則超過所有同類基金。"
+    },
+    {
+      "id": "5239900",
+      "time": "2026-11-26 12:57:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伊拉克最高法院：中央政府有權在庫爾德自治區邊境部署部隊 】伊拉克最高法院25日裁定，中央政府有權在所有邊境沿線部署部隊，包括庫爾德自治區（庫區）管轄範圍內的邊境地帶。這一裁決為總理阿里·扎伊迪強化中央管控的舉措提供司法支援。據伊拉克國家電視臺報道，伊拉克最高法院在裁決中說，中央政府擁有權力“部署、指揮聯邦武裝力量，並採取必要措施，保障伊拉克同鄰國之間全部邊境安全，包括庫區管轄範圍內的邊境”；中央政府有權管控所有邊境口岸，包括庫區口岸，但相關管理事宜必須與地方、省級政府協同推進。裁決說，伊拉克石油部擁有“憲法及法定權力”，監管石油與天然氣“生產、開採、銷售及出口相關業務與合同”；中央政府應與地方政府及產油省份共同負責油氣開採管理工作。（新華社）"
+    },
     {
       "id": "5239899",
       "time": "2026-11-26 12:56:13",
