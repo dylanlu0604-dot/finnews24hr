@@ -1,7 +1,84 @@
 {
   "date": "2026-11-26",
-  "count": 835,
+  "count": 844,
   "items": [
+    {
+      "id": "mkt:01a21665-ea5c-7bbc-ad02-20aae707a655",
+      "time": "2026-11-26 13:48:27",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "Dow",
+        "S&P500"
+      ],
+      "text": "Nasdaq futures rise 1%, Dow futures gain 0.4% and S&P 500 futures climb 0.7%."
+    },
+    {
+      "id": "mkt:01a21665-d1af-7bbc-ad02-1a10c5f4004b",
+      "time": "2026-11-26 13:48:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yangtze River Delta G60 Science and Technology Innovation Corridor releases first batch of jointly established industrial innovation centers】Shanghai’s Songjiang district hosted a conference on Nov. 26 to connect resources for the G60 Science and Technology Innovation Corridor’s industrial innovation centers and support development of the Shanghai (Yangtze River Delta) international science and technology innovation center. The first batch of jointly established centers was announced, with projects launched in technology commercialization, talent development, industrial cooperation and technology finance. The list includes the G60 Songjiang-Zhong’an Science and Technology Innovation Park, the Yangtze River Delta G60 Nanxun (Songjiang) Industrial Innovation Center and the Shangrao (Songjiang) Science and Technology Innovation Center."
+    },
+    {
+      "id": "5239996",
+      "time": "2026-11-26 13:47:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長三角G60科創走廊首批產業協同創新中心共建名單釋出】G60科創走廊產業協同創新中心服務上海（長三角）國際科創中心建設要素對接大會11月26日在上海松江舉行。會上，首批G60科創走廊產業協同創新中心共建名單正式釋出，一批涉及科技成果轉化、人才培養、產業協同和科技金融的合作專案正式落地。G60松江·中安科創園、長三角G60科創走廊南潯（松江）產業協同創新中心、上饒（松江）科創中心等在名單中。"
+    },
+    {
+      "id": "5239995",
+      "time": "2026-11-26 13:46:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度最高法院裁定，食品監管機構在決定標籤時應重新審視每種關注營養素的閾值。"
+    },
+    {
+      "id": "5239994",
+      "time": "2026-11-26 13:46:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度2026-27年度甘蔗產量預計為4.5434億噸。"
+    },
+    {
+      "id": "5239993",
+      "time": "2026-11-26 13:46:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期國債期貨主力合約翻紅，早盤一度下滑0.47%。銀行“二永債”收益率早盤普遍大幅上行，午後則紛紛轉為下行。"
+    },
+    {
+      "id": "5239992",
+      "time": "2026-11-26 13:45:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【化工板塊再度拉昇 赤天化2連板】午後化工板塊再度拉昇，赤天化走出2連板，此前金三江、善水科技、瀘天化、金正大、金牛化工等多股漲停，迪爾化工、中毅達、川金諾、潞化科技等跟漲。"
+    },
+    {
+      "id": "5239991",
+      "time": "2026-11-26 13:45:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷軍到訪新浪總部】11月26日，雷軍發文：今天上午到新浪總部參觀，非常感慨，我在微博上和大家交流，一轉眼已經十幾年。感謝@來去之間 來總熱情接待！來總還特意到澎程N70超大二排試坐了一下，他感覺比N90二排還大。微博同學們特別熱情，謝謝大家！"
+    },
+    {
+      "id": "mkt:01a21663-1d59-7bbc-ad02-12a0cc78fa87",
+      "time": "2026-11-26 13:45:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India's NSE becomes world's third-largest listed exchange】The NSE's market capitalization rose to 5.89 trillion rupees ($63.86 billion), surpassing Deutsche Börse and London Stock Exchange Group, according to media reports. Shares have gained 33.3% this month as Indian stocks rebounded. The Nifty 50 is up 12.6% so far in November, on track for its best monthly performance since April 2020. The NSE now trails only CME Group and Intercontinental Exchange by market capitalization."
+    },
     {
       "id": "5239990",
       "time": "2026-11-26 13:43:37",
