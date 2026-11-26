@@ -1,7 +1,49 @@
 {
-  "updated": "2026-11-26 13:52:53",
-  "count": 8544,
+  "updated": "2026-11-26 13:56:41",
+  "count": 8549,
   "items": [
+    {
+      "id": "5240003",
+      "time": "2026-11-26 13:55:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量106億元。"
+    },
+    {
+      "id": "mkt:01a2166c-2c21-7bbc-ad02-39d4de7a4f3b",
+      "time": "2026-11-26 13:55:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wang Xingxing sees China robot output potentially surpassing cars in 5-10 years, topping 20 mln units annually】Unitree Robotics founder and Chairman Wang Xingxing said at the WISE 2026 conference in Beijing on Nov. 26 that China’s robot output could surpass car production within five to 10 years, exceeding 20 mln units annually."
+    },
+    {
+      "id": "mkt:01a2166c-26ff-7bbc-ad02-3591729ef801",
+      "time": "2026-11-26 13:55:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand aims to negotiate U.S. tariffs below 18%, commerce minister says."
+    },
+    {
+      "id": "5240002",
+      "time": "2026-11-26 13:54:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達110億港元。"
+    },
+    {
+      "id": "5240001",
+      "time": "2026-11-26 13:53:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國商務部長：目標是將美國關稅稅率談判至18%以下。"
+    },
     {
       "id": "5240000",
       "time": "2026-11-26 13:52:11",
