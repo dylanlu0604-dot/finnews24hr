@@ -1,7 +1,131 @@
 {
-  "updated": "2026-11-26 13:01:21",
-  "count": 8398,
+  "updated": "2026-11-26 13:05:12",
+  "count": 8412,
   "items": [
+    {
+      "id": "5239910",
+      "time": "2026-11-26 13:04:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "據英國金融時報：英偉達通知合作伙伴停止向東南亞出貨伺服器。"
+    },
+    {
+      "id": "5239909",
+      "time": "2026-11-26 13:04:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國計劃對加密貨幣去中心化金融（DeFi）領域實施嚴格監管。"
+    },
+    {
+      "id": "5239908",
+      "time": "2026-11-26 13:03:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美批准馬斯克旗下公司部署百萬衛星 建太空資料中心】美國聯邦通訊委員會25日宣佈，已批准埃隆·馬斯克旗下太空探索技術公司部署由最多100萬顆衛星組成的星座，用於搭建太空資料中心。這是美國首次頒發太空資料中心星座專案許可。太空探索技術公司此前提交申請，希望獲准部署最多100萬個“在軌計算模組”，處理供地球使用的海量資料。美國聯邦通訊委員會表示，此次批准太空探索技術公司的“星智”衛星星座，旨在滿足人工智慧算力快速增長的需求。美國聯邦通訊委員會要求，太空探索技術公司須在2033年11月25日前部署至少一顆衛星；2035年11月25日前完成最大總量10%的衛星部署，即10萬顆；到2038年11月25日前完成半數部署；到2040年11月25日前完成全部衛星部署。"
+    },
+    {
+      "id": "mkt:01a2163c-2149-7bbc-ad00-eceea195b01b",
+      "time": "2026-11-26 13:02:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China’s A-share reducer stocks rallied sharply, with Xiangyang Bearing and Fuda Co. hitting the 10% daily limit. Jinyang Precision rose more than 15% and Yuxin Electronics gained over 10%; Henghe Precision, Jindi Corp., Guangyang, Meilixin and Wantong Hydraulic also advanced."
+    },
+    {
+      "id": "5239907",
+      "time": "2026-11-26 13:02:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【減速器板塊短線拉昇，福達股份漲停】減速器板塊短線拉昇，襄陽軸承、福達股份漲停，金楊精密漲超15%，瑜欣電子漲超10%，橫河精密、金帝股份、光洋股份、美利信、萬通液壓跟漲。"
+    },
+    {
+      "id": "5239906",
+      "time": "2026-11-26 13:02:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "據英國金融時報，沙烏地阿拉伯準備推遲其旗艦礦業會議。"
+    },
+    {
+      "id": "5239905",
+      "time": "2026-11-26 13:01:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "據英國《金融時報》，英偉達暫停向東南亞地區出貨晶片。"
+    },
+    {
+      "id": "mkt:01a2163a-c5c5-7bbc-ad00-e5cf66c53002",
+      "time": "2026-11-26 13:01:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's September coincident index rose 0.7% MoM, unchanged from the previous reading."
+    },
+    {
+      "id": "mkt:01a2163a-b75e-7bbc-ad00-de77a06adc0e",
+      "time": "2026-11-26 13:01:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Coincident Index Final (MoM) (Sep) | actual 0.7% | previous 0.7%"
+    },
+    {
+      "id": "mkt:01a2163a-ab39-7bbc-ad00-d600f7f9ceb8",
+      "time": "2026-11-26 13:01:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's September coincident index was finalized at 119.5, unchanged from the previous reading."
+    },
+    {
+      "id": "mkt:01a2163a-9bf0-7bbc-ad00-cad208e5ca62",
+      "time": "2026-11-26 13:01:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Coincident Index Final (Sep) | actual 119.5 | previous 119.5"
+    },
+    {
+      "id": "mkt:01a2163a-8710-7bbc-ad00-c21e4c1a87a9",
+      "time": "2026-11-26 13:01:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan's September final leading index fell 1.5% MoM, versus a previous 1.6% decline."
+    },
+    {
+      "id": "mkt:01a2163a-77bf-7bbc-ad00-bab5e549a9a6",
+      "time": "2026-11-26 13:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Leading Index Final (MoM) (Sep) | actual -1.5% | previous -1.6%"
+    },
     {
       "id": "mkt:01a2163a-4efd-7bbc-ad00-b55cc71a861f",
       "time": "2026-11-26 13:00:49",
@@ -19,6 +143,14 @@
         "Important"
       ],
       "text": "Japan | Leading Index Final (Sep) | actual 116.5 | previous 116.4"
+    },
+    {
+      "id": "5239904",
+      "time": "2026-11-26 13:00:44",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【全國心理健康和精神衛生“十五五”規劃印發】國家衛生健康委、中央社會工作部、中央政法委、中央網信辦、國家發展改革委、教育部、公安部、民政部、司法部、財政部、人力資源社會保障部、應急管理部、國務院國資委、廣電總局、國家醫保局、國家中醫藥局、國家疾控局、國家藥監局、全國總工會、共青團中央、全國婦聯、中國殘聯、全國工商聯聯合印發《全國心理健康和精神衛生“十五五”規劃》，為貫徹落實《中華人民共和國精神衛生法》和《“健康中國2030”規劃綱要》《中華人民共和國國民經濟和社會發展第十五個五年規劃綱要》《國民健康“十五五”規劃》要求，推動心理健康和精神衛生工作高質量發展，請各省、自治區、直轄市及新疆生產建設兵團相關單位和部門認真組織實施。（新華社）"
     },
     {
       "id": "mkt:01a2163a-06ea-7bbc-ad00-a4c50958d8eb",
