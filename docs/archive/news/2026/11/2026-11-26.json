@@ -1,7 +1,107 @@
 {
   "date": "2026-11-26",
-  "count": 751,
+  "count": 762,
   "items": [
+    {
+      "id": "mkt:01a2164f-fffd-7bbc-ad01-722b2e4cec00",
+      "time": "2026-11-26 13:24:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xiong'an satellite AIT center begins operations, aiming to cut costs and speed development】The Beijing-Tianjin-Hebei region's first shared satellite assembly, integration and testing (AIT) center, in Xiong'an New Area, has begun operations after completing whole-satellite testing. The center offers commercial aerospace companies services from satellite prototyping through pre-launch testing, allowing them to share equipment and technical resources to lower R&D costs and accelerate development. It has begun whole-satellite testing assignments."
+    },
+    {
+      "id": "5239937",
+      "time": "2026-11-26 13:24:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【降低成本、提高研製效率 雄安衛星AIT中心正式投入執行】記者今天（11月26日）從雄安新區瞭解到，經過一段時間的整星測試，京津冀首個衛星AIT共享中心——雄安衛星AIT中心，也就是“衛星總裝、整合與測試中心”正式投入執行。雄安衛星AIT（總裝、整合與測試）中心位於雄安高新區科創中心中試基地，由衛星柔性產線和測試中心組成，可為商業航天企業提供從衛星研發試製到發射前測試的一站式技術服務，讓企業共享專業裝置和技術資源，降低研發成本，提高研製效率。目前，中心已啟動整星測試任務。"
+    },
+    {
+      "id": "mkt:01a2164f-8c3c-7bbc-ad01-6ebab6ba8748",
+      "time": "2026-11-26 13:24:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan board member Naoki Tamura: Monetary policy that eases inflationary pressure will support consumption."
+    },
+    {
+      "id": "5239936",
+      "time": "2026-11-26 13:22:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：如果家庭和企業的通脹預期進一步升溫，可能成為加快加息步伐的理由。"
+    },
+    {
+      "id": "5239935",
+      "time": "2026-11-26 13:22:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：可能存在這樣的情況，即我們能在3個月內評估加息的影響。"
+    },
+    {
+      "id": "mkt:01a2164d-5812-7bbc-ad01-62c8eb02cb5b",
+      "time": "2026-11-26 13:21:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Kailong High-Tech subsidiary wins humanoid robot hand-testing equipment project】Kailong High-Tech said its subsidiary, Wuxi Kaiqi Embodied Intelligence Robot Technology, won a contract from Zhejiang Humanoid Robot for desktop dexterous-hand testing equipment, supplying mechanical and durability testing systems."
+    },
+    {
+      "id": "mkt:01a2164d-17a0-7bbc-ad01-5aa93992ce6d",
+      "time": "2026-11-26 13:21:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia’s S&P/ASX 200 rose 74.80 points, or 0.86%, to 8,767.20 at the close on Nov. 26 (Thursday)."
+    },
+    {
+      "id": "mkt:01a2164d-07b9-7bbc-ad01-529116371512",
+      "time": "2026-11-26 13:21:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea's Lee urges faster rollout of seven SEED projects to drive growth】South Korea's Lee said on Thursday the government should accelerate seven priority SEED projects to develop new growth engines. Unveiled earlier this year, the projects cover small modular reactors, nuclear fusion, renewable energy, quantum technology, aerospace, advanced biotechnology and critical mineral supply chains."
+    },
+    {
+      "id": "5239934",
+      "time": "2026-11-26 13:21:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "算力晶片概念震盪反彈，旋極資訊20cm漲停，大勝達回封漲停，品高股份、寒武紀、雲天勵飛、東芯股份、沐曦股份等漲幅靠前。"
+    },
+    {
+      "id": "5239933",
+      "time": "2026-11-26 13:21:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱龍高科：中標人形機器人桌面級靈巧手檢測裝置專案】據凱龍高科訊息，近日，凱龍高科旗下子公司無錫市凱奇具身智慧機器人科技有限公司中標浙江人形機器人股份有限公司桌面級靈巧手檢測裝置專案，將為其提供靈巧手力學測試裝置與靈巧手耐久測試裝置兩臺核心檢測裝備。"
+    },
+    {
+      "id": "mkt:01a2164c-3457-7bbc-ad01-4d6d359e9277",
+      "time": "2026-11-26 13:20:22",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "BOJ policy board member Naoki Tamura sees Japan’s neutral interest rate at around 2%."
+    },
     {
       "id": "mkt:01a2164c-0c7c-7bbc-ad01-40fae6e371a1",
       "time": "2026-11-26 13:20:12",
