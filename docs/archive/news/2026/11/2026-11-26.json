@@ -1,7 +1,88 @@
 {
   "date": "2026-11-26",
-  "count": 680,
+  "count": 688,
   "items": [
+    {
+      "id": "mkt:01a21631-ee3c-7bbc-ad00-778549eed5d7",
+      "time": "2026-11-26 12:51:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's 2-year government bond yield rose 4 bps to 1.76%."
+    },
+    {
+      "id": "5239895",
+      "time": "2026-11-26 12:51:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率上升4個基點，至1.76%。"
+    },
+    {
+      "id": "mkt:01a21631-495c-7bbc-ad00-68ef625c0f55",
+      "time": "2026-11-26 12:50:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Emerging Markets",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【Hong Kong task force has helped more than 360 mainland firms establish or expand operations】Hong Kong Chief Executive John Lee said the government’s task force supporting mainland companies going global has helped more than 360 firms establish or expand operations in Hong Kong. A June visit to Central Asia led by Lee, including more than 30 mainland business representatives, secured 96 cooperation agreements and memorandums worth more than $1.65 billion, opening opportunities in emerging markets."
+    },
+    {
+      "id": "5239894",
+      "time": "2026-11-26 12:50:32",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【有飲料可以不標生產日期？市場監管總局回應】近日，有消費者發現，部分可口可樂瓶身僅標註保質期到期日，未標註生產日期，因而對產品標籤標註方式提出疑問。為什麼現在有的食品只標保質期到期日、不標生產日期？市場監管總局食品生產經營司回應：這並非企業在標籤上遺漏資訊，而是提前執行新的食品安全國家標準。即將於2027年3月16日實施的《食品安全國家標準 預包裝食品標籤通則》（GB 7718—2025）規定：預包裝食品應按照年、月、日的順序清晰標示生產日期和保質期到期日；保質期6個月及以上的，可僅標示保質期和保質期到期日。在標準正式實施前，企業可提前執行。"
+    },
+    {
+      "id": "5239893",
+      "time": "2026-11-26 12:49:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李家超：香港出海專班已助超360家內地企業在港設立或擴充套件業務】香港特區行政長官李家超今日（26日）在2026粵港澳大灣區服務貿易大會（廣州）開幕式暨“AI+”服務貿易專題對接活動上以視像致辭表示，特區政府設立的內地企業出海專班成立以來，已協助超過360家內地企業在香港設立或擴充套件業務。今年6月，李家超率團訪問中亞，當中包括30多名內地企業代表，促成96份合作協議和備忘錄，涉及金額超過16.5億美元，為企業在新興市場開拓更多機遇，建立更廣更深的合作網路。 李家超指出，展望未來，香港會繼續發揮“一國兩制”下背靠祖國、聯通世界的獨特優勢，與大灣區內其他城市攜手並進、優勢互補，共同為國家高水平對外開放作出更大貢獻。"
+    },
+    {
+      "id": "mkt:01a21630-2195-7bbc-ad00-67f19f356f36",
+      "time": "2026-11-26 12:49:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan protests U.S. plan for 15% tariffs, denies excess capacity】Japan protested the U.S. plan to impose 15% tariffs on Japanese imports over alleged manufacturing overcapacity, saying it has no non-market policies or practices and no structural excess capacity. Chief Cabinet Secretary Minoru Kihara called the move regrettable. Washington said Wednesday it could raise the rate to 20%. The proposed tariffs and potential increase are consistent with terms of last year’s U.S.-Japan investment deal, which set a 15% tariff on Japanese goods and a lower rate for autos. Japan agreed to a $550 bln investment program in the United States."
+    },
+    {
+      "id": "5239892",
+      "time": "2026-11-26 12:49:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國前總統尹錫悅涉嫌作偽證案終審被判無罪 】據韓聯社訊息，26日，韓國前總統尹錫悅涉嫌在前國務總理韓德洙涉內亂案件庭審中作偽證一案終審被判無罪。韓國大法院（最高法院）當天駁回了內亂特檢組針對尹錫悅涉嫌作偽證案提出的抗訴，維持二審無罪判決。特檢組去年12月以偽證罪起訴尹錫悅。今年5月，尹錫悅在該案一審中被判無罪。9月，韓國首爾高等法院在二審判決中維持無罪判決。"
+    },
+    {
+      "id": "5239891",
+      "time": "2026-11-26 12:49:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "現代中藥集團(01643)釋出公告，公司股份已於2026年11月26日上午11時18分起短暫停止買賣。"
+    },
     {
       "id": "mkt:01a2162e-3830-7bbc-ad00-5839e094907e",
       "time": "2026-11-26 12:47:37",
