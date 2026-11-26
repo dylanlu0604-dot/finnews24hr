@@ -1,7 +1,169 @@
 {
   "date": "2026-11-26",
-  "count": 777,
+  "count": 795,
   "items": [
+    {
+      "id": "mkt:01a2165a-9af5-7bbc-ad01-c63ee25b8b9e",
+      "time": "2026-11-26 13:36:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "A Bank of Korea official said the current account surplus trend suggests the won could strengthen further."
+    },
+    {
+      "id": "5239959",
+      "time": "2026-11-26 13:36:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行官員：經常賬戶盈餘趨勢表明韓元可能進一步升值。"
+    },
+    {
+      "id": "mkt:01a2165a-7d04-7bbc-ad01-be6aa7fff843",
+      "time": "2026-11-26 13:35:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AI-related capital expenditure may slow, but is unlikely to cause significant damage to Japan’s economy, Bank of Japan board member Tamura says."
+    },
+    {
+      "id": "mkt:01a2165a-318f-7bbc-ad01-b2f014155ef5",
+      "time": "2026-11-26 13:35:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan's Taiex rose 956.38 points, or 2.5%, to close at 39,151.81 on Thursday, Nov. 26."
+    },
+    {
+      "id": "5239958",
+      "time": "2026-11-26 13:35:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：與人工智慧相關的資本支出可能會有所放緩，但不認為這會對日本經濟造成巨大損害。"
+    },
+    {
+      "id": "5239957",
+      "time": "2026-11-26 13:35:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲4%，現報6160.00元。"
+    },
+    {
+      "id": "5239956",
+      "time": "2026-11-26 13:35:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度2026至2027年度季風季稻米產量預計為1.2191億噸。"
+    },
+    {
+      "id": "5239955",
+      "time": "2026-11-26 13:34:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報42.24美元/盎司。"
+    },
+    {
+      "id": "mkt:01a21659-77c9-7bbc-ad01-ad357578094d",
+      "time": "2026-11-26 13:34:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan board member Tamura expects global AI demand to remain strong."
+    },
+    {
+      "id": "5239954",
+      "time": "2026-11-26 13:34:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內漲5%，現報210.20元。"
+    },
+    {
+      "id": "5239953",
+      "time": "2026-11-26 13:34:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲4%，現報8930.00元。"
+    },
+    {
+      "id": "5239952",
+      "time": "2026-11-26 13:33:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權指數收盤上漲2.5%報39,151.81點。"
+    },
+    {
+      "id": "5239951",
+      "time": "2026-11-26 13:33:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內漲5%，現報8293.00元。"
+    },
+    {
+      "id": "mkt:01a21657-ed16-7bbc-ad01-a61a8c70067b",
+      "time": "2026-11-26 13:33:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Zhengzhou residential land sells at 32.69% premium】A residential plot in Zhengzhou with planned gross floor area of 67,255 square meters sold for 544 million yuan, against a starting price of 410 million yuan. Private developer Tailong Real Estate won the plot, with a floor price of 8,087 yuan per square meter."
+    },
+    {
+      "id": "5239950",
+      "time": "2026-11-26 13:33:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "短纖連續主力合約日內漲4%，現報7868.00元。"
+    },
+    {
+      "id": "5239949",
+      "time": "2026-11-26 13:32:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鄭州1宗宅地溢價超32%成交】11月26日，鄭州出讓1宗住宅用地，規劃建築面積67254.52平方米，起始價4.1億元。該地塊吸引了多家房企參拍，最終民企臺隆地產以5.44億元競得該地塊，成交樓面價8087元/平方米，溢價率32.69%。"
+    },
+    {
+      "id": "5239948",
+      "time": "2026-11-26 13:32:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度農業和農民福利部部長：印度2025-26年度糧食產量為3.7853億噸。"
+    },
+    {
+      "id": "5239947",
+      "time": "2026-11-26 13:32:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瓶片連續主力合約日內漲4%，現報7814.00元。"
+    },
     {
       "id": "5239946",
       "time": "2026-11-26 13:31:37",
