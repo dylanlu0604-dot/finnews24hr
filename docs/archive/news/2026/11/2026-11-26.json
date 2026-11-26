@@ -1,7 +1,50 @@
 {
   "date": "2026-11-26",
-  "count": 688,
+  "count": 693,
   "items": [
+    {
+      "id": "5239899",
+      "time": "2026-11-26 12:56:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Canaccord Genuity 將 美國稀土公司 目標價從 32 美元下調至 10 美元。"
+    },
+    {
+      "id": "mkt:01a21634-a57a-7bbc-ad00-8312c48911b2",
+      "time": "2026-11-26 12:54:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Australian business inflation expectations rise to 4.19%, above RBA target】Australian businesses expect inflation to remain well above the Reserve Bank of Australia’s 2%-3% target over the next 12 months, despite five rate hikes this year. The CBA-Macquarie University Business Outlook survey showed the one-year inflation expectations index rising to 4.19% in November from 3.99% in October. The five-to-10-year measure also increased, to 3.86%. The report said rising expectations would keep the RBA highly vigilant as it considers its final policy decision of 2026 and the outlook for next year. The RBA raised its benchmark rate earlier this month to 4.85%, an 18-year high, to curb inflation. The survey highlights officials’ concern that CPI expectations are drifting away from the target range."
+    },
+    {
+      "id": "5239898",
+      "time": "2026-11-26 12:54:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【推動風險管理關口前移，稅務總局探索合規申報輔導新機制】今年以來，國家稅務總局探索構建覆蓋申報前、申報中、申報後全鏈條的合規申報輔導新機制，推動風險管理關口前移，從事後追責糾錯轉向事前預防。資料顯示，今年10月，全國企業納稅人在申報期內自主申報率達93.9%，越來越多經營主體主動合規申報、誠信納稅。（澎湃）"
+    },
+    {
+      "id": "mkt:01a21633-c65b-7bbc-ad00-7a085361c88b",
+      "time": "2026-11-26 12:53:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Can beverages omit production dates? China’s market regulator responds】China’s State Administration for Market Regulation said some companies are already implementing a food-labeling standard due to take effect on March 16, 2027. It requires prepackaged foods to clearly show production and expiry dates in year-month-day order, but allows products with a shelf life of at least six months to show only the shelf life and expiry date. Companies may adopt the standard early. The response followed consumer questions about Coca-Cola bottles that list only an expiry date."
+    },
+    {
+      "id": "5239896",
+      "time": "2026-11-26 12:53:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德邦證券：物理AI從獨立硬體到通用平臺 建議關注頭部本體廠商】德邦證券釋出研報稱，當前三條商業化路徑並行，科研商流憑藉標準化本體與高動態運動能力率先實現穩定現金流、工業勞動力預計為中期放量核心、To C家庭遠期空間大但節奏偏慢。具備跨場景能力的通用平臺有望打通B端與C端，未來行業或分化為“iOS式軟硬一體”和“Android式開放生態”兩大陣營。建議關注具備“軟體+硬體”綜合競爭力的頭部本體廠商。"
+    },
     {
       "id": "mkt:01a21631-ee3c-7bbc-ad00-778549eed5d7",
       "time": "2026-11-26 12:51:40",
