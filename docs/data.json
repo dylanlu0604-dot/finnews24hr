@@ -1,7 +1,70 @@
 {
-  "updated": "2026-11-26 08:01:04",
-  "count": 8383,
+  "updated": "2026-11-26 08:04:44",
+  "count": 8385,
   "items": [
+    {
+      "id": "5238871",
+      "time": "2026-11-26 08:04:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數擴大漲幅至1%。"
+    },
+    {
+      "id": "5238870",
+      "time": "2026-11-26 08:03:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【化石證實丹尼索瓦人和未知古人類支系曾在廣西活動 】記者11月26日獲悉，中國科學院古脊椎動物與古人類研究所聯合廣西文物保護與考古研究所等單位，從廣西的穿山洞和龍船洞兩處遺址獲得4顆古人類牙齒，其中龍船洞古人類屬於丹尼索瓦人，穿山洞古人類屬於一種未知古人類支系，化石證實這兩種古人類都曾在廣西活動。（新華社）"
+    },
+    {
+      "id": "5238869",
+      "time": "2026-11-26 08:02:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【谷愛凌或因傷缺席雲頂站世界盃 但仍將前往崇禮 】中國自由式滑雪運動員谷愛凌25日在社交平臺透露，自己日前在奧地利訓練時不慎受傷，導致肩膀脫臼，可能無法參加即將在河北崇禮雲頂舉行的世界盃比賽。不過，據悉她仍將前往比賽地。"
+    },
+    {
+      "id": "5238868",
+      "time": "2026-11-26 08:02:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【醫保上線新功能 參保人可便捷查詢個人用藥情況 】記者11月26日從國家醫保局獲悉，依託全國統一醫保資訊平臺，“連續用藥管理”功能上線，參保人可便捷查詢個人用藥情況、購藥記錄，範圍覆蓋全國所有定點醫療機構和定點零售藥店，並支援按年度、購藥機構、購藥渠道等多維度篩選。在就醫時，參保人還可授權接診大夫檢視本人的既往用藥情況。參保人可透過國家醫保局微信公眾號、國家醫保服務平臺App、國家醫保服務平臺支付寶小程式、國家醫保服務平臺微信小程式使用此服務。"
+    },
+    {
+      "id": "5238867",
+      "time": "2026-11-26 08:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國科學家在量子精密測量領域取得新突破】我國科學家提出一種新的量子精密測量方案，實現了大規模量子態的高效製備和資訊提取，使測量精度較標準量子極限提升約9倍。這一重要成果11月26日凌晨線上發表於國際期刊《自然》。清華大學交叉資訊研究院孫麓巖教授團隊，聯合中國科學技術大學、浙江大學團隊，提出一種“Fock空間量子共焦顯微方案”。該方案借鑑光學共焦顯微鏡的原理，在Fock空間（即光子數空間）中構造了兩個“透鏡”，由此解決了一類大規模量子態的確定性製備和高效資訊提取難題。研究人員在超導量子電路中製備出平均光子數高達500的Fock空間聚焦態，成功使測量精度較標準量子極限提升約9倍。（新華社）"
+    },
+    {
+      "id": "mkt:01a21527-f011-7bbc-acfa-77b4dfe002ff",
+      "time": "2026-11-26 08:01:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei Index opened up 503.30 points, or 0.88%, at 57,514.92 on Thursday, Nov. 26."
+    },
+    {
+      "id": "mkt:01a21527-e43a-7bbc-acfa-681166239ba5",
+      "time": "2026-11-26 08:01:05",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【South Korea's KOSPI rises 1% early】South Korea's KOSPI rose 1% in early trading. Samsung Electronics gained 1%, while SK Hynix rose more than 2%."
+    },
     {
       "id": "5238866",
       "time": "2026-11-26 08:00:38",
@@ -75018,60 +75081,6 @@
         "公司"
       ],
       "text": "【瑞康醫藥：將適時開展併購，併購標的主要聚焦於中醫藥、康養、抗衰等方向】11月18日，瑞康醫藥在接待機構調研時表示，公司目前沒有確定的增發計劃。關於併購計劃，公司聚焦內生增長的同時，也將併購作為增強公司盈利能力，提升公司價值的重要途徑；公司將根據行業發展趨勢，結合業務發展需要，尋找合適的標的，適時開展併購。併購標的主要聚焦於中醫藥、康養、抗衰等方向，並對其他與公司主業有業務協同的標的保持開放研究態度。未來，如有增發、收併購等重大事項，公司將嚴格按照相關法律法規及《公司章程》的規定，及時履行內部決策程式和資訊披露義務。"
-    },
-    {
-      "id": "mkt:01a1f11e-4849-7bbc-ac55-d6dda19c5e33",
-      "time": "2026-11-19 08:04:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Fed hawkish comments lift rate-hike expectations; gold near 14-month low】Gold steadied near a 14-month low around $3,730/oz after plunging 3.2% on Wednesday to its lowest close since September 2025, as hawkish Fed comments reinforced expectations that rate hikes will continue into next year. Almost all Fed officials said in the latest meeting minutes that rates would need to rise in the coming months to bring inflation back to 2%. Fed Governor Waller said Wednesday that inf was moving in the wrong direction and urged the Fed to consider a 50-bp hike at its December meeting. Gold has fallen about 30% since the U.S.-Iran war began in late February, as higher energy costs fuel inflation and prompt central banks to tighten policy. Markets now expect three 25-bp Fed hikes by next June."
-    },
-    {
-      "id": "5223753",
-      "time": "2026-11-19 08:03:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "ANTHROPIC IPO日本部分籌得約30億美元，ANTHROPIC向日本投資者出售約3614萬股股票。"
-    },
-    {
-      "id": "5223752",
-      "time": "2026-11-19 08:02:25",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【威頓晶磷啟動上市輔導】11月19日，證監會網站披露，貴州威頓晶磷電子材料股份有限公司擬在境內首次公開發行A股股票並上市，並委託中金公司作為其上市的輔導機構。輔導備案資訊顯示，北京威頓國際貿易有限公司持有公司1,979.1149萬股股份，佔本次發行前股本總額的29.84%，為公司控股股東。據瞭解，該公司位於貴州省貴陽市白雲區新材料產業園，是專業的電子材料整合供應商，主要從事電子材料的研發、生產及銷售。"
-    },
-    {
-      "id": "5223751",
-      "time": "2026-11-19 08:01:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歡聚26Q3總營收6.246億美元 超越市場預期】歡聚集團（NASDAQ:JOYY）釋出2026年第三季度財報。本季度歡聚集團總收入高於市場預期，達6.246億美元，同比增長15.6%，環比增長5.7%，保持同環比雙增長。歡聚集團社交娛樂業務延續穩健增長，收入4.41億美元，同比增8.8%；廣告技術業務BIGO Ads和智慧電商業務SHOPLINE保持強勁增長勢頭：BIGO Ads（包含一方及三方業務）收入1.457億美元，同比增39.6%，其中三方廣告業務繼續保持強勁增長，同比增速高達52.3%；SHOPLINE收入達3780萬美元，同比增24.7%。歡聚集團多元增長戰略成效進一步顯現，本季度非直播收入佔比提升至32.8%。在非美國通用會計準則下，第三季度集團經營利潤4660萬美元，同比增長14.6%，EBITDA達5570萬美元，同比增長10.1%。第三季度集團經營性現金流1.022億美元，截至9月30日，集團持有淨現金29.405億美元。"
-    },
-    {
-      "id": "mkt:01a1f11b-b346-7bbc-ac55-cc4161795f73",
-      "time": "2026-11-19 08:01:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei index opened up 0.15% at 59,115.44, a gain of 91.16 points."
     }
   ]
 }
