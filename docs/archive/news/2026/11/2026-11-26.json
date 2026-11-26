@@ -1,7 +1,64 @@
 {
   "date": "2026-11-26",
-  "count": 1216,
+  "count": 1222,
   "items": [
+    {
+      "id": "mkt:01a21869-2144-7bbc-ad0e-c3df74f5acc1",
+      "time": "2026-11-26 23:11:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Yashar! and the Democrats agree on coalition deal】Yashar! and the Israeli Democrats said on May 26 they had agreed on a coalition deal, making the Democrats the second opposition party after Yisrael Beiteinu to reach an agreement with Yashar!. If a new government is formed, the Democrats would receive four ministerial portfolios: National Security, Labor and Welfare, Communications, and Culture and Sports. The parties also pledged to repeal the judicial overhaul pursued by Benjamin Netanyahu’s government and protect the independence of the judiciary."
+    },
+    {
+      "id": "mkt:01a21868-1b82-7bbc-ad0e-bd0756fe17ec",
+      "time": "2026-11-26 23:10:05",
+      "tags": [
+        "MKT News",
+        "JLR.L",
+        "Impact bearish"
+      ],
+      "text": "S&P downgraded Jaguar Land Rover to BB+, citing weaker cash flow; outlook stable."
+    },
+    {
+      "id": "mkt:01a21867-70af-7bbc-ad0e-b14f6ff24d35",
+      "time": "2026-11-26 23:09:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【JP Morgan sees further gains for Indian stocks in 2027】JP Morgan said on Thursday that Indian equities are emerging as a potential safe haven for investors seeking portfolio diversification away from AI-related assets. After a strong recovery in 2026, the bank expects the market to rise further in 2027. Its base-case target for the Nifty 50 is 29,000 by year-end 2027, implying about 12% upside from Thursday’s close; bull- and bear-case targets are 31,000 and 22,000, respectively. Indian stocks have rebounded strongly after a 15.1% decline, supported by outflows from AI-heavy markets, lower oil prices and renewed foreign buying."
+    },
+    {
+      "id": "5241167",
+      "time": "2026-11-26 23:08:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將捷豹路虎評級下調至“BB+”，理由為現金流走弱；展望穩定。"
+    },
+    {
+      "id": "5241166",
+      "time": "2026-11-26 23:08:03",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "保加利亞央行將系統性風險緩衝降至2%。"
+    },
+    {
+      "id": "mkt:01a21865-d27a-7bbc-ad0e-ace36da53666",
+      "time": "2026-11-26 23:07:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bulgaria’s central bank cut the systemic risk buffer to 2%."
+    },
     {
       "id": "5241165",
       "time": "2026-11-26 23:06:32",

@@ -1,7 +1,64 @@
 {
-  "updated": "2026-11-26 23:07:52",
-  "count": 8287,
+  "updated": "2026-11-26 23:11:43",
+  "count": 8283,
   "items": [
+    {
+      "id": "mkt:01a21869-2144-7bbc-ad0e-c3df74f5acc1",
+      "time": "2026-11-26 23:11:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Yashar! and the Democrats agree on coalition deal】Yashar! and the Israeli Democrats said on May 26 they had agreed on a coalition deal, making the Democrats the second opposition party after Yisrael Beiteinu to reach an agreement with Yashar!. If a new government is formed, the Democrats would receive four ministerial portfolios: National Security, Labor and Welfare, Communications, and Culture and Sports. The parties also pledged to repeal the judicial overhaul pursued by Benjamin Netanyahu’s government and protect the independence of the judiciary."
+    },
+    {
+      "id": "mkt:01a21868-1b82-7bbc-ad0e-bd0756fe17ec",
+      "time": "2026-11-26 23:10:05",
+      "tags": [
+        "MKT News",
+        "JLR.L",
+        "Impact bearish"
+      ],
+      "text": "S&P downgraded Jaguar Land Rover to BB+, citing weaker cash flow; outlook stable."
+    },
+    {
+      "id": "mkt:01a21867-70af-7bbc-ad0e-b14f6ff24d35",
+      "time": "2026-11-26 23:09:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【JP Morgan sees further gains for Indian stocks in 2027】JP Morgan said on Thursday that Indian equities are emerging as a potential safe haven for investors seeking portfolio diversification away from AI-related assets. After a strong recovery in 2026, the bank expects the market to rise further in 2027. Its base-case target for the Nifty 50 is 29,000 by year-end 2027, implying about 12% upside from Thursday’s close; bull- and bear-case targets are 31,000 and 22,000, respectively. Indian stocks have rebounded strongly after a 15.1% decline, supported by outflows from AI-heavy markets, lower oil prices and renewed foreign buying."
+    },
+    {
+      "id": "5241167",
+      "time": "2026-11-26 23:08:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將捷豹路虎評級下調至“BB+”，理由為現金流走弱；展望穩定。"
+    },
+    {
+      "id": "5241166",
+      "time": "2026-11-26 23:08:03",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "保加利亞央行將系統性風險緩衝降至2%。"
+    },
+    {
+      "id": "mkt:01a21865-d27a-7bbc-ad0e-ace36da53666",
+      "time": "2026-11-26 23:07:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bulgaria’s central bank cut the systemic risk buffer to 2%."
+    },
     {
       "id": "5241165",
       "time": "2026-11-26 23:06:32",
@@ -74040,91 +74097,6 @@
         "焦點"
       ],
       "text": "標普500指數、納斯達克指數回吐部分漲幅；道瓊斯指數轉跌。道指下跌0.14%，標普500指數上漲0.72%，納斯達克指數上漲1.46%。"
-    },
-    {
-      "id": "5226035",
-      "time": "2026-11-19 23:11:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲副主席傑斐遜稱人工智慧加劇短期通脹】美聯儲副主席菲利普·傑斐遜表示，人工智慧熱潮正在推動經濟需求，從而加劇短期通脹，“目前，AI建設正在給需求和通脹帶來上行壓力，”傑斐遜為週四在巴西一次活動準備好的講話稿中表示。“未來，生產率的提高可能會給通脹帶來下行壓力，同時繼續支援經濟增長”。傑斐遜表示，同時影響總供給和總需求、但影響出現時間不同的衝擊，對貨幣政策制定者而言“尤其具有挑戰性”。他補充說，“人工智慧的迅速普及就是這樣一種衝擊”。他說，AI可能會造成部分就業崗位流失，對受影響家庭而言構成重大挑戰。不過，與過去許多技術突破一樣，AI也可能催生“我們尚未想象到的新工作和新企業”。"
-    },
-    {
-      "id": "5226034",
-      "time": "2026-11-19 23:10:55",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "墨西哥央行會議紀要：一名董事會成員表示，截至9月墨西哥比索累計升值對通脹的滯後影響，可能會部分抵消近期貨幣貶值帶來的壓力。"
-    },
-    {
-      "id": "5226033",
-      "time": "2026-11-19 23:10:39",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行會議紀要：一名董事會成員表示，匯率傳導效應在短期內接近於零，長期內也較為有限。"
-    },
-    {
-      "id": "5226032",
-      "time": "2026-11-19 23:10:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門稱利雅得和哈爾傑的危險已經過去。"
-    },
-    {
-      "id": "5226031",
-      "time": "2026-11-19 23:10:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "波蘭預計將於明年年初與西屋電氣和柏克德公司簽署一項協議，以建設其第一座核電站。"
-    },
-    {
-      "id": "5226030",
-      "time": "2026-11-19 23:09:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Parex Resources計劃在哥倫比亞石油和天然氣領域投資25億美元。"
-    },
-    {
-      "id": "5226029",
-      "time": "2026-11-19 23:09:47",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "中國擔任2026年亞太經合組織東道主成果清單。（外交部）"
-    },
-    {
-      "id": "5226028",
-      "time": "2026-11-19 23:08:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "在納斯達克首次亮相中，Anthropic股票開盤價指示為104美元，而IPO發行價為每股83美元。"
-    },
-    {
-      "id": "5226027",
-      "time": "2026-11-19 23:08:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭預計與美國財團達成500億美元核電站建設協議。"
-    },
-    {
-      "id": "5226026",
-      "time": "2026-11-19 23:08:09",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行會議紀要：關於通脹的決定因素，展望未來，大多數成員表示，鑑於預測期內預計的經濟疲軟，總需求預計不會產生通脹壓力。"
     }
   ]
 }
