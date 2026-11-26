@@ -1,7 +1,145 @@
 {
   "date": "2026-11-26",
-  "count": 1191,
+  "count": 1206,
   "items": [
+    {
+      "id": "mkt:01a2185e-14d1-7bbc-ad0e-8f69c7e57d02",
+      "time": "2026-11-26 22:59:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Foreign Ministry said Moscow hopes a meeting between Putin and Japan's prime minister will help improve bilateral ties."
+    },
+    {
+      "id": "mkt:01a2185d-f0e7-7bbc-ad0e-85e913cc6fa5",
+      "time": "2026-11-26 22:58:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's oil exports rose to 3.6 mln barrels per day from 200,000 bpd, the oil minister said. October oil revenue reached $8.8 bln."
+    },
+    {
+      "id": "5241157",
+      "time": "2026-11-26 22:58:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部表示，莫斯科希望俄羅斯總統普京與日本首相的會晤有助於改善兩國關係。"
+    },
+    {
+      "id": "5241156",
+      "time": "2026-11-26 22:58:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長：石油出口量從20萬桶/日提高至360萬桶/日。"
+    },
+    {
+      "id": "5241155",
+      "time": "2026-11-26 22:57:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特稱西南部一煉油廠遭胡塞武裝襲擊】沙烏地阿拉伯主導的多國聯軍發言人26日在社交媒體平臺表示，沙特西南部吉贊煉油廠遭胡塞武裝襲擊。(新華社)"
+    },
+    {
+      "id": "5241154",
+      "time": "2026-11-26 22:57:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，委內瑞拉阿穆艾煉油廠因火災疏散工人，無人員傷亡報告。"
+    },
+    {
+      "id": "5241153",
+      "time": "2026-11-26 22:57:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長表示：10月份石油收入達到88億美元。"
+    },
+    {
+      "id": "5241152",
+      "time": "2026-11-26 22:56:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：已向北約秘書長呂特通報與俄羅斯總統普京會談的最新進展。"
+    },
+    {
+      "id": "mkt:01a2185b-70e7-7bbc-ad0e-7a3072c1f6c0",
+      "time": "2026-11-26 22:56:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he briefed NATO Secretary General Rutte on his talks with Russian President Putin."
+    },
+    {
+      "id": "mkt:01a2185b-60e9-7bbc-ad0e-71466468c8be",
+      "time": "2026-11-26 22:56:11",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "【De Cos sits at midpoint of hawk-dove spectrum; no reason to expect major ECB policy shift】Oddo BHF Chief Economist Bruno Cavalier said De Cos is a respected, experienced central banker with the qualities needed to lead the ECB and build consensus on its Governing Council. He is no unknown quantity to markets, and there is no reason to expect a major policy shift. He is generally seen as a centrist on the hawk-dove spectrum, much like Lagarde."
+    },
+    {
+      "id": "5241151",
+      "time": "2026-11-26 22:55:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長表示，卡達和巴基斯坦調解人正在繼續開展斡旋工作，並傳遞想法和建議。"
+    },
+    {
+      "id": "5241150",
+      "time": "2026-11-26 22:55:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：烏克蘭與俄羅斯迅速達成協議的可能性很大。"
+    },
+    {
+      "id": "mkt:01a2185b-009a-7bbc-ad0e-6b4f248c9ca1",
+      "time": "2026-11-26 22:55:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. President Trump said Ukraine and Russia are very likely to reach an agreement quickly."
+    },
+    {
+      "id": "mkt:01a2185a-bbcb-7bbc-ad0e-6044d7c2c722",
+      "time": "2026-11-26 22:55:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said he hopes Russian President Putin will withdraw all military aggression from territories across Europe."
+    },
+    {
+      "id": "5241149",
+      "time": "2026-11-26 22:55:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望看到普京總統撤回對歐洲的所有軍事行動。"
+    },
     {
       "id": "5241148",
       "time": "2026-11-26 22:54:46",
