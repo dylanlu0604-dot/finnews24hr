@@ -1,7 +1,32 @@
 {
-  "updated": "2026-11-27 07:31:10",
-  "count": 7903,
+  "updated": "2026-11-27 07:34:53",
+  "count": 7901,
   "items": [
+    {
+      "id": "5241696",
+      "time": "2026-11-27 07:33:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為HarmonyOS五大技術品牌公開】在 2026 HarmonyOS 創新技術溝通會上，華為 HarmonyOS 五大技術品牌正式公開，含鴻蒙星河互聯、鴻蒙星盾安全、方舟引擎、鴻蒙智慧 & 小藝、鴻蒙空間計算。"
+    },
+    {
+      "id": "5241695",
+      "time": "2026-11-27 07:31:45",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【人民日報刊文：鼓吹“產能過剩論”，解不開全球經濟失衡癥結】《人民日報》刊文指出，美國貿易代表辦公室日前宣佈“產能過剩”301調查結果，釋出擬議措施，提出對包括中國在內的14個經濟體加徵301關稅。美方此舉是將正常的市場競爭政治化、產業發展問題工具化，不僅無助於解決自身的結構性矛盾，反而會擾亂全球產供鏈安全穩定和產業合作，給世界經濟增長帶來長期、系統性風險。"
+    },
+    {
+      "id": "5241694",
+      "time": "2026-11-27 07:31:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【人民日報刊文：別把“豆包”當醫生】《人民日報》刊文指出，如今，越來越多的患者到醫院看病，都要問問“豆包”等AI（人工智慧）通用大模型。據悉，僅“豆包”每天的健康諮詢量就超過2000萬人次。AI已經成為醫患之間的“第三方力量”，並對患者的醫療決策產生實際影響。傳統的醫患雙方診療模式，正在變成“患者—醫生—AI”三方博弈模式。當AI的答案與醫生的結論不一致時，有的患者便會質疑醫生，無形中增加了醫患溝通成本。醫學是一門科學，也是一門藝術。無論AI如何聰明，都不可能完全取代醫生。醫生面對的是活生生的人，而人的生命充滿了未知數和不確定性，這恰恰是AI的“致命短板”。AI讀遍了人類已經寫下的所有答案，但它唯獨讀不到人類還沒有寫下的那一行答案。而那一行答案，只能來自堅守在病床旁的醫者，他們看見了那份痛，記住了那張臉，然後執著地追問為什麼。AI可以識別痛苦訊號，卻無法共情人間疾苦，無法替代醫學人文關懷。AI可以無限升級迭代，但良知、敬畏、責任永遠屬於人類。"
+    },
     {
       "id": "5241693",
       "time": "2026-11-27 07:30:25",
@@ -70497,55 +70522,6 @@
         "焦點"
       ],
       "text": "紐約期金失守3620美元/盎司，日內跌1.78%。"
-    },
-    {
-      "id": "mkt:01a1f628-a803-7bbc-ac7a-08c66d274b2e",
-      "time": "2026-11-20 07:33:41",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Debate over taxing government bond interest intensifies; experts say near-term rollout is unlikely】The PBOC said in its Q3 2026 monetary policy report that China exempts government bond interest from income tax, allowing taxable investors to accept lower yields than on taxable bonds. The remarks have fueled debate over taxing government bond interest. Such a move could narrow tax disparities across bonds and strengthen the government bond yield curve’s role as a pricing benchmark, but would require statutory procedures, including tax law amendments, and different tax and bond categories may require different approaches. Experts also cautioned that the systemic market impact needs to be assessed and the fiscal effects may not be positive. Whether and how to levy the tax requires further study; near-term implementation is unlikely."
-    },
-    {
-      "id": "mkt:01a1f627-aa7b-7bbc-ac7a-06b76d7c9dd5",
-      "time": "2026-11-20 07:32:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Japan's headline CPI rose at its fastest pace since November 2025 in October, while core CPI posted its fastest increase since December 2025."
-    },
-    {
-      "id": "5226621",
-      "time": "2026-11-20 07:32:28",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "日本核心CPI增速創2025年12月以來最快，整體CPI漲幅創2025年11月以來最快。"
-    },
-    {
-      "id": "5226620",
-      "time": "2026-11-20 07:32:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【徵收政府債券利息所得稅議題升溫 專家稱短期不具備落地條件】國債等政府債券利息收入恢復徵收增值稅一年多後，關於稅收制度如何影響債券市場定價的討論，正從增值稅延伸到所得稅。近日，中國人民銀行在2026年三季度貨幣政策執行報告中提出，“國內目前對國債利息收入免徵所得稅，使納稅投資者願意接受低於應稅債券的收益率”，這一表述讓市場對於是否徵收政府債券利息所得稅的討論進一步升溫。對政府債券利息徵收所得稅，雖有助於縮小不同債券之間的稅負差異、更好發揮國債收益率曲線的定價基準作用，但推動其落地並不簡單。多位受訪專家指出，相關調整涉及稅法修改等法定程式，不同稅種、券種調整路徑不一致，且需要考量對金融市場的系統性影響，對財政體系的影響也未必正向。未來是否徵收、如何徵收仍需審慎研究。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202611203935484824",
-      "time": "2026-11-20 07:31:26",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本10月全國CPI同比增長2.3%，預期2.50%，前值2.10%。"
     }
   ]
 }
