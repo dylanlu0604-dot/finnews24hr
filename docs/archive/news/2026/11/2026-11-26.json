@@ -1,7 +1,93 @@
 {
   "date": "2026-11-26",
-  "count": 1177,
+  "count": 1186,
   "items": [
+    {
+      "id": "mkt:01a21856-ce62-7bbc-ad0e-5413f073bccf",
+      "time": "2026-11-26 22:51:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic dry bulk index extends rally as rates rise across all vessel classes】The Baltic Dry Index rose 45 points, or 1.45%, to 3,152, its highest since Sept. 29, as rates strengthened across all vessel classes. The Capesize index gained 86 points, or 1.72%, to 5,100, also its highest since Sept. 29; average daily earnings rose $777 to $42,747. The Panamax index added 50 points to 2,273, its highest since Oct. 19, with daily earnings up $447 to $20,456. The Supramax index rose 2 points, or 0.2%, to 1,816, while the Handysize index gained 4 points to 1,083."
+    },
+    {
+      "id": "5241140",
+      "time": "2026-11-26 22:49:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通用股份：回覆上交所半年報監管問詢函】通用股份公告稱，公司就上交所下發的2026年半年度報告資訊披露監管問詢函予以回覆。截至2026年6月末，公司應收賬款期末餘額15.02億元，佔總資產比重10.47%；2026年上半年計提應收賬款壞賬準備0.73億元，同比增長477.05%，其中按單項計提1.00億元、按組合計提-0.28億元。公司披露應收賬款前十名欠款方均為非關聯方，稱壞賬計提及時充分，回收風險可控。"
+    },
+    {
+      "id": "5241139",
+      "time": "2026-11-26 22:49:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞支援為波羅的海航空提供擔保，同時尋求投資者。"
+    },
+    {
+      "id": "mkt:01a21854-02df-7bbc-ad0e-4f940c7c6c1e",
+      "time": "2026-11-26 22:48:08",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "The Gulf Cooperation Council secretary-general strongly condemned Iran’s attack on vital sites in Kuwait."
+    },
+    {
+      "id": "5241136",
+      "time": "2026-11-26 22:48:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍：針對平民和民用設施的攻擊將會遭到強有力的軍事回應。"
+    },
+    {
+      "id": "mkt:01a21853-a276-7bbc-ad0e-456c6c0a5981",
+      "time": "2026-11-26 22:47:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "The Saudi-led coalition said attacks on civilians and civilian infrastructure would be met with a strong military response."
+    },
+    {
+      "id": "mkt:01a21853-65a9-7bbc-ad0e-3a92ea89d94d",
+      "time": "2026-11-26 22:47:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi-led coalition says Yemen's Houthi forces attacked the Jizan refinery."
+    },
+    {
+      "id": "5241135",
+      "time": "2026-11-26 22:47:23",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "沙特主導的聯軍：葉門胡塞武裝襲擊了吉贊煉油廠。"
+    },
+    {
+      "id": "5241134",
+      "time": "2026-11-26 22:47:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "墨西哥總統辛鮑姆表示，墨西哥正尋求與巴西國家石油公司開展混合投資。"
+    },
     {
       "id": "5241132",
       "time": "2026-11-26 22:46:16",
