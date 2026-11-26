@@ -1,7 +1,61 @@
 {
   "date": "2026-11-26",
-  "count": 762,
+  "count": 768,
   "items": [
+    {
+      "id": "5239940",
+      "time": "2026-11-26 13:27:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【日本央行審議委員田村直樹：設想是每隔幾個月加息一次 每次加息25個基點】日本央行審議委員田村直樹，我設想的是每隔幾個月加息一次，每次加息25個基點。若通脹風險兌現，日本央行可能需要加快升息步伐，甚至一次升息50個基點。日本央行在評估金融狀況時，將把股市及資產價格走勢等因素納入考量。日本中性利率水平大約在2%左右。在某些情況下，我們在三個月內就能夠評估一次加息的影響。如果家庭和企業的通脹預期進一步上升，這可能成為加快加息步伐的理由。只要潛在通脹率維持在2%左右且金融環境保持寬鬆，無論價格存在上行還是下行風險，我們都必須繼續加息。"
+    },
+    {
+      "id": "mkt:01a21652-474a-7bbc-ad01-88401bfa5d9d",
+      "time": "2026-11-26 13:27:00",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BOJ policymaker Naoki Tamura: We must continue raising rates as long as underlying inflation is around 2% and financial conditions remain accommodative, regardless of whether price risks are tilted to the upside or downside."
+    },
+    {
+      "id": "mkt:01a21650-fba9-7bbc-ad01-8125bc41b8b4",
+      "time": "2026-11-26 13:25:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. famine early-warning network to suspend reports amid funding shortfall】More than half of field staff at the U.S. government’s Famine Early Warning Systems Network will lose their jobs by year-end amid a funding shortfall, leaving the agency unable to help avert famines made more likely by El Nifio and cuts to international aid, people familiar with the matter said. Staff are due to receive 30-day layoff notices on Dec. 1, and the network will not publish its December food-security update because the State Department has yet to confirm funding for the fiscal year that began in October. The report is critical for famine-threatened countries including Sudan, Yemen, South Sudan and Somalia, where it was expected to identify areas worst hit by severe food shortages."
+    },
+    {
+      "id": "mkt:01a21650-85cd-7bbc-ad01-7cb7e9ec6e6e",
+      "time": "2026-11-26 13:25:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan board member Naoki Tamura said consumption remains resilient, with Q3 weakness due to rising living costs and adverse weather."
+    },
+    {
+      "id": "5239939",
+      "time": "2026-11-26 13:24:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行委員田村：認為消費具有韌性，第三季度疲軟是由於生活成本上升和惡劣天氣。"
+    },
+    {
+      "id": "5239938",
+      "time": "2026-11-26 13:24:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國1月至9月新出生人口增幅創紀錄】韓國統計廳25日公佈的資料顯示，今年前三季度韓國新出生人口數量超過21萬人，同比增加超過14%，增幅創下有記錄以來的新高。（新華社）"
+    },
     {
       "id": "mkt:01a2164f-fffd-7bbc-ad01-722b2e4cec00",
       "time": "2026-11-26 13:24:31",
