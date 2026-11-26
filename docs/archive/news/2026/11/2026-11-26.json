@@ -1,7 +1,83 @@
 {
   "date": "2026-11-26",
-  "count": 768,
+  "count": 777,
   "items": [
+    {
+      "id": "5239946",
+      "time": "2026-11-26 13:31:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內漲4%，現報316.35元。"
+    },
+    {
+      "id": "5239945",
+      "time": "2026-11-26 13:31:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度2025-26年度稻米產量預計為1.5515億噸。"
+    },
+    {
+      "id": "5239944",
+      "time": "2026-11-26 13:31:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹表示，下調食品銷售稅可能有助於提振經濟增長。"
+    },
+    {
+      "id": "mkt:01a21655-c918-7bbc-ad01-982c1a6c3749",
+      "time": "2026-11-26 13:30:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's most-active ethylene glycol futures contract hit the daily limit, up 5.98% at 5,225 yuan/mt."
+    },
+    {
+      "id": "5239943",
+      "time": "2026-11-26 13:30:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲3%，現報6100.00元。"
+    },
+    {
+      "id": "5239942",
+      "time": "2026-11-26 13:28:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星SDI將於12月3日登出330萬股普通股和17.84萬股優先股。"
+    },
+    {
+      "id": "mkt:01a21653-eccd-7bbc-ad01-95de5555d65d",
+      "time": "2026-11-26 13:28:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "【Beijing Rises to Second in Global Innovation Hubs Index 2026】The Global Innovation Hubs Index 2026 (GIHI 2026), released at a forum on science and technology innovation hubs and research cities, ranked San Francisco-San Jose first and Beijing second for the first time. Beijing, Shanghai and the Guangdong-Hong Kong-Macau Greater Bay Area remained in the top 10, while Nanjing entered the top 20. China had 19 cities in the global top 100, second to the United States with 24."
+    },
+    {
+      "id": "5239941",
+      "time": "2026-11-26 13:28:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【造紙板塊午後走高 岳陽林紙、青山紙業漲停】造紙板塊午後走高，岳陽林紙、青山紙業漲停，山鷹國際此前漲停，宜賓紙業跟漲。"
+    },
     {
       "id": "5239940",
       "time": "2026-11-26 13:27:58",
@@ -10,6 +86,15 @@
         "國際"
       ],
       "text": "【日本央行審議委員田村直樹：設想是每隔幾個月加息一次 每次加息25個基點】日本央行審議委員田村直樹，我設想的是每隔幾個月加息一次，每次加息25個基點。若通脹風險兌現，日本央行可能需要加快升息步伐，甚至一次升息50個基點。日本央行在評估金融狀況時，將把股市及資產價格走勢等因素納入考量。日本中性利率水平大約在2%左右。在某些情況下，我們在三個月內就能夠評估一次加息的影響。如果家庭和企業的通脹預期進一步上升，這可能成為加快加息步伐的理由。只要潛在通脹率維持在2%左右且金融環境保持寬鬆，無論價格存在上行還是下行風險，我們都必須繼續加息。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202611263940506412",
+      "time": "2026-11-26 13:27:40",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行審議委員田村直樹稱，若通脹風險兌現，日本央行可能需要加快加息步伐，甚至一次加息50個基點。日本中性利率水平大約在2%左右。"
     },
     {
       "id": "mkt:01a21652-474a-7bbc-ad01-88401bfa5d9d",
