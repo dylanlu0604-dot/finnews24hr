@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-26 12:42:06",
+  "updated": "2026-11-26 12:45:53",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
   "count": 467,
   "history_summary": {
-    "cached": 466,
-    "fetched": 1,
+    "cached": 467,
+    "fetched": 0,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18710,7 +18710,7 @@
                   "previous": "10.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-11-26 12:42:04"
             },
             {
@@ -45789,7 +45789,7 @@
           "previous": "10.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-11-26 12:42:04"
     },
     {
