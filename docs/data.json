@@ -1,7 +1,58 @@
 {
-  "updated": "2026-11-27 07:53:38",
-  "count": 7893,
+  "updated": "2026-11-27 07:57:22",
+  "count": 7896,
   "items": [
+    {
+      "id": "5241733",
+      "time": "2026-11-27 07:56:36",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普：曾對早前的市場下跌感到擔憂。"
+    },
+    {
+      "id": "5241732",
+      "time": "2026-11-27 07:56:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "提醒：特朗普在海湖莊園講話結束。"
+    },
+    {
+      "id": "5241731",
+      "time": "2026-11-27 07:56:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談黃之鋒：我為美國和世界做了件偉大的事。"
+    },
+    {
+      "id": "5241730",
+      "time": "2026-11-27 07:55:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱沙特空襲致19死25傷】葉門胡塞武裝26日說，過去48小時內，葉門多個省份遭沙烏地阿拉伯空襲，造成19人死亡、25人受傷，死傷者中包括婦女和兒童。（新華社）"
+    },
+    {
+      "id": "5241729",
+      "time": "2026-11-27 07:55:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我還沒和黃仁勳談過，但可能很快會與黃仁勳對話。"
+    },
+    {
+      "id": "5241727",
+      "time": "2026-11-27 07:54:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與呂特討論了駐歐美軍問題。"
+    },
     {
       "id": "5241726",
       "time": "2026-11-27 07:52:18",
@@ -19,12 +70,30 @@
       "text": "歐盟委員會主席馮德萊恩：新歐盟預算仍有大量工作有待完成。"
     },
     {
+      "id": "em:jjsj_rbsj:202611273941197769",
+      "time": "2026-11-27 07:51:55",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至11月20日當週外資買進日債2085億日元，前值6501億日元。"
+    },
+    {
       "id": "5241724",
       "time": "2026-11-27 07:51:53",
       "tags": [
         "國際"
       ],
       "text": "【日本投資者上週淨買入4235億日元海外債券】東京財務省公佈的資料顯示，在截至11月20日當週，日本投資者為海外債券的淨買入方。日本投資者賣出3508億日元海外股票。外資買入2085億日元日本債券。外資賣出5716億日元日本股票。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202611273941196565",
+      "time": "2026-11-27 07:51:35",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至11月20日當週外資買進日股-5716億日元，前值-2241億日元。"
     },
     {
       "id": "5241723",
@@ -70376,56 +70445,6 @@
         "公司"
       ],
       "text": "【金融街證券董事長祝豔輝接受調查並被實施留置措施】金融街證券在港交所公告，本公司董事會謹此通知本公司股東及潛在投資者，根據中華人民共和國北京市西城區監察委員會（“委員會”）的通知，本公司董事長祝豔輝先生（“祝先生”）目前正接受調查（“調查”）並被實施留置措施。於本公告刊發時，本公司未收到任何委員會需要協助調查或提供任何資料的要求，本集團的業務運營正常。除擔任本公司董事長及執行董事外，祝先生亦為董事會戰略與投資決策委員會主席及董事會風險控制與監察委員會主席。他並未在本公司擔任任何其他職務。本公司其他董事和高階管理層均正常履職。根據現有資料，董事會（祝先生除外）認為，上述事項預計不會對本集團的業務及營運造成重大影響。"
-    },
-    {
-      "id": "5226653",
-      "time": "2026-11-20 07:55:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "金融街證券董事長祝豔輝接受調查並被實施留置措施。"
-    },
-    {
-      "id": "mkt:01a1f63c-60da-7bbc-ac7a-827d1c7e09c1",
-      "time": "2026-11-20 07:55:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【CITIC Securities: Real estate equities may bottom out and turn higher in 2027】CITIC Securities expects home prices to stabilize and recover across a broader range in 2027, as all segments of China’s property market shift toward more refined operations and deliver greater value to consumers. Real estate-related equities may bottom out and turn higher that year. The persistent discount on companies combining core-asset ownership with development may gradually disappear. The brokerage favors developers with ample impairment provisions and strong products, as well as leading operators and service providers gaining market share."
-    },
-    {
-      "id": "mkt:01a1f63c-015e-7bbc-ac7a-78f1066b55dd",
-      "time": "2026-11-20 07:54:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "【Fed's Paulson: October rate pause is only an adjustment in pace】Philadelphia Fed President Anna Paulson said she supported the Fed holding rates steady in October, calling it an adjustment in the pace of hikes rather than a change in policy direction. She said the policy reaction function is conditional, indicating both the likely direction of policy and what could prompt a shift. Paulson said she would favor faster action if inf expectations rise, wage pressures intensify or underlying inf increases further."
-    },
-    {
-      "id": "5226652",
-      "time": "2026-11-20 07:54:13",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：房地產相關權益資產價值可能在2027年見底向上】中信證券研報稱，預計2027年房價將在更廣闊的範圍止跌回升，房地產市場的各個細分領域都將走向精細化運營，併為消費者帶來更多的價值。房地產相關權益資產價值可能在2027年見底向上。核心資產持有和開發混業的地產企業持續的折價可能逐漸消失。看好減值計提充分、產品力出色的開發企業，也看好市佔率不斷提升的運營和服務龍頭。"
-    },
-    {
-      "id": "5226651",
-      "time": "2026-11-20 07:54:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本京瓷公司：出售債務和權益證券長期投資獲利1089億日元。不會對公司2027財年的合併財務業績產生影響。"
     }
   ]
 }
