@@ -1,7 +1,213 @@
 {
-  "updated": "2026-11-26 13:36:53",
-  "count": 8490,
+  "updated": "2026-11-26 13:40:49",
+  "count": 8513,
   "items": [
+    {
+      "id": "5239977",
+      "time": "2026-11-26 13:40:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲6%，現報612.70元。"
+    },
+    {
+      "id": "5239976",
+      "time": "2026-11-26 13:39:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "銀行訊息：印度阿達尼集團旗下旗艦子公司計劃於12月公開發行債券。"
+    },
+    {
+      "id": "5239975",
+      "time": "2026-11-26 13:39:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內漲4%，現報7369.00元。"
+    },
+    {
+      "id": "mkt:01a2165d-c360-7bbc-ad01-e8cf8b27ccfe",
+      "time": "2026-11-26 13:39:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Bank Indonesia official said the central bank is maintaining measures to stabilize the rupiah while monitoring market developments, so the currency reflects fundamentals."
+    },
+    {
+      "id": "5239974",
+      "time": "2026-11-26 13:39:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲5%，現報8996.00元。"
+    },
+    {
+      "id": "mkt:01a2165d-a330-7bbc-ad01-e2fec6bd2315",
+      "time": "2026-11-26 13:39:24",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank Indonesia official: Pressure on Indonesia's rupiah stems from concerns that Indonesian equities could be reclassified and rising corporate demand for foreign exchange."
+    },
+    {
+      "id": "mkt:01a2165d-9fa6-7bbc-ad01-de537b073944",
+      "time": "2026-11-26 13:39:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jefferies: U.S.-India tariffs of 17% could give Indian exporters a competitive edge】The U.S. Trade Representative said Wednesday that tariffs on imports from India would be capped at 17% if the two countries reach a trade deal, versus 25% without an agreement. A 17% rate could give India a 1-3 percentage-point tariff advantage over emerging-market peers including Bangladesh, Indonesia, Malaysia, Thailand and Vietnam, Jefferies said, potentially benefiting Indian chemical, textile and capital-goods exporters. Pharmaceuticals, energy products and some electronics and auto parts remain outside the current tariff framework but are subject to sector-specific investigations. These goods account for about 45% of India's exports to the United States."
+    },
+    {
+      "id": "5239973",
+      "time": "2026-11-26 13:39:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "蘋果將在海得拉巴開設新店，擴大印度零售網路。"
+    },
+    {
+      "id": "mkt:01a2165d-399d-7bbc-ad01-d196e531e22d",
+      "time": "2026-11-26 13:38:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "The most-active propylene futures contract hit its 6% daily limit, at 8,832 yuan/mt."
+    },
+    {
+      "id": "mkt:01a2165d-17ab-7bbc-ad01-c8fcb0267703",
+      "time": "2026-11-26 13:38:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude is up 1.00% intraday at $95.74/bbl."
+    },
+    {
+      "id": "5239972",
+      "time": "2026-11-26 13:38:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲6%，現報3245.00元。"
+    },
+    {
+      "id": "5239971",
+      "time": "2026-11-26 13:38:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報607.00元。"
+    },
+    {
+      "id": "5239970",
+      "time": "2026-11-26 13:38:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲9%，現報3982.00元。"
+    },
+    {
+      "id": "5239969",
+      "time": "2026-11-26 13:38:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報91.57美元/桶。"
+    },
+    {
+      "id": "5239968",
+      "time": "2026-11-26 13:38:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內漲5%，現報15590.00元。"
+    },
+    {
+      "id": "5239967",
+      "time": "2026-11-26 13:38:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行官員：印尼盾承壓源於市場擔憂印尼股票可能被重新分類，以及企業外匯需求增加。"
+    },
+    {
+      "id": "5239966",
+      "time": "2026-11-26 13:38:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瓶片連續主力合約日內漲5%，現報7888.00元。"
+    },
+    {
+      "id": "5239965",
+      "time": "2026-11-26 13:38:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲8%，現報3953.00元。"
+    },
+    {
+      "id": "5239964",
+      "time": "2026-11-26 13:37:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報84.52美元/桶。"
+    },
+    {
+      "id": "5239963",
+      "time": "2026-11-26 13:37:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丙烯連續主力合約日內漲6%，現報8832.00元。"
+    },
+    {
+      "id": "5239962",
+      "time": "2026-11-26 13:37:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度農業和農民福利部部長：印度有充足的大米和小麥庫存。"
+    },
+    {
+      "id": "5239961",
+      "time": "2026-11-26 13:37:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲5%，現報3215.00元。"
+    },
+    {
+      "id": "5239960",
+      "time": "2026-11-26 13:36:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天津龍源經開區新能源有限公司成立，註冊資本1億】天眼查App顯示，11月25日，天津龍源經開區新能源有限公司成立，法定代表人為鄧曉光，註冊資本1億元人民幣，經營範圍含風力發電技術服務、新興能源技術研發、工程和技術研究和試驗發展等。股東資訊顯示，該公司由龍源電力集團股份有限公司全資持股。"
+    },
     {
       "id": "mkt:01a2165a-9af5-7bbc-ad01-c63ee25b8b9e",
       "time": "2026-11-26 13:36:06",
