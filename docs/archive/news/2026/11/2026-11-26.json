@@ -1,7 +1,66 @@
 {
   "date": "2026-11-26",
-  "count": 1206,
+  "count": 1212,
   "items": [
+    {
+      "id": "mkt:01a21860-ca95-7bbc-ad0e-a4e053347243",
+      "time": "2026-11-26 23:02:06",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Jordan’s Foreign Ministry condemned Iran’s attack on Kuwait."
+    },
+    {
+      "id": "mkt:01a2185f-8086-7bbc-ad0e-9fa2abe38cf5",
+      "time": "2026-11-26 23:00:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China’s domestic futures main contracts were mixed at the 11 p.m. close. Ethylene glycol and rapeseed meal rose more than 2%; staple fiber and rapeseed oil gained more than 1%. Palm oil, No. 2 soybeans, low-sulfur fuel oil and coking coal climbed nearly 1%. Iron ore fell more than 2%; synthetic rubber, soda ash and styrene dropped more than 1%, while methanol fell nearly 1%."
+    },
+    {
+      "id": "5241160",
+      "time": "2026-11-26 23:00:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【策略師：德科斯出任歐洲央行之後，不一定就會延續擔任西班牙央行行長時期的鴿派立場】倫敦RBC Capital Markets全球宏觀策略師Peter Schaffrik：市場目前的共識顯然是認為德科斯（Pablo Hernández de Cos）偏鴿派，因此會給歐洲央行帶來鴿派傾向。但我們還得拭目以待，因為他此前在歐洲央行管理委員會任職時所處的時代背景已大不相同。三四周前他發表的一次演講聽起來就相當鷹派。通常情況下是時代塑造行長，而非行長塑造時代。至於他的上任究竟意味著什麼，我不想過早下定論。他執掌西班牙央行時確實是鴿派，但這是否意味著他未來仍會保持鴿派立場？那就是另一回事了。"
+    },
+    {
+      "id": "5241159",
+      "time": "2026-11-26 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】乙二醇連續漲2.67%，鐵礦石連續跌2.27%，菜粕連續漲2.01%，短纖連續漲1.70%，純鹼連續跌1.45%。"
+    },
+    {
+      "id": "5241158",
+      "time": "2026-11-26 22:59:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長：正在與歐佩克進行談判，以提高伊拉克的石油產量上限。"
+    },
+    {
+      "id": "mkt:01a2185e-67f7-7bbc-ad0e-976eed00bff5",
+      "time": "2026-11-26 22:59:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq’s oil minister: Iraq is negotiating with OPEC to raise its oil production quota."
+    },
     {
       "id": "mkt:01a2185e-14d1-7bbc-ad0e-8f69c7e57d02",
       "time": "2026-11-26 22:59:08",
