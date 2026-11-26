@@ -1,7 +1,174 @@
 {
   "date": "2026-11-26",
-  "count": 818,
+  "count": 835,
   "items": [
+    {
+      "id": "5239990",
+      "time": "2026-11-26 13:43:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度最高法院裁定，為實施食品警告標籤而提議的時間表是合理的。"
+    },
+    {
+      "id": "mkt:01a21660-bee8-7bbc-ad02-0d210a786dff",
+      "time": "2026-11-26 13:42:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude rose above $86/bbl and Brent touched $96/bbl, both reaching their highest levels in nearly 10 days."
+    },
+    {
+      "id": "5239989",
+      "time": "2026-11-26 13:42:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股三大指數集體轉跌，滬指跌0.01%，深證成指跌0.15%，創業板指跌0.36%。"
+    },
+    {
+      "id": "5239988",
+      "time": "2026-11-26 13:42:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破92美元/桶，日內漲1.52%。"
+    },
+    {
+      "id": "5239987",
+      "time": "2026-11-26 13:42:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲5%，現報4755.00元。"
+    },
+    {
+      "id": "5239986",
+      "time": "2026-11-26 13:41:52",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【蘋果將在海得拉巴開設新店，擴大印度零售網路】蘋果公司將於下個月在印度南部城市海得拉巴開設一家新門店，此舉旨在繼續擴大其在印度這一增長最快的海外市場之一的零售網路。這家iPhone 製造商在週四釋出的一份宣告中表示，新店將於 12 月 10 日開業；屆時，蘋果在印度這個全球人口最多的國家所設的官方門店總數將達到七家。海得拉巴是印度最大的城市之一，也是蘋果公司研發團隊以及零售客戶服務團隊的所在地。"
+    },
+    {
+      "id": "5239985",
+      "time": "2026-11-26 13:41:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破85美元/桶，日內漲1.58%。"
+    },
+    {
+      "id": "5239984",
+      "time": "2026-11-26 13:41:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲10%，現報4019.00元。"
+    },
+    {
+      "id": "5239983",
+      "time": "2026-11-26 13:41:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲5%，現報6220.00元。"
+    },
+    {
+      "id": "5239982",
+      "time": "2026-11-26 13:41:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "短纖連續主力合約日內漲5%，現報7944.00元。"
+    },
+    {
+      "id": "5239981",
+      "time": "2026-11-26 13:41:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內漲4%，現報8462.00元。"
+    },
+    {
+      "id": "mkt:01a2165f-024f-7bbc-ad02-070423cc5717",
+      "time": "2026-11-26 13:40:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "China's most-active methanol futures contract rose 6.00% to 3,245 yuan/mt. The most-active SC crude oil futures contract jumped 6.00% to 612.70 yuan/bbl."
+    },
+    {
+      "id": "mkt:01a2165e-f34f-7bbc-ad01-f957f940f563",
+      "time": "2026-11-26 13:40:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "A Bank Indonesia official said measures to stabilize Indonesia's rupiah include intervention in non-deliverable forward and spot markets, and bond purchases in the secondary market."
+    },
+    {
+      "id": "5239980",
+      "time": "2026-11-26 13:40:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報3273.00點。"
+    },
+    {
+      "id": "mkt:01a2165e-a605-7bbc-ad01-f15d23d33104",
+      "time": "2026-11-26 13:40:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude rose about 60 cents/bbl, trading at $85.82 and $95.84/bbl, respectively."
+    },
+    {
+      "id": "5239979",
+      "time": "2026-11-26 13:40:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲5%，現報5527.00元。"
+    },
+    {
+      "id": "5239978",
+      "time": "2026-11-26 13:40:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行官員：印尼盾穩定措施包括干預無本金交割遠期市場、即期市場和二級市場購債。"
+    },
     {
       "id": "5239977",
       "time": "2026-11-26 13:40:09",
