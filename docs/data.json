@@ -1,7 +1,101 @@
 {
-  "updated": "2026-11-26 13:05:12",
-  "count": 8412,
+  "updated": "2026-11-26 13:08:56",
+  "count": 8423,
   "items": [
+    {
+      "id": "mkt:01a21641-0d69-7bbc-ad01-03a2191b9a0f",
+      "time": "2026-11-26 13:08:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian authorities said drone debris fell in an industrial area in Russia’s Bashkortostan region."
+    },
+    {
+      "id": "5239918",
+      "time": "2026-11-26 13:07:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際文傳電訊社援引國防部訊息稱，俄軍連夜對烏克蘭發動大規模襲擊。"
+    },
+    {
+      "id": "mkt:01a21640-b18f-7bbc-ad00-fdd232da0500",
+      "time": "2026-11-26 13:07:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Russian forces launched a large-scale overnight attack on Ukraine, Interfax reported, citing the Russian Defence Ministry."
+    },
+    {
+      "id": "5239917",
+      "time": "2026-11-26 13:07:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬斯克稱每名美國兒童將獲兩股SpaceX股票 比此前承諾數量提高一倍】埃隆·馬斯克和SpaceX將向美國每名兒童贈送兩股這家太空探索公司的股票，較這位全球首富上月作出的承諾增加一倍。SpaceX週三在宣告中表示，將為目前每個有效的“特朗普賬戶”捐贈一股新發行的A類普通股。馬斯克此前承諾向美國每名兒童贈送一股SpaceX股票，他將以個人名義按SpaceX此次捐出的股票數量等量配捐。據美國人口普查局的估計，美國約有7,200萬名兒童。按SpaceX目前股價計算，此次捐贈價值約184億美元。SpaceX總裁Gwynne Shotwell另行宣佈，她將贈送超過200萬股SpaceX股票。宣告沒有說明這些股票將如何分配。根據彭博億萬富豪指數，馬斯克以約8,200億美元淨資產遙遙領先，為全球首富。其中SpaceX持股價值約6,500億美元，佔其財富絕大部分，其餘主要來自特斯拉、Boring Co.和Neuralink。"
+    },
+    {
+      "id": "5239916",
+      "time": "2026-11-26 13:06:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明表示，應加快落實7個種子專案。"
+    },
+    {
+      "id": "5239915",
+      "time": "2026-11-26 13:06:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "從中核集團獲悉，今天（26日），漳州核電4號“華龍一號”機組內穹頂順利吊裝就位，標誌著該機組建設正式從土建施工階段全面轉入裝置安裝階段。"
+    },
+    {
+      "id": "5239914",
+      "time": "2026-11-26 13:06:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精工科技成立新材料公司 含高效能纖維及複合材料製造業務】企查查APP顯示，近日，衢州承曜新材料有限公司成立，註冊資本為1000萬元，經營範圍包含高效能纖維及複合材料製造；高效能纖維及複合材料銷售；新材料技術研發；石墨及碳素製品製造等。企查查股權穿透顯示，該公司由精工科技全資持股。"
+    },
+    {
+      "id": "mkt:01a2163f-495f-7bbc-ad00-f37ebd27380f",
+      "time": "2026-11-26 13:06:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhangzhou Nuclear Power Unit 4 enters equipment installation phase】The inner containment dome of Zhangzhou Nuclear Power Unit 4, a Hualong One reactor, was installed on the 26th, marking the shift from civil construction to equipment installation. Units 1 and 2 are in commercial operation, while Units 5 and 6 remain in preparatory work. The fully built site is expected to generate about 60 bln kWh of clean electricity annually."
+    },
+    {
+      "id": "5239913",
+      "time": "2026-11-26 13:05:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據報道，戴爾和超微電腦公司已告知馬來西亞、新加坡、泰國和印度尼西亞的買家，英偉達將不允許他們的訂單發貨。"
+    },
+    {
+      "id": "5239912",
+      "time": "2026-11-26 13:05:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達暫停向東南亞出貨伺服器可能是暫時的。"
+    },
+    {
+      "id": "5239911",
+      "time": "2026-11-26 13:04:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：英偉達及其合作伙伴正努力遵守美國新的出口限制。"
+    },
     {
       "id": "5239910",
       "time": "2026-11-26 13:04:22",
