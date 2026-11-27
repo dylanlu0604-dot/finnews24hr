@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-27 08:19:50",
-  "count": 7860,
+  "updated": "2026-11-27 08:23:34",
+  "count": 7857,
   "items": [
+    {
+      "id": "5241763",
+      "time": "2026-11-27 08:21:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率<JP5YTN=JBTC>下降0.5個基點，至2.045%。"
+    },
+    {
+      "id": "5241762",
+      "time": "2026-11-27 08:20:00",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "哥斯大黎加將基準利率從3%下調至2.75%。"
+    },
     {
       "id": "5241761",
       "time": "2026-11-27 08:18:21",
@@ -69989,51 +70008,6 @@
         "國際"
       ],
       "text": "美聯儲官員保爾森：通貨膨脹似乎正在影響價格制定。美聯儲不應在通脹問題上“玩火”。"
-    },
-    {
-      "id": "mkt:01a1f655-ee8f-7bbc-ac7b-80d03cf7ac57",
-      "time": "2026-11-20 08:23:09",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Fed's Paulson: Wage growth is consistent with 2% inflation, a good sign."
-    },
-    {
-      "id": "mkt:01a1f655-66ab-7bbc-ac7b-796d4846e221",
-      "time": "2026-11-20 08:22:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Paulson: Stable long-term inflation expectations reflect the Fed's credibility."
-    },
-    {
-      "id": "5226690",
-      "time": "2026-11-20 08:22:16",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳大利亞央行貨幣政策委員會委員FRY-MCKIBBIN：澳大利亞部分領域需求強勁，其他領域需求疲軟，疊加全球石油供應大規模衝擊；公眾必須知道，委員會正在密切關注人工智慧的影響；對於如何管理政策權衡，可能存在廣泛的分歧，但這並不意味著可以忽視它們。"
-    },
-    {
-      "id": "5226689",
-      "time": "2026-11-20 08:20:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星任命儲存與移動業務獨立負責人 聯席CEO人選不變】根據三星電子傳送的一份電子郵件宣告，在聯席CEO全永鉉（Jun Young-hyun）和盧泰文（TM Roh）的領導下，三星電子分別任命了儲存和移動業務的新負責人。黃尚俊（Sang Joon Hwang）晉升為總裁，並將出任儲存業務負責人。崔元俊（Won-Joon Choi）被任命為移動業務負責人。全永鉉將繼續負責裝置解決方案（DS）部門，盧泰文將繼續擔任裝置體驗（DX）部門負責人；兩人將繼續履行聯席CEO的職責。"
-    },
-    {
-      "id": "mkt:01a1f653-5cf1-7bbc-ac7b-77310e8cfb59",
-      "time": "2026-11-20 08:20:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia board member Fry-McKibbin: There may be wide disagreement over how to weigh policy trade-offs, but that does not mean they can be ignored."
     }
   ]
 }
