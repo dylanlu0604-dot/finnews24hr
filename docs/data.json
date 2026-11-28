@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-28 13:53:03",
-  "count": 7333,
+  "updated": "2026-11-28 13:56:45",
+  "count": 7330,
   "items": [
+    {
+      "id": "5244928",
+      "time": "2026-11-28 13:55:12",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "巴基斯坦總理和國防軍司令兼陸軍參謀長同正在中國空間站執行任務的巴方航天員天地通話。（央視新聞）"
+    },
     {
       "id": "5244927",
       "time": "2026-11-28 13:49:02",
@@ -64806,38 +64815,6 @@
         "國際"
       ],
       "text": "韓國總統李在明21日訪問蔚山SK人工智慧資料中心（AIDC）建設現場，強調：“期待蔚山AI資料中心專案的成功推進，能成為吸引全球AI企業追加投資的引水。”"
-    },
-    {
-      "id": "mkt:01a1fcac-ae23-7bbc-ac9c-b5c242c01ea4",
-      "time": "2026-11-21 13:55:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea’s Lee says Ulsan AI data center could attract global investment】South Korean President Lee Jae-myung pledged support for an SK AI data center under construction in Ulsan, saying the project could attract further investment by global AI companies. He called AI data centers key infrastructure for semiconductor demand and physical AI, including robotics and autonomous driving, and said speed was critical amid global competition, Yonhap reported."
-    },
-    {
-      "id": "5229743",
-      "time": "2026-11-21 13:55:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【王靖任中共松江區委書記】11月21日，松江區召開全區領導幹部會議，宣佈市委決定：王靖同志任中共松江區委書記。（上海釋出）"
-    },
-    {
-      "id": "5229742",
-      "time": "2026-11-21 13:53:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安徽建工（宿州）投資發展集團有限公司工作人員陳龍接受監察調查】11月21日，據合肥市廬陽區紀委監委訊息，安徽建工（宿州）投資發展集團有限公司工作人員陳龍涉嫌嚴重違法，主動投案，目前正接受合肥市廬陽區監委監察調查。"
-    },
-    {
-      "id": "5229741",
-      "time": "2026-11-21 13:53:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦總理：譴責胡塞武裝對利雅得阿卜杜拉國王金融區發動襲擊】巴基斯坦總理夏巴茲·謝里夫：譴責胡塞武裝對利雅得阿卜杜拉國王金融區發動襲擊。這種針對民用基礎設施與經濟設施的魯莽侵略行徑完全不可接受，對地區和平與穩定構成威脅。巴基斯坦堅定聲援兄弟國家沙烏地阿拉伯及其人民。我們完全支援沙特王國捍衛主權和領土完整、保護本國公民與境內居民的權利。我們將繼續支援一切旨在實現地區持久和平與穩定的努力。"
     }
   ]
 }
