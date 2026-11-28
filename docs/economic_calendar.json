@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-28 08:45:53",
+  "updated": "2026-11-28 12:59:31",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 488,
+  "count": 507,
   "history_summary": {
     "cached": 488,
-    "fetched": 0,
+    "fetched": 19,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -13133,7 +13133,7 @@
       "interval": "next_week",
       "label": "下週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "count": 262,
+      "count": 281,
       "dates": [
         {
           "date": "2026-11-30",
@@ -16681,7 +16681,7 @@
         },
         {
           "date": "2026-12-01",
-          "count": 55,
+          "count": 56,
           "events": [
             {
               "id": "capital:1189797",
@@ -17333,7 +17333,7 @@
               "title": "韓國11月貿易帳初值(億美元)",
               "importance": 1,
               "previous": "425",
-              "forecast": "--",
+              "forecast": "480.3",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179304",
@@ -17391,7 +17391,7 @@
               "title": "韓國11月進口年率",
               "importance": 1,
               "previous": "36 %",
-              "forecast": "-- %",
+              "forecast": "38.9 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179303",
@@ -17623,7 +17623,7 @@
               "title": "澳大利亞10月季調營建許可月率",
               "importance": 1,
               "previous": "5.1 %",
-              "forecast": "-- %",
+              "forecast": "-5.3 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189801",
@@ -17797,7 +17797,7 @@
               "title": "澳大利亞第三季度經常帳(億澳元)",
               "importance": 1,
               "previous": "-272",
-              "forecast": "-249000",
+              "forecast": "-262",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179310",
@@ -18029,7 +18029,7 @@
               "title": "中國11月RatingDog製造業PMI",
               "importance": 2,
               "previous": "52",
-              "forecast": "51.7",
+              "forecast": "51.5",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179311",
@@ -18087,7 +18087,7 @@
               "title": "印度11月製造業PMI終值",
               "importance": 1,
               "previous": "56",
-              "forecast": "--",
+              "forecast": "55.3",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179312",
@@ -19236,6 +19236,64 @@
               "history_checked_at": "2026-11-22 01:04:41"
             },
             {
+              "id": "capital:1195259",
+              "fid": "1195259",
+              "interval": "next_week",
+              "date": "2026-12-01",
+              "time": "20:00",
+              "datetime": "2026-12-01 20:00:00",
+              "display_time": "12/01 20:00",
+              "country": "新西蘭",
+              "title": "新西蘭至11月10日全球乳製品貿易價格指數",
+              "importance": 1,
+              "previous": "0 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195259",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/17",
+                  "actual": "0",
+                  "forecast": "-",
+                  "previous": "3"
+                },
+                {
+                  "date": "11/03",
+                  "actual": "3",
+                  "forecast": "-",
+                  "previous": "2.5"
+                },
+                {
+                  "date": "10/20",
+                  "actual": "2.5",
+                  "forecast": "-",
+                  "previous": "1.2"
+                },
+                {
+                  "date": "09/15",
+                  "actual": "-1.1",
+                  "forecast": "-",
+                  "previous": "0.9"
+                },
+                {
+                  "date": "09/01",
+                  "actual": "0.9",
+                  "forecast": "-",
+                  "previous": "2.3"
+                },
+                {
+                  "date": "08/18",
+                  "actual": "2.3",
+                  "forecast": "-",
+                  "previous": "0.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
               "id": "capital:1190836",
               "fid": "1190836",
               "interval": "next_week",
@@ -19877,7 +19935,7 @@
         },
         {
           "date": "2026-12-02",
-          "count": 34,
+          "count": 49,
           "events": [
             {
               "id": "capital:1189802",
@@ -19938,6 +19996,64 @@
               "history_checked_at": "2026-11-22 01:04:41"
             },
             {
+              "id": "capital:1195268",
+              "fid": "1195268",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "00:30",
+              "datetime": "2026-12-02 00:30:00",
+              "display_time": "12/02 00:30",
+              "country": "美國",
+              "title": "美國至12月1日6周國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "28.72 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195268",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/25",
+                  "actual": "28.72",
+                  "forecast": "-",
+                  "previous": "97.98"
+                },
+                {
+                  "date": "11/18",
+                  "actual": "97.98",
+                  "forecast": "-",
+                  "previous": "21.32"
+                },
+                {
+                  "date": "11/10",
+                  "actual": "21.32",
+                  "forecast": "-",
+                  "previous": "28.03"
+                },
+                {
+                  "date": "11/04",
+                  "actual": "28.03",
+                  "forecast": "-",
+                  "previous": "83.1"
+                },
+                {
+                  "date": "10/20",
+                  "actual": "78.53",
+                  "forecast": "-",
+                  "previous": "81.33"
+                },
+                {
+                  "date": "09/22",
+                  "actual": "83.32",
+                  "forecast": "-",
+                  "previous": "35.19"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
               "id": "capital:1189803",
               "fid": "1189803",
               "interval": "next_week",
@@ -19994,6 +20110,470 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-11-22 01:04:41"
+            },
+            {
+              "id": "capital:1195260",
+              "fid": "1195260",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "05:30",
+              "datetime": "2026-12-02 05:30:00",
+              "display_time": "12/02 05:30",
+              "country": "美國",
+              "title": "美國至11月27日當週API原油庫存(萬桶)",
+              "importance": 2,
+              "previous": "12.6",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195260",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/25",
+                  "actual": "12.6",
+                  "forecast": "90",
+                  "previous": "527.8"
+                },
+                {
+                  "date": "11/18",
+                  "actual": "527.8",
+                  "forecast": "-50",
+                  "previous": "896.8"
+                },
+                {
+                  "date": "11/11",
+                  "actual": "896.8",
+                  "forecast": "-32.7",
+                  "previous": "-526.7"
+                },
+                {
+                  "date": "11/04",
+                  "actual": "-526.7",
+                  "forecast": "198.7",
+                  "previous": "-203.1"
+                },
+                {
+                  "date": "10/28",
+                  "actual": "-203.1",
+                  "forecast": "52.2",
+                  "previous": "-493.1"
+                },
+                {
+                  "date": "10/21",
+                  "actual": "-493.1",
+                  "forecast": "-110.7",
+                  "previous": "-1112.3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
+              "id": "capital:1195265",
+              "fid": "1195265",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "05:30",
+              "datetime": "2026-12-02 05:30:00",
+              "display_time": "12/02 05:30",
+              "country": "美國",
+              "title": "美國至11月27日當週API原油進口(萬桶)",
+              "importance": 1,
+              "previous": "10.1",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195265",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/25",
+                  "actual": "10.1",
+                  "forecast": "-",
+                  "previous": "-17.8"
+                },
+                {
+                  "date": "11/18",
+                  "actual": "-17.8",
+                  "forecast": "-",
+                  "previous": "24.1"
+                },
+                {
+                  "date": "11/11",
+                  "actual": "24.1",
+                  "forecast": "-",
+                  "previous": "46.3"
+                },
+                {
+                  "date": "11/04",
+                  "actual": "46.3",
+                  "forecast": "-",
+                  "previous": "-13.7"
+                },
+                {
+                  "date": "10/28",
+                  "actual": "-13.7",
+                  "forecast": "-",
+                  "previous": "6.9"
+                },
+                {
+                  "date": "10/21",
+                  "actual": "6.9",
+                  "forecast": "-",
+                  "previous": "-109.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
+              "id": "capital:1195264",
+              "fid": "1195264",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "05:30",
+              "datetime": "2026-12-02 05:30:00",
+              "display_time": "12/02 05:30",
+              "country": "美國",
+              "title": "美國至11月27日當週API取暖油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-9",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195264",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/25",
+                  "actual": "-9",
+                  "forecast": "-",
+                  "previous": "-27.3"
+                },
+                {
+                  "date": "11/18",
+                  "actual": "-27.3",
+                  "forecast": "-",
+                  "previous": "43.3"
+                },
+                {
+                  "date": "11/11",
+                  "actual": "43.3",
+                  "forecast": "-",
+                  "previous": "-27"
+                },
+                {
+                  "date": "11/04",
+                  "actual": "-27",
+                  "forecast": "-",
+                  "previous": "38"
+                },
+                {
+                  "date": "10/28",
+                  "actual": "38",
+                  "forecast": "-",
+                  "previous": "-16.9"
+                },
+                {
+                  "date": "10/21",
+                  "actual": "-16.9",
+                  "forecast": "-",
+                  "previous": "-7"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
+              "id": "capital:1195263",
+              "fid": "1195263",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "05:30",
+              "datetime": "2026-12-02 05:30:00",
+              "display_time": "12/02 05:30",
+              "country": "美國",
+              "title": "美國至11月27日當週API庫欣原油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-66.6",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195263",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/25",
+                  "actual": "-66.6",
+                  "forecast": "-",
+                  "previous": "-169.1"
+                },
+                {
+                  "date": "11/18",
+                  "actual": "-169.1",
+                  "forecast": "-",
+                  "previous": "18.2"
+                },
+                {
+                  "date": "11/11",
+                  "actual": "18.2",
+                  "forecast": "-",
+                  "previous": "51.1"
+                },
+                {
+                  "date": "11/04",
+                  "actual": "51.1",
+                  "forecast": "-",
+                  "previous": "-45.3"
+                },
+                {
+                  "date": "10/28",
+                  "actual": "-45.3",
+                  "forecast": "-",
+                  "previous": "93.6"
+                },
+                {
+                  "date": "10/21",
+                  "actual": "93.6",
+                  "forecast": "-",
+                  "previous": "182.3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
+              "id": "capital:1195266",
+              "fid": "1195266",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "05:30",
+              "datetime": "2026-12-02 05:30:00",
+              "display_time": "12/02 05:30",
+              "country": "美國",
+              "title": "美國至11月27日當週API成品油進口(萬桶/日)",
+              "importance": 1,
+              "previous": "-5.5",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195266",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/25",
+                  "actual": "-5.5",
+                  "forecast": "-",
+                  "previous": "14.7"
+                },
+                {
+                  "date": "11/18",
+                  "actual": "14.7",
+                  "forecast": "-",
+                  "previous": "5"
+                },
+                {
+                  "date": "11/11",
+                  "actual": "5",
+                  "forecast": "-",
+                  "previous": "5.2"
+                },
+                {
+                  "date": "11/04",
+                  "actual": "5.2",
+                  "forecast": "-",
+                  "previous": "-37.9"
+                },
+                {
+                  "date": "10/28",
+                  "actual": "-37.9",
+                  "forecast": "-",
+                  "previous": "32.9"
+                },
+                {
+                  "date": "10/21",
+                  "actual": "32.9",
+                  "forecast": "-",
+                  "previous": "3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
+              "id": "capital:1195267",
+              "fid": "1195267",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "05:30",
+              "datetime": "2026-12-02 05:30:00",
+              "display_time": "12/02 05:30",
+              "country": "美國",
+              "title": "美國至11月27日當週API投產原油量(萬桶/日)",
+              "importance": 1,
+              "previous": "43.6",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195267",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/25",
+                  "actual": "43.6",
+                  "forecast": "-",
+                  "previous": "5.1"
+                },
+                {
+                  "date": "11/18",
+                  "actual": "5.1",
+                  "forecast": "-",
+                  "previous": "24.9"
+                },
+                {
+                  "date": "11/11",
+                  "actual": "24.9",
+                  "forecast": "-",
+                  "previous": "19.5"
+                },
+                {
+                  "date": "11/04",
+                  "actual": "19.5",
+                  "forecast": "-",
+                  "previous": "4.7"
+                },
+                {
+                  "date": "10/28",
+                  "actual": "4.7",
+                  "forecast": "-",
+                  "previous": "-40.8"
+                },
+                {
+                  "date": "10/21",
+                  "actual": "-40.8",
+                  "forecast": "-",
+                  "previous": "11.8"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
+              "id": "capital:1195261",
+              "fid": "1195261",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "05:30",
+              "datetime": "2026-12-02 05:30:00",
+              "display_time": "12/02 05:30",
+              "country": "美國",
+              "title": "美國至11月27日當週API汽油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-4.7",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195261",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/25",
+                  "actual": "-4.7",
+                  "forecast": "183.3",
+                  "previous": "512.2"
+                },
+                {
+                  "date": "11/18",
+                  "actual": "512.2",
+                  "forecast": "160",
+                  "previous": "0.4"
+                },
+                {
+                  "date": "11/11",
+                  "actual": "0.4",
+                  "forecast": "-14.1",
+                  "previous": "142.7"
+                },
+                {
+                  "date": "11/04",
+                  "actual": "142.7",
+                  "forecast": "4",
+                  "previous": "239"
+                },
+                {
+                  "date": "10/28",
+                  "actual": "239",
+                  "forecast": "-128.8",
+                  "previous": "-195.4"
+                },
+                {
+                  "date": "10/21",
+                  "actual": "-195.4",
+                  "forecast": "-68.7",
+                  "previous": "109.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
+              "id": "capital:1195262",
+              "fid": "1195262",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "05:30",
+              "datetime": "2026-12-02 05:30:00",
+              "display_time": "12/02 05:30",
+              "country": "美國",
+              "title": "美國至11月27日當週API精煉油庫存(萬桶)",
+              "importance": 1,
+              "previous": "164.7",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195262",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/25",
+                  "actual": "164.7",
+                  "forecast": "135.7",
+                  "previous": "35.1"
+                },
+                {
+                  "date": "11/18",
+                  "actual": "35.1",
+                  "forecast": "107",
+                  "previous": "151.5"
+                },
+                {
+                  "date": "11/11",
+                  "actual": "151.5",
+                  "forecast": "-78",
+                  "previous": "-119.2"
+                },
+                {
+                  "date": "11/04",
+                  "actual": "-119.2",
+                  "forecast": "40",
+                  "previous": "42.6"
+                },
+                {
+                  "date": "10/28",
+                  "actual": "42.6",
+                  "forecast": "-88.8",
+                  "previous": "-257.7"
+                },
+                {
+                  "date": "10/21",
+                  "actual": "-257.7",
+                  "forecast": "-157.8",
+                  "previous": "-145.8"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
             },
             {
               "id": "capital:1190710",
@@ -20112,6 +20692,122 @@
               "history_checked_at": "2026-11-22 01:04:41"
             },
             {
+              "id": "capital:1195269",
+              "fid": "1195269",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "06:00",
+              "datetime": "2026-12-02 06:00:00",
+              "display_time": "12/02 06:00",
+              "country": "澳大利亞",
+              "title": "澳大利亞11月AIG/PWC製造業表現指數",
+              "importance": 1,
+              "previous": "-20.1",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195269",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/04",
+                  "actual": "-20.1",
+                  "forecast": "-",
+                  "previous": "-16.6"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "-16.6",
+                  "forecast": "-",
+                  "previous": "-19.6"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "-19.6",
+                  "forecast": "-",
+                  "previous": "-16.8"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "-16.8",
+                  "forecast": "-",
+                  "previous": "-22.4"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-22.4",
+                  "forecast": "-",
+                  "previous": "-27.9"
+                },
+                {
+                  "date": "05/06",
+                  "actual": "-27.9",
+                  "forecast": "-",
+                  "previous": "-27.9"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
+              "id": "capital:1195270",
+              "fid": "1195270",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "06:00",
+              "datetime": "2026-12-02 06:00:00",
+              "display_time": "12/02 06:00",
+              "country": "澳大利亞",
+              "title": "澳大利亞11月AIG建築業表現指數",
+              "importance": 1,
+              "previous": "-26.9",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195270",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/04",
+                  "actual": "-26.9",
+                  "forecast": "-",
+                  "previous": "-6.9"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "-6.9",
+                  "forecast": "-",
+                  "previous": "-40.6"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "-40.6",
+                  "forecast": "-",
+                  "previous": "-38.1"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "-38.1",
+                  "forecast": "-",
+                  "previous": "-9.9"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-9.9",
+                  "forecast": "-",
+                  "previous": "-19.3"
+                },
+                {
+                  "date": "05/06",
+                  "actual": "-19.3",
+                  "forecast": "-",
+                  "previous": "-31.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
               "id": "capital:1179337",
               "fid": "1179337",
               "interval": "next_week",
@@ -20123,7 +20819,7 @@
               "title": "韓國11月CPI年率",
               "importance": 1,
               "previous": "2.8 %",
-              "forecast": "-- %",
+              "forecast": "2.85 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179337",
@@ -20181,7 +20877,7 @@
               "title": "韓國11月CPI月率",
               "importance": 1,
               "previous": "0.2 %",
-              "forecast": "-- %",
+              "forecast": "-0.15 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179336",
@@ -20864,6 +21560,238 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-11-22 01:09:52"
+            },
+            {
+              "id": "capital:1195271",
+              "fid": "1195271",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "20:00",
+              "datetime": "2026-12-02 20:00:00",
+              "display_time": "12/02 20:00",
+              "country": "美國",
+              "title": "美國至11月27日當週MBA30年期固定抵押貸款利率",
+              "importance": 1,
+              "previous": "7.38 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195271",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/25",
+                  "actual": "7.38",
+                  "forecast": "-",
+                  "previous": "7.35"
+                },
+                {
+                  "date": "11/18",
+                  "actual": "7.35",
+                  "forecast": "-",
+                  "previous": "7.21"
+                },
+                {
+                  "date": "11/11",
+                  "actual": "7.21",
+                  "forecast": "-",
+                  "previous": "7.3"
+                },
+                {
+                  "date": "11/04",
+                  "actual": "7.3",
+                  "forecast": "-",
+                  "previous": "7.37"
+                },
+                {
+                  "date": "10/28",
+                  "actual": "7.37",
+                  "forecast": "-",
+                  "previous": "7.41"
+                },
+                {
+                  "date": "10/21",
+                  "actual": "7.41",
+                  "forecast": "-",
+                  "previous": "7.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
+              "id": "capital:1195274",
+              "fid": "1195274",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "20:00",
+              "datetime": "2026-12-02 20:00:00",
+              "display_time": "12/02 20:00",
+              "country": "美國",
+              "title": "美國至11月27日當週MBA抵押貸款再融資活動指數",
+              "importance": 1,
+              "previous": "535.5",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195274",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/25",
+                  "actual": "535.5",
+                  "forecast": "-",
+                  "previous": "532.8"
+                },
+                {
+                  "date": "11/18",
+                  "actual": "532.8",
+                  "forecast": "-",
+                  "previous": "540.7"
+                },
+                {
+                  "date": "11/11",
+                  "actual": "540.7",
+                  "forecast": "-",
+                  "previous": "517.5"
+                },
+                {
+                  "date": "11/04",
+                  "actual": "517.5",
+                  "forecast": "-",
+                  "previous": "516.8"
+                },
+                {
+                  "date": "10/28",
+                  "actual": "516.8",
+                  "forecast": "-",
+                  "previous": "503.1"
+                },
+                {
+                  "date": "10/21",
+                  "actual": "503.1",
+                  "forecast": "-",
+                  "previous": "513.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
+              "id": "capital:1195272",
+              "fid": "1195272",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "20:00",
+              "datetime": "2026-12-02 20:00:00",
+              "display_time": "12/02 20:00",
+              "country": "美國",
+              "title": "美國至11月27日當週MBA抵押貸款申請活動指數",
+              "importance": 1,
+              "previous": "212",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195272",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/25",
+                  "actual": "212",
+                  "forecast": "-",
+                  "previous": "199.8"
+                },
+                {
+                  "date": "11/18",
+                  "actual": "199.8",
+                  "forecast": "-",
+                  "previous": "204.6"
+                },
+                {
+                  "date": "11/11",
+                  "actual": "204.6",
+                  "forecast": "-",
+                  "previous": "192.6"
+                },
+                {
+                  "date": "11/04",
+                  "actual": "192.6",
+                  "forecast": "-",
+                  "previous": "195"
+                },
+                {
+                  "date": "10/28",
+                  "actual": "195",
+                  "forecast": "-",
+                  "previous": "188.6"
+                },
+                {
+                  "date": "10/21",
+                  "actual": "188.6",
+                  "forecast": "-",
+                  "previous": "199.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
+              "id": "capital:1195273",
+              "fid": "1195273",
+              "interval": "next_week",
+              "date": "2026-12-02",
+              "time": "20:00",
+              "datetime": "2026-12-02 20:00:00",
+              "display_time": "12/02 20:00",
+              "country": "美國",
+              "title": "美國至11月27日當週MBA抵押貸款購買指數",
+              "importance": 1,
+              "previous": "151.6",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195273",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/25",
+                  "actual": "151.6",
+                  "forecast": "-",
+                  "previous": "137.6"
+                },
+                {
+                  "date": "11/18",
+                  "actual": "137.6",
+                  "forecast": "-",
+                  "previous": "141.2"
+                },
+                {
+                  "date": "11/11",
+                  "actual": "141.2",
+                  "forecast": "-",
+                  "previous": "131.4"
+                },
+                {
+                  "date": "11/04",
+                  "actual": "131.4",
+                  "forecast": "-",
+                  "previous": "134.1"
+                },
+                {
+                  "date": "10/28",
+                  "actual": "134.1",
+                  "forecast": "-",
+                  "previous": "129.2"
+                },
+                {
+                  "date": "10/21",
+                  "actual": "129.2",
+                  "forecast": "-",
+                  "previous": "139.3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
             },
             {
               "id": "capital:1179346",
@@ -21855,7 +22783,7 @@
         },
         {
           "date": "2026-12-03",
-          "count": 65,
+          "count": 66,
           "events": [
             {
               "id": "capital:1189806",
@@ -21914,6 +22842,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-11-22 01:09:52"
+            },
+            {
+              "id": "capital:1195275",
+              "fid": "1195275",
+              "interval": "next_week",
+              "date": "2026-12-03",
+              "time": "00:30",
+              "datetime": "2026-12-03 00:30:00",
+              "display_time": "12/03 00:30",
+              "country": "美國",
+              "title": "美國至12月2日4個月國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "34.91 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195275",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/26",
+                  "actual": "34.91",
+                  "forecast": "-",
+                  "previous": "79.83"
+                },
+                {
+                  "date": "11/19",
+                  "actual": "79.83",
+                  "forecast": "-",
+                  "previous": "53.24"
+                },
+                {
+                  "date": "11/13",
+                  "actual": "53.24",
+                  "forecast": "-",
+                  "previous": "94.88"
+                },
+                {
+                  "date": "11/05",
+                  "actual": "94.88",
+                  "forecast": "-",
+                  "previous": "35.48"
+                },
+                {
+                  "date": "10/28",
+                  "actual": "35.48",
+                  "forecast": "-",
+                  "previous": "48.24"
+                },
+                {
+                  "date": "10/21",
+                  "actual": "48.24",
+                  "forecast": "-",
+                  "previous": "83.69"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
             },
             {
               "id": "capital:1189807",
@@ -22158,7 +23144,7 @@
               "country": "日本",
               "title": "日本至11月27日當週外資買進日債(億日元)",
               "importance": 1,
-              "previous": "--",
+              "previous": "2085",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -22216,7 +23202,7 @@
               "country": "日本",
               "title": "日本至11月27日當週外資買進日股(億日元)",
               "importance": 1,
-              "previous": "--",
+              "previous": "-5716",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -22274,7 +23260,7 @@
               "country": "日本",
               "title": "日本至11月27日當週買進外國債券(億日元)",
               "importance": 1,
-              "previous": "--",
+              "previous": "4235",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -22332,7 +23318,7 @@
               "country": "日本",
               "title": "日本至11月27日當週買進外國股票(億日元)",
               "importance": 1,
-              "previous": "--",
+              "previous": "-3508",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -22623,7 +23609,7 @@
               "title": "澳大利亞10月商品及服務貿易帳(億澳元)",
               "importance": 1,
               "previous": "28.26",
-              "forecast": "--",
+              "forecast": "15.22",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179360",
@@ -23203,7 +24189,7 @@
               "title": "印度11月服務業PMI終值",
               "importance": 1,
               "previous": "55.3",
-              "forecast": "--",
+              "forecast": "55.9",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179371",
@@ -25631,7 +26617,7 @@
         },
         {
           "date": "2026-12-04",
-          "count": 44,
+          "count": 46,
           "events": [
             {
               "id": "capital:1189813",
@@ -25866,6 +26852,64 @@
               "history_checked_at": "2026-11-22 01:09:52"
             },
             {
+              "id": "capital:1195276",
+              "fid": "1195276",
+              "interval": "next_week",
+              "date": "2026-12-04",
+              "time": "00:30",
+              "datetime": "2026-12-04 00:30:00",
+              "display_time": "12/04 00:30",
+              "country": "美國",
+              "title": "美國至12月3日8周國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "6.12 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195276",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/26",
+                  "actual": "6.12",
+                  "forecast": "-",
+                  "previous": "77.14"
+                },
+                {
+                  "date": "11/20",
+                  "actual": "77.14",
+                  "forecast": "-",
+                  "previous": "6.78"
+                },
+                {
+                  "date": "11/13",
+                  "actual": "6.78",
+                  "forecast": "-",
+                  "previous": "93.38"
+                },
+                {
+                  "date": "11/06",
+                  "actual": "93.38",
+                  "forecast": "-",
+                  "previous": "66.2"
+                },
+                {
+                  "date": "10/29",
+                  "actual": "66.2",
+                  "forecast": "-",
+                  "previous": "93.95"
+                },
+                {
+                  "date": "10/22",
+                  "actual": "93.95",
+                  "forecast": "-",
+                  "previous": "50.08"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
               "id": "capital:1189815",
               "fid": "1189815",
               "interval": "next_week",
@@ -25934,7 +26978,7 @@
               "country": "美國",
               "title": "美國至11月27日當週外國央行持有美國國債(億美元)",
               "importance": 1,
-              "previous": "--",
+              "previous": "-470",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -26051,7 +27095,7 @@
               "title": "印度至12月4日央行存款準備金率",
               "importance": 1,
               "previous": "3 %",
-              "forecast": "-- %",
+              "forecast": "3 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179931",
@@ -27733,7 +28777,7 @@
               "title": "美國11月私人非農就業人數(萬人)",
               "importance": 1,
               "previous": "15.9",
-              "forecast": "9",
+              "forecast": "8.5",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179416",
@@ -27896,6 +28940,64 @@
               "history_checked_at": "2026-11-22 01:09:52"
             },
             {
+              "id": "capital:1195277",
+              "fid": "1195277",
+              "interval": "next_week",
+              "date": "2026-12-04",
+              "time": "23:00",
+              "datetime": "2026-12-04 23:00:00",
+              "display_time": "12/04 23:00",
+              "country": "美國",
+              "title": "美國11月全球供應鏈壓力指數",
+              "importance": 2,
+              "previous": "1.28",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195277",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "11/05",
+                  "actual": "1.28",
+                  "forecast": "-",
+                  "previous": "1.28"
+                },
+                {
+                  "date": "09/04",
+                  "actual": "1.06",
+                  "forecast": "-",
+                  "previous": "0.8"
+                },
+                {
+                  "date": "08/06",
+                  "actual": "0.8",
+                  "forecast": "-",
+                  "previous": "1.25"
+                },
+                {
+                  "date": "07/06",
+                  "actual": "1.25",
+                  "forecast": "-",
+                  "previous": "1.77"
+                },
+                {
+                  "date": "06/04",
+                  "actual": "1.77",
+                  "forecast": "-",
+                  "previous": "1.82"
+                },
+                {
+                  "date": "05/06",
+                  "actual": "1.82",
+                  "forecast": "-",
+                  "previous": "0.68"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-11-28 12:59:22"
+            },
+            {
               "id": "capital:1179432",
               "fid": "1179432",
               "interval": "next_week",
@@ -28023,7 +29125,7 @@
               "title": "美國12月密歇根大學消費者信心指數初值",
               "importance": 2,
               "previous": "51.5",
-              "forecast": "53",
+              "forecast": "51.8",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179429",
@@ -45630,7 +46732,7 @@
       "title": "韓國11月貿易帳初值(億美元)",
       "importance": 1,
       "previous": "425",
-      "forecast": "--",
+      "forecast": "480.3",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179304",
@@ -45688,7 +46790,7 @@
       "title": "韓國11月進口年率",
       "importance": 1,
       "previous": "36 %",
-      "forecast": "-- %",
+      "forecast": "38.9 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179303",
@@ -45920,7 +47022,7 @@
       "title": "澳大利亞10月季調營建許可月率",
       "importance": 1,
       "previous": "5.1 %",
-      "forecast": "-- %",
+      "forecast": "-5.3 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1189801",
@@ -46094,7 +47196,7 @@
       "title": "澳大利亞第三季度經常帳(億澳元)",
       "importance": 1,
       "previous": "-272",
-      "forecast": "-249000",
+      "forecast": "-262",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179310",
@@ -46326,7 +47428,7 @@
       "title": "中國11月RatingDog製造業PMI",
       "importance": 2,
       "previous": "52",
-      "forecast": "51.7",
+      "forecast": "51.5",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179311",
@@ -46384,7 +47486,7 @@
       "title": "印度11月製造業PMI終值",
       "importance": 1,
       "previous": "56",
-      "forecast": "--",
+      "forecast": "55.3",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179312",
@@ -47533,6 +48635,64 @@
       "history_checked_at": "2026-11-22 01:04:41"
     },
     {
+      "id": "capital:1195259",
+      "fid": "1195259",
+      "interval": "next_week",
+      "date": "2026-12-01",
+      "time": "20:00",
+      "datetime": "2026-12-01 20:00:00",
+      "display_time": "12/01 20:00",
+      "country": "新西蘭",
+      "title": "新西蘭至11月10日全球乳製品貿易價格指數",
+      "importance": 1,
+      "previous": "0 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195259",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/17",
+          "actual": "0",
+          "forecast": "-",
+          "previous": "3"
+        },
+        {
+          "date": "11/03",
+          "actual": "3",
+          "forecast": "-",
+          "previous": "2.5"
+        },
+        {
+          "date": "10/20",
+          "actual": "2.5",
+          "forecast": "-",
+          "previous": "1.2"
+        },
+        {
+          "date": "09/15",
+          "actual": "-1.1",
+          "forecast": "-",
+          "previous": "0.9"
+        },
+        {
+          "date": "09/01",
+          "actual": "0.9",
+          "forecast": "-",
+          "previous": "2.3"
+        },
+        {
+          "date": "08/18",
+          "actual": "2.3",
+          "forecast": "-",
+          "previous": "0.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
       "id": "capital:1190836",
       "fid": "1190836",
       "interval": "next_week",
@@ -48229,6 +49389,64 @@
       "history_checked_at": "2026-11-22 01:04:41"
     },
     {
+      "id": "capital:1195268",
+      "fid": "1195268",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "00:30",
+      "datetime": "2026-12-02 00:30:00",
+      "display_time": "12/02 00:30",
+      "country": "美國",
+      "title": "美國至12月1日6周國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "28.72 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195268",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/25",
+          "actual": "28.72",
+          "forecast": "-",
+          "previous": "97.98"
+        },
+        {
+          "date": "11/18",
+          "actual": "97.98",
+          "forecast": "-",
+          "previous": "21.32"
+        },
+        {
+          "date": "11/10",
+          "actual": "21.32",
+          "forecast": "-",
+          "previous": "28.03"
+        },
+        {
+          "date": "11/04",
+          "actual": "28.03",
+          "forecast": "-",
+          "previous": "83.1"
+        },
+        {
+          "date": "10/20",
+          "actual": "78.53",
+          "forecast": "-",
+          "previous": "81.33"
+        },
+        {
+          "date": "09/22",
+          "actual": "83.32",
+          "forecast": "-",
+          "previous": "35.19"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
       "id": "capital:1189803",
       "fid": "1189803",
       "interval": "next_week",
@@ -48285,6 +49503,470 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-11-22 01:04:41"
+    },
+    {
+      "id": "capital:1195260",
+      "fid": "1195260",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "05:30",
+      "datetime": "2026-12-02 05:30:00",
+      "display_time": "12/02 05:30",
+      "country": "美國",
+      "title": "美國至11月27日當週API原油庫存(萬桶)",
+      "importance": 2,
+      "previous": "12.6",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195260",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/25",
+          "actual": "12.6",
+          "forecast": "90",
+          "previous": "527.8"
+        },
+        {
+          "date": "11/18",
+          "actual": "527.8",
+          "forecast": "-50",
+          "previous": "896.8"
+        },
+        {
+          "date": "11/11",
+          "actual": "896.8",
+          "forecast": "-32.7",
+          "previous": "-526.7"
+        },
+        {
+          "date": "11/04",
+          "actual": "-526.7",
+          "forecast": "198.7",
+          "previous": "-203.1"
+        },
+        {
+          "date": "10/28",
+          "actual": "-203.1",
+          "forecast": "52.2",
+          "previous": "-493.1"
+        },
+        {
+          "date": "10/21",
+          "actual": "-493.1",
+          "forecast": "-110.7",
+          "previous": "-1112.3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
+      "id": "capital:1195265",
+      "fid": "1195265",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "05:30",
+      "datetime": "2026-12-02 05:30:00",
+      "display_time": "12/02 05:30",
+      "country": "美國",
+      "title": "美國至11月27日當週API原油進口(萬桶)",
+      "importance": 1,
+      "previous": "10.1",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195265",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/25",
+          "actual": "10.1",
+          "forecast": "-",
+          "previous": "-17.8"
+        },
+        {
+          "date": "11/18",
+          "actual": "-17.8",
+          "forecast": "-",
+          "previous": "24.1"
+        },
+        {
+          "date": "11/11",
+          "actual": "24.1",
+          "forecast": "-",
+          "previous": "46.3"
+        },
+        {
+          "date": "11/04",
+          "actual": "46.3",
+          "forecast": "-",
+          "previous": "-13.7"
+        },
+        {
+          "date": "10/28",
+          "actual": "-13.7",
+          "forecast": "-",
+          "previous": "6.9"
+        },
+        {
+          "date": "10/21",
+          "actual": "6.9",
+          "forecast": "-",
+          "previous": "-109.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
+      "id": "capital:1195264",
+      "fid": "1195264",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "05:30",
+      "datetime": "2026-12-02 05:30:00",
+      "display_time": "12/02 05:30",
+      "country": "美國",
+      "title": "美國至11月27日當週API取暖油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-9",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195264",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/25",
+          "actual": "-9",
+          "forecast": "-",
+          "previous": "-27.3"
+        },
+        {
+          "date": "11/18",
+          "actual": "-27.3",
+          "forecast": "-",
+          "previous": "43.3"
+        },
+        {
+          "date": "11/11",
+          "actual": "43.3",
+          "forecast": "-",
+          "previous": "-27"
+        },
+        {
+          "date": "11/04",
+          "actual": "-27",
+          "forecast": "-",
+          "previous": "38"
+        },
+        {
+          "date": "10/28",
+          "actual": "38",
+          "forecast": "-",
+          "previous": "-16.9"
+        },
+        {
+          "date": "10/21",
+          "actual": "-16.9",
+          "forecast": "-",
+          "previous": "-7"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
+      "id": "capital:1195263",
+      "fid": "1195263",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "05:30",
+      "datetime": "2026-12-02 05:30:00",
+      "display_time": "12/02 05:30",
+      "country": "美國",
+      "title": "美國至11月27日當週API庫欣原油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-66.6",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195263",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/25",
+          "actual": "-66.6",
+          "forecast": "-",
+          "previous": "-169.1"
+        },
+        {
+          "date": "11/18",
+          "actual": "-169.1",
+          "forecast": "-",
+          "previous": "18.2"
+        },
+        {
+          "date": "11/11",
+          "actual": "18.2",
+          "forecast": "-",
+          "previous": "51.1"
+        },
+        {
+          "date": "11/04",
+          "actual": "51.1",
+          "forecast": "-",
+          "previous": "-45.3"
+        },
+        {
+          "date": "10/28",
+          "actual": "-45.3",
+          "forecast": "-",
+          "previous": "93.6"
+        },
+        {
+          "date": "10/21",
+          "actual": "93.6",
+          "forecast": "-",
+          "previous": "182.3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
+      "id": "capital:1195266",
+      "fid": "1195266",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "05:30",
+      "datetime": "2026-12-02 05:30:00",
+      "display_time": "12/02 05:30",
+      "country": "美國",
+      "title": "美國至11月27日當週API成品油進口(萬桶/日)",
+      "importance": 1,
+      "previous": "-5.5",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195266",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/25",
+          "actual": "-5.5",
+          "forecast": "-",
+          "previous": "14.7"
+        },
+        {
+          "date": "11/18",
+          "actual": "14.7",
+          "forecast": "-",
+          "previous": "5"
+        },
+        {
+          "date": "11/11",
+          "actual": "5",
+          "forecast": "-",
+          "previous": "5.2"
+        },
+        {
+          "date": "11/04",
+          "actual": "5.2",
+          "forecast": "-",
+          "previous": "-37.9"
+        },
+        {
+          "date": "10/28",
+          "actual": "-37.9",
+          "forecast": "-",
+          "previous": "32.9"
+        },
+        {
+          "date": "10/21",
+          "actual": "32.9",
+          "forecast": "-",
+          "previous": "3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
+      "id": "capital:1195267",
+      "fid": "1195267",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "05:30",
+      "datetime": "2026-12-02 05:30:00",
+      "display_time": "12/02 05:30",
+      "country": "美國",
+      "title": "美國至11月27日當週API投產原油量(萬桶/日)",
+      "importance": 1,
+      "previous": "43.6",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195267",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/25",
+          "actual": "43.6",
+          "forecast": "-",
+          "previous": "5.1"
+        },
+        {
+          "date": "11/18",
+          "actual": "5.1",
+          "forecast": "-",
+          "previous": "24.9"
+        },
+        {
+          "date": "11/11",
+          "actual": "24.9",
+          "forecast": "-",
+          "previous": "19.5"
+        },
+        {
+          "date": "11/04",
+          "actual": "19.5",
+          "forecast": "-",
+          "previous": "4.7"
+        },
+        {
+          "date": "10/28",
+          "actual": "4.7",
+          "forecast": "-",
+          "previous": "-40.8"
+        },
+        {
+          "date": "10/21",
+          "actual": "-40.8",
+          "forecast": "-",
+          "previous": "11.8"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
+      "id": "capital:1195261",
+      "fid": "1195261",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "05:30",
+      "datetime": "2026-12-02 05:30:00",
+      "display_time": "12/02 05:30",
+      "country": "美國",
+      "title": "美國至11月27日當週API汽油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-4.7",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195261",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/25",
+          "actual": "-4.7",
+          "forecast": "183.3",
+          "previous": "512.2"
+        },
+        {
+          "date": "11/18",
+          "actual": "512.2",
+          "forecast": "160",
+          "previous": "0.4"
+        },
+        {
+          "date": "11/11",
+          "actual": "0.4",
+          "forecast": "-14.1",
+          "previous": "142.7"
+        },
+        {
+          "date": "11/04",
+          "actual": "142.7",
+          "forecast": "4",
+          "previous": "239"
+        },
+        {
+          "date": "10/28",
+          "actual": "239",
+          "forecast": "-128.8",
+          "previous": "-195.4"
+        },
+        {
+          "date": "10/21",
+          "actual": "-195.4",
+          "forecast": "-68.7",
+          "previous": "109.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
+      "id": "capital:1195262",
+      "fid": "1195262",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "05:30",
+      "datetime": "2026-12-02 05:30:00",
+      "display_time": "12/02 05:30",
+      "country": "美國",
+      "title": "美國至11月27日當週API精煉油庫存(萬桶)",
+      "importance": 1,
+      "previous": "164.7",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195262",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/25",
+          "actual": "164.7",
+          "forecast": "135.7",
+          "previous": "35.1"
+        },
+        {
+          "date": "11/18",
+          "actual": "35.1",
+          "forecast": "107",
+          "previous": "151.5"
+        },
+        {
+          "date": "11/11",
+          "actual": "151.5",
+          "forecast": "-78",
+          "previous": "-119.2"
+        },
+        {
+          "date": "11/04",
+          "actual": "-119.2",
+          "forecast": "40",
+          "previous": "42.6"
+        },
+        {
+          "date": "10/28",
+          "actual": "42.6",
+          "forecast": "-88.8",
+          "previous": "-257.7"
+        },
+        {
+          "date": "10/21",
+          "actual": "-257.7",
+          "forecast": "-157.8",
+          "previous": "-145.8"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
     },
     {
       "id": "capital:1190710",
@@ -48403,6 +50085,122 @@
       "history_checked_at": "2026-11-22 01:04:41"
     },
     {
+      "id": "capital:1195269",
+      "fid": "1195269",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "06:00",
+      "datetime": "2026-12-02 06:00:00",
+      "display_time": "12/02 06:00",
+      "country": "澳大利亞",
+      "title": "澳大利亞11月AIG/PWC製造業表現指數",
+      "importance": 1,
+      "previous": "-20.1",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195269",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/04",
+          "actual": "-20.1",
+          "forecast": "-",
+          "previous": "-16.6"
+        },
+        {
+          "date": "09/02",
+          "actual": "-16.6",
+          "forecast": "-",
+          "previous": "-19.6"
+        },
+        {
+          "date": "08/05",
+          "actual": "-19.6",
+          "forecast": "-",
+          "previous": "-16.8"
+        },
+        {
+          "date": "07/01",
+          "actual": "-16.8",
+          "forecast": "-",
+          "previous": "-22.4"
+        },
+        {
+          "date": "06/03",
+          "actual": "-22.4",
+          "forecast": "-",
+          "previous": "-27.9"
+        },
+        {
+          "date": "05/06",
+          "actual": "-27.9",
+          "forecast": "-",
+          "previous": "-27.9"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
+      "id": "capital:1195270",
+      "fid": "1195270",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "06:00",
+      "datetime": "2026-12-02 06:00:00",
+      "display_time": "12/02 06:00",
+      "country": "澳大利亞",
+      "title": "澳大利亞11月AIG建築業表現指數",
+      "importance": 1,
+      "previous": "-26.9",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195270",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/04",
+          "actual": "-26.9",
+          "forecast": "-",
+          "previous": "-6.9"
+        },
+        {
+          "date": "09/02",
+          "actual": "-6.9",
+          "forecast": "-",
+          "previous": "-40.6"
+        },
+        {
+          "date": "08/05",
+          "actual": "-40.6",
+          "forecast": "-",
+          "previous": "-38.1"
+        },
+        {
+          "date": "07/01",
+          "actual": "-38.1",
+          "forecast": "-",
+          "previous": "-9.9"
+        },
+        {
+          "date": "06/03",
+          "actual": "-9.9",
+          "forecast": "-",
+          "previous": "-19.3"
+        },
+        {
+          "date": "05/06",
+          "actual": "-19.3",
+          "forecast": "-",
+          "previous": "-31.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
       "id": "capital:1179337",
       "fid": "1179337",
       "interval": "next_week",
@@ -48414,7 +50212,7 @@
       "title": "韓國11月CPI年率",
       "importance": 1,
       "previous": "2.8 %",
-      "forecast": "-- %",
+      "forecast": "2.85 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179337",
@@ -48472,7 +50270,7 @@
       "title": "韓國11月CPI月率",
       "importance": 1,
       "previous": "0.2 %",
-      "forecast": "-- %",
+      "forecast": "-0.15 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179336",
@@ -49155,6 +50953,238 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-11-22 01:09:52"
+    },
+    {
+      "id": "capital:1195271",
+      "fid": "1195271",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "datetime": "2026-12-02 20:00:00",
+      "display_time": "12/02 20:00",
+      "country": "美國",
+      "title": "美國至11月27日當週MBA30年期固定抵押貸款利率",
+      "importance": 1,
+      "previous": "7.38 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195271",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/25",
+          "actual": "7.38",
+          "forecast": "-",
+          "previous": "7.35"
+        },
+        {
+          "date": "11/18",
+          "actual": "7.35",
+          "forecast": "-",
+          "previous": "7.21"
+        },
+        {
+          "date": "11/11",
+          "actual": "7.21",
+          "forecast": "-",
+          "previous": "7.3"
+        },
+        {
+          "date": "11/04",
+          "actual": "7.3",
+          "forecast": "-",
+          "previous": "7.37"
+        },
+        {
+          "date": "10/28",
+          "actual": "7.37",
+          "forecast": "-",
+          "previous": "7.41"
+        },
+        {
+          "date": "10/21",
+          "actual": "7.41",
+          "forecast": "-",
+          "previous": "7.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
+      "id": "capital:1195274",
+      "fid": "1195274",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "datetime": "2026-12-02 20:00:00",
+      "display_time": "12/02 20:00",
+      "country": "美國",
+      "title": "美國至11月27日當週MBA抵押貸款再融資活動指數",
+      "importance": 1,
+      "previous": "535.5",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195274",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/25",
+          "actual": "535.5",
+          "forecast": "-",
+          "previous": "532.8"
+        },
+        {
+          "date": "11/18",
+          "actual": "532.8",
+          "forecast": "-",
+          "previous": "540.7"
+        },
+        {
+          "date": "11/11",
+          "actual": "540.7",
+          "forecast": "-",
+          "previous": "517.5"
+        },
+        {
+          "date": "11/04",
+          "actual": "517.5",
+          "forecast": "-",
+          "previous": "516.8"
+        },
+        {
+          "date": "10/28",
+          "actual": "516.8",
+          "forecast": "-",
+          "previous": "503.1"
+        },
+        {
+          "date": "10/21",
+          "actual": "503.1",
+          "forecast": "-",
+          "previous": "513.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
+      "id": "capital:1195272",
+      "fid": "1195272",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "datetime": "2026-12-02 20:00:00",
+      "display_time": "12/02 20:00",
+      "country": "美國",
+      "title": "美國至11月27日當週MBA抵押貸款申請活動指數",
+      "importance": 1,
+      "previous": "212",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195272",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/25",
+          "actual": "212",
+          "forecast": "-",
+          "previous": "199.8"
+        },
+        {
+          "date": "11/18",
+          "actual": "199.8",
+          "forecast": "-",
+          "previous": "204.6"
+        },
+        {
+          "date": "11/11",
+          "actual": "204.6",
+          "forecast": "-",
+          "previous": "192.6"
+        },
+        {
+          "date": "11/04",
+          "actual": "192.6",
+          "forecast": "-",
+          "previous": "195"
+        },
+        {
+          "date": "10/28",
+          "actual": "195",
+          "forecast": "-",
+          "previous": "188.6"
+        },
+        {
+          "date": "10/21",
+          "actual": "188.6",
+          "forecast": "-",
+          "previous": "199.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
+      "id": "capital:1195273",
+      "fid": "1195273",
+      "interval": "next_week",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "datetime": "2026-12-02 20:00:00",
+      "display_time": "12/02 20:00",
+      "country": "美國",
+      "title": "美國至11月27日當週MBA抵押貸款購買指數",
+      "importance": 1,
+      "previous": "151.6",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195273",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/25",
+          "actual": "151.6",
+          "forecast": "-",
+          "previous": "137.6"
+        },
+        {
+          "date": "11/18",
+          "actual": "137.6",
+          "forecast": "-",
+          "previous": "141.2"
+        },
+        {
+          "date": "11/11",
+          "actual": "141.2",
+          "forecast": "-",
+          "previous": "131.4"
+        },
+        {
+          "date": "11/04",
+          "actual": "131.4",
+          "forecast": "-",
+          "previous": "134.1"
+        },
+        {
+          "date": "10/28",
+          "actual": "134.1",
+          "forecast": "-",
+          "previous": "129.2"
+        },
+        {
+          "date": "10/21",
+          "actual": "129.2",
+          "forecast": "-",
+          "previous": "139.3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
     },
     {
       "id": "capital:1179346",
@@ -50201,6 +52231,64 @@
       "history_checked_at": "2026-11-22 01:09:52"
     },
     {
+      "id": "capital:1195275",
+      "fid": "1195275",
+      "interval": "next_week",
+      "date": "2026-12-03",
+      "time": "00:30",
+      "datetime": "2026-12-03 00:30:00",
+      "display_time": "12/03 00:30",
+      "country": "美國",
+      "title": "美國至12月2日4個月國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "34.91 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195275",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/26",
+          "actual": "34.91",
+          "forecast": "-",
+          "previous": "79.83"
+        },
+        {
+          "date": "11/19",
+          "actual": "79.83",
+          "forecast": "-",
+          "previous": "53.24"
+        },
+        {
+          "date": "11/13",
+          "actual": "53.24",
+          "forecast": "-",
+          "previous": "94.88"
+        },
+        {
+          "date": "11/05",
+          "actual": "94.88",
+          "forecast": "-",
+          "previous": "35.48"
+        },
+        {
+          "date": "10/28",
+          "actual": "35.48",
+          "forecast": "-",
+          "previous": "48.24"
+        },
+        {
+          "date": "10/21",
+          "actual": "48.24",
+          "forecast": "-",
+          "previous": "83.69"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
       "id": "capital:1189807",
       "fid": "1189807",
       "interval": "next_week",
@@ -50443,7 +52531,7 @@
       "country": "日本",
       "title": "日本至11月27日當週外資買進日債(億日元)",
       "importance": 1,
-      "previous": "--",
+      "previous": "2085",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -50501,7 +52589,7 @@
       "country": "日本",
       "title": "日本至11月27日當週外資買進日股(億日元)",
       "importance": 1,
-      "previous": "--",
+      "previous": "-5716",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -50559,7 +52647,7 @@
       "country": "日本",
       "title": "日本至11月27日當週買進外國債券(億日元)",
       "importance": 1,
-      "previous": "--",
+      "previous": "4235",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -50617,7 +52705,7 @@
       "country": "日本",
       "title": "日本至11月27日當週買進外國股票(億日元)",
       "importance": 1,
-      "previous": "--",
+      "previous": "-3508",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -50908,7 +52996,7 @@
       "title": "澳大利亞10月商品及服務貿易帳(億澳元)",
       "importance": 1,
       "previous": "28.26",
-      "forecast": "--",
+      "forecast": "15.22",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179360",
@@ -51488,7 +53576,7 @@
       "title": "印度11月服務業PMI終值",
       "importance": 1,
       "previous": "55.3",
-      "forecast": "--",
+      "forecast": "55.9",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179371",
@@ -54145,6 +56233,64 @@
       "history_checked_at": "2026-11-22 01:09:52"
     },
     {
+      "id": "capital:1195276",
+      "fid": "1195276",
+      "interval": "next_week",
+      "date": "2026-12-04",
+      "time": "00:30",
+      "datetime": "2026-12-04 00:30:00",
+      "display_time": "12/04 00:30",
+      "country": "美國",
+      "title": "美國至12月3日8周國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "6.12 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195276",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/26",
+          "actual": "6.12",
+          "forecast": "-",
+          "previous": "77.14"
+        },
+        {
+          "date": "11/20",
+          "actual": "77.14",
+          "forecast": "-",
+          "previous": "6.78"
+        },
+        {
+          "date": "11/13",
+          "actual": "6.78",
+          "forecast": "-",
+          "previous": "93.38"
+        },
+        {
+          "date": "11/06",
+          "actual": "93.38",
+          "forecast": "-",
+          "previous": "66.2"
+        },
+        {
+          "date": "10/29",
+          "actual": "66.2",
+          "forecast": "-",
+          "previous": "93.95"
+        },
+        {
+          "date": "10/22",
+          "actual": "93.95",
+          "forecast": "-",
+          "previous": "50.08"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
       "id": "capital:1189815",
       "fid": "1189815",
       "interval": "next_week",
@@ -54213,7 +56359,7 @@
       "country": "美國",
       "title": "美國至11月27日當週外國央行持有美國國債(億美元)",
       "importance": 1,
-      "previous": "--",
+      "previous": "-470",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -54330,7 +56476,7 @@
       "title": "印度至12月4日央行存款準備金率",
       "importance": 1,
       "previous": "3 %",
-      "forecast": "-- %",
+      "forecast": "3 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179931",
@@ -56012,7 +58158,7 @@
       "title": "美國11月私人非農就業人數(萬人)",
       "importance": 1,
       "previous": "15.9",
-      "forecast": "9",
+      "forecast": "8.5",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179416",
@@ -56175,6 +58321,64 @@
       "history_checked_at": "2026-11-22 01:09:52"
     },
     {
+      "id": "capital:1195277",
+      "fid": "1195277",
+      "interval": "next_week",
+      "date": "2026-12-04",
+      "time": "23:00",
+      "datetime": "2026-12-04 23:00:00",
+      "display_time": "12/04 23:00",
+      "country": "美國",
+      "title": "美國11月全球供應鏈壓力指數",
+      "importance": 2,
+      "previous": "1.28",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1195277",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "11/05",
+          "actual": "1.28",
+          "forecast": "-",
+          "previous": "1.28"
+        },
+        {
+          "date": "09/04",
+          "actual": "1.06",
+          "forecast": "-",
+          "previous": "0.8"
+        },
+        {
+          "date": "08/06",
+          "actual": "0.8",
+          "forecast": "-",
+          "previous": "1.25"
+        },
+        {
+          "date": "07/06",
+          "actual": "1.25",
+          "forecast": "-",
+          "previous": "1.77"
+        },
+        {
+          "date": "06/04",
+          "actual": "1.77",
+          "forecast": "-",
+          "previous": "1.82"
+        },
+        {
+          "date": "05/06",
+          "actual": "1.82",
+          "forecast": "-",
+          "previous": "0.68"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-11-28 12:59:22"
+    },
+    {
       "id": "capital:1179432",
       "fid": "1179432",
       "interval": "next_week",
@@ -56302,7 +58506,7 @@
       "title": "美國12月密歇根大學消費者信心指數初值",
       "importance": 2,
       "previous": "51.5",
-      "forecast": "53",
+      "forecast": "51.8",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1179429",
