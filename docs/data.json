@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-28 21:56:21",
+  "updated": "2026-11-28 22:00:17",
   "count": 7276,
   "items": [
+    {
+      "id": "5245107",
+      "time": "2026-11-28 21:58:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯釋出吉贊地區潛在危險警報。"
+    },
+    {
+      "id": "5245106",
+      "time": "2026-11-28 21:55:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【南非歡迎標普上調其信用評級】南非財政部27日釋出宣告，對國際信用評級機構標準普爾上調南非信用評級表示歡迎，認為此舉反映南非財政狀況持續改善及結構性改革取得進展。標普27日將南非長期外幣主權信用評級從BB上調至BB+，長期本幣主權信用評級從BB+上調至BBB-，短期本幣評級從B上調至A-3，評級展望為穩定。標普還預計，南非2026年實際經濟增長率為1.3%，2027年升至1.4%。（新華社）"
+    },
     {
       "id": "5245105",
       "time": "2026-11-28 21:50:45",
@@ -64265,22 +64281,6 @@
         "國際"
       ],
       "text": "俄羅斯列寧格勒州州長：遭襲貨船上的情況已得到控制，目前正採取措施，力爭使其恢復航行，繼續前往加里寧格勒。"
-    },
-    {
-      "id": "mkt:01a1fe66-c2fe-7bbc-ac9f-185bfaf2ecc1",
-      "time": "2026-11-21 21:58:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Finnish Border Guard has no confirmed information on the cargo aboard the Sparta II but cannot rule out military materiel being on board."
-    },
-    {
-      "id": "mkt:01a1fe65-e9d5-7bbc-ac9f-10a76fab8c62",
-      "time": "2026-11-21 21:57:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Finnish Border Guard said the cargo ship Sparta II is known to be linked to the Russian armed forces."
     }
   ]
 }
