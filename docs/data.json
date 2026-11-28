@@ -1,7 +1,32 @@
 {
-  "updated": "2026-11-28 08:08:19",
-  "count": 7369,
+  "updated": "2026-11-28 08:12:02",
+  "count": 7368,
   "items": [
+    {
+      "id": "5243885",
+      "time": "2026-11-28 08:11:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍中央司令部聲稱，“美軍及其地區夥伴雖管控霍爾木茲海峽，但過往船隻無需繳納通行費。中央司令部的行動保障了這條國際水道的航行自由。仍有數千艘船舶、數十億桶原油在美國的護衛下安全自由地透過海峽。”"
+    },
+    {
+      "id": "5243884",
+      "time": "2026-11-28 08:10:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍中央司令部：亞伯拉罕·林肯號航母打擊群防禦完備，並未遭到伊朗打擊。事實上，該打擊群完成了在中東一次成果卓著的戰鬥部署，並已於上月安全返回美國。"
+    },
+    {
+      "id": "5243883",
+      "time": "2026-11-28 08:09:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股IPO全年募資額超4300億港元 “A+H”與科技企業成主力】資料顯示，截至11月27日，128家公司完成港股IPO登陸港交所。機構預計全年IPO數量將超過140宗，籌資額超4300億港元，宗數和籌資額同比分別增長23%和50%。預計2026年港股IPO籌資額將創近五年新高。“A+H”股成為推動籌資規模增長的重要力量，全年籌資額預計超2800億港元。"
+    },
     {
       "id": "5243882",
       "time": "2026-11-28 08:07:33",
@@ -65127,46 +65152,6 @@
         "國際"
       ],
       "text": "美國地質調查局：秘魯翁多雷斯西偏北22公里處發生6.9級地震。"
-    },
-    {
-      "id": "mkt:01a1fb71-9afa-7bbc-ac9b-6ca6534ca03a",
-      "time": "2026-11-21 08:11:28",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Trump calls China-U.S.-Russia leaders' meeting unprecedented, significant】U.S. President Donald Trump said the APEC leaders' meeting recently held in Shenzhen was a highly successful economic gathering and included the first trilateral meeting among the leaders of the United States, China and Russia. He called it one of the most significant international summits in years. Trump described the meeting between the Chinese, Russian and U.S. leaders as unprecedented and highly significant, saying the atmosphere was exceptionally warm and relations among the three leaders were very good. He called the summit's outcome an unprecedented trilateral peace declaration and said the three countries had formally agreed that nuclear conflict must never occur."
-    },
-    {
-      "id": "mkt:01a1fb71-0fca-7bbc-ac9b-6155711de631",
-      "time": "2026-11-21 08:10:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "【Trump: Iran 'does not want a deal I can accept'】U.S. President Trump said at a White House news conference on the 20th that Iran wants a deal but “does not want a deal I can accept.” He acknowledged the Iran conflict had pushed up U.S. prices, especially oil, but said oil prices had fallen sharply since early November. Axios, citing people familiar with the matter, reported that Trump envoy Witkoff and Trump’s son-in-law Jared Kushner met Qatar’s prime minister and foreign minister, Mohammed, in Berlin on the 19th to discuss Qatar’s mediation between the U.S. and Iran."
-    },
-    {
-      "id": "5229062",
-      "time": "2026-11-21 08:10:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破59000美元，日內漲0.09%。"
-    },
-    {
-      "id": "mkt:01a1fb6e-e5a9-7bbc-ac9b-5af69d444cca",
-      "time": "2026-11-21 08:08:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Saudi-led coalition said it intercepted and destroyed three ballistic missiles fired by Yemen’s Houthis toward Riyadh."
     }
   ]
 }
