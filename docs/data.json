@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-28 13:07:07",
-  "count": 7346,
+  "updated": "2026-11-28 13:10:54",
+  "count": 7347,
   "items": [
+    {
+      "id": "5244921",
+      "time": "2026-11-28 13:07:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度瓶裝水品牌Bisleri宣告稱，在監管機構發現其產品含有大腸桿菌後，該公司召回了一批產品，但該公司自己的測試發現樣本符合標準。"
+    },
+    {
+      "id": "5244920",
+      "time": "2026-11-28 13:07:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "檔案顯示，印度發現百事可樂旗下Bisleri瓶裝水樣本因含大腸菌群而不安全，這是近幾天內第二起此類發現。"
+    },
     {
       "id": "5244919",
       "time": "2026-11-28 13:06:26",
@@ -64951,14 +64968,6 @@
         "MKT News"
       ],
       "text": "Austria’s Foreign Ministry: The attacker’s identity has not yet been confirmed."
-    },
-    {
-      "id": "mkt:01a1fc83-a3fb-7bbc-ac9c-721c6d2fb95a",
-      "time": "2026-11-21 13:10:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Austria's Foreign Ministry said the incident did not affect citizens' personal data."
     }
   ]
 }
