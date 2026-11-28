@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-28 08:04:34",
-  "count": 7368,
+  "updated": "2026-11-28 08:08:19",
+  "count": 7369,
   "items": [
+    {
+      "id": "5243882",
+      "time": "2026-11-28 08:07:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寒潮推高用電需求 英國供電持續承壓】近期，寒潮持續籠罩英國，取暖需求激增令電力系統承壓。英國國家能源系統運營公司27日釋出通知，呼籲發電廠增加發電量，同時呼籲用電大戶減少消耗。這是該公司連續第四天釋出這一用電提示。（央視新聞）"
+    },
+    {
+      "id": "5243881",
+      "time": "2026-11-28 08:06:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【每人每月補助5000元 澳門居民珠海養老服務落地】11月起，澳門社會工作局面向符合資格的澳門居民開闢澳門以外養老新渠道。參與計劃的澳門居民須年滿65歲，持有有效證件，並已參加珠海醫保。符合資格的居民經澳門社工局評估透過並正式入住後，每人每月可獲澳門社工局發放的5000元人民幣院費補助，補助基本覆蓋雙人房獨立床位、膳食、健康監測、用藥管理、緊急呼援和24小時護理等配套和服務。（央視新聞）"
+    },
+    {
+      "id": "5243880",
+      "time": "2026-11-28 08:05:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本擬將五年防衛開支提升至約60萬億日元】媒體援引政府及執政黨匿名訊息人士報道，日本計劃上調2027財年起五年週期的防衛開支，規模約60萬億日元。政府原本考慮設定為56萬億日元左右，應防衛省要求上調了額度。高市早苗首相將於12月中旬指示黨內稅制政策小組擬定資金籌措方案。"
+    },
+    {
+      "id": "5243879",
+      "time": "2026-11-28 08:05:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【預期向好 價值投資老將頻出手】看好後市投資機會，多位價值投資老將在當下出手。陳光明掌舵的睿遠基金官宣億元自購，董承非、曹名長等老將積極看多。在部分業內人士看來，當前利好因素正在不斷積聚，隨著中長期資金的積極入市，疊加上市公司更加強調資本回報，後市可期。（上海證券報）"
+    },
     {
       "id": "5243878",
       "time": "2026-11-28 08:03:52",
@@ -65135,35 +65167,6 @@
         "MKT News"
       ],
       "text": "The Saudi-led coalition said it intercepted and destroyed three ballistic missiles fired by Yemen’s Houthis toward Riyadh."
-    },
-    {
-      "id": "mkt:01a1fb6e-027e-7bbc-ac9b-55ca7a99dd29",
-      "time": "2026-11-21 08:07:33",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【U.S. wants Ukraine-Russia peace deal by early January, sources say】The U.S. has told European and Ukrainian officials it wants a peace deal between Ukraine and Russia by early January, before Democrats take control of Congress, four people familiar with the matter said, according to a report from Britain on the 20th. U.S. officials have held intensive recent meetings with Russian, Ukrainian and European counterparts, stressing the urgency of a deal. A European official said Washington was pressing hard for talks, prompting concern that Ukraine could be asked to make major concessions. European countries want a ceasefire before broader discussions on European security and a formal role in negotiations; Russia has not agreed to expand the talks. U.S. officials want to address territorial disputes and European security at the same time."
-    },
-    {
-      "id": "5229061",
-      "time": "2026-11-21 08:06:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球需求火熱 AI液冷期待高質量利潤兌現】今年以來，液冷行業正由前期訂單快速擴張階段，轉向利潤兌現的檢驗期。隨著AI算力建設持續推進，行業關注點也從能不能拿到訂單，轉向訂單能否轉化為盈利。11月20日，在2026年SMM資料要素賦能算力產業發展大會上，多位與會嘉賓表示：全球AI液冷需求保持較強韌性，行業因工藝、潔淨度、安全門檻約束，較難爆發無序價格戰；從全球龍頭企業最新業績來看，產業仍處在高增長通道。當前冷板、浸沒等多條技術路線並行發展，要建立多維度框架，綜合評判液冷企業的真實競爭力。（上海證券報）"
-    },
-    {
-      "id": "5229060",
-      "time": "2026-11-21 08:05:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic公司數學家Levent Alpöge在個人網站稱，在Claude的協助下，他證明了數學界最知名難題——黎曼猜想。"
     }
   ]
 }
