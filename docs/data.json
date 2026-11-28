@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-28 22:00:17",
-  "count": 7276,
+  "updated": "2026-11-28 22:04:12",
+  "count": 7275,
   "items": [
+    {
+      "id": "5245108",
+      "time": "2026-11-28 22:01:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潮州三期工程5號機組投產】據中國大唐，11月28日，潮州發電公司三期2×1000MW擴建工程5號機組順利透過168小時滿負荷試執行，正式移交生產、投入商業運營。試執行期間，機組主輔裝置工況良好，環保指標全面優於國家超低排放標準，各項效能指標均達到設計要求。"
+    },
     {
       "id": "5245107",
       "time": "2026-11-28 21:58:58",
@@ -64265,22 +64273,6 @@
         "MKT News"
       ],
       "text": "A U.S. official told Al Arabiya English that Iranian reports of a U.S. F-16 being hit were false."
-    },
-    {
-      "id": "mkt:01a1fe6a-74d9-7bbc-ac9f-216a43d3ea60",
-      "time": "2026-11-21 22:02:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The situation aboard the cargo ship attacked in Russia’s Leningrad region is under control, the regional governor said. Efforts are underway to get it sailing again toward Kaliningrad."
-    },
-    {
-      "id": "5229921",
-      "time": "2026-11-21 22:00:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯列寧格勒州州長：遭襲貨船上的情況已得到控制，目前正採取措施，力爭使其恢復航行，繼續前往加里寧格勒。"
     }
   ]
 }
