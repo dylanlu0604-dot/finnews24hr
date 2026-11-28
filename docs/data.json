@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-28 14:04:14",
-  "count": 7333,
+  "updated": "2026-11-28 14:07:59",
+  "count": 7332,
   "items": [
+    {
+      "id": "5244933",
+      "time": "2026-11-28 14:04:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國內首次！青海發現南方猛獁象完整頭骨化石】近日，記者從青海省地質礦產勘查開發局獲悉，今年8月，青海省地質調查院古生物化石研究團隊在青海省海南藏族自治州共和縣發現一具儲存完好的南方猛獁象頭骨化石。（央視新聞）"
+    },
     {
       "id": "5244932",
       "time": "2026-11-28 13:58:58",
@@ -64821,25 +64829,6 @@
         "6976.T"
       ],
       "text": "【CSC Financial: Prepare for an MLCC supercycle and focus on investment opportunities across the supply chain】CSC Financial says MLCC demand, pricing and inventories are closely tied to semiconductor and electronics cycles. A nascent supercycle in both sectors is setting the stage for a sharp industry upswing. Autonomous driving and AI are driving higher requirements for passive components, with demand surging for high-power, high-frequency, highly reliable and miniaturized inductors, capacitors and resistors. High-end MLCC production is concentrated at Samsung Electro-Mechanics, Murata and Taiyo Yuden, while Chinese materials companies are becoming globally competitive and narrowing the gap with Japanese and South Korean peers."
-    },
-    {
-      "id": "mkt:01a1fcb6-0659-7bbc-ac9c-bf25caec9aca",
-      "time": "2026-11-21 14:05:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Australia considers updating competition law to address AI agent shopping and surveillance pricing】Australia is considering whether to update competition laws as more consumers use AI agents to shop, Assistant Minister for Productivity, Competition, Charities and Treasury Andrew Leigh said. The government is also examining personalized pricing, or “surveillance pricing,” in which prices vary based on consumers’ personal data. Leigh said it wanted to ensure Australians are not misled by AI-driven surveillance pricing and get the best deals."
-    },
-    {
-      "id": "5229745",
-      "time": "2026-11-21 14:04:25",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信建投：迎接MLCC超級週期， 重視產業鏈投資機遇】據中信建投，MLCC作為電子電路的核心被動元件，其需求、價格、庫存波動與半導體、電子行業週期深度繫結，始終圍繞“需求驅動、庫存傳導、供需放大”的邏輯展開，二者相互繫結、同步波動。伴隨電子、半導體超級週期啟動，MLCC行業迎來“爆發時刻”。自動駕駛及AI發展對被動元件數量及效能要求大幅提升，尤其是高功率、高頻率、高可靠性、小型化的電感、電容和電阻需求激增，正推動行業邁向新景氣週期。雖然高階MLCC主要集中在三星電機、村田、太陽誘電等公司，但材料決定器件效能，我國材料領域的優秀企業正具備全球競爭力，縮小與日韓企業差距。"
     }
   ]
 }
